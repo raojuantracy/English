@@ -56,3 +56,9 @@ This month, a brutal heat wave also struck Canada, which saw temperatures peak i
 In the United States, July searing heat waves灼热 have stretched from the highly populated Northeast to the desert Southwest. An exceptional stretch of heat in Dallas-Fort Worth has brought four consecutive days (4 days in a row) with record highs, hitting 108 or 109 F each day (42 to 43 C).
 
 "But today, climate change is loading the dice against[古语]事先注定某事结果，预先决定成败(或胜负) us, making certain types of extremes, such as searing heat waves灼热 and heavy rain events, much more frequent and more intense than they used to be," Hayhoe said. Well, here it is. And this is what it looks like. Although it will still get cold during the winter and there will be colder-than-normal spells from time to time, the heat will return, and summers are getting hotter.
+
+## [(从一个组里面)选出; 挑出： single out ]
+If you single someone out from a group, you choose them and give them special attention or treatment.
+
+## 〔让幼儿在其中安全玩耍的〕游戏围栏 playpen
+playpen is an enclosed area in which a very small child can play safely, that is like an open box with sides made of bars or a net
