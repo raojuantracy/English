@@ -62,3 +62,13 @@ If you single someone out from a group, you choose them and give them special at
 
 ## 〔让幼儿在其中安全玩耍的〕游戏围栏 playpen
 playpen is an enclosed area in which a very small child can play safely, that is like an open box with sides made of bars or a net
+
+## spin
+1. [ (政治) 粉饰: political spin]
+N-UNCOUNT In politics, spin is the way in which political parties try to present everything they do in a positive way to the public and the media.
+•  The public is sick of spin and tired of promises.  公众厌倦了粉饰和许诺。
+
+2. [驾车兜风:  go for a spin; take a car for a spin]
+N-SING If you go for a spin or take a car for a spin, you make a short trip in a car just to enjoy yourself. 兜风
+•  Tom Wright celebrated his 99th birthday by going for a spin in his sporty Mazda.
+ 汤姆•赖特开着他的运动型马自达车出去兜风以庆祝其99岁生日。
