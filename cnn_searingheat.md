@@ -4,34 +4,34 @@ CNN news:
 
 
 ## /ˈskɔːtʃɪŋ/ scorching weather
-ADJ Scorching or scorching hot weather or temperatures are very hot indeed. 酷热的
-[ 酷热的天气：scorching hot weather;   酷热的温度：scorching temperature]
-[sweltering temperatures=scorching temperature]
+ADJ Scorching or scorching hot weather or temperatures a (让人热的发晕的温度） r e very hot indeed. 酷热的
+**[ 酷热的天气：scorching hot weather;   酷热的温度：scorching temperature =sweltering temperatures (让人热的发晕的温度）]**
 
-e.g. That race was run in scorching weather.  那次赛跑是在酷热的天气里进行的。
-e.g. We are suffering from th scorching temperature in Xi’an, where you swelter by the waves of the searing heat 灼热.
-e.g. In Northern Africa's Sahara Desert/sə'hɑ:rə;/, certainly no stranger to sweltering/scorching temperatures, a record high was recorded July 5 in Ouargla, Algeria.
+e.g. That race was run in *scorching weather*.  那次赛跑是在酷热的天气里进行的。
+e.g. We are strongly suffering from the *scorching temperature* in Xi’an, where you're *sweltering* by the waves of *searing heat* 灼热.
+e.g. In Northern Africa's **Sahara Desert/sə'hɑ:rə;/**, certainly no strange to **sweltering/scorching temperatures**, a record high was recorded July 5 Algeria.
+//['sweltə] if you swelter,  you feel very uncomfortable even faint头晕的/dizzy because the weather is extremely hot with waves of *searing heat灼热*.  In other words, you're suffering from *scorching temperature* 酷热的温度
 
 V.S. searing heat/'sɪərɪŋ/
 
-## searing heat/'sɪərɪŋ/
-1. searing: extremely hot 炽热的，灼热的 [灼热: searing heat]
-e.g. the searing heat of the Sahara Desert /sə'hɑ:rə;/ 沙漠的灼热
+## searing/'sɪərɪŋ/
+1. **searing heat**: extremely hot 炽热的，灼热的
+e.g. You cann't bear **the searing heat of the Sahara Desert /sə'hɑ:rə;/ 撒哈拉大沙漠的灼热**
 e.g. We are suffering from scorching temperature in Xi’an, where you're sweltering热得难受/发昏; 感到酷热难当 in the waves of searing heat 灼热   
 
-2. [ 灼痛/灼热的痛: searing pain] is severe pain and feels like a burn
-e.g. He got serious sunstroke中暑 during surfing; additionally, he suffers from searing pain 灼痛 on her shoulder and pack.
+2. [ **灼痛/灼热的痛: searing pain**] is severe pain and feels like a burn
+e.g. He got serious **sunstroke中暑** during surfing; what is worse, he got sun burnt?? and suffered from **searing pain** 灼痛 on her shoulder and pack.
 
-3. [ 严厉的/苛刻的/辛辣的〔言语、态度〕searing words or attitudes = harsh words 伤人的/苛刻的/严厉的/刻薄的话 = relentless words]
-criticize very strongly, harshly, relentlessly 毫不留情的/无情地
-[ 严厉的/苛刻的/辛辣的言语searing words = harsh words = relentless words;
-  辛辣的分析:searing analysis ]
+3. **[ 严厉的/苛刻的/辛辣的〔言语、态度〕searing words or attitudes = harsh words 伤人的/苛刻的/严厉的/刻薄的话 = relentless words]**
+criticize very strongly, harshly, relentlessly(非常严厉的毫不留情的/无情地)
+**[ 严厉的/苛刻的/辛辣的言语 searing words = harsh words ==> relentless words; 苛刻的辛辣的分析:searing analysis ]**
 
-e.g. Adorno’s searing analysis of mass culture 阿多诺对大众文化的辛辣的分析
-e.g. Emily felt a searing anger against her father. 埃米莉对父亲感到一阵强烈的愤怒。
+e.g. Emily bursted into **a spate of洪水一般的** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour (婚姻中不正当/不端正的行为/出轨行为)**.
+e.g. Adorno’s *searing analysis* of mass culture 阿多诺对大众文化的 *辛辣的分析*
+
 
 ## 热得难受/发昏; 感到酷热难当  verb) ['sweltə] swelter
-if you swelter,  you feel very uncomfortable even faint 头晕的/dizzy because the weather is extremely hot with searing heat灼热.  In other words, you're suffering from scorching temperature 酷热的温度
+if you swelter,  you feel very uncomfortable even faint头晕的/dizzy because the weather is extremely hot with waves of *searing heat灼热*.  In other words, you're suffering from *scorching temperature* 酷热的温度
 
 e.g. We are suffering from scorching temperature in Xi’an, where you're sweltering 热得难受/发昏; 感到酷热难当 in the waves of searing heat 灼热  
 e.g. Crowds of shoppers sweltered in scorching temperatures rising to a hundred degrees. 感觉热得难受/酷热难当
@@ -40,24 +40,103 @@ e.g. Dozens of people have died across Japan as the country continues to swelter
 adj) sweltering: [sweltering temperatures=scorching temperature]
 e.g. In Northern Africa's Sahara Desert/sə'hɑ:rə;/, certainly no stranger to sweltering/scorching temperatures, a record high was recorded July 5 in Ouargla, Algeria.
 
+## STOP
+##  ['skɪtɪʃ]
+MEANINGS 义项
+
+1.
+an animal, especially a horse, that is skittish gets excited or frightened very easily
+〔动物，尤指马〕易激动的，易受惊的
+2.
+a person who is skittish is not very serious, and their feelings, behaviour, and opinions keep changing
+〔人〕轻浮的，轻佻的；善变的
+3.
+if people who buy share s are skittish, they are nervous and worried about them dropping in value, and might sell the shares that they own because of this
+〔购买股票者〕紧张不安的，担心股价下跌的
+SYN JITTERY
+
+•
+Some skittish Wall Street investors are staying away from the market. 一些患得患失的华尔街投资者不敢入市。
+
+## [boil the ocean]
+It's also common for graduate students and their advisors to try to boil the ocean in their thesis and dissertation proposals.
+研究生和他们的导师在其论文及论文开题报告中力求好高骛远的现象是很普遍的
+e.g. Just asking the obvious in case no one has, what if we do nothing and hope for the best? What's the worst case scenario? I don't want us to *boil the ocean*for a 4 hour gap.
+
+##  [ what if]
+e.g. Just asking the obvious in case no one has, what if we do nothing and hope for the best? What's the worst case scenario? I don't want us to boil the ocean for a 4 hour gap.
+
+##
+bootstrap /ˈbuːtˌstræp/
+1.
+N a leather or fabric loop on the back or side of a boot for pulling it on 拔靴带
+2.
+V to set up or achieve (something) using minimal resources 用最少的资源建立或获得(某物)
+.
+[bootstrap oneself]依靠自己的努力获得成功；靠自身努力摆脱某种状况：
+Jack spent years bootstrapping himself through university.
+杰克靠多年自我奋斗才念完了大学。
+2.
+【计算机】自展(程序)，引导(程序)，利用引导指令将(程序)输入计算机
+短语
+1.
+bootstrap oneself into(或out of) 靠自己努力达到(或摆脱)
+2.
+by one's (own) bootstraps [口语]全靠自己的努力，靠自身力量，自力更生地
+3.
+lift (或pull,haul,raise) oneself (up) by the(或one's own)b
 
 ## (北非的)撒哈拉大沙漠 Sahara /sə'hɑ:rə; -'heə-/
 literal meaning: (北非的)撒哈拉大沙漠
 figurative meaing: 荒原，不毛之地 [ **barren area = Sahara area**  ]
-e.g. the searing heat of the Sahara Desert  沙漠的灼热
+e.g. You cannot bear **the searing heat of the Sahara Desert /sə'hɑ:rə;/ 撒哈拉大沙漠的灼热**
+e.g. In Northern Africa's **Sahara Desert/sə'hɑ:rə;/**, certainly no strange to **sweltering/scorching temperatures**, a record high was recorded July 5 Algeria.
 
 
 ## 不端的行为；不诚实的行为；胡作非为 misconduct
 Noun) misconduct is bad, dishonest, unacceptable behaviour by someone in a position of authority or trust, especially by a professional person.
-[ **出轨的行为: sexual misconduct = extramarital behavivour;
-失职; 玩忽职守; 职业上不端的行为: professional misconduct** ]
+[ **出轨的行为: sexual misconduct = extramarital behavivour; (e.g。医生，教师，公务员)失职; 玩忽职守; 职业上不端的行为: professional misconduct** ]
 
-• A psychologist was found guilty of serious **professional misconduct** yesterday.  昨天一名心理学家被判严重的“失职/玩忽职守”  
-• The doctor who is responsible for taking care of her baby has been accused of **professional misconduct** 被指控 “失职/玩忽职守” 的医生
-• He was fired for serious *professional misconduct*. 他因严重 失职 被解雇。
+e.g. Emily bursted into **a spate of洪水一般的** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour (婚姻中不正当/不端正的行为/出轨行为)**.
+e.g. A psychologist was found guilty of serious **professional misconduct** yesterday.  昨天一名心理学家被判严重的“失职/玩忽职守”  
+e.g. The doctor who is responsible for taking care of her baby has been accused of **professional misconduct** 被指控 “失职/玩忽职守” 的医生
+e.g.He was fired for serious *professional misconduct*. 他因严重 失职 被解雇。
+
+
+## [诱发性因素: causative factors]
+['kɔːzətɪv] cause, causative: Causative factors are ones which are responsible for causing something, which are taken as sort of “contributing factors” 诱发性的; 成为原因的，起因的  **[诱发性因素: causative factors]**
+e.g.  Both nicotine and carbon monoxide inhaled with cigarette smoking have been incriminated as **causative factors**.  与香烟一起吸入的尼古丁和一氧化碳已经被指控为诱发性因素
+e.g. Smoking is a **causative factor** in several major diseases. 吸烟是若干种重大疾病的致病因素。
+
+## (尤指管理层或雇员做出的) 公司收购  [a management buyout 管理层/管理权收购]
+[ˈbaɪaʊt] buyout; verb) buy out
+A buyout is the buying of a company, especially by its managers or employees; a situation in which someone gains control of a company by buying all or most of its shares;  
+e.g. It is thought that **a management buyout** is one option.  管理权收购 被认为是一个选择
+e.g. We got the CEO to approve the buyout of SAP.
+e.g. Apparently (it’s said that) we're **buying out SAP**
 
 ## tbh: to be honest
 
+##  /əˈpærəntlɪ/ apparently  
+1.ADV You use apparently to indicate that the information you are giving is something that you have heard, but you are not certain that it is true; used to say that you have heard that something is true, although you are not completely sure about it 据说 **[ apparently = it’s said that ]**
+e.g. Apparently the company is losing a lot of money. 据说 该公司目前亏损很大。
+e.g. I wasn’t there, but apparently it went well. 我当时不在，但是 据说 事情进展顺利
+e.g. Apparently (it’s said that据说) she's moving to Germany. A director position or something like that.
+
+2.ADV 看起来貌似xxx  You use apparently to refer to something that seems to be true, although you are not sure whether it is or not.
+•  The recent deterioration has been caused by an apparently endless recession.  最近的恶化是由 貌似 没完没了的萧条造成的
+
+## downsize (the business/factory/workforce)
+〔公司、机构为缩减开支而〕裁（员），紧缩（编制） ['daʊnsaɪz]
+ [I,T] if a company or organization downsizes, it reduces the number of people it employs in order to reduce costs;  To downsize something such as a business or industry means to make it smaller. 使缩小规模
+**[ 裁员: downsized its workforce;  缩小业务（规模）downsize the business;  缩小工厂的规模: downsize the factory]**
+
+•The airline has downsized its workforce by 30%. 这家航空公司裁员30%。
+  American manufacturing organizations have been downsizing their factories.  缩小他们工厂的规模。
+•  ...today's downsized economy.  … 今天萎缩了的经济。
+
+2.N-UNCOUNT 缩小规模
+•  ...a trend toward downsizing in the personal computer market.  …个人电脑市场规模缩小的趋势。
 
 ## render
 1. 使成为；使变得；使处于〔某种状态〕be rendered <state adj>: to cause someone or something to be in a particular condition or state
@@ -102,9 +181,11 @@ e.g. "I appeal to all members of the Congress party to help maintain peace and h
 
 
 ## spell
-1. a spell is a period of a particular kind of activity, weather, illness etc, usually a short period 〔某种活动、天气、疾病等的〕一段时间〔通常时间较短〕
+V to take over from (a person) for an interval of time; relieve temporarily 在间歇期接替(某人); 暂时换岗
+1. a spell is a period of a particular kind of activity, weather, illness etc, usually a short period 〔某种活动、天气、疾病等的〕一段时间〔通常时间较短〕； A spell of a particular type of weather or a particular activity is a short period of time during which this type of weather or activity occurs. (某种天气(间晴/间阴/间下雨)或活动的) 短暂发生期  [ a spell of <weather/disease/activity ]
 • a day of **sunny spells** and scattered showers 间晴 且有 零星阵雨 的一天
 • He began to suffer from **dizzy spells** 一阵阵头晕。
+• There has been **a long spell of dry weather**.  干旱天气已持续很长一段时间了。
 
 2. [ **(给sb)招致/带来麻烦/灾难/危险等：spell trouble/disaster/danger for sb**]
 if a situation or action spells trouble etc, it makes you expect trouble etc
