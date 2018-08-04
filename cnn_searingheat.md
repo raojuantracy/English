@@ -104,39 +104,66 @@ e.g.He was fired for serious *professional misconduct*. 他因严重 失职 被�
 
 
 ## [诱发性因素: causative factors]
-['kɔːzətɪv] cause, causative: Causative factors are ones which are responsible for causing something, which are taken as sort of “contributing factors” 诱发性的; 成为原因的，起因的  **[诱发性因素: causative factors]**
-e.g.  Both nicotine and carbon monoxide inhaled with cigarette smoking have been incriminated as **causative factors**.  与香烟一起吸入的尼古丁和一氧化碳已经被指控为诱发性因素
-e.g. Smoking is a **causative factor** in several major diseases. 吸烟是若干种重大疾病的致病因素。
+诱发性的(成为原因的，起因的) ['kɔzətɪv]  Causative factors are ones which are responsible for causing something, esp like disease. **[诱发性因素: causative factors  V.S. contributing factors]**
+
+e.g.  Both nicotine and carbon monoxide [mə'nɒksaɪd] inhaled with cigarette smoking have **been incriminated
+显示…有罪 as** *causative factors*.  与香烟一起吸入的尼古丁和一氧化碳已经被指控为诱发性因素
+e.g. Smoking is a causative factor in several major diseases. 吸烟是若干种重大疾病的致病因素。
+
 
 ## (尤指管理层或雇员做出的) 公司收购  [a management buyout 管理层/管理权收购]
-[ˈbaɪaʊt] buyout; verb) buy out
-A buyout is the buying of a company, especially by its managers or employees; a situation in which someone gains control of a company by buying all or most of its shares;  
-e.g. It is thought that **a management buyout** is one option.  管理权收购 被认为是一个选择
+[ˈbaɪaʊt] buyout;    verb) buy out <company>
+A buyout is the buying of a company, especially by its managers or employees; buyout is a situation in which someone gains/grab control of a company by buying all or most of its shares.  (尤指管理层或雇员做出的) 公司收购  [a management buyout 管理层收购]
+e.g. It is thought that a management buyout is one option.  管理权收购被认为是一个选择
 e.g. We got the CEO to approve the buyout of SAP.
-e.g. Apparently (it’s said that) we're **buying out SAP**
+e.g. **Apparently (it’s said that)** we're **buying out** SAP.
+
 
 ## tbh: to be honest
 
+## I'd like to ask you about something. = Can I ask you a question?
+
 ##  /əˈpærəntlɪ/ apparently  
 1.ADV You use apparently to indicate that the information you are giving is something that you have heard, but you are not certain that it is true; used to say that you have heard that something is true, although you are not completely sure about it 据说 **[ apparently = it’s said that ]**
-e.g. Apparently the company is losing a lot of money. 据说 该公司目前亏损很大。
-e.g. I wasn’t there, but apparently it went well. 我当时不在，但是 据说 事情进展顺利
-e.g. Apparently (it’s said that据说) she's moving to Germany. A director position or something like that.
+e.g. **Apparently** the company is losing a lot of money. 据说 该公司目前亏损很大。
+e.g. **There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest layoffs ever in IBM.
+e.g. **Apparently (it’s said that据说)** she's moving to Germany. A director position or something like that.
 
-2.ADV 看起来貌似xxx  You use apparently to refer to something that seems to be true, although you are not sure whether it is or not.
-•  The recent deterioration has been caused by an apparently endless recession.  最近的恶化是由 貌似 没完没了的萧条造成的
+2.ADV 看起来貌似是真的(但是不能确定) = apparently
+ You use apparently to refer to something that seems to be true, although you are not sure whether it is or not.
+e.g.  The recent deterioration has been caused by an endless recession apparently.  最近的恶化是由 貌似 没完没了的萧条造成的
+
+
+## talk about rumors
+**Is it true that** she's getting married with a U.S. guy?
+**There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest layoffs ever in IBM.
+
 
 ## downsize (the business/factory/workforce)
 〔公司、机构为缩减开支而〕裁（员），紧缩（编制） ['daʊnsaɪz]
  [I,T] if a company or organization downsizes, it reduces the number of people it employs in order to reduce costs;  To downsize something such as a business or industry means to make it smaller. 使缩小规模
 **[ 裁员: downsized its workforce;  缩小业务（规模）downsize the business;  缩小工厂的规模: downsize the factory]**
 
-•The airline has downsized its workforce by 30%. 这家航空公司裁员30%。
-  American manufacturing organizations have been downsizing their factories.  缩小他们工厂的规模。
-•  ...today's downsized economy.  … 今天萎缩了的经济。
+e.g. **There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest layoffs ever in IBM.
+e.g. The airline has downsized its workforce by 30%. 这家航空公司裁员30%。
+e.g. American manufacturing organizations have been downsizing their factories.  缩小他们工厂的规模。
+e.g. ...today's downsized economy.  … 今天萎缩了的经济。
 
 2.N-UNCOUNT 缩小规模
 •  ...a trend toward downsizing in the personal computer market.  …个人电脑市场规模缩小的趋势。
+
+
+##(业务/组织/部门的）剥离/出售（给其他公司）;  公司部门或子公司的出售、清算或资产出售
+divest, divesture, divestiture [dai'vestitʃə]: The sale, liquidation, or spinoff附带的利益/附带的产品of a corporate division or subsidiary. if a company divests, it sells some of its assets, investments etc. normally to another company.
+
+eg IBM has finished its first phase of enterprise transformation转型, such as carrying out/implementing the divesture of X86server to Lenovo and achieving the acquisition of Softlayer.  
+
+eg As you also know, a core element of IBM strategic imperatives战略规则 is our commitment to climb to higher value. We have announced the divesture业务的出售 of our semiconductor business to the company GlobalFoundries and the divesture of x86 servers to ThinkPad.  
+
+eg Our strategic imperatives战略规则 delivered growth of more than 30 percent for the second quarter and the first half of the year, excluding the impact of currency and divested business 剥离/出售的业务, eg the divesture of X86 server to Lenovo.  Our cloud business grew more than 70 percent in the quarter, and we have delivered $8.7 billion in cloud revenue over the last 12 months. Our mobile business quadrupled, and our security business returned to double-digit growth. Taken together, the strategic imperatives战略规则 are becoming a substantial part of our total business, and their continued rapid growth gives us confidence in our strategic path forward.  
+
+## STOP 
+
 
 ## render
 1. 使成为；使变得；使处于〔某种状态〕be rendered <state adj>: to cause someone or something to be in a particular condition or state
@@ -246,6 +273,27 @@ N-UNCOUNT In politics, spin is the way in which political parties try to present
 2. **[驾车兜风:  go for a spin; take a car for a spin]**
 N-SING If you go for a spin or take a car for a spin, you make a short trip in a car just to enjoy yourself. 兜风
 •  Tom Wright celebrated his 99th birthday by **going for a spin**  in his sporty Mazda. 开着他的运动型马自达车出去兜风以庆祝其99岁生日。
+
+
+##Verb)  ['riːfleks]  reflex
+
+1. N-PLURAL Your reflexes (plural form) are your ability to react quickly with your body when something unexpected happens, for example when you are involved in sports or when you are driving a car；the natural ability to react quickly and well to sudden situations (自然的)反应能力; 迅速反应能力  [have good/quick/slow reflexes ]
+•  It takes great skill, cool nerves, and the reflexes of an athlete.  这需要运动员娴熟的技巧、冷静的头脑以及迅速反应的能力
+•A tennis player needs to have very quick reflexes. 网球运动员需要反应迅速。
+
+2. N-COUNT reflex: A reflex or a reflex action is a normal, uncontrollable reaction of your body to something that you feel, see, or experience; is a sudden uncontrolled movement that your muscles make as a natural reaction to a physical effect  〔生理上的〕反射动作，反射作用
+•  ...tests for reflexes, like tapping the knee or the heel with a rubber hammer.  …反射动作的测试，比如用橡胶锤敲击膝盖或脚踵。
+•Doctor Mulholland tested Jennifer’s reflexes (= especially by hitting her knee with a special rubber hammer ) . 马尔霍兰医生检查了珍妮弗的反射反应。
+
+2.[reflex action] something that you do without thinking, as a natural, quick reaction to a situation
+N-COUNT A reflex or a reflex action is something that you do automatically and without thinking, as a habit or as a reaction to something. 下意识的反应/本能反应; 下意识的习惯性动作
+•  Walt fumbled in his pocket, a reflex from his smoking days.   沃尔特在口袋里摸索，一个他以前抽烟时形成的习惯性动作
+
+##[rɪ'fleksɪv] reflexive /rɪˈflɛksɪv/
+1.ADJ A reflexive reaction or movement occurs immediately in response to something that happens. 反射性的
+•  The programme tries to make children more rational, less reflexive consumers. 更有理智的、反射性反应略少的消费者
+2.ADV•  He felt his head jerk reflexively.  他感到自己的头部突然反射性的抽动。
+3. 反身代词 [ reflexive pronouns] a reflexive verb or pronoun shows that the action in a sentence affects the person or thing that does the action. In the sentence ‘I enjoyed myself’, ‘myself’ is reflexive.〔动词或代词〕反身的〔句子I enjoyed myself中，myself是反身代词〕
 
 
  # CNN excerpt
