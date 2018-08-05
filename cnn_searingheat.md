@@ -41,6 +41,14 @@ adj) sweltering: [sweltering temperatures=scorching temperature]
 e.g. In Northern Africa's Sahara Desert/sə'hɑ:rə;/, certainly no stranger to sweltering/scorching temperatures, a record high was recorded July 5 in Ouargla, Algeria.
 
 ## STOP
+
+##唷; 书面语中用来表示吃惊、松口气或酷热难耐等
+phew /fjuː/ 唷; 诶油为
+
+INTERJ Phew is used in writing to represent the soft whistling sound that you make when you breathe out quickly, for example, when you are relieved or shocked about something or when you are very hot.
+e.g.  Phew, what a relief! 唷，真是大松一口气！
+
+
 ##  ['skɪtɪʃ]
 MEANINGS 义项
 
@@ -105,10 +113,12 @@ e.g.He was fired for serious *professional misconduct*. 他因严重 失职 被�
 
 ## [诱发性因素: causative factors]
 诱发性的(成为原因的，起因的) ['kɔzətɪv]  Causative factors are ones which are responsible for causing something, esp like disease. **[诱发性因素: causative factors  V.S. contributing factors]**
-
 e.g.  Both nicotine and carbon monoxide [mə'nɒksaɪd] inhaled with cigarette smoking have **been incriminated
 显示…有罪 as** *causative factors*.  与香烟一起吸入的尼古丁和一氧化碳已经被指控为诱发性因素
 e.g. Smoking is a causative factor in several major diseases. 吸烟是若干种重大疾病的致病因素。
+==》 [ **causative verb使动词**]
+Use the causative verbs使役动词 使动词 let, make, have and get to show that a person or thing helps to make something happen
+
 
 
 ## (尤指管理层或雇员做出的) 公司收购  [a management buyout 管理层/管理权收购]
@@ -162,7 +172,7 @@ eg As you also know, a core element of IBM strategic imperatives战略规则 is 
 
 eg Our strategic imperatives战略规则 delivered growth of more than 30 percent for the second quarter and the first half of the year, excluding the impact of currency and divested business 剥离/出售的业务, eg the divesture of X86 server to Lenovo.  Our cloud business grew more than 70 percent in the quarter, and we have delivered $8.7 billion in cloud revenue over the last 12 months. Our mobile business quadrupled, and our security business returned to double-digit growth. Taken together, the strategic imperatives战略规则 are becoming a substantial part of our total business, and their continued rapid growth gives us confidence in our strategic path forward.  
 
-## STOP 
+## STOP
 
 
 ## render
