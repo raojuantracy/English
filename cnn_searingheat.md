@@ -1,135 +1,176 @@
 CNN news:
 * 灼热 Searing heat in Japan/Xi’an: https://edition.cnn.com/2018/07/23/world/global-heatwaves-climate-change-wxc/index.html
+https://edition.cnn.com/2018/08/04/world/climate-change-deadly-summer-wxc-intl/index.html
 * Indian renders tons of citizen illegal/stateless (without Hukou): https://edition.cnn.com/2018/07/31/asia/assam-india-citizenship-debate-intl/index.html
 
 
 ## /ˈskɔːtʃɪŋ/ scorching weather
 ADJ Scorching or scorching hot weather or temperatures a (让人热的发晕的温度） r e very hot indeed. 酷热的
-**[ 酷热的天气：scorching hot weather;   酷热的温度：scorching temperature =sweltering temperatures (让人热的发晕的温度）]**
+**[ 酷热的天气：scorching hot weather;   酷热的温度：scorching temperature = sweltering temperatures (让人热的发晕的温度）]**
 
 e.g. That race was run in *scorching weather*.  那次赛跑是在酷热的天气里进行的。
 e.g. We are strongly suffering from the *scorching temperature* in Xi’an, where you're *sweltering* by the waves of *searing heat* 灼热.
 e.g. In Northern Africa's **Sahara Desert/sə'hɑ:rə;/**, certainly no strange to **sweltering/scorching temperatures**, a record high was recorded July 5 Algeria.
-//['sweltə] if you swelter,  you feel very uncomfortable even faint头晕的/dizzy because the weather is extremely hot with waves of *searing heat灼热*.  In other words, you're suffering from *scorching temperature* 酷热的温度
+//['sweltə] if you *swelter*,  you feel very uncomfortable even faint头晕的/dizzy because the weather is extremely hot with waves of *searing heat灼热*.  In other words, you're suffering from *scorching/sweltering temperature* 酷热的温度
 
-V.S. searing heat/'sɪərɪŋ/
+Verb) scorch
+e.g.Deadly fires have **scorched** swaths of the Northern Hemisphere this summer, from California to Arctic Sweden and down to Greece on the sunny Mediterranean. Drought in Europe has turned verdant land barren, while people in Japan and Korea are dying from record-breaking heat.
+
+
 
 ## searing/'sɪərɪŋ/
 1. **searing heat**: extremely hot 炽热的，灼热的
 e.g. You cann't bear **the searing heat of the Sahara Desert /sə'hɑ:rə;/ 撒哈拉大沙漠的灼热**
-e.g. We are suffering from scorching temperature in Xi’an, where you're sweltering热得难受/发昏; 感到酷热难当 in the waves of searing heat 灼热   
+e.g. We are suffering from **scorching/sweltering temperature** in Xi’an, where you're **sweltering热得难受/发昏; 感到酷热难当** by the waves of **searing heat** 灼热   
+e.g Spain and Portugal **sweltered** through an exceptionally hot weekend with a **searing heat** wave that has killed three people in Spain and pushed temperatures toward record levels..
+
 
 2. [ **灼痛/灼热的痛: searing pain**] is severe pain and feels like a burn
-e.g. He got serious **sunstroke中暑** during surfing; what is worse, he got sun burnt?? and suffered from **searing pain** 灼痛 on her shoulder and pack.
+e.g. He got serious **sunstroke中暑** during surfing; what is worse, he got sun burnt?? and suffered from **searing pain** 灼痛 on his shoulder and back.
 
 3. **[ 严厉的/苛刻的/辛辣的〔言语、态度〕searing words or attitudes = harsh words 伤人的/苛刻的/严厉的/刻薄的话 = relentless words]**
 criticize very strongly, harshly, relentlessly(非常严厉的毫不留情的/无情地)
-**[ 严厉的/苛刻的/辛辣的言语 searing words = harsh words ==> relentless words; 苛刻的辛辣的分析:searing analysis ]**
+**[ 严厉的/苛刻的/辛辣的言语 searing words = harsh words ==> relentless words; 苛刻的辛辣的分析:searing analysis]**
 
-e.g. Emily bursted into **a spate of洪水一般的** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour (婚姻中不正当/不端正的行为/出轨行为)**.
-e.g. Adorno’s *searing analysis* of mass culture 阿多诺对大众文化的 *辛辣的分析*
+e.g. Emily burst into **a spate of洪水一般的** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour (婚姻中不正当/不端正的行为/出轨行为)**.
+e.g. Adorno’s *searing analysis* of **mass culture** 阿多诺对 **大众文化** 的 *辛辣的分析*
+
+
+## 大众文化: mass culture; V.S. 大众媒体：mass media
 
 
 ## 热得难受/发昏; 感到酷热难当  verb) ['sweltə] swelter
 if you swelter,  you feel very uncomfortable even faint头晕的/dizzy because the weather is extremely hot with waves of *searing heat灼热*.  In other words, you're suffering from *scorching temperature* 酷热的温度
 
-e.g. We are suffering from scorching temperature in Xi’an, where you're sweltering 热得难受/发昏; 感到酷热难当 in the waves of searing heat 灼热  
-e.g. Crowds of shoppers sweltered in scorching temperatures rising to a hundred degrees. 感觉热得难受/酷热难当
-e.g. Dozens of people have died across Japan as the country continues to swelter酷热难当 under scorching summer temperatures 酷热的温度.
+e.g Spain and Portugal **sweltered** through an exceptionally hot weekend with a **searing heat** wave that has killed three people in Spain and pushed temperatures toward record levels..
+e.g. We are suffering from *scorching temperature* in Xi’an, where you *swelter 热得难受/发昏; 感到酷热难当* in the waves of *searing heat* 灼热  
+e.g. Dozens of people have died across Japan as the country continues to *swelter* 酷热难当 under *scorching summer temperatures* 酷热的温度.
 
-adj) sweltering: [sweltering temperatures=scorching temperature]
-e.g. In Northern Africa's Sahara Desert/sə'hɑ:rə;/, certainly no stranger to sweltering/scorching temperatures, a record high was recorded July 5 in Ouargla, Algeria.
+adj) sweltering: [**sweltering temperatures = scorching temperature**]
+e.g. In Northern Africa's **Sahara Desert/sə'hɑ:rə;/**, certainly no stranger to **sweltering/scorching temperatures**, a record high was recorded July 5 in Ouargla, Algeria.
 
-## STOP
 
-##唷; 书面语中用来表示吃惊、松口气或酷热难耐等
-phew /fjuː/ 唷; 诶油为
-
+## 书面语中用来表示 唷; 诶油喂(松一口气)
+phew /fjuː/ 唷; 诶油喂(松一口气)
 INTERJ Phew is used in writing to represent the soft whistling sound that you make when you breathe out quickly, for example, when you are relieved or shocked about something or when you are very hot.
-e.g.  Phew, what a relief! 唷，真是大松一口气！
+e.g.  **Phew, what a relief! 唷，真是大松一口气！**
 
+##  [ what if = what would you do if xxx]
+e.g. Just asking the obvious in case no one has, **what if** we do nothing and hope for the best? What's the worst case scenario? I don't want us to **boil the ocean**好高骛远 for a 4 hour gap.
 
-##  ['skɪtɪʃ]
-MEANINGS 义项
+##  Sahara /sə'hɑ:rə/ (北非的)撒哈拉大沙漠
+1. literal meaning: (北非的)撒哈拉大沙漠 Sahara Desert
+2. figurative meaning: 荒原，不毛之地 **barren area = Sahara area**
 
-1.
-an animal, especially a horse, that is skittish gets excited or frightened very easily
-〔动物，尤指马〕易激动的，易受惊的
-2.
-a person who is skittish is not very serious, and their feelings, behaviour, and opinions keep changing
-〔人〕轻浮的，轻佻的；善变的
-3.
-if people who buy share s are skittish, they are nervous and worried about them dropping in value, and might sell the shares that they own because of this
-〔购买股票者〕紧张不安的，担心股价下跌的
-SYN JITTERY
-
-•
-Some skittish Wall Street investors are staying away from the market. 一些患得患失的华尔街投资者不敢入市。
-
-## [boil the ocean]
-It's also common for graduate students and their advisors to try to boil the ocean in their thesis and dissertation proposals.
-研究生和他们的导师在其论文及论文开题报告中力求好高骛远的现象是很普遍的
-e.g. Just asking the obvious in case no one has, what if we do nothing and hope for the best? What's the worst case scenario? I don't want us to *boil the ocean*for a 4 hour gap.
-
-##  [ what if]
-e.g. Just asking the obvious in case no one has, what if we do nothing and hope for the best? What's the worst case scenario? I don't want us to boil the ocean for a 4 hour gap.
-
-##
-bootstrap /ˈbuːtˌstræp/
-1.
-N a leather or fabric loop on the back or side of a boot for pulling it on 拔靴带
-2.
-V to set up or achieve (something) using minimal resources 用最少的资源建立或获得(某物)
-.
-[bootstrap oneself]依靠自己的努力获得成功；靠自身努力摆脱某种状况：
-Jack spent years bootstrapping himself through university.
-杰克靠多年自我奋斗才念完了大学。
-2.
-【计算机】自展(程序)，引导(程序)，利用引导指令将(程序)输入计算机
-短语
-1.
-bootstrap oneself into(或out of) 靠自己努力达到(或摆脱)
-2.
-by one's (own) bootstraps [口语]全靠自己的努力，靠自身力量，自力更生地
-3.
-lift (或pull,haul,raise) oneself (up) by the(或one's own)b
-
-## (北非的)撒哈拉大沙漠 Sahara /sə'hɑ:rə; -'heə-/
-literal meaning: (北非的)撒哈拉大沙漠
-figurative meaing: 荒原，不毛之地 [ **barren area = Sahara area**  ]
 e.g. You cannot bear **the searing heat of the Sahara Desert /sə'hɑ:rə;/ 撒哈拉大沙漠的灼热**
 e.g. In Northern Africa's **Sahara Desert/sə'hɑ:rə;/**, certainly no strange to **sweltering/scorching temperatures**, a record high was recorded July 5 Algeria.
 
-
 ## 不端的行为；不诚实的行为；胡作非为 misconduct
 Noun) misconduct is bad, dishonest, unacceptable behaviour by someone in a position of authority or trust, especially by a professional person.
-[ **出轨的行为: sexual misconduct = extramarital behavivour; (e.g。医生，教师，公务员)失职; 玩忽职守; 职业上不端的行为: professional misconduct** ]
+[ **出轨的行为: sexual misconduct = extramarital behavivour;
+(医生，教师，公务员)失职; 玩忽职守; 职业上不端的行为: professional misconduct** ]
 
-e.g. Emily bursted into **a spate of洪水一般的** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour (婚姻中不正当/不端正的行为/出轨行为)**.
-e.g. A psychologist was found guilty of serious **professional misconduct** yesterday.  昨天一名心理学家被判严重的“失职/玩忽职守”  
+e.g. Emily burst into **a spate of洪水一般的** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour(婚姻中不正当/不端正的行为/出轨行为)**.
+e.g. A psychologist was found guilty of serious **professional misconduct** yesterday.  一名心理学家被判严重的“失职/玩忽职守”  
 e.g. The doctor who is responsible for taking care of her baby has been accused of **professional misconduct** 被指控 “失职/玩忽职守” 的医生
-e.g.He was fired for serious *professional misconduct*. 他因严重 失职 被解雇。
+e.g. He was fired for serious *professional misconduct*. 他因严重 失职/玩忽职守 被解雇。
 
 
-## [诱发性因素: causative factors]
+## [(病的)诱发性因素: causative factors]
 诱发性的(成为原因的，起因的) ['kɔzətɪv]  Causative factors are ones which are responsible for causing something, esp like disease. **[诱发性因素: causative factors  V.S. contributing factors]**
 e.g.  Both nicotine and carbon monoxide [mə'nɒksaɪd] inhaled with cigarette smoking have **been incriminated
-显示…有罪 as** *causative factors*.  与香烟一起吸入的尼古丁和一氧化碳已经被指控为诱发性因素
-e.g. Smoking is a causative factor in several major diseases. 吸烟是若干种重大疾病的致病因素。
+显示…有罪 as** *causative factors*.  与香烟一起吸入的尼古丁和一氧化碳已经被指控为 诱发性因素
+e.g. Smoking is *a causative factor* in several major diseases. 吸烟是若干种重大疾病的致病因素。
+
 ==》 [ **causative verb使动词**]
 Use the causative verbs使役动词 使动词 let, make, have and get to show that a person or thing helps to make something happen
 
 
-
 ## (尤指管理层或雇员做出的) 公司收购  [a management buyout 管理层/管理权收购]
-[ˈbaɪaʊt] buyout;    verb) buy out <company>
+[ˈbaɪaʊt] buyout;    verb) **buy out <company>**
 A buyout is the buying of a company, especially by its managers or employees; buyout is a situation in which someone gains/grab control of a company by buying all or most of its shares.  (尤指管理层或雇员做出的) 公司收购  [a management buyout 管理层收购]
-e.g. It is thought that a management buyout is one option.  管理权收购被认为是一个选择
-e.g. We got the CEO to approve the buyout of SAP.
-e.g. **Apparently (it’s said that)** we're **buying out** SAP.
+e.g. It is thought that **a management buyout** is one option.  管理权收购被认为是一个选择
+e.g. We got the CEO to approve **the buyout of SAP**.
+e.g. **Apparently (it’s said that)**, IBM is going to **buy out** SAP.
 
 
 ## tbh: to be honest
+
+## downsize (the business/factory/workforce)〔公司、机构为缩减开支而〕裁（员），紧缩（编制） ['daʊnsaɪz]
+ [I,T] if a company or organization downsizes, it reduces the number of people it employs in order to reduce costs;  To downsize something such as a business or industry means to make it smaller. 使缩小规模
+**[ 裁员: downsized the workforce (noun: layoffs);  缩小业务（规模）downsize the business;  缩小工厂的规模: downsize the factory]**
+
+e.g. **There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest *layoffs* ever in IBM.
+e.g. This  **budget airline** has *downsized its workforce* by 30%. 这家航空公司裁员30%。
+e.g. American manufacturing organizations have been downsizing their factories.  缩小他们工厂的规模。
+e.g. ...today's downsized economy.  … 今天萎缩了的经济。
+
+2.N-UNCOUNT 缩小规模
+•  ...a trend toward downsizing in the personal computer market.  …个人电脑市场规模缩小的趋势。
+
+
+##(业务/组织/部门的）剥离/出售（给其他公司）;  公司部门或子公司的出售、清算或资产出售
+divest, divesture, divestiture [dai'vestitʃə]: The sale, liquidation, or spinoff附带的利益/附带的产品of a corporate division or subsidiary. if a company divests, it sells some of its assets, investments etc. normally to another company.
+
+eg IBM has finished its first phase of enterprise transformation转型, such as carrying out/implementing the **divesture of X86server** to Lenovo and achieving the acquisition of Softlayer.  As you also know, a core element of IBM **strategic imperatives战略规则** is our commitment to climb to higher value. We have announced the **divesture业务的出售 of our semiconductor business** to the company GlobalFoundries and the divesture of x86 servers to Lenovo.  
+
+eg Our *strategic imperatives战略规则* delivered growth of more than 30 percent for the second quarter and the first half of the year, excluding the impact of currency and *divested business 剥离/出售的业务*, eg *the divesture of X86 server to Lenovo*. Our cloud business grew more than 70 percent in the quarter, and we have delivered $8.7 billion in cloud revenue over the last 12 months. Our mobile business quadrupled, and our security business returned to double-digit growth. Taken together, the *strategic imperatives战略规则* are becoming a substantial part of our total business, and their continued rapid growth gives us confidence in our strategic path forward.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STOP
+## [‚dɪsə'reɪ] disarray
+1.N-UNCOUNT 不可数名词 If people or things are in disarray, they are disorganized and confused; the state of being untidy or not organized 混乱
+•  The nation is in disarray following rioting led by the military.  该国发生由军队发动的暴乱后，陷入一片混乱。
+2.N-UNCOUNT If things or places are in disarray, they are in a very disorganized state. 凌乱
+**[in disarray] [throw sth into disarray/fall into disarray]**
+•  She was left lying on her side and her clothes were in disarray.  她被扔在那儿侧躺着，衣衫不整。
+e.g. The military coup left the Liberal Party in total disarray . 这让自由党陷入一片混乱。
+e.g. The delay threw the entire timetable into disarray. 这一延误打乱了整个时间安排
+e.g. Despite the deadly summer, overwhelming evidence that humans are altering the planet, and ever-improving science that links specific weather events to global warming, the international politics around the issue of climate change are **in disarray**. And there are alarming signs that the planet may be in worse shape than ever before.
+
+## wish "subjunctive mood"
+e.g. Sally *wishes* that she *studied* something different in college.
+e.g. I *wished* that I *had gained* the MSC 10 years ago.
+
+## rewarding job/work
+e.g. I love my job. It's very rewarding. Every day I help people.
+
+
+## plan on (planningplannedplans)
+PHRASAL VERB If you plan on doing something, you intend to do it. 打算
+•  They were **planning on** getting married.  他们正打算结婚。
+e.g. I'm **planning on** getting an MBA in the future.
+
+##  ['skɪtɪʃ] skittish
+1. an animal, especially a horse, that is skittish gets excited or frightened very easily; If you describe a person or animal as skittish, you mean they are easily made frightened or excited. 易受惊的; 易激动的(人； 〔动物，尤指马〕) [**skittish horses:受惊的马匹**]
+
+2. a person who is skittish is not very serious, and their feelings, behaviour, and opinions keep changing
+〔人〕善变的; 轻浮的轻佻的
+
+3. 〔购买股票者〕紧张不安的/患得患失的/忧心忡忡/担心股价下跌的 if people who buy shares are skittish, they are nervous and worried about them dropping in value, and might sell the shares that they own because of this.
+[**担惊受怕/患得患失的投资者: skittish investors**]
+e.g. Some **skittish** Wall Street investors are staying away from the market. 一些患得患失的华尔街投资者不敢入市。
+e.g. I'm such a  **skittish** investor, so I keep myself away from the high risk stocks.
+e.g. The declining dollar gave heart to **skittish investors**. 美元贬值给 担惊受怕/患得患失的投资者带来了信心
+e.g. In China, everyone is talking about inflation. Prices for food, raw materials and other commodities are rising, and that's making people **skittish**.
+
+## [好高骛远: boil the ocean;  切忌好高骛远:Don't boil the ocean]
+e.g. It's also common for graduate students to try to boil the ocean in their thesis and dissertation proposals.  力求 **好高骛远** 的现象是很普遍的
+e.g. Just asking the obvious in case no one has, what if we do nothing and hope for the best? What's the worst case scenario? I don't want us to *boil the ocean好高骛远* for a 4 hour gap.
 
 ## I'd like to ask you about something. = Can I ask you a question?
 
@@ -148,32 +189,18 @@ e.g.  The recent deterioration has been caused by an endless recession apparentl
 **Is it true that** she's getting married with a U.S. guy?
 **There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest layoffs ever in IBM.
 
+## in no time: [戏谑语]立刻，马上，一眨眼工夫，很快地[亦作 in no time at all]
 
-## downsize (the business/factory/workforce)
-〔公司、机构为缩减开支而〕裁（员），紧缩（编制） ['daʊnsaɪz]
- [I,T] if a company or organization downsizes, it reduces the number of people it employs in order to reduce costs;  To downsize something such as a business or industry means to make it smaller. 使缩小规模
-**[ 裁员: downsized its workforce;  缩小业务（规模）downsize the business;  缩小工厂的规模: downsize the factory]**
+## bootstrap /ˈbuːtˌstræp/
+1.N a leather or fabric loop on the back or side of a boot for pulling it on 拔靴带
+2.V to set up or achieve (something) using minimal resources 用最少的资源建立或获得(某物)
+**[bootstrap oneself]依靠自己的努力获得成功；靠自身努力摆脱某种状况; bootstrap oneself into(或out of) 靠自己努力达到(或摆脱)**
+**by one's (own) bootstraps [口语]全靠自己的努力，靠自身力量，自力更生地**
+e.g. Jack spent years **bootstrapping himself** through university. 杰克靠多年自我奋斗才念完了大学。
 
-e.g. **There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest layoffs ever in IBM.
-e.g. The airline has downsized its workforce by 30%. 这家航空公司裁员30%。
-e.g. American manufacturing organizations have been downsizing their factories.  缩小他们工厂的规模。
-e.g. ...today's downsized economy.  … 今天萎缩了的经济。
+3.【计算机】自展(程序)，引导(程序)，利用引导指令将(程序)输入计算机
 
-2.N-UNCOUNT 缩小规模
-•  ...a trend toward downsizing in the personal computer market.  …个人电脑市场规模缩小的趋势。
-
-
-##(业务/组织/部门的）剥离/出售（给其他公司）;  公司部门或子公司的出售、清算或资产出售
-divest, divesture, divestiture [dai'vestitʃə]: The sale, liquidation, or spinoff附带的利益/附带的产品of a corporate division or subsidiary. if a company divests, it sells some of its assets, investments etc. normally to another company.
-
-eg IBM has finished its first phase of enterprise transformation转型, such as carrying out/implementing the divesture of X86server to Lenovo and achieving the acquisition of Softlayer.  
-
-eg As you also know, a core element of IBM strategic imperatives战略规则 is our commitment to climb to higher value. We have announced the divesture业务的出售 of our semiconductor business to the company GlobalFoundries and the divesture of x86 servers to ThinkPad.  
-
-eg Our strategic imperatives战略规则 delivered growth of more than 30 percent for the second quarter and the first half of the year, excluding the impact of currency and divested business 剥离/出售的业务, eg the divesture of X86 server to Lenovo.  Our cloud business grew more than 70 percent in the quarter, and we have delivered $8.7 billion in cloud revenue over the last 12 months. Our mobile business quadrupled, and our security business returned to double-digit growth. Taken together, the strategic imperatives战略规则 are becoming a substantial part of our total business, and their continued rapid growth gives us confidence in our strategic path forward.  
-
-## STOP
-
+## in no time: [戏谑语]立刻，马上，一眨眼工夫，很快地[亦作 in no time at all]
 
 ## render
 1. 使成为；使变得；使处于〔某种状态〕be rendered <state adj>: to cause someone or something to be in a particular condition or state
@@ -267,10 +294,6 @@ V.S. rampant
 ## /ˈmɜːkjʊrɪ/ mercury
 1. 水银/温度表 mercury is a silver-coloured liquid metal that is used especially in **thermometers温度表** and **barometers 气压计**. BTW, it's poisonous.
 2. [stellar; horoscope; astrology] 水星
-
-
-## [(从一个组里面)选出; 挑出： single out ]
-If you single someone out from a group, you choose them and give them special attention or treatment.
 
 ## 〔让幼儿在其中安全玩耍的〕游戏围栏 playpen
 playpen is an enclosed area in which a very small child, like toddlers, can play safely, that is like an open box with sides made of bars or a net
