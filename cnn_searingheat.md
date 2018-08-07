@@ -116,6 +116,10 @@ eg IBM has finished its first phase of enterprise transformation转型, such as 
 
 eg Our *strategic imperatives战略规则* delivered growth of more than 30 percent for the second quarter and the first half of the year, excluding the impact of currency and *divested business 剥离/出售的业务*, eg *the divesture of X86 server to Lenovo*. Our cloud business grew more than 70 percent in the quarter, and we have delivered $8.7 billion in cloud revenue over the last 12 months. Our mobile business quadrupled, and our security business returned to double-digit growth. Taken together, the *strategic imperatives战略规则* are becoming a substantial part of our total business, and their continued rapid growth gives us confidence in our strategic path forward.  
 
+## (部门/机构)人员不足的 be understaffed /ˌʌndəˈstɑːft/
+ADJ If an organization is understaffed, it does not have enough employees to do its work properly. 人员/人手不足的
+e.g. DP project is always understaffed.
+e.g. Many institutions offering child care are understaffed and underequipped. 许多提供幼儿看护的机构人手及设备不足。
 
 
 
@@ -131,7 +135,13 @@ eg Our *strategic imperatives战略规则* delivered growth of more than 30 perc
 
 
 
-STOP
+
+
+
+
+
+
+STOP record mp3
 ## [‚dɪsə'reɪ] disarray
 1.N-UNCOUNT 不可数名词 If people or things are in disarray, they are disorganized and confused; the state of being untidy or not organized 混乱
 •  The nation is in disarray following rioting led by the military.  该国发生由军队发动的暴乱后，陷入一片混乱。
@@ -274,12 +284,6 @@ relentless /rɪˈlɛntlɪs/      |CET6+ TEM8
 e.g. Just FYI... Once Platform and IoTCS offerings are merged we will change our support process as well, IoTP will be part of IoTCS and will be using same ticketing system as us. So the process will change and will be optimized **all/right down the line** 一步步的完全彻底地实现.
 
 
-## (部门/机构)人员不足的 be understaffed /ˌʌndəˈstɑːft/
-ADJ If an organization is understaffed, it does not have enough employees to do its work properly. 人员/人手不足的
-e.g. DP project is always understaffed.
-e.g. Many institutions offering child care are understaffed and underequipped. 许多提供幼儿看护的机构人手及设备不足。
-
-
 ##〔疾病或问题〕地方性的； (不好的情况、问题)总是存在于某个地方; (不好的情况、问题) 在某个地方极为普遍的常有的 endemic
 1. ADJ If you say that a condition or problem esp bad or unpleasant is endemic, you mean that it is very common and strong, and cannot be dealt with easily；an endemic disease or problem is always present in a particular place, or among a particular group of people
 e.g. Violent crime is now *endemic* in parts of Chicago. 芝加哥一些地区暴力犯罪成患,""极为普遍""
@@ -288,7 +292,8 @@ e.g. Pickpocketing and purse snatching are *endemic* in the downtown area and ev
 2. ADJ If a disease or illness is endemic in a place, it is frequently found among the people who live there. (疾病)在某个地方是很常见的
 •  Polio was then *endemic* among children my age.  小儿麻痹症在当时是在我这个年纪的儿童中常见的疾病。
 
-V.S. rampant
+V.S.
+##rampant
 1. if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. 猖獗的; 泛滥的; 〔犯罪、疾病等〕猖獗的，泛滥的，失控的
 
 ## /ˈmɜːkjʊrɪ/ mercury
@@ -302,14 +307,12 @@ playpen is an enclosed area in which a very small child, like toddlers, can play
 1. **[ (政治) 粉饰(只展现好的一面): political spin]**
 N-UNCOUNT In politics, spin is the way in which political parties try to present everything they do in a *positive way* to the public and the media.
 •  The public is sick/tired/weary of **political spin** and is **getting fed with** the government's promises.  公众厌倦了粉饰和许诺。
-
 2. **[驾车兜风:  go for a spin; take a car for a spin]**
 N-SING If you go for a spin or take a car for a spin, you make a short trip in a car just to enjoy yourself. 兜风
 •  Tom Wright celebrated his 99th birthday by **going for a spin**  in his sporty Mazda. 开着他的运动型马自达车出去兜风以庆祝其99岁生日。
 
 
 ##Verb)  ['riːfleks]  reflex
-
 1. N-PLURAL Your reflexes (plural form) are your ability to react quickly with your body when something unexpected happens, for example when you are involved in sports or when you are driving a car；the natural ability to react quickly and well to sudden situations (自然的)反应能力; 迅速反应能力  [have good/quick/slow reflexes ]
 •  It takes great skill, cool nerves, and the reflexes of an athlete.  这需要运动员娴熟的技巧、冷静的头脑以及迅速反应的能力
 •A tennis player needs to have very quick reflexes. 网球运动员需要反应迅速。
