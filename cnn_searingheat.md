@@ -141,36 +141,10 @@ e.g. Many institutions offering child care are understaffed and underequipped. �
 
 
 
-STOP record mp3
-## [‚dɪsə'reɪ] disarray
-1.N-UNCOUNT 不可数名词 If people or things are in disarray, they are disorganized and confused; the state of being untidy or not organized 混乱
-•  The nation is in disarray following rioting led by the military.  该国发生由军队发动的暴乱后，陷入一片混乱。
-2.N-UNCOUNT If things or places are in disarray, they are in a very disorganized state. 凌乱
-**[in disarray] [throw sth into disarray/fall into disarray]**
-•  She was left lying on her side and her clothes were in disarray.  她被扔在那儿侧躺着，衣衫不整。
-e.g. The military coup left the Liberal Party in total disarray . 这让自由党陷入一片混乱。
-e.g. The delay threw the entire timetable into disarray. 这一延误打乱了整个时间安排
-e.g. Despite the deadly summer, overwhelming evidence that humans are altering the planet, and ever-improving science that links specific weather events to global warming, the international politics around the issue of climate change are **in disarray**. And there are alarming signs that the planet may be in worse shape than ever before.
-
-## wish "subjunctive mood"
-e.g. Sally *wishes* that she *studied* something different in college.
-e.g. I *wished* that I *had gained* the MSC 10 years ago.
-
-## rewarding job/work
-e.g. I love my job. It's very rewarding. Every day I help people.
-
-
-## plan on (planningplannedplans)
-PHRASAL VERB If you plan on doing something, you intend to do it. 打算
-•  They were **planning on** getting married.  他们正打算结婚。
-e.g. I'm **planning on** getting an MBA in the future.
-
+# STOP record mp3
 ##  ['skɪtɪʃ] skittish
 1. an animal, especially a horse, that is skittish gets excited or frightened very easily; If you describe a person or animal as skittish, you mean they are easily made frightened or excited. 易受惊的; 易激动的(人； 〔动物，尤指马〕) [**skittish horses:受惊的马匹**]
-
-2. a person who is skittish is not very serious, and their feelings, behaviour, and opinions keep changing
-〔人〕善变的; 轻浮的轻佻的
-
+2. a person who is skittish is not very serious, and their feelings, behaviour, and opinions keep changing〔人〕善变的; 轻浮的轻佻的
 3. 〔购买股票者〕紧张不安的/患得患失的/忧心忡忡/担心股价下跌的 if people who buy shares are skittish, they are nervous and worried about them dropping in value, and might sell the shares that they own because of this.
 [**担惊受怕/患得患失的投资者: skittish investors**]
 e.g. Some **skittish** Wall Street investors are staying away from the market. 一些患得患失的华尔街投资者不敢入市。
@@ -202,13 +176,13 @@ e.g.  The recent deterioration has been caused by an endless recession apparentl
 ## in no time: [戏谑语]立刻，马上，一眨眼工夫，很快地[亦作 in no time at all]
 
 ## bootstrap /ˈbuːtˌstræp/
-1.N a leather or fabric loop on the back or side of a boot for pulling it on 拔靴带
-2.V to set up or achieve (something) using minimal resources 用最少的资源建立或获得(某物)
+1. N a leather or fabric loop on the back or side of a boot for pulling it on 拔靴带
+2. V to set up or achieve (something) using minimal resources 用最少的资源建立或获得(某物)
 **[bootstrap oneself]依靠自己的努力获得成功；靠自身努力摆脱某种状况; bootstrap oneself into(或out of) 靠自己努力达到(或摆脱)**
 **by one's (own) bootstraps [口语]全靠自己的努力，靠自身力量，自力更生地**
 e.g. Jack spent years **bootstrapping himself** through university. 杰克靠多年自我奋斗才念完了大学。
 
-3.【计算机】自展(程序)，引导(程序)，利用引导指令将(程序)输入计算机
+3. 【计算机】自展(程序)，引导(程序)，利用引导指令将(程序)输入计算机
 
 ## in no time: [戏谑语]立刻，马上，一眨眼工夫，很快地[亦作 in no time at all]
 
@@ -284,7 +258,7 @@ relentless /rɪˈlɛntlɪs/      |CET6+ TEM8
 e.g. Just FYI... Once Platform and IoTCS offerings are merged we will change our support process as well, IoTP will be part of IoTCS and will be using same ticketing system as us. So the process will change and will be optimized **all/right down the line** 一步步的完全彻底地实现.
 
 
-##〔疾病或问题〕地方性的； (不好的情况、问题)总是存在于某个地方; (不好的情况、问题) 在某个地方极为普遍的常有的 endemic
+##〔疾病或问题〕地方性的； (不好的情况、社会问题)总是存在于某个地方/在某个地方极为普遍的常有的 endemic
 1. ADJ If you say that a condition or problem esp bad or unpleasant is endemic, you mean that it is very common and strong, and cannot be dealt with easily；an endemic disease or problem is always present in a particular place, or among a particular group of people
 e.g. Violent crime is now *endemic* in parts of Chicago. 芝加哥一些地区暴力犯罪成患,""极为普遍""
 e.g. Discrimination against Catholics is *endemic* in Northern Ireland's institutions. 对天主教徒的歧视在北爱尔兰的公共机构中"极为普遍""
@@ -326,10 +300,42 @@ N-COUNT A reflex or a reflex action is something that you do automatically and w
 •  Walt fumbled in his pocket, a reflex from his smoking days.   沃尔特在口袋里摸索，一个他以前抽烟时形成的习惯性动作
 
 ##[rɪ'fleksɪv] reflexive /rɪˈflɛksɪv/
-1.ADJ A reflexive reaction or movement occurs immediately in response to something that happens. 反射性的
+1. ADJ A reflexive reaction or movement occurs immediately in response to something that happens. 反射性的
 •  The programme tries to make children more rational, less reflexive consumers. 更有理智的、反射性反应略少的消费者
-2.ADV•  He felt his head jerk reflexively.  他感到自己的头部突然反射性的抽动。
+2. ADV•  He felt his head jerk reflexively.  他感到自己的头部突然反射性的抽动。
 3. 反身代词 [ reflexive pronouns] a reflexive verb or pronoun shows that the action in a sentence affects the person or thing that does the action. In the sentence ‘I enjoyed myself’, ‘myself’ is reflexive.〔动词或代词〕反身的〔句子I enjoyed myself中，myself是反身代词〕
+
+## [‚dɪsə'reɪ] disarray [ (人员/事情)处在一个没有组织/混乱凌乱的状态; 陷入一片混乱: be in disarray V.S. I'm such an organized person.]
+[**(人员/事情)处在一个没有组织/混乱/凌乱的状态: be in disarray; 打乱了<xxx>安排: throw sth into disarray; 打乱了整个时间安排: threw the entire timetable into disarray; 打乱了整个party的安排: throw the whole party into a disarray; 排陷入一片混乱/凌乱: fall into disarray**]  
+
+N-UNCOUNT 不可数名词 If people or things are in disarray, they are in disorganized and confusing state; the state of being untidy or not organized (没有组织)混乱
+e.g. The nation **is in disarray** following **political riot/turmoil/unrest** and **military coup/kuː/** led by the extremists.  该国陷入一片混乱。
+e.g. She was left lying on her side and her clothes *were in disarray*.  她被扔在那儿侧躺着，衣衫不整。
+e.g. The *military coup* left the Liberal Party *in total disarray* . 这让自由党陷入一片混乱。
+e.g. The delay *threw the entire timetable into disarray*. 这一延误打乱了整个时间安排
+e.g. Despite the deadly summer in extremely **scorching/sweltering temperature**, overwhelming evidence that humans are altering the planet, and ever-improving science that links specific weather events to global warming, the international politics around the issue of climate change are **in disarray**(in disorganized state). And there are alarming signs that the planet may be in worse shape than ever before.
+
+## wish "subjunctive mood" /**səb**/
+N-SING In English, a clause expressing a wish or suggestion can be put in the subjunctive /**səb**/, or in the subjunctive mood /**səb**/, by using the base form of a verb or "were."
+e.g. I *wish* I *were* in Singapore right now. 我真希望 *现在* 在新加坡 (但实际上没有)
+e.g. Tracy *wishes* that she *studied* something really meaningful and valuable in my work. 真希望 *现在* 能学习些有意义的东西 (但实际上没有)
+e.g. I *wished* that I *had gained/done* a MSC 10 years ago in Canada 对 *过去* 的希望
+
+## [ 值得做的，有益的，有意义的(工作/事业/活动) a rewarding job/career/activity]
+[**a stimulating and rewarding career 一项激发人的, 有意义的职业**]
+making you feel happy and satisfied because you feel you are doing something useful, meaningful or important, even if you do not earn much money; esp, which allows you to help others. What is more, you think *it's worthwhile to do that*/it's worth your time and effort.
+
+e.g. Teaching/Being a doctor can be a very *stimulating and rewarding career*. 教书是一种很 *激发人的和有意义的职业*
+e.g. I love my job as a Doctor Without Borders in *impoverished areas贫困地区*. It's very rewarding. Every day I help people out of the desperate situation, esp the **贫困儿童 underprivileged children**, which makes me feel pretty satisfied. In other words, *it's quiet worthwhile* for me to do that. I mean, it's worth my time and effort.
+
+## 打算做xxx plan on sth; plan on doing sth
+PHRASAL VERB If you **plan on doing something**, you intend to do it.
+e.g. They were **planning on** getting married.  他们正打算结婚。
+e.g.
+A) Would you ever like to **do** a master's? 你想读个硕士吗 / Is there any degree would you ever like to **do**?
+B) I'm **planning on** getting an MBA in the future.
+
+
 
 
  # CNN excerpt
