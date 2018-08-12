@@ -25,8 +25,9 @@ e.g. Discrimination against Catholics is *endemic* in Northern Ireland's institu
 e.g. Pickpocketing and purse snatching are *endemic* in the downtown area and even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗  //if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way.〔犯罪、疾病等〕猖獗的，泛滥的，失控的
 2. ADJ If a disease or illness is endemic in a place, it is frequently found among the people who live there. (疾病)在某个地方是很常见的
 •  Polio was then *endemic* among children my age.  小儿麻痹症在当时是在我这个年纪的儿童中常见的疾病。
+
 ## spoof /spuːf/
-1. A spoof is something such as an article or television programme that seems to be about a serious matter but is actually a joke. (关于严肃事件的)玩笑性文章; 玩笑性电视节目
+1. (关于严肃事件的)玩笑性文章; 玩笑性电视节目 A spoof is something such as an article or television programme that seems to be about a serious matter but is actually a joke.
 •  ...a spoof on Hollywood life. ...一部拿好莱坞生活开玩笑的作品
 2. a spoof is a funny book, play, or film that is a **carbon copy (cc)** of something serious or important and makes it seem silly 滑稽模仿作品
 e.g. a spoof documentary 模仿纪实片的滑稽作品 [+ of/on]
@@ -44,7 +45,6 @@ e.g. "But there are differences, too. For example, while IP addresses are easy t
 •  ...the jargon that frequently obscures educational writing.   …常使教学行文变得复杂难懂的术语。
 e.g. "It's clear that whoever set up these accounts went to much greater lengths to **obscure their true identities** than the Russian-based Internet Research Agency (IRA) has in the past.
 
-
 ## amplify, amplifier　扬声器; amplification n /æmpləfəˋkeʃən ; ˌæmplɪfɪˈkeɪ/
 1. to make sound louder, especially musical sound 放大〔声音，尤指音乐声〕 •　an amplified guitar 带有扩音设备的电吉他
 2. formal to increase the effects or strength of something 增强 These stories only amplified her fears. 这些故事徒增了她的恐惧感。
@@ -53,6 +53,19 @@ e.g. "It's clear that whoever set up these accounts went to much greater lengths
 ## 强有力的令人信服的（理由/论点/论据）compelling evidence; compelling arguments; compelling justification
 A compelling argument or reason is one that convinces you that something is true or that something should be done.  
 e.g. Publicly, Facebook is saying it does not know **for sure**  who was behind the network, but is saying it has "found **compelling evidence**  of some connections between these accounts" and accounts that had been run by Russian trolls in the run-up to the 2016 presidential election. The company also said it had reported the network to **law enforcement**  and to Congress.
+
+## troll /trəʊl/
+1. N-COUNT In Scandinavian mythology, trolls are creatures who look like ugly people. They live in caves or on mountains and steal children. (斯堪的纳维亚神话中居于洞穴或山上、专门偷小孩的)丑陋怪物
+2. V-I If you **troll somewhere**, you go there in a casual and unhurried way. 闲逛 = **wander** N/V: if you wander in a place, you walk around there in a casual way, often without intending to go in any particular direction. 漫步
+•  I trolled along to see Michael Frayn's play, "Noises Off."  我慢步走着去看迈克尔·弗莱恩的戏剧《糊涂戏班》。
+3. V-I If you **troll through papers or files**, you look through them in a fairly casual way. 随便浏览(报纸或文件)
+•  **Trolling through the files** revealed a photograph of me drinking coffee in the office.
+4. V to post deliberately inflammatory articles on an internet discussion board (在网络论坛)故意发布煽动性文章 [**a troll in network; 网络喷子/黑子**]
+e.g. Facebook has removed a network of suspected Russian-linked accounts and pages involved in organizing political events in the United States. The move comes as part of Facebook's efforts to prevent a repeat of 2016, when accounts connected to a Kremlin-linked **troll group网络喷子/黑子** posing as Americans ran rampant on its platform.
+e.g. Publicly, Facebook is saying it does not know for sure who was behind the network, but is saying it has "found evidence of some connections between these accounts" and FB accounts that had been run by Russian **trolls 网络喷子/黑子** in the run-up to the 2016 presidential election. The company also said it had reported the network to law enforcement and to Congress.
+
+## [advocate sb’s stances]
+e.g. In briefings on Capitol Hill, Facebook has told lawmakers that it suspects a Russian group is behind more than 30 pages advocating US political stances, according to a congressional source briefed on the matter.
 
 ## [civil aviation 'la'连读; ATC: air traffic controller]
 e.g. The head of Malaysia's **civil aviation** authority resigned after a report on missing Malaysia Airlines flight 370 showed failures by Kuala Lumpur's **air traffic control center (ATC).**
@@ -129,8 +142,9 @@ Noun) interference /ˌɪntəˈfɪərəns/
 
 ## ['medl] meddle in sth; a meddler: 管闲事的人
 1.to deliberately try to influence or change a situation that does not concern you, or that you do not understand; If you say that someone **meddles in something**, you are criticizing the fact that they try to influence, interfere, or change it without being asked. 干涉/干预,管闲事
-• He accused the US of **meddling in** China’s internal affairs . 他指责美国干涉中国内政。
-• I don’t like other people **meddling in** the way I run this project.
+e.g. He accused the US of **meddling in** China’s internal affairs . 他指责美国干涉中国内政。
+e.g. I don’t like other people **meddling in** the way I run this project.
+e.g. Facebook has **寻求知道solicited guidance** from U.S. intelligence agencies in its attempt to prevent a repeat of 2016, when its platform was used to **meddle in管闲事** U.S. politics and society.
 **meddle with**
 e.g. I’m not the sort of newspaper owner who **meddles with** editorial policy. 我不是那种干涉编辑方针的报社老板。
 e.g. You have no right to come in here **meddling with** my things. 你无权进来乱弄我的东西

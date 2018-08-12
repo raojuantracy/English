@@ -31,7 +31,6 @@ e.g. He said the Venezuelan political far right, in collaboration with the Colom
 e.g. Authorities have identified the **masterminds** of the apparent drone **assassination attempt** on Venezuelan President Nicolas Maduro, as well as the people who assisted them, Attorney General Tarek William Saab said Monday.
 The investigation, which involves four prosecutors, has yielded the locations from where the drones were piloted, as well as the **arrest/apprehension** of two of the drone pilots, the country's top **law enforcement** official said.
 
-
 ## mastermind /ˈmɑːstəˌmaɪnd/   
 1.V-T If you mastermind a difficult or complicated activity, you plan it in detail and then make sure that it happens successfully; to think of, plan, and organize a large, important, and difficult operation 策划，组织〔重大而艰难的行动〕[ **mastermind a plot/an attack= hatch a plot/an attack**]
 •  There are many theories as to who masterminded the attacks.  关于谁　策划　了这些攻击   
@@ -174,13 +173,21 @@ e.g. She defended her position and stand **exceptionally** well. 她出色地捍
 e.g. Theo Walcott is an **exceptionally** talented player. 西奥·沃尔科特是一名极有天分的球员。
 e.g. We are still waiting for assessments from some of the more remote areas in the north of the island, but it is already clear that Sunday's earthquake was **exceptionally** destructive
 
-## mammoth /ˈmæməθ/      |CET6+ TEM8
-1.
-ADJ You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve. 巨大的; 艰巨的
+## mammoth /ˈmæməθ/   
+1.ADJ You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve. 巨大的; 艰巨的
 Reforming the prison system would be a mammoth task. 改革监狱制度将是一项巨大的任务。
 Despite the mammoth recovery efforts ahead, Indonesia's National Disaster Management Agency said Wednesday that international aid was not yet needed.
 a mammoth corporation 庞大的公司
-•  ...the mammoth task of relocating the library.
- …搬迁图书馆的艰巨任务。
-2.
-N-COUNT A mammoth was an animal like an elephant, with very long tusks and long hair, that lived a long time ago but no longer exists.  长毛象 猛犸
+•  ...the mammoth task of relocating the library. …搬迁图书馆的艰巨任务。
+2. N-COUNT A mammoth was an animal like an elephant, with very long tusks and long hair, that lived a long time ago but no longer exists.  长毛象 猛犸
+
+## solicit
+1. V-I When prostitutes solicit, they offer to have sex with people in return for money. (妓女) 拉客
+•  Prostitutes were forbidden to solicit on public roads and in public places.  娼妓被禁止在公路上和公共场所拉客。
+2. N-UNCOUNT 拉客
+•  Girls could get very heavy sentences for soliciting – nine months or more.   年轻女孩拉客可能会被处以重罚–9个月或更长。
+3. Verb) If you solicit money, help, support, or an opinion from someone, you ask them for it. 请求给予
+•  He's already solicited their support on health care reform.
+ 他已经请求他们给予医疗保健改革方面的支持
+e.g Facebook has **寻求solicited guidance** from U.S. intelligence agencies in its attempt to prevent a repeat of 2016, when its platform was used to **meddle in管闲事** U.S. politics and society.
+e.g. The governor sent two officials to Mexico City to solicit aid from the President. 州长派出两名官员去墨西哥城向总统求助。
