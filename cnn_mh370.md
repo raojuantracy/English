@@ -3,11 +3,19 @@ CNN:
 ** MH370: https://edition.cnn.com/2018/07/31/asia/resignation-malaysia-mh370-intl/index.html
 ** Russin meddle in U.S. election: https://money.cnn.com/2018/07/31/technology/facebook-removes-pages/index.html
 
+#  To stop: to mp3 all
+
+## indict /ɪnˈdaɪt/   
+V-T If someone is indicted for a crime, they are officially charged with it. 控告
+e.g He was later indicted on corruption charges  他后来被控贪污
+e.g. The Kremlin is the building in Moscow where Russian government business takes place. 克里姆林宫
+e.g. "Some of the activity is consistent with what we saw from the IRA before and after the 2016 elections." (The IRA is the Internet Research Agency, a Kremlin-linked troll group that has been indicted by Special Counsel Robert Mueller's office on charges related to an alleged conspiracy to defraud the United States.)
 
 ## ['ræmpənt] rampant = WIDESPREAD
 1. if something bad, such as crime or disease, is rampant, there is a lot of it and it is very difficult to control; if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. 猖獗的; 泛滥的; 〔犯罪、疾病等〕猖獗的，泛滥的，失控的
-•  Inflation is rampant and industry in decline. 通货膨胀肆虐/失控，工业生产下降 ; • rampant inflation 失控的通货膨胀
-Pickpocketing and purse snatching are **endemic** in the downtown area and even **rampant** in recent years . 闹市区扒窃活动猖獗 。
+e.g Inflation is rampant and industry in decline. 通货膨胀肆虐/失控，工业生产下降 ; • rampant inflation 失控的通货膨胀
+e.g. **Pickpocketing扒窃 and purse snatching** are *endemic* in the LA downtown area and even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗  //if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way.〔犯罪、疾病等〕猖獗泛滥的，失控的
+
 2. 〔植物〕过于繁茂的 a plant that is rampant grows and spreads quickly, in a way that is difficult to control
 V.S.
 ##〔疾病或问题〕地方性的； (不好的情况、社会问题)总是存在于某个地方/在某个地方极为普遍的常有的 endemic endemic
@@ -74,7 +82,7 @@ e.g. Malaysian authorities said Monday they had failed to determine the cause of
 [**(一时的/偶失) 走神:a lapse of concentration;  (一时的/偶失) 判断错误: a lapse of judgement; 一时的失礼／一时的没那么得体: a lapse of taste**]
 e.g. **A single lapse of concentration** cost Sampras the game. 桑普拉斯 一走神 就断送了这一局。
 
-3. [usually singular,一般用单数] a period of time between two events 〔两个事件间的〕时间间隔
+4. [usually singular,一般用单数] a period of time between two events 〔两个事件间的〕时间间隔
 •The usual time lapse between request and delivery is two days, which means the **product lead time** is two days. 由订购到交货一般需要两天时间。
 [+ of] a lapse of about ten seconds 约十秒钟的间隔
 
@@ -169,4 +177,24 @@ e.g. Girls could get very heavy sentences for *soliciting* – nine months or mo
 
 ## rosewood /ˈrəʊzˌwʊd/ 紫檀 /红木
 N-UNCOUNT Rosewood is a hard dark-coloured wood that is used for making expensive furniture. Rosewood comes from a species of tropical tree.
-•  ...a heavy rosewood desk.  ...一张沉重的红木桌。
+•  ...a heavy rosewood desk.  ...一张沉重的红木桌
+
+## wish "subjunctive mood" /**səb**/
+N-SING In English, a clause expressing a wish or suggestion can be put in the subjunctive /**səb**/, or in the subjunctive mood /**səb**/, by using the base form of a verb or "were."
+e.g. I *wish* I *were* in Singapore right now. 我真希望 *现在* 在新加坡 (但实际上没有)
+e.g. Tracy *wishes* that she *studied* something really meaningful and valuable in my work. 真希望 *现在* 能学习些有意义的东西 (但实际上没有)
+e.g. I *wished* that I *had gained/done* a MSC 10 years ago in Canada 对 *过去* 的希望
+
+## [ 值得做的，有益的，有意义的(工作/事业/活动) a rewarding job/career/activity]
+[**a stimulating and rewarding career 一项激发人的, 有意义的职业**]
+making you feel happy and satisfied because you feel you are doing something useful, meaningful or important, even if you do not earn much money; esp, which allows you to help others. What is more, you think *it's worthwhile to do that*/it's worth your time and effort.
+
+e.g. Teaching/Being a doctor can be a very *stimulating and rewarding career*. 教书是一种很 *激发人的和有意义的职业*
+e.g. I love my job as a Doctor Without Borders in *impoverished areas贫困地区*. It's very rewarding. Every day I help people out of the desperate situation, esp the **贫困儿童 underprivileged children**, which makes me feel pretty satisfied. In other words, *it's quiet worthwhile* for me to do that. I mean, it's worth my time and effort.
+
+## 打算做xxx plan on sth; plan on doing sth
+PHRASAL VERB If you **plan on doing something**, you intend to do it.
+e.g. They were **planning on** getting married.  他们正打算结婚。
+e.g.
+A) Would you ever like to **do** a master's? 你想读个硕士吗 / Is there any degree would you ever like to **do**?
+B) I'm **planning on** getting an MBA in the future.
