@@ -181,16 +181,23 @@ Sorry, I didn’t mean to startle you. 抱歉，我不是故意吓你一跳的
  wince at the memory/thought/idea
  •
  I still wince at the thought of that terrible evening. 想起那个可怕的夜晚，我仍然不寒而栗
- 
+
 ## wince /wɪns/      |TEM8 (wincingwincedwinces)
-1.
-V-I If you wince, the muscles of your face tighten suddenly because you have felt a pain or because you have just seen, heard, or remembered something unpleasant. (由于疼痛或看见、听到或记起某些不愉快的事而) 龇牙咧嘴
-•  Every time he put any weight on his left leg he winced in pain.
- 每当他的左腿受力时，他就会疼得龇牙咧嘴。
-2.
-N the act of wincing 龇牙咧嘴
-3.
-N a roller for transferring pieces of cloth between dyeing vats (洗布染布用的)绞车
+1.V-I If you wince, the muscles of your face tighten suddenly because you have felt a pain or because you have just seen, heard, or remembered something unpleasant. (由于疼痛或看见、听到或记起某些不愉快的事而) 龇牙咧嘴
+•  Every time he put any weight on his left leg he winced in pain. 每当他的左腿受力时，他就会疼得龇牙咧嘴。
+2. N the act of wincing 龇牙咧嘴
+3. N a roller for transferring pieces of cloth between dyeing vats (洗布染布用的)绞车
+
+## [‚ʌndə'kʌt] undercut; pp: undercut   pt: undercut   pres part: undercutting
+1. to sell goods or a service at a lower price than another company 以低于〔他人〕的价格出售; If you **undercut someone** or **undercut their prices**, you sell a product more cheaply than they do. 以低于…的价格出售
+e.g. Subsidies allow growers to **undercut competitors** and depress world prices.  补贴使得种植者能以 **低于竞争对手的价格出售** 并压低世界价格。
+e.g.  ...promises to **undercut air fares** on some routes by 40 percent.  …将一些航线的票价降低40%出售的承诺。
+e.g. Online bookstores can **undercut retailers** by up to 30%. 网上书店最多能以 **低于零售店的价格销售**
+2. to make something weaker or less effective 削弱；使降低效率
+SYN UNDERMINE
+
+•
+Is a lack of self-confidence undercutting your performance at work? 是不是缺乏自信影响了你的工作表现？
 ## hatch /hætʃ/
 1. V-T/V-I When **a baby bird/insect/other animal hatches**, or when **it is hatched**, it comes out of its egg by breaking the shell (使)〔幼禽、幼虫等〕孵出，破壳而出
 • All the chicks have *hatched out*. 小鸡都已孵出
@@ -230,7 +237,7 @@ e.g. Through **meditation/ponder/muse 冥想**, you can **incubate the vision �
 ## financier /fɪˈnænsɪə/  
 N-COUNT A financier is a person, company, or government that provides money for projects or businesses; someone who controls or lends large sums of money (为项目或企业) 提供资金者; 财政家，金融家; 投资家 vt. 对…提供资金 vi. 从事欺骗性金融活动
 e.g. The Connells were leading **financiers** of the Democratic Party in Congress. 康奈尔家族是民主党在国会中的主要出资方
-e.g. He said the Venezuelan political far right, in collaboration with the Colombian far right and President Santos, were **the mastermind behind the plot/scheme/conspiracy 幕后的出谋划策的人**.  "The preliminary investigation indicates that many of those responsible for the attack, the **financiers** and planners, live in the United States". US National Security told Fox News that the US government had no involvement or **implication 牵连/卷入**　in the attack that is planned to **overthrow the nation**, a response **reiterated** in Secretary of State Mike Pompeo's remarks to reporters Monday
+e.g. He said the Venezuelan political far right, in collaboration with the Colombian far right and President Santos, were **the mastermind behind the plot/scheme/conspiracy 幕后的出谋划策的人**.  "The preliminary investigation indicates that many of those responsible for the attack, the **financiers** and the **mastermind behind背后的策划者**, live in the United States". US National Security told Fox News that the US government had no involvement or **implication 牵连/卷入**　in the attack that is planned to **overthrow the nation**, a response **reiterated** in Secretary of State Mike Pompeo's remarks to reporters Monday
 
 ## [an assassination attempt 一次企图暗杀]
 e.g. Authorities have identified **the masterminds behind the assassination attempt 幕后的策划者** on Venezuelan President, as well as the people who assisted them, **Attorney General** said Monday。 The investigation, which involves four prosecutors, has yielded the locations from where the drones were piloted, as well as the **arrest/apprehension** of two of the drone pilots, the country's top **law enforcement official** said.
