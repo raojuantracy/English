@@ -1,7 +1,13 @@
 
 ## Sexual harrassment
 https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
+## Bridge collapse
+https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 
+<<<<<<< HEAD
+
+## Sexual harassment
+=======
 ## Bridge collapse
 https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 
@@ -34,6 +40,7 @@ e.g. The tires were **bald** (秃头的/轮胎表面磨平的= completely worn d
 V.S. **推拿术 manipulation**: a permanent cure will only be effected by acupuncture, chiropractic, or manipulation.  只有针灸、按摩或推拿术才能实现永久的治愈。
 • He **was in traction** (= receiving this kind of treatment ) for weeks after the accident. 事故后他接受了几个星期的牵引治疗
 • Isabelle's legs **were in traction** for about two and a half weeks.  伊莎贝尔的双腿作了大约两周半的牵引。
+>>>>>>> branch1
 
 acquitted
 
@@ -106,6 +113,9 @@ Sexual violence is any sexual act or attempt to obtain a sexual act by violence 
 
 
 
+<<<<<<< HEAD
+Statutes of limitations are laws passed by legislative bodies in common law systems to set the maximum time after an event within which legal proceedings may be initiated.
+=======
 ## piggyback /ˈpɪɡɪˌbæk/ [ give sb. a piggyback; piggyback on/onto sth]
 1. N-COUNT 可数名词 If you [**give someone a piggyback**], you carry them high on your back, supporting them under their knees. 背负
 •  They give each other piggyback rides. 他们将彼此背在背上。
@@ -118,6 +128,7 @@ Sexual violence is any sexual act or attempt to obtain a sexual act by violence 
 4. **[盗用sb's的网络连接: piggyback onto sb's internet connection]**: to use someone else’s wi-fi connection to the Internet, without their knowledge or permission.
 e.g. How can I prevent other people from **piggybacking onto my connection**? 我怎么才能阻止其他人 盗用我的网络连接？
 
+>>>>>>> branch1
 
 ## Bridge collapse in Italy
 alleviate
