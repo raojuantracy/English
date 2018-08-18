@@ -5,7 +5,7 @@ https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
 https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 
 
-## s指控
+## 指控
 •	Accuse sb. of/charge sb. with/indict sb. for
 E.g. He was charged with three counts of 1st degree murder. 被指控 三项 罪名
 E.G. He was charged with multiple counts of sexual harassment/assault 性骚扰 and five counts of sexual coercion性胁迫
@@ -146,17 +146,6 @@ trim sth with sth
 •
 a dress trimmed with lace 饰有花边的连衣裙
 
-## piggyback /ˈpɪɡɪˌbæk/ [ give sb. a piggyback; piggyback on/onto sth]
-1. N-COUNT 可数名词 If you [**give someone a piggyback**], you carry them high on your back, supporting them under their knees. 背负
-•  They give each other piggyback rides. 他们将彼此背在背上。
-2. ADV Piggyback is also an adverb. 驮
-•  My father carried me up the hill, piggyback. 爸爸把我驮在背上，上了山
-3. V-I If you [**piggyback on/onto something**], you take advantage of it that has been done or achieved by other people. 利用(别人已经有的成果/技术/知识) / 站在巨人的肩膀上
-•  I was just **piggybacking onto** Stokes's idea.  我只是 利用/借用<史都克>的想法而已。
-•  They are **piggybacking onto** developed technology.  他们 利用/借用已发展的科技。
-•  videos that **piggyback onto** the success of proven TV programs 借助已经成功 的电视节目推出的录影带
-4. **[盗用sb's的网络连接: piggyback onto sb's internet connection]**: to use someone else’s wi-fi connection to the Internet, without their knowledge or permission.
-e.g. How can I prevent other people from **piggybacking onto my connection**? 我怎么才能阻止其他人 盗用我的网络连接？
 
 
 ## Bridge collapse in Italy
@@ -280,3 +269,12 @@ Viaduct
 
 
 A viaduct is a bridge composed of several small spans for crossing a valley, dry or wetland, or forming a flyover.
+
+## [消磨时间, 打发时间; 随便玩玩: goof around  [guːf] ]
+E.g.  I don’t wanna **goof around随便玩玩**; instead, I’d like to have a serious relationship with you. I mean, I wanna be your BF. Seriously.
+e.g. We spent the whole afternoon just **goofing around** on our bikes around HanGang river in Seoul, which is so relaxing. When you’re riding the bike and circulating the Han river, you can nicely enjoy **the panoramic view 全景** of the whole river.    //**panorama [pænə'rɑːmə]; panoramic [,pænə'ræmɪk] adj. [摄] 全景的**
+
+V.S.
+## [混日子，逃避工作: goof off]:  to waste and kill time or avoid doing any work
+e.g. He’s been **goofing off** at school. 他在学校里一直混日子。
+e.g. From my point, he’s just **goofing off** at company.

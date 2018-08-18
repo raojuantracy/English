@@ -4,12 +4,6 @@ Indonisian earthquake: https://edition.cnn.com/2018/08/06/asia/lombok-earthquake
 https://edition.cnn.com/2018/08/08/asia/indonesia-earthquake-intl/index.html
 
 
-## [把…弄个水落石; 弄清…的/真相起因，寻到…的根子: get to the bottom of it]
-e.g. I'm investigating now; and **I'll get to the bottom of it.**
-
-## cross fingers
-e.g. Hopefully that'll make it more stable.
-=> yep, we're **crossing fingers**
 
 ## idyllic /ɪ'dɪlɪk, aɪˋdɪlɪk/ 田园一般悠闲的（岛屿；地方；酒店）
 ADJ If you describe something as idyllic, you mean that it is extremely pleasant, simple, and peaceful without any difficulties or dangers. 闲适恬静的
