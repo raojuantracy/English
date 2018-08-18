@@ -5,6 +5,17 @@ CNN:
 
 #  To stop: to mp3 all
 
+## 〔让幼儿在其中安全玩耍的〕游戏围栏 playpen
+playpen is an enclosed area in which a very small child, like toddlers, can play safely, that is like an open box with sides made of bars or a net
+
+## spin
+1. **[ (政治) 粉饰(只展现好的一面): political spin]**
+N-UNCOUNT In politics, spin is the way in which political parties try to present everything they do in a *positive way* to the public and the **mass media大众媒体**.
+e.g. The public *is sick/tired/weary of* **political spin** and is **getting fed with** the government's promises.  公众厌倦了粉饰和许诺。
+2. **[驾车兜风:  go for a spin; take a car for a spin]**
+N-SING If you **go for a spin** or **take a car for a spin**, you make a short trip in a car just to enjoy yourself. 兜风
+•  Tom Wright celebrated his 99th birthday by **going for a spin**  in his sporty Mazda. 开着他的运动型马自达车出去兜风以庆祝其99岁生日。
+
 ## indict /ɪnˈdaɪt/   
 V-T If someone is indicted for a crime, they are officially charged with it. 控告
 e.g He was later indicted on corruption charges  他后来被控贪污
@@ -212,3 +223,30 @@ e.g. They were **planning on** getting married.  他们正打算结婚。
 e.g.
 A) Would you ever like to **do** a master's? 你想读个硕士吗 / Is there any degree would you ever like to **do**?
 B) I'm **planning on** getting an MBA in the future.
+
+## ferment; fermentation
+[lemon ferment酵素; the yeast酵母 ferments]
+e.g. The nation **is in disarray/fell into disarray** following **political riot/turmoil/ferment 政治混乱** and **military coup/kuː/** led by the extremists.  该国陷入一片 政治混乱。 //排陷入一片混乱/凌乱: fall into disarray**
+
+
+# render
+1. 使成为使变得；使sb/sth处于〔某种状态〕be rendered <state adj>: to cause someone or something to be in a particular condition or state
+**[ sb/sth be rendered <adj>; 使xxx不可能:render sth impossible; 使xxx无害:render sb/sth harmless;　使sb.昏迷 render sb unconscious； 使sb.说不出话来: render sb. speechless]**
+e.g. Human Rights highlighted the lack of an official policy for people who might eventually be excluded from of the final list, saying it could effectively **render them stateless** in Indian, which means their nationality will be *deprived*. This is equivalent to "Chinese lose their HuKou". "Assam has long sought to preserve its ethnic identity, but **rendering millions of people stateless** is not the answer".  The concern was echoed by **Amnesty特赦，大赦** International, which said the exercise "may **render a significant number of people stateless**. It is possible that the process will arbitrarily **deprive** people, who have lived in India for decades, of their nationality"
+e.g. "I appeal to 呼吁/恳求 all members of the Congress party to help maintain peace and help all those against whom an injustice has been done in the draft NRC, no matter what their religion, **caste /kɑːst/**, gender, linguistic group or political affiliation," added Gandhi. The government has said people who have been excluded from the latest NRC draft and who might **be rendered stateless** will have until late September to file appeals and claim citizenship.  //（具有严格等级差别的）社会地位; 社会阶层[等级]caste: Caste is the system of dividing people in a society into different social classes. 种姓制度
+e.g. He **was rendered almost speechless** by the news. 听到这个消息他几乎说不出话来。
+e.g. The blow to his head was strong enough to **render him unconscious**. 他头上挨了重重的一击，昏了过去。
+
+2. (formally因为是你的责任和义务需要)给予，提供: formally: render is to give something to someone or do something, because it is your duty or obligations or because someone expects you to
+**[向sb提供援助: render assistance to sb]  V.S. 请求支持和援助: solicit guidance and aid]**
+e.g. an obligation to **render assistance to those in need** 为有困难的人提供援助的义务
+e.g. It' s the whole society's obligation to **render assistance to underprivileged children**  为<*贫困的儿童*>提供援助
+e.g. a bill of 3,200 for services rendered 一张3,200美元服务费的账单
+//When prostitutes/hookers/whores *solicit*, they offer to have sex with people in exchange for money. (妓女) 拉客
+//贫困的儿童: *underprivileged children*
+
+3. to express or present something in a particular way〔以某种方式〕表达；表现
+**[ render a decision = make a decision;  表态 render an opinion/judgment etc ]**
+e.g. It is unlikely that the court will **render an opinion** before November 5. 法庭不可能在11月5日以前表态。
+e.g. She made a sound that in print is rendered as ‘harrumph’. 她发出一个声音，写出来就是harrumph。
+e.g. Infrared film renders blue skies a deep black. 红外线胶片将蓝色的天空拍成深黑色。

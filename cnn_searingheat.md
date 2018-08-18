@@ -141,46 +141,45 @@ e.g. Many institutions offering child care are understaffed and underequipped. �
 
 
 
-# STOP record mp3
-
 ##Verb)  ['riːfleks]  reflex
-1. N-PLURAL Your **reflexes (plural form)** are your ability to react quickly with your body when something unexpected happens, for example when you are involved in sports or when you are driving a car；the natural ability to react quickly and well to sudden situations (自然的)反应能力; 迅速反应能力  
+1. N-PLURAL Your **reflexes (plural form)** are your ability to react quickly with your body when something unexpected happens, for example when you are involved in sports or when you are driving a car；**reflexes** are your the natural ability to react quickly and well to sudden situations (自然的)反应能力; 迅速反应能力  
 [**have good/quick/slow reflexes**]
-•  It takes great skill, cool nerves, and the reflexes of an athlete.  这需要运动员娴熟的技巧、冷静的头脑以及迅速反应的能力
-• A tennis player needs to **have very quick reflexes**. 网球运动员需要反应迅速。
+•  It takes great skill, cool nerves, and quick reflexes of an athlete.  这需要运动员娴熟的技巧、冷静的头脑以及 迅速反应的能力
+• A tennis player needs to **have very quick reflexes**. 网球运动员需要 反应迅速。
 
-2. N-COUNT reflex: A reflex or a reflex action is a normal, uncontrollable reaction of your body to something that you feel, see, or experience; is a sudden uncontrolled movement that your muscles make as a natural reaction to a physical effect  〔生理上的〕反射动作，反射作用
+2. N-COUNT reflex: **A reflex** or **a reflex action** is a normal, uncontrollable reaction of your body to something that you feel, see, or experience; is a sudden uncontrolled movement that your muscles make as a natural reaction to a physical effect  〔生理上的〕反射动作，反射作用(起跳反射)
 •  ...tests for reflexes, like tapping the knee or the heel with a rubber hammer.  …反射动作的测试，比如用橡胶锤敲击膝盖或脚踵。
 • Doctor Mulholland tested Jennifer’s reflexes (= especially by hitting her knee with a special rubber hammer ) . 马尔霍兰医生检查了珍妮弗的反射反应。
 
-2.[**下意识的反应/本能反应: reflex action**] something that you do without thinking, as a natural, quick reaction to a situation
-N-COUNT A reflex or a reflex action is something that you do automatically and without thinking, as a habit or as a reaction to something. 下意识的反应/本能反应; 下意识的习惯性动作
+3. [**下意识的反应/动作; 本能反应/: reflex action**] something that you do without thinking, as a natural, quick reaction to a situation
+N-COUNT A reflex or a reflex action is something that you do automatically and without thinking, as a habit or as a natural reaction to something. 下意识的反应/本能反应; 下意识的习惯性动作
 •  Walt fumbled in his pocket, a reflex from his smoking days.   沃尔特在口袋里摸索，一个他以前抽烟时形成的习惯性动作
 
 ##[rɪ'fleksɪv] reflexive /rɪˈflɛksɪv/
-1. ADJ A reflexive reaction or movement occurs immediately in response to something that happens. 反射性的
+1. ADJ A reflexive reaction or movement occurs immediately in response to something that happens unexpectedly and suddenly. 反射性的
 •  The programme tries to make children more rational, less reflexive consumers. 更有理智的、反射性反应略少的消费者
-2. ADV•  He felt his head jerk reflexively.  他感到自己的头部突然反射性的抽动。
+2. ADV•  He felt his **head jerk** reflexively.  他感到自己的头部突然反射性的抽动。
 3. [ **反身代词: reflexive pronouns**] a reflexive verb or pronoun shows that the action in a sentence affects the person or thing that does the action. In the sentence ‘I enjoyed myself’, ‘myself’ is reflexive.〔动词或代词〕反身的〔句子I enjoyed myself中，myself是反身代词〕
 
-## [‚dɪsə'reɪ] disarray [ (人员/事情)处在一个没有组织/混乱凌乱的状态; 陷入一片混乱: be in disarray V.S. I'm such an organized person.]
-N-UNCOUNT 不可数名词 If people or things are in disarray, they are in disorganized and confusing state; the state of being untidy or not organized (没有组织)混乱
-[**(人员/事情)处在一个没有组织/混乱/凌乱的状态: be in disarray; 打乱了<xxx>安排: throw sth into disarray; 打乱了整个时间安排: threw the entire timetable into disarray; 打乱了整个party的安排: throw the whole party into a disarray; 排陷入一片混乱/凌乱: fall into disarray**]  
+## [‚dɪsə'reɪ] disarray [ (人员/事情)处在一个没有组织/混乱凌乱的状态; 陷入一片混乱; 一团乱麻 be in disarray V.S. I'm such an organized person.]
+1. N-UNCOUNT 不可数名词 If people or things are in disarray, they are in disorganized and confusing state;
+[**(人员/事情)处在一个没有组织/混乱/凌乱的状态；一团乱麻: be in disarray;  打乱了<xxx>安排: throw sth into disarray; 打乱了整个时间安排: throw the entire timetable into disarray; 打乱了整个party的安排: throw the whole party/meeting into disarray; 排陷入一片混乱/凌乱(一团乱麻): fall into disarray**]  
 
-e.g. The nation **is in disarray** following **political riot/turmoil/unrest** and **military coup/kuː/** led by the extremists.  该国陷入一片混乱。
-e.g. She was left lying on her side and her clothes *were in disarray*.  她被扔在那儿侧躺着，衣衫不整。
+e.g. The nation **is in disarray/fell into disarray** following **political riot/turmoil/ferment 政治混乱** and **military coup/kuː/** led by the extremists.  该国陷入一片 政治混乱。
 e.g. The *military coup* left the Liberal Party *in total disarray* . 这让自由党陷入一片混乱。
-e.g. The delay *threw the entire timetable into disarray*. 这一延误打乱了整个时间安排
+e.g. The plane delay *threw the entire timetable into disarray*. 这一延误 打乱了<整个时间>的安排
 e.g. Despite the deadly summer in extremely **scorching/sweltering temperature**, overwhelming evidence that humans are altering the planet, and ever-improving science that links specific weather events to global warming, the international politics around the issue of climate change are **in disarray**(in disorganized state). And there are alarming signs that the planet may be in worse shape than ever before.
+2. [**衣衫不整: sb's clothes are in disarray**]
+e.g. She was left lying on her side and her clothes *were in disarray*.  她被扔在那儿侧躺着，**衣衫不整**
 
 ##  ['skɪtɪʃ] skittish
 1. 易受惊的(人，〔动物，尤指马〕); 易激动的(人) If you describe a person or animal (especially a horse) as skittish, you mean they are easily made frightened or excited.   [**skittish horses:易受惊的马匹**]
 e.g. Stop whipping the horse! They're **skittish**.
-2. a person who is skittish is not very serious, and their feelings, behaviour, and opinions keep changing〔人〕善变的; 轻浮的轻佻的
+2. a person who is skittish is not very serious, and their feelings, behaviour, and opinions keep changing〔人〕善变的; 轻浮的轻佻的 **she's a wee/little bit skittish**
 3. 易受惊的〔购买股票者〕; 紧张不安的/患得患失的/忧心忡忡/担心股价下跌的〔购买股票者) if people who buy shares or do financial investment are skittish, they are nervous and worried about them dropping in value, and might sell the shares that they own because of this concern.
 [**担惊受怕/患得患失的投资者,购买股票者: skittish investors**]
-e.g. Some **skittish** Wall Street investors are staying away from the market. 一些 **患得患失的华尔街投资者** 不敢入市。
-e.g. I'm such a **skittish** investor, so I keep myself away from the high risk stocks, like **hedge fund** (H risk, H return)
+e.g. Some **skittish** Wall Street investors are **staying away from the market**. 一些 **患得患失的华尔街投资者** 不敢入市。
+e.g. I'm such a **skittish investor**, so I keep myself away from the high risk stocks, like **hedge fund** (H risk, H return)
 e.g. The declining dollar gave heart and confidence to **skittish investors**. 美元贬值给 **担惊受怕/患得患失的投资者** 带来了信心
 e.g. In China, everyone is talking about inflation. Prices for food, raw materials and other commodities are rising, and that's making people **skittish**.
 
@@ -194,37 +193,54 @@ e.g. You know, you do **boil the ocean** too much. 你太 **好高骛远**
 ##  /əˈpærəntlɪ/ apparently  
 1. ADV You use apparently to indicate that the information you are giving is something that you have heard from someone else, but you are not certain that it is true; used to say that you have heard that something is true, although you are not completely sure about it 据说 **[ apparently = it’s said that ]**
 e.g. **Apparently** the company is losing a lot of money. 据说 该公司目前亏损很大。
-e.g. **There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest layoffs ever in IBM.
+e.g. **There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest *layoffs* ever in IBM.
 e.g. **Apparently (it’s said that据说)** she's moving to Germany. A director position or something like that.
 2. ADV 看起来貌似是真的(但是不能确定) = apparently
 You use apparently to refer to something that seems to be true, although you are not sure whether it is or not.
 e.g.  The recent deterioration has been caused by an endless recession apparently.  最近的恶化是由 貌似 没完没了的萧条造成的
+
+## [戏谑语]一眨眼工夫，很快地 in no time [亦作 in no time at all]
+e.g. Don't worry. I'll get it done **in no time at all**/immediately.  我能 **马上/很快/一眨眼** 能搞定它
+e.g. You're quiet awesome. You get it done **in no time at all**. 你太牛了, 你 **一眨眼工夫** 就搞定了啊
+
+## talk about rumors
+**Is it true that** she's getting married with a U.S. guy?
+**There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest layoffs ever in IBM.  /
+
+##  [ˈæɡrəveɪt] aggravate
+1.If someone or something aggravates a situation, they make it worse; to make a bad situation, an illness, or an injury worse 使(情况)加重／恶化
+• Stress and lack of sleep can  **aggravate your depression**.   紧张和缺少睡眠会使情况恶化
+• Their money problems were further aggravated by a rise in interest rates.他们的财务问题更加严重。
+• Ghosh's comments are likely to intensify the political battle around the registry issue, with opposition lawmakers accusing the BJP of *aggravating longstanding social and communal tensions* in return for votes.
+2. **使sb恼火恼怒; 惹怒激怒sb: aggravate sb = annoy/irritate sb**: If someone or something aggravates you, they make you angry, annoyed and irritated.
+e.g. What *aggravates you* most about this country?   这个国家最让你恼火的是什么？
+e.g. What really *aggravates me* is the way she won’t listen. 让我大为恼火的是她不听
+3. ADJ 恼人的 aggravating
+e.g. You're so aggravating/annoying/irritating.
+e.g. You don't realize how aggravating you can be.   你没意识到你有多烦人
+
 
 ## bootstrap /ˈbuːtˌstræp/ [bootstrap oneself into xxx; bootstrap oneself out of xxx //oneself:reflexive pronoun]
 1. N a leather or fabric loop on the back or side of a boot for pulling it on 拔靴带
 2. V to set up or achieve (something) using minimal resources 用最少的资源建立或获得(某物)
 **[依靠自己的努力(自力更生地)获得成功: bootstrap oneself into xxx； 靠自身努力(自力更生地)摆脱某种状况(e.g. poor); bootstrap oneself out of xxx]**
 **by one's (own) bootstraps [口语]全靠自己的努力，靠自身力量自力更生地**
-e.g. Jack spent years **bootstrapping himself** through university. 杰克靠多年自我奋斗才念完了大学。
+e.g. Jack spent years **bootstrapping himself** through university. 杰克靠多年 自我奋斗 才念完了大学。
 3. 【计算机】引导(程序)，利用引导指令将(程序)输入计算机
 e.g. The bootstrap then loads the Boot Logical Volume (BLV) into memory. 引导程序将启动逻辑卷 (BLV) 加载到内存中。
 
-## [戏谑语]一眨眼工夫，很快地; 立刻马上 in no time [亦作 in no time at all]
-e.g. Don't worry. I'll get it done **in no time**/immediately.  我能 **马上/很快** 就能搞定它
-e.g. You're quiet awesome. You get it done **in no time**.你太牛了, 你 **一眨眼工夫** 就搞定了啊
-
 ## render
 1. 使成为使变得；使sb/sth处于〔某种状态〕be rendered <state adj>: to cause someone or something to be in a particular condition or state
-**[ sb/sth be rendered <adj>; 使xxx不可能:render sth impossible; 使xxx无害:render sb/sth harmless;　使sb.昏迷 render sb unconscious]**
-e.g. Human Rights highlighted the lack of an official policy for people who might eventually be excluded from of the final list, saying it could effectively **render them stateless** in Indian, which means their nationality will be deprived. This is equivalent to "Chinese lose their HuKou". "Assam has long sought to preserve its ethnic identity, but **rendering millions of people stateless** is not the answer".  The concern was echoed by **Amnesty特赦，大赦** International, which said the exercise "may **render a significant number of people stateless**. It is possible that the process will arbitrarily **deprive** people, who have lived in India for decades, of their nationality"
-e.g. "I appeal to all members of the Congress party to help maintain peace and help all those against whom an injustice has been done in the draft NRC, no matter what their religion, **caste /kɑːst/**, gender, linguistic group or political affiliation," added Gandhi. The government has said people who have been excluded from the latest NRC draft and who might **be rendered stateless** will have until late September to file appeals and claim citizenship.  //（具有严格等级差别的）社会地位; 社会阶层[等级]caste: Caste is the system of dividing people in a society into different social classes. 种姓制度
+**[ sb/sth be rendered <adj>; 使xxx不可能:render sth impossible; 使xxx无害:render sb/sth harmless;　使sb.昏迷 render sb unconscious； 使sb.说不出话来: render sb. speechless]**
+e.g. Human Rights highlighted the lack of an official policy for people who might eventually be excluded from of the final list, saying it could effectively **render them stateless** in Indian, which means their nationality will be *deprived*. This is equivalent to "Chinese lose their HuKou". "Assam has long sought to preserve its ethnic identity, but **rendering millions of people stateless** is not the answer".  The concern was echoed by **Amnesty特赦，大赦** International, which said the exercise "may **render a significant number of people stateless**. It is possible that the process will arbitrarily **deprive** people, who have lived in India for decades, of their nationality"
+e.g. "I appeal to 呼吁/恳求 all members of the Congress party to help maintain peace and help all those against whom an injustice has been done in the draft NRC, no matter what their religion, **caste /kɑːst/**, gender, linguistic group or political affiliation," added Gandhi. The government has said people who have been excluded from the latest NRC draft and who might **be rendered stateless** will have until late September to file appeals and claim citizenship.  //（具有严格等级差别的）社会地位; 社会阶层[等级]caste: Caste is the system of dividing people in a society into different social classes. 种姓制度
 e.g. He **was rendered almost speechless** by the news. 听到这个消息他几乎说不出话来。
 e.g. The blow to his head was strong enough to **render him unconscious**. 他头上挨了重重的一击，昏了过去。
 
 2. (formally因为是你的责任和义务需要)给予，提供: formally: render is to give something to someone or do something, because it is your duty or obligations or because someone expects you to
 **[向sb提供援助: render assistance to sb]  V.S. 请求支持和援助: solicit guidance and aid]**
 e.g. an obligation to **render assistance to those in need** 为有困难的人提供援助的义务
-e.g. It' s the whole society's obligation to **render assistance to underprivileged children**  为<贫困的儿童>提供援助
+e.g. It' s the whole society's obligation to **render assistance to underprivileged children**  为<*贫困的儿童*>提供援助
 e.g. a bill of 3,200 for services rendered 一张3,200美元服务费的账单
 //When prostitutes/hookers/whores *solicit*, they offer to have sex with people in exchange for money. (妓女) 拉客
 //贫困的儿童: *underprivileged children*
@@ -235,21 +251,6 @@ e.g. It is unlikely that the court will **render an opinion** before November 5.
 e.g. She made a sound that in print is rendered as ‘harrumph’. 她发出一个声音，写出来就是harrumph。
 e.g. Infrared film renders blue skies a deep black. 红外线胶片将蓝色的天空拍成深黑色。
 
-##  [ˈæɡrəveɪt] aggravate
-1.If someone or something aggravates a situation, they make it worse; to make a bad situation, an illness, or an injury worse 使(情况)加重／恶化
-• Stress and lack of sleep can aggravate your depression.   紧张和缺少睡眠会使情况恶化
-• Their money problems were further aggravated by a rise in interest rates.他们的财务问题更加严重。
-• Ghosh's comments are likely to intensify the political battle around the registry issue, with opposition lawmakers accusing the BJP of *aggravating longstanding social and communal tensions* in return for votes.
-2. **使sb恼火恼怒; 惹怒激怒sb: aggravate sb = annoy/irritate sb**: If someone or something aggravates you, they make you angry, annoyed and irritated.
-e.g. What *aggravates you* most about this country?   这个国家最让你恼火的是什么？
-e.g. What really *aggravates me* is the way she won’t listen. 让我大为生气的是她不听
-3. ADJ 恼人的aggravating
-e.g. You're so aggravating/annoying/irritating.
-e.g. You don't realize how aggravating you can be.   你没意识到你有多烦人
-
-## talk about rumors
-**Is it true that** she's getting married with a U.S. guy?
-**There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest layoffs ever in IBM.    //apparently: You use apparently to indicate that the information you are giving is something that you have heard from someone else, but you are not certain that it is true
 
 ## caste [kɑːst]
 1.  印度的种姓  [**the caste system 种姓制度**] one of the fixed social classes/ranks, which cannot be changed, into which people are born in India; a caste is one of the traditional social classes into which people are divided in a Hindu society.
@@ -258,26 +259,29 @@ e.g. "I appeal to all members of the Congress party to help maintain peace and h
 e.g.  Caste is defined primarily by social honour attained through personal lifestyle.  种姓制度的定义源于通过个人生活方式而获取的社会荣誉
 
 ## spell
-V to take over from (a person) for an interval of time; relieve temporarily 在间歇期接替(某人); 暂时换岗
-1. a spell is a period of a particular kind of activity, weather, illness etc, usually a short period 〔某种活动、天气、疾病等的〕一段时间〔通常时间较短〕； A spell of a particular type of weather or a particular activity is a short period of time during which this type of weather or activity occurs. (某种天气(间晴/间阴/间下雨)或活动的) 短暂发生期  [ a spell of <weather/disease/activity ]
+1. V to take over from (a person) for an interval of time; relieve temporarily 在间歇期接替(某人); 暂时换岗
+
+1. a spell is a period of a particular kind of activity, weather, illness etc, usually a short period 〔某种活动、天气、疾病等的〕一段时间〔通常时间较短〕； A spell of a particular type of weather or a particular activity is a short period of time during which this type of weather or activity occurs. (某种天气(间晴/间阴/间下雨)或活动的) 短暂发生期  [**a spell of <weather/disease/activity, e.g. a spell of drizzling 间歇的毛毛雨; a spell of torrential rain/downpour 间歇的暴雨； dizzy spells:一阵阵/间歇头晕 **]
 • a day of **sunny spells** and scattered showers 间晴 且有 零星阵雨 的一天
-• He began to suffer from **dizzy spells** 一阵阵头晕。
-• There has been **a long spell of dry weather**.  干旱天气已持续很长一段时间了。
+• He began to suffer from **dizzy spells** 一阵阵/间歇头晕。
+• There has been **a spell of drizzling 毛毛雨**.  间歇的毛毛雨
 2. [ **(给sb)招致/带来麻烦/灾难/危险等：spell trouble/disaster/danger for sb**] if a situation or action spells trouble etc, it makes you expect trouble etc
 e.g. The lack of rain could **spell disaster for farmers**. 缺少雨水 **会给<农民>带来灾难**
 e.g. What you did say could **spell tons of trouble for us**. 你所做的事情 **会给<sb>带来巨大的麻烦**
 e.g. The nature is starting to **revenge against human beings**. You see that the global warming is now **spelling exceptionally/extremely huge disaster and danger for human 给人类带来了巨大的灾难/危险**, like the scorching/sweltering weather酷热, the wildfires, the earthquake and ensuing tsunami, which is what the nature gives back to us.
 
-## relent (verb);  => adj) 毫不留情的/无情地 relentless /rɪˈlɛntlɪs/ , relentlessly
+
+## relent sb's attitude (verb);  => adj) 毫不留情的/无情地/不留情面的 relentless /rɪˈlɛntlɪs/ , relentlessly
 1. ADJ 毫不留情的/无情地 Something bad that is relentless never stops or never becomes less intense.
 e.g. The pressure now was relentless. 压力现在毫无减弱之意。
-e.g. The strongly bright sun　强烈刺眼的眼光 is beating down relentlessly. 太阳正 无情地 照射下来。
-2. ADJ 坚持不懈的／无休止地 Someone who is relentless is determined to do something and refuses to give up, even if what they are doing is unpleasant or cruel.
-V.S. [**be resolute in sth/doing sth:下决定做xxx**]
+e.g. The strongly bright sunlight　强烈刺眼的眼光 is beating down relentlessly. 太阳正 无情地 照射下来。
+2. ADJ 坚持不懈的／无休止地 **Someone who is relentless** is determined to do something and refuses to give up, even if what they are doing is unpleasant or cruel.
+V.S.
+</br>[**be resolute in sth/doing sth: 下决定/下决心做xxx**]
 e.g. Relentless in his pursuit of quality, his technical ability was remarkable.　 由于对质量的坚持不懈的追求，他的技术能力非同凡响。
 e.g. She always questioned me **relentlessly**. 她总是 无休止地 问我
 
-## 一步步的完全彻底地（实现）[ down the line; all down the line, right down the line]
+## 一步步的完全的（实现某个任务/项目/计划）[ down the line; right down the line; all down the line]
 e.g. Just FYI... Once Platform and IoTCS offerings are merged, we will change our support process as well, so the process will change and will be optimized **all/right down the line** 一步步的完全彻底地实现.
 
 ##〔疾病或问题〕地方性的； (不好的情况、不好的社会问题)总是存在于某个地方/在某个地方极为普遍的常有的 endemic
@@ -285,29 +289,21 @@ e.g. Just FYI... Once Platform and IoTCS offerings are merged, we will change ou
 e.g. Violent crime is now *endemic* in parts of Chicago. 芝加哥一些地区暴力犯罪成患,""极为普遍""
 e.g. Discrimination against Catholics is *endemic* in Northern Ireland's institutions. 对天主教徒的歧视在北爱尔兰的公共机构中"极为普遍""
 e.g. Bribery, corruption, and **embezzlement** are very **endemic** in CHINA, esp in small cities.   //**embezzle /ɪmˈbɛzəl/**  V-T If someone embezzles money that their organization or company has placed in their care, they take it and use it illegally for their own purposes. 挪用 (钱款)
-e.g. **Pickpocketing扒窃 and purse snatching** are *endemic* in the LA downtown area and even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗  //if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way.〔犯罪、疾病等〕猖獗泛滥的，失控的
+e.g. **Pickpocketing扒窃 and purse snatching** are *endemic* in LA downtown and becoming even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗  //if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way.〔犯罪、疾病等〕猖獗泛滥的，失控的
+
 2. ADJ If a disease or illness is endemic in a place, it is frequently found among the people who live there. (疾病)在某个地方是很常见的
 e.g. **Polio** was then *endemic* among children my age.  小儿麻痹症在当时是在我这个年纪的儿童中常见的疾病。
 
 V.S.
 ## rampant
-1. if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. 猖獗的; 泛滥的; 〔犯罪、疾病等〕猖獗的，泛滥的，失控的
-e.g. **Pickpocketing扒窃 and purse snatching** are *endemic* in the LA downtown area and even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗  //if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way.〔犯罪、疾病等〕猖獗泛滥的，失控的
+1. if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. (犯罪、疾病等〕猖獗的，泛滥的，失控的
+e.g. **Pickpocketing扒窃 and purse snatching** are *endemic* in LA downtown and becoming even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗   //**endemic**:  If you say that a condition or problem esp bad or unpleasant is endemic, you mean that it is very common and strong, and cannot be dealt with easily；an endemic disease or problem is always present in a particular place, or among a particular group of people
 
 ## /ˈmɜːkjʊrɪ/ mercury
 1. 水银/温度表 mercury is a silver-coloured liquid metal that is used especially in **thermometers温度表** and **barometers 气压计**. BTW, it's poisonous.
 2. [stellar; horoscope; astrology] 水星
 
-## 〔让幼儿在其中安全玩耍的〕游戏围栏 playpen
-playpen is an enclosed area in which a very small child, like toddlers, can play safely, that is like an open box with sides made of bars or a net
 
-## spin
-1. **[ (政治) 粉饰(只展现好的一面): political spin]**
-N-UNCOUNT In politics, spin is the way in which political parties try to present everything they do in a *positive way* to the public and the **mass media大众媒体**.
-e.g. The public *is sick/tired/weary of* **political spin** and is **getting fed with** the government's promises.  公众厌倦了粉饰和许诺。
-2. **[驾车兜风:  go for a spin; take a car for a spin]**
-N-SING If you **go for a spin** or **take a car for a spin**, you make a short trip in a car just to enjoy yourself. 兜风
-•  Tom Wright celebrated his 99th birthday by **going for a spin**  in his sporty Mazda. 开着他的运动型马自达车出去兜风以庆祝其99岁生日。
 
 
 
