@@ -4,14 +4,8 @@ https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
 ## Bridge collapse
 https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 
-<<<<<<< HEAD
 
-## Sexual harassment
-=======
-## Bridge collapse
-https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
-
-##指控
+## s指控
 •	Accuse sb. of/charge sb. with/indict sb. for
 E.g. He was charged with three counts of 1st degree murder. 被指控 三项 罪名
 E.G. He was charged with multiple counts of sexual harassment/assault 性骚扰 and five counts of sexual coercion性胁迫
@@ -22,9 +16,9 @@ E.G. He was charged with multiple counts of sexual harassment/assault 性骚扰 
 
 
 ## in response 作为回答 作为反应 作为回应
+e.g In response, the manager xxx
 
-
-##  law pl: statute of limitations限定法律行动有效时限的法令; 诉讼时效
+## law pl: statute of limitations限定法律行动有效时限的法令; 诉讼时效
 Statutes of limitations are written laws passed by a legislative body in common law systems to restrict the maximum time after an event that legal proceedings may be initiated. Once the period of time specified in a statute of limitations passes, a claim can no longer be validly filed. The intentions of these laws can facilitate the resolution in a reasonable amount of time. In civil law systems, similar provisions are typically part of the civil code or criminal code and are often known collectively as periods of prescription. There are very strict guidelines, but the cause of action dictates the statute of limitations on a civil case, where contracts, personal injury, libel and fraud cases legal or equitable remedy. These statutes can be reduced or extended to ensure a fair trial. Once a statute in a criminal actions case expires the court no longer has jurisdiction to punish the defendan
 •  The statute of limitations on crimes other than homicide is five years, so Reyes cannot be prosecuted for the attack.   除杀人罪以外的罪行的诉讼时效为5年，所以雷耶斯不能因为那次袭击被起诉。
 
@@ -40,7 +34,7 @@ e.g. The tires were **bald** (秃头的/轮胎表面磨平的= completely worn d
 V.S. **推拿术 manipulation**: a permanent cure will only be effected by acupuncture, chiropractic, or manipulation.  只有针灸、按摩或推拿术才能实现永久的治愈。
 • He **was in traction** (= receiving this kind of treatment ) for weeks after the accident. 事故后他接受了几个星期的牵引治疗
 • Isabelle's legs **were in traction** for about two and a half weeks.  伊莎贝尔的双腿作了大约两周半的牵引。
->>>>>>> branch1
+
 
 acquitted
 
@@ -96,9 +90,7 @@ the witness remained silent
 
 
 
-Conservatism
-
-
+## Conservatism
 Conservatism is a political and social philosophy that promotes retaining traditional social institutions in the context of culture and civilization.
 
 Sexual harassment
@@ -111,24 +103,61 @@ Sexual violence
 
 Sexual violence is any sexual act or attempt to obtain a sexual act by violence or coercion, acts to traffic a person or acts directed against a person's sexuality, regardless of the relationship to the victim.
 
+## mow, mowed, mown
+1.V-T/V-I If you mow an area of grass, you cut it using a machine called a lawn mower. (用割草机) 割草
+•  He continued to **mow the lawn** and do other routine chores.
+ 他继续给草坪割草，并做其他日常杂务。
+2. N the part of a barn where hay, straw, etc, is stored (谷仓内)干草、麦秆等堆放处
+V.S.
+##  [trɪm]
+pp: trimmed   pt: trimmed   pres part: trimming
+MEANINGS 义项
 
+1.
+CUT 剪
+to make something look neater by cutting small pieces off it
+修剪
+THESAURUS CUT
+•
+Pete was trimming the lawn around the roses. 皮特在修剪玫瑰丛周围的草坪。
+•
+I have my hair trimmed every six weeks. 我每六周剪一次头发。
+trim sth away/off
+•
+Trim away any excess glue with a knife. 用小刀修去多余的胶水。
+2.
+REDUCE 减少
+to reduce a number, amount, or the size of something
+削减
+•
+We need to trim costs by £500m. 我们需要削减5亿英镑的成本。
+•
+The bill would trim the number of immigrants to the US. 这项议案将削减美国外来移民的人数。
+trim sth from/off sth
+•
+The company trimmed £46,000 from its advertising budget. 公司把广告预算削减了4.6万英镑。
+3.
+DECORATE 装饰
+[usually passive,一般用被动态] to decorate something, especially clothes, by adding things that look pretty
+装饰，点缀〔尤指衣服〕
+•
+At Christmas, the whole family helps trim the tree. 圣诞节时，全家都帮忙装饰圣诞树。
+trim sth with sth
+•
+a dress trimmed with lace 饰有花边的连衣裙
 
-<<<<<<< HEAD
-Statutes of limitations are laws passed by legislative bodies in common law systems to set the maximum time after an event within which legal proceedings may be initiated.
-=======
 ## piggyback /ˈpɪɡɪˌbæk/ [ give sb. a piggyback; piggyback on/onto sth]
 1. N-COUNT 可数名词 If you [**give someone a piggyback**], you carry them high on your back, supporting them under their knees. 背负
 •  They give each other piggyback rides. 他们将彼此背在背上。
 2. ADV Piggyback is also an adverb. 驮
 •  My father carried me up the hill, piggyback. 爸爸把我驮在背上，上了山
-3. V-I If you [**piggyback on/onto something**], you take advantage of it that has been done or achieved by other people. 利用(别人已经有的成果/技术/知识)/站在巨人的肩膀上
+3. V-I If you [**piggyback on/onto something**], you take advantage of it that has been done or achieved by other people. 利用(别人已经有的成果/技术/知识) / 站在巨人的肩膀上
 •  I was just **piggybacking onto** Stokes's idea.  我只是 利用/借用<史都克>的想法而已。
 •  They are **piggybacking onto** developed technology.  他们 利用/借用已发展的科技。
 •  videos that **piggyback onto** the success of proven TV programs 借助已经成功 的电视节目推出的录影带
 4. **[盗用sb's的网络连接: piggyback onto sb's internet connection]**: to use someone else’s wi-fi connection to the Internet, without their knowledge or permission.
 e.g. How can I prevent other people from **piggybacking onto my connection**? 我怎么才能阻止其他人 盗用我的网络连接？
 
->>>>>>> branch1
 
 ## Bridge collapse in Italy
 alleviate
