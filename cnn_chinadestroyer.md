@@ -93,23 +93,21 @@ admired as one of the best and most important; A prestigious institution, job, o
  A combatant is a person, group, or country that takes part in the fighting in a war.
 e.g. I have never suggested that U.N. forces could physically separate the combatants in the region.  我从未表示过联合国部队能将该地区的参战者们实际隔离开
 
-## ['mædʒɪsti,'mædʒəsti] pl: majesties
-1. [ Your/Her/His Majesty=YOUR/HER/HIS HIGHNESS]: used when talking to or about a king or queen 陛下〔对国王或女王的称呼〕
-You use majesty in expressions such as Your Majesty or Her Majesty when you are addressing or referring to a king or queen. 陛下
-e.g  His Majesty /mædʒəsti/ requests your presence in the royal chambers.  国王陛下要求你在皇室受召见
-e.g. The Prime Minister is here to see you, Your Majesty/mædʒəsti/. 首相前来拜谒，陛下。
-
+## /**'mædʒɪsti,'mædʒəsti**/ 注意发音，majesty, pl: majesties
+1. [ **Your/Her/His Majesty**=YOUR/HER/HIS HIGHNESS]: used when talking to or about a king or queen 陛下〔对国王或女王的称呼〕You use majesty in expressions such as Your Majesty or Her Majesty when you are addressing or referring to a king or queen. 陛下
+e.g  **His Majesty /mædʒəsti/** requests your presence in the royal chambers.  国王陛下要求你在皇室受召见
+e.g. The Prime Minister is here to see you, **Your Majesty/mædʒəsti/**. 首相前来拜谒，陛下。
 2. [U] majesty(山河的)雄伟，壮丽；庄严；崇高: the quality that something big has of being impressive, powerful, or beautiful
-V.S. magnificent, magnificence: If you say that something or someone is magnificent, you mean that you think they are extremely good, beautiful, or impressive. 出色的; 壮丽的
-e.g. the pure majesty /'mædʒəsti/ and magnificence of the Alps 阿尔卑斯山的雄伟壮丽
-e.g. the impressive majesty and magnificence of the Mount Everest 喜马拉雅山的雄伟壮丽
+V.S. **magnificent, magnificence**: If you say that something or someone is magnificent, you mean that you think they are extremely good, beautiful, or impressive. 出色的; 壮丽的
+e.g. **the pure majesty /'mædʒəsti/ and magnificence of the Alps** 阿尔卑斯山的雄伟壮丽
+e.g. the impressive **majesty and magnificence of the Mount Everest** 喜马拉雅山的雄伟壮丽
 
 ## displace /dɪsˈpleɪs/
-1.V-T place => displace: If one thing displaces another, it forces the other thing out of its place, position, or role, and then occupies that place, position, or role itself.
+1. V-T place => displace: If one thing displaces another, it forces the other thing out of its place, position, or role, and then occupies that place, position, or role itself.
 e.g.  These factories have displaced tourism as the country's largest source of foreign exchange.  这些工厂已经取代了旅游业而成为该国最大的外汇来源
 e.g. China's new ships displace about 3,000 more tons than US or South Korea warships that have been the ones to look up to in Asian waters. In the South China Sea, the Type 055As will have a considerable size advantage over the US Navy's cruisers and 9,000-ton US destroyers.
 
-2.V-T (normally used in passive vioce) 使sb背井离乡: sb. be displaced
+2. V-T (normally used in passive vioce) 使sb背井离乡: sb. be displaced
  If a person or group of people is displaced, they are forced to move away from the area where they live, which is esp. inflicted/caused by wars, natural disasters like tsunami, earthquake, wildfire.
 e.g. More than 600,000 people were displaced relentlessly无情的残酷的by the tsunami and the unprecedentedly fatal earthquake in Japan.  超过60万人被海啸搞得 背井离乡
 //relent sb’s attitude:态度软化变宽容; relentless:  strict, cruel 无情的；残酷的
@@ -124,3 +122,44 @@ e.g. augment the family income 增加家庭收入
 e.g. Any surplus was sold to augment their income. 所有多余的东西被售卖一空来增加他们的收入。
 
 e.g. Beijing will pay whatever it takes to stand toe-to-toe with旗鼓相当地/ 一对一较量／抗衡地 the US Navy. He said he expects China to build around 20 of the high-end Type 055s destroyers and augment them with smaller Type 054 frigates and aircraft carriers 航母 in service or under construction to field four carrier battle groups by 2030.    //旗鼓相当地/ 一对一较量地toe-to-toe
+
+## piggyback /ˈpɪɡɪˌbæk/ [ give sb. a piggyback; piggyback on/onto sth]
+1. N-COUNT 可数名词 If you [**give someone a piggyback**], you carry them high on your back, supporting them under their knees. 把sb.背在背上/驮在背上
+•  They give each other piggyback rides. 他们将彼此背在背上。
+2. ADV Piggyback is also an adverb. 驮
+•  My father carried me up the hill, piggyback. 爸爸把我驮在背上，上了山
+
+3. V-I If you [**piggyback on/onto something**], you take advantage of it that has been done or achieved by other people. 利用(别人已经取得成果/技术/知识) / 站在巨人的肩膀上
+•  I was just **piggybacking onto** Jill's idea.  我只是 利用/借用<Jill>的想法而已。
+•  They are **piggybacking onto** developed technology.  他们 利用/借用已发展的科技。
+•  videos that **piggyback onto** the success of proven TV programs 借助已经成功 的电视节目推出的录影带
+
+4. **[盗用sb's的网络连接: piggyback onto sb's internet connection]**: to use someone else’s wi-fi connection to the Internet, without their knowledge or permission.
+e.g. How can I prevent other people from **piggybacking onto my connection**? 我怎么才能阻止其他人 盗用我的网络连接？
+
+## [把…弄个水落石; 弄清…的/真相起因，寻到…的根子: get to the bottom of it]
+e.g. I'm investigating now; and **I'll get to the bottom of it.**
+
+## cross fingers
+e.g. Hopefully that'll make it more stable.
+=> yep, we're **crossing fingers**
+
+## 说到这儿 On that note = Speaking of which, xxx
+说到xxx: Speaking of sth, xx
+e.g. **On that note/Speaking of which**, should we **work out a plan** to follow that issue?
+
+## [消磨时间, 打发时间; 随便玩玩: goof around  [guːf] ]
+E.g.  I don’t wanna **goof around随便玩玩**; instead, I’d like to have a serious relationship with you. I mean, I wanna be your BF. Seriously.
+e.g. We spent the whole afternoon just **goofing around** on our bikes around HanGang river in Seoul, which is so relaxing. When you’re riding the bike and circulating the Han river, you can nicely enjoy **the panoramic view 全景** of the whole river.    //**panorama [pænə'rɑːmə]; panoramic [,pænə'ræmɪk] adj. [摄] 全景的**
+
+V.S.
+## [混日子，逃避工作: goof off]:  to waste and kill time or avoid doing any work
+e.g. He’s been **goofing off** at school. 他在学校里一直混日子。
+e.g. From my point, he’s just **goofing off** at company.
+
+## 热情
+•	/ɪnˈθjuːzɪˌæst/ enthusiast: N-COUNT An enthusiast is a person who is very interested in a particular activity or subject and who spends a lot of time on it. 爱好者[**music enthusiast; sports enthusiast**]
+•	/ɪnˌθjuːzɪˈæstɪk/ enthusiastic: ADJ If you [ are enthusiastic about] something, you show how much you like or enjoy it by the way that you behave and talk. 热衷的; 热烈的  
+•	/ɪnˈθjuːzɪˌæzəm/ enthusiasm: N-VAR Enthusiasm is great eagerness to be involved in a particular activity that you like and enjoy or that you think is important. 热情
+
+e.g. For music enthusiasts, the HP DreamScreen, a music app, allows users to stream music directly from the Internet using Pandora.

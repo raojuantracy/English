@@ -6,6 +6,7 @@ https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Sexual harassment
 =======
 <<<<<<< HEAD
@@ -18,6 +19,9 @@ https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 ##指控
 =======
 ## s指控
+>>>>>>> branch1
+=======
+## 指控
 >>>>>>> branch1
 •	Accuse sb. of/charge sb. with/indict sb. for
 E.g. He was charged with three counts of 1st degree murder. 被指控 三项 罪名
@@ -165,6 +169,7 @@ trim sth with sth
 a dress trimmed with lace 饰有花边的连衣裙
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Statutes of limitations are laws passed by legislative bodies in common law systems to set the maximum time after an event within which legal proceedings may be initiated.
@@ -184,6 +189,8 @@ Statutes of limitations are laws passed by legislative bodies in common law syst
 •  videos that **piggyback onto** the success of proven TV programs 借助已经成功 的电视节目推出的录影带
 4. **[盗用sb's的网络连接: piggyback onto sb's internet connection]**: to use someone else’s wi-fi connection to the Internet, without their knowledge or permission.
 e.g. How can I prevent other people from **piggybacking onto my connection**? 我怎么才能阻止其他人 盗用我的网络连接？
+=======
+>>>>>>> branch1
 
 <<<<<<< HEAD
 >>>>>>> branch1
@@ -312,3 +319,12 @@ Viaduct
 
 
 A viaduct is a bridge composed of several small spans for crossing a valley, dry or wetland, or forming a flyover.
+
+## [消磨时间, 打发时间; 随便玩玩: goof around  [guːf] ]
+E.g.  I don’t wanna **goof around随便玩玩**; instead, I’d like to have a serious relationship with you. I mean, I wanna be your BF. Seriously.
+e.g. We spent the whole afternoon just **goofing around** on our bikes around HanGang river in Seoul, which is so relaxing. When you’re riding the bike and circulating the Han river, you can nicely enjoy **the panoramic view 全景** of the whole river.    //**panorama [pænə'rɑːmə]; panoramic [,pænə'ræmɪk] adj. [摄] 全景的**
+
+V.S.
+## [混日子，逃避工作: goof off]:  to waste and kill time or avoid doing any work
+e.g. He’s been **goofing off** at school. 他在学校里一直混日子。
+e.g. From my point, he’s just **goofing off** at company.
