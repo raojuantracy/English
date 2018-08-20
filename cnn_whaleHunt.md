@@ -11,19 +11,27 @@ Cetaceans are mammal animals such as whales, dolphins, and **porpoises (/ˈpɔː
 N the branch of zoology concerned with the study of whales (cetaceans) 鲸类学
 
 ## 海洋动物的脂肪, esp  鲸类动物的脂肪层 blubber /ˈblʌbə/
-1. Blubber is the fat of whales, seals, and similar sea animals; Blubber is a thick layer of vascularized adipose tissue found under the skin of all *cetaceans(鲸类动物/sɪˈteɪʃən/)*, pinnipeds and sirenians 海洋动物的脂肪, esp  鲸类动物的脂肪层. [**海洋动物的一层厚脂肪: a layer of blubber**]
-•  The baby **pilot whale** develops **a thick layer of blubber** to protect it from the cold sea.
-2. V-I 放声大哭 If **someone blubbers**, they cry noisily (or even **hysterically 歇斯底里地**) and in an unattractive way.
+1. Blubber is the fat of whales, seals, and similar cetaceans 鲸类 or  sea animals; Blubber is a thick layer of vascularized adipose tissue found under the skin of all *cetaceans(鲸类动物/sɪˈteɪʃən/)*, pinnipeds and sirenians. [**海洋动物的一层厚脂肪: a thick layer of blubber**]
+e.g. The baby **pilot whale 巨头鲸** develops **a thick layer of blubber** to protect it from the cold sea.
+e.g. The meat and **blubber/ˈblʌbə/** of pilot whales巨头鲸 have long been, and will continue to be a valued part of the national diet, "**Catches[kætʃɪz]捕捉物** are **bartered** largely without the exchange of money among the participants in a whale drived community.   //**barter a for b: If you barter goods, you exchange them for other goods, rather than selling them for money. 以物交换; 以物易物**
+2. V-I 放声大哭 If **sb. blubbers**, they cry noisily (or even **hysterically 歇斯底里地**) and in an unattractive way.
 e.g. She started to blubber like a child.  她像个孩子一样开始 **放声大哭**
-e.g. She totally lost her mood and started to **blubber hysterically**.  歇斯底里地 **放声大哭**
+e.g. She totally lost her mood and started to **blubber hysterically**, just to vent发泄.  歇斯底里地 **放声大哭**
 
-## n. （鲸、海豚等头顶的）喷水孔/呼吸孔；（隧道等的）通风孔；岩石孔穴；[材] 气泡 /ˈbləʊˌhəʊl/ blowhole
+## be home to xxx
+e.g. Hundreds of **pilot whales** are killed in this "**archaic nation**", which belongs to Denmark but are an autonomous country and **are not bound by EU laws 受法律的牵制/约束s**. They **are home to** 50, 000 people, according to official **stats/stæts/**, aka, **the population census人口普查**
+
+## 濒危动物物种: endangered species
+N-COUNT An endangered species is an animal species that is in danger of becoming extinct. 濒危动物物种
+•  The beetles are on the list of endangered species.  甲虫在濒危动物物种名单之上
+
+## n. （cetaceans鲸类等头顶的）喷水孔/呼吸孔；（隧道等的）通风孔；岩石孔穴；[材] 气泡 /ˈbləʊˌhəʊl/ blowhole
 N. In **cetology/siːˈtɒlədʒɪ/鲸类学**, a blowhole is the hole at the top of a **Cetacean's /sɪˈteɪʃən/)** head, through which the cetaceans breathe air; the **nostril/'nɑstrəl鼻孔/**, paired or single, of whales, situated far back on the skull
 
 ## 捕鲸(业);  捕鲸(这个活动) whaling /ˈweɪ/; [ 商业性捕鲸(活动): commercial whaling ]
 N-UNCOUNT Whaling is the activity of hunting and killing whales.
 •  ...**a blanket ban** on **commercial whaling**.  …一项有关商业性捕鲸的 **全面禁令**。
-e.g. The EU *blanket ban* on commercial whaling **carries no weight 没有分量／不受重视** on that country because that country **is not bound by EU laws 受法律的牵制/约束** and it's an autonomous island.  
+e.g. The EU *blanket ban* on *commercial whaling* **carries no weight 没有分量／不受重视** on that country because that country **is not bound by EU laws 受法律的牵制/约束** and it's an autonomous island. Hundreds of **pilot whales** are killed in this "**archaic nation**", which belongs to Denmark but are an autonomous country and **are not bound by EU laws 受法律的牵制/约束s**. They **are home to** 50, 000 people, according to official **stats/stæts/**, aka, **the population census人口普查**
 
 ## creature /tʃə/ 注意发音
 1. LIVING THING 生物 anything that is living, such as an animal, fish, or insect, but not a plant　生物；动物
@@ -40,10 +48,7 @@ e.g. Homeless people **are stereotyped as** alcoholics or addicts. 无家可归�
 e.g. He **was stereotyped as** a renegade.  他被一些人带着成见视为一名叛逆者。
 
 ## [受法律的牵制/约束: be bound by laws]
-e.g. The EU *blanket ban* on commercial whaling **carries no weight 没有分量／不受重视** on that country because that country **is not bound by EU laws 受法律的牵制/约束** and it's an autonomous area.  
-
-## 没有分量／不受重视: sth carry no weight on sb/sth
-e.g. The EU *blanket ban* on *commercial whaling* **carries no weight 没有分量／不受重视** on that country because that country **is not bound by EU laws** and it's an autonomous island.
+e.g. The EU *blanket ban* on commercial whaling **carries no weight 没有分量／不受重视** on that country because that country **is not bound by EU laws 受法律的牵制/约束** and it's an autonomous island. Hundreds of **pilot whales** are killed in this "**archaic nation**", which belongs to Denmark but are an autonomous country and **are not bound by EU laws 受法律的牵制/约束s**. They **are home to** 50, 000 people, according to official **stats/stæts/**, aka, **the population census人口普查**
 
 ## spear and shield
 * spear: 矛 A spear is a pole weapon consisting of a **shaft 箭杆；杆状物[ʃæft]**, usually of wood, with **a pointed sharp head**.  
@@ -52,9 +57,9 @@ e.g. The EU *blanket ban* on *commercial whaling* **carries no weight 没有分�
 
 ## lance /lɑːns/
 1. V-T If **a boil 脓泡** on the body is lanced, a small cut is made in it so that the inflamed yellow liquid 发炎的液体/脓 inside comes out/is discharged. [**切开脓泡 (放脓): lance a boil**]
-•  It is a painful experience having the **boil** lanced. 将 **疖子／脓泡** 切开是个痛苦的经历。
+•  It is a painful experience **having the boil lanced**. 将 **疖子／脓泡** 切开是个痛苦的经历。
 2. N-COUNT 长矛 A lance is a long **spear** used in former times by soldiers on horseback; A spear is a pole weapon consisting of a **shaft 箭杆；杆状物[ʃæft]**, usually of wood, with **a pointed sharp head**.
-•  ...the clang of lances striking armour.  …长矛撞击盔甲的铿锵声。
+•  ...the clang of lances striking armour.  …长矛撞击盔甲的铿锵
 
 ## boil [bɔɪl]
 * Noun) a boil is a painful infected, **inflamed发炎红肿的** swelling under someone’s skin 脓疮,脓泡,疖子; If **a boil 脓泡 on the body is lanced**, a small cut is made in it so that the inflamed yellow liquid 发炎的液体/脓 inside comes out/is discharged. [**切开脓泡 (放脓): lance a boil**]
@@ -65,9 +70,13 @@ e.g. The boy’s body is covered in boils. 这个男孩满身是疖子。
 e.g. What they want **boils down to money**  他们想要的归根结底就是钱
 e.g. You know, in China, **Everything boils down to money**.
 
+## 没有分量／不受重视: sth carry no weight on sb/sth
+e.g. The EU *blanket ban* on *commercial whaling* **carries no weight 没有分量／不受重视** on that country because that country **is not bound by EU laws 受法律的牵制/约束** and it's an autonomous island. Hundreds of **pilot whales** are killed in this "**archaic nation**", which belongs to Denmark but are an autonomous country and **are not bound by EU laws 受法律的牵制/约束s**. They **are home to** 50, 000 people, according to official **stats/stæts/**, aka, **the population census人口普查**
+
 ##  早已/非常过时的; 非常陈旧的; 古色古香的 archaic /ɑːˈkeɪɪk/ [archaic words 古词; archaic civilizations 古代文明]  
-ADJ Archaic means extremely old or extremely old-fashioned.
+ADJ Archaic means extremely old, out of data, or extremely old-fashioned.
 •  ...archaic laws that are very seldom used.  …现在极少使用的早已过时的法律
+e.g. Reacting to the **bloodshed of cetaceans 鲸类**, the Blue Planet society, **a pressure group**, condemned the **relentless无情的/毫不留情的 and inhumane[‚ɪnhjuː'meɪn]非人道的** killing, **satirizing['sætə'raɪz]** the country as an "**archaic country**" that needs to "join the 21st century"    //**(试图影响舆论和政府行为的)倡导团体 advocacy group/pressure group/lobby group/campaign group/interest group**
 
 ## 群岛,列岛 archipelago /ˌɑːkɪˈpɛlɪˌɡəʊ/; pl: archipelagos
 An archipelago is a group of islands, especially small islands.
@@ -76,8 +85,10 @@ e.g. Since 2003, he has spent up to a third of every year on the remote archipel
 ## n. 捕获数；捕捉物 [kætʃɪz] catches
 e.g. In ancient period, people use their hunting **catches /ʃɪz/** to mutually exchange for money. In other words, they **bartered goods**.   //**barter A for B**: If you barter goods, you exchange them for other goods, rather than selling them for money. 以物交换; 以物易物 e.g. They have been **bartering wheat for cotton**. 他们一直在用小麦交换棉花和木材
 
-## Advocacy group
+## (试图影响舆论和政府行为的)倡导团体 Advocacy group/pressure group/lobby group/campaign group/interest group
 **Advocacy groups (also known as pressure groups, lobby groups, campaign groups, interest groups, or special interest groups)**  use various forms of advocacy to influence public opinion and/or policy; they have played and continue to play an important part in the development of political and social systems. Groups vary considerably in size, influence, and motive; some have wide ranging long term social purposes, others are focused and are a response to an immediate issue or concern.
+
+e.g. Reacting to the **bloodshed of cetaceans 鲸类**, the Blue Planet society, **a pressure group**, condemned the **relentless无情的/毫不留情的 and inhumane[‚ɪnhjuː'meɪn]非人道的** killing, **satirizing['sætə'raɪz]** the country as an "**archaic country**" that needs to "join the 21st century"
 
 ## autonomous: existing as an independent entity
 An autonomous administrative division (also referred to as an autonomous area, entity, unit, region, subdivision, or territory) is a subdivision or dependent territory of a country that has a degree of self-governance, or autonomy, from an external authority.
@@ -87,43 +98,61 @@ e.g. The EU *blanket ban全面禁令* on commercial whaling **carries no weight 
 1. [C] Noun: a herd of animals is a group of animals of one kind that live and feed together〔同一种类并一同活动的〕兽群；牧群  
 * [**the herd instinct 群集本能**]
 * [ **flocks of birds; flocks of swallows 一群小鸟/燕子**]
-* [ **herds of horses/sheeps/cattle 成群的马/羊/牛,牲畜; herds of elephants 数群大象**]
-* [ **a swarm of bees/locusts 一大群蜜蜂/蝗虫**]
+* [ **herds of horses/sheeps/cattle 成群的马/羊/牛/牲畜; herds of elephants 数群大象**]
+* [ **a swarm of bees; a swarm of locusts 一大群蜜蜂/蝗虫蟑螂**]
+* [ **a throng of people 一大群人, a throng of excited spectators 一大群兴奋的观众**]
 
 2. the herd: people generally, especially when thought of as being easily influenced/pushed over by others 〔易受人支配的〕民众，老百姓，芸芸众生  [**run with the herd: 随大溜**]
 [**随大溜是没有用的 It's not use running with the herd**]
 e.g. You have to be an individual; it’s no use running **with the herd**. 你必须特立独行，**随大溜** 没有用处。
-e.g. You cann't be **a creature of habit** at all and you must become creative with innovation. What is more, **it's not use running with the herd 随大溜是没有用的**   //**(一个有习惯性的生物)墨守成规的人: a creature of habit**: someone who always does things in the same way or at the same time.  
-e.g. You've got to show your own perspectives and points. **It's no use running with the herd**.
+e.g. You cann't be **a creature of habit ['kritʃɚ]** at all and you must become creative with innovation. What is more, **it's not use running with the herd 随大溜是没有用的**   //**(一个有习惯性的生物)墨守成规的人: a creature ['kritʃɚ] of habit**: someone who always does things in the same way or at the same time.  
 
-3. Verb. [T always + adv/prep] to bring people together in a large group, especially roughly 〔尤指粗暴地, 放牧似的〕使集合在一起 [**herd sb into sth**]
+3. Verb. [T always + adv/prep] to bring people together in a large group, especially roughly〔尤指粗暴地, 像放牧似的〕把人集合在一个地方 [**herd sb into a place**]
 e.g. The visitors **were herded into** two large halls. 游客们被赶进两个大厅里。
-e.g. The prisoners were herded together . 犯人们被集合起来。
-e.g. I don’t want to be herded around with a lot of tourists. 我不想和许多游客一起被带到这里那里的。
-V.S. **corral**: to keep people in a particular area, especially in order to control them 把〔人〕限制在某地方 e.g. Once at the airport, we **were herded into** the gate and **corralled into a small room**. 我们一到机场就被赶到登机口，关进一个小房间里。
+e.g. The prisoners **were herded together into** a cell. 犯人们被集合起来。
+e.g. The picture shows dozens of cetaceans鲸类/pilot whales **being herded into** a bay where they're killed, the sea turning red with their blood, which is called **natural bloodshed流血/杀戮事件**
+e.g. Once at the airport, we **were herded into** the gate and **corralled into a small room**. 我们一到机场就被赶到登机口，限制/集中一个小房间里。
+e.g. I don’t want to **be herded around** with a lot of tourists. 我不想和许多游客一起被带到这里那里的。
+V.S. **corral sb. into a place [kə'rɑːl] [kə'ræl] 把sb限制/集中在一个小地方(好控制/指挥)**: to keep people in a particular area, especially in order to control them  e.g. Once at the airport, we **were herded into** the gate and **corralled into a small room**. 我们一到机场就被赶到登机口，限制/集中一个小房间里。
 
 4. Verb) [T] to make animals move together in a group 放牧
 e.g. It was Tom’s duty to **herd the cows/cattle/horses/sheeps**. 汤姆的职责是放牛
 e.g. Who will be **herding the cattle** when the cowboy dies?
 5. slang) **某群人极难管理: sth is like herding cats**: used to say that trying to control or organize a group of people is very difficult
 
-# STOP
 ##  [kə'rɑːl] corral; Verb) pp: corralled   pt: corralled   pres part: corralling corraling
-1. Noun: a corral is a fairly small enclosed area where cattle, horses etc can be kept temporarily, especially in North America 〔尤指北美临时关牛、马等的〕畜栏
-2. to make animals move into a corral 把〔牲畜〕赶入畜栏
+1. Noun: a corral is a fairly small **enclosed area** where cattle, horses etc can be kept temporarily, especially in North America 〔尤指北美临时关牛、马等的〕畜栏
+2. to move and drive animals move into a corral 把〔牲畜〕赶入畜栏
 e.g. They corralled the cattle before loading them onto the truck. 他们在把牛装上车以前，先把牛赶入了畜栏。
-3. to keep people in a particular area, especially in order to control them 把〔人〕限制在某地方
-e.g. Once at the airport, we **were herded into** the gate and **corralled into a small room**. 我们一到机场就被赶到登机口，关进一个小房间里。
+3. to keep people in a particular area, especially in order to control them 把〔人〕限制在某地方(好控制/管理)
+e.g. Once at the airport, we **were herded into** the gate and **corralled into a small room**. 我们一到机场就被赶到登机口，关进一个小房间里
+e.g. The **Advocacy group/pressure group** describes the hunts as "relentless and merciless bloodshed" and argues that these cetaceans 鲸类 are highly intelligent creatures ['kritʃɚ] and they feel pain and fear every bit as we do. However, that nation, so-call "**archaic nation非常过时的**" denies this accusation and pointed that nowadays, more humane methods of **corralling the animals into the bay** and killing them.  把〔人〕限制在某地方(好控制/管理)
 
-## ritual, ritualistic
-Ritualistic actions or behavior follow a similar pattern every time they are used.
-Ritualistic acts are the fixed patterns of behavior that form part of a religious service or ceremony.  
+## ritual, ritualistic, ritualistically
+* Ritualistic acts are the fixed patterns of behaviour that form part of a religious service or ceremony. 宗教仪式的; 固守仪式的
+•  ...the meditative and ritualistic practices of Buddhism.  ...佛教的冥想和仪式。
+the ritualistic marking of birth, marriage and death 纪念出生、结婚和死亡的仪式
+* [**ritualistic words, action, or behaviour**] always follow the same or similar pattern every time they are used, especially because they form part of a ritual. 〔话语、行为等〕有固定模式的/例行的；（遵守）仪式的
+e.g. Each evening she bursts into her apartment with a ritualistic shout of "Honey I'm home!"  模式的/例行的 嚷着“亲爱的，我回来啦""。
+a ritualistic procession 举行仪式的队伍
 
 ## frivolous,frivolously
-* [**a frivolous person: 轻浮的／轻佻的，不认真/不理智的人**］If you describe someone as frivolous, you mean they behave in a silly or light-hearted way, rather than being serious and sensible/rational.
-* [**frivolous=useless, e.g. frivolous expenses 无用的浪费的花销**]: If you describe an activity as frivolous, you disapprove of it because it is not useful and wastes time or money.
-e.g. Per my monthly budget plan, i've got to **cut back on/pare down** my **frivolous expenses**, e.g. coffee expense.
+* [**a frivolous person: 不认真/不理智的人;轻浮的／轻佻的，**］ frivolous = not serious, not sensible or rational. If you describe someone as frivolous, you mean they behave in a silly or **light-hearted(not serious)** way, rather than being serious and sensible/rational.
+e.g. I just decided I was a bit too **frivolous** to be a doctor. You know I don't have that strong **sense of vocation for being a doctor 使命感**, so i'm not **a good fit**.  我只是认定自己有点儿 "不认真/不理智的/太轻率""，不适合当医生   //**have a strong sense vocation for xx job: 对<xxx职业>有使命感**
+* [**frivolous = useless 无用的浪费时间和金钱的东西, e.g. frivolous expenses 无用的浪费的花销**]: If you describe an activity as frivolous, you disapprove of it because it is not useful and wastes time or money.
+e.g. Per the monthly budget plan I worked out, i've got to **cut back on/pare down** my **frivolous expenses 无用的浪费的花销**, e.g. coffee every morning.
+e.g. The group says it wants politicians to stop wasting public money and subsidies on what it believes are **frivolous/useless projects 无用的项目**.
 
+
+
+
+
+
+
+
+
+
+# STOP
 ## empathy, empathetic V.S. sympathy, sympathetic
 * 能站在对方角度去考虑的，有同理心的 empathy,empathetic: is the capacity to understand or feel what another person is experiencing from within the other person's frame of reference, i. e. , the capacity to place oneself in another's position.
 * show sympathy/mercy to sb.
@@ -184,7 +213,8 @@ e.g. From my point, he’s just **goofing off** at company.
 1. treating people or animals in a way that is not cruel and causes them as little suffering as possible；Humane people act in a kind, sympathetic way toward other people and animals, and try to do them as little harm as possible. 人道的
 e.g. In the mid-nineteenth century, Dorothea Dix began to campaign for humane treatment of the mentally ill. 多罗西娅·迪克斯发起了为精神病患者争取人道待遇的运动
 e.g. a better, more humane world 更美好、更人道的社会
-OPP INHUMANE
+</br> ==> **inhumane[‚ɪnhjuː'meɪn]非人道的**
+e.g. e.g. Reacting to the **bloodshed of cetaceans 鲸类**, the Blue Planet society, **a pressure group**, condemned the **relentless无情的/毫不留情的 and inhumane[‚ɪnhjuː'meɪn]非人道的** killing, **satirizing['sætə'raɪz]** the country as an "**archaic country**" that needs to "join the 21st century"    //**(试图影响舆论和政府行为的)倡导团体 advocacy group/pressure group/lobby group/campaign group/interest group**
 2. Humane values and societies encourage people to act in a kind and sympathetic way toward others, even toward people they do not agree with or like. 仁爱的
 </br> V.S. **adj) humanitarian, Noun) humanitarianism**
 concerned with improving bad living conditions and preventing unfair treatment of people
@@ -269,3 +299,6 @@ V.S. **A butcher** is a shopkeeper who cuts up and sells meat. Some butchers als
 4. N-UNCOUNT Slaughter is also a noun. 屠宰
 •  More than 491,000 sheep were exported for slaughter last year.  去年，超过四十九万一千只羊被出口供屠宰
 </br> **Manslaughter** is the illegal killing of a person by someone who did not intend to kill them. 过失杀人(罪)  e.g. He **is finally acquitted of manslaughter** *in the court of law*. 在法庭上 宣判他 **过失杀人罪** 不成立，当庭释放 //**convict sb. of <crime> in the court of law V.S. acquit sb of <crime>**
+
+## 免责声明〔尤用于广告或法律合同〕 disclaimer [dɪs'kleɪmə]
+a statement that you are not responsible for or involved with something, or that you do not know about it – used especially in advertising or legal agreements
