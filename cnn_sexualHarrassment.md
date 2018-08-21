@@ -4,33 +4,10 @@ https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
 # Bridge collapse
 https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Sexual harassment
-=======
-<<<<<<< HEAD
-
-## Sexual harassment
-=======
-## Bridge collapse
-https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
-
-##指控
-=======
-## s指控
->>>>>>> branch1
-=======
-=======
-## Sexual harrassment
-https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
->>>>>>> branch1
-## 指控
->>>>>>> branch1
-•	Accuse sb. of/charge sb. with/indict sb. for
-E.g. He was charged with three counts of 1st degree murder. 被指控 三项 罪名
-E.G. He was charged with multiple counts of sexual harassment/assault 性骚扰 and five counts of sexual coercion性胁迫
+##	Accuse sb. of/charge sb. with/indict sb. for
+E.g. He was charged with **three counts of** 1st degree murder. 被指控 三项 罪名
+E.G. He was charged with  **multiple counts of** sexual harassment/assault 性骚扰 and  **five counts of** sexual coercion性胁迫
 
 •	N) accusation, charge, indictment
 •	原告: the accuser, plaintiff, indictor
@@ -54,68 +31,7 @@ e.g. The tires were **bald** (秃头的/轮胎表面磨平的= completely worn d
 V.S. **推拿术 manipulation**: a permanent cure will only be effected by acupuncture, chiropractic, or manipulation.  只有针灸、按摩或推拿术才能实现永久的治愈。
 • He **was in traction** (= receiving this kind of treatment ) for weeks after the accident. 事故后他接受了几个星期的牵引治疗
 • Isabelle's legs **were in traction** for about two and a half weeks.  伊莎贝尔的双腿作了大约两周半的牵引。
-<<<<<<< HEAD
->>>>>>> branch1
->>>>>>> branch1
-=======
 
-<<<<<<< HEAD
->>>>>>> branch1
-
-acquitted
-
-pronounce not guilty of criminal charges
--
-
-The suspect was cleared of the murder charges
-
-coercion
-
-
-using force to cause something to occur
--
-
-though pressed into rugby under compulsion I began to enjoy the game; they didn't have to use coercion
-
-gaining
-
-
-obtain
--
-
-derive pleasure from one's garden
-
-harassment
-
-
-the act of tormenting by continued persistent attacks and criticism
-
-multiple
-
-
-having or involving or consisting of more than one part or entity or individual
--
-
-multiple birth; multiple ownership; made multiple copies of the speech; his multiple achievements in public life; her multiple personalities; a pineapple is a multiple fruit
-
-sexual
-
-
-of or relating to or characterized by sexuality
--
-
-sexual orientation; sexual distinctions
-
-silent
-
-
-failing to speak or communicate etc when expected to
--
-
-the witness remained silent
-
-
-=======
 ## convict sb of a crime in a court of law V.S. acquit sb of a crime (in a court of law)
 acquit, pp: acquitted   pt: acquitted
 * **acquit sb. of a crime** in a court of law: pronounce not guilty of criminal charges, they are formally declared not to have committed the crime. 宣判…无罪，罪不成立，当庭释放 e.g.  Mr. Castorina was acquitted of attempted murder 卡斯托瑞纳先生被宣判谋杀未遂罪不成立。
@@ -123,6 +39,7 @@ acquit, pp: acquitted   pt: acquitted
 
 ## 强迫；胁迫，逼迫 coerce, coercion: /kəʊˈɜːʃən/  
 N-UNCOUNT Coercion is the act or process of persuading someone forcefully to do something that they do not want to do; the use of threats or orders to make someone do something they do not want to do
+E.G. He was charged with  **multiple counts of** sexual harassment/assault 性骚扰 and  **five counts of** sexual coercion 性胁迫
 * **Sexual harassment** is bullying欺负/欺凌 or coercion of a sexual nature, or the unwelcome or inappropriate promise of rewards in exchange for sexual favors.
 * **Sexual violence**: is any sexual act or attempt to obtain a sexual act by violence or coercion, acts to traffic a person or acts directed against a person's sexuality, regardless of the relationship to the victim.
 
@@ -138,10 +55,25 @@ e.g. One woman **lodged an accusation against that male 正式的提出诉讼** 
 ## [botany] [植] 复果/聚花果 multiple fruit
 N a fruit, such as a pineapple, formed from the ovaries of individual flowers in an inflorescence
 e.g. Pineapple is **a multiple fruit.**
->>>>>>> branch1
 
 ## Conservatism
 Conservatism is a political and social philosophy that promotes retaining traditional social institutions in the context of culture and civilization.
+
+## piggyback /ˈpɪɡɪˌbæk/ [ give sb. a piggyback; piggyback on/onto sth]
+1. N-COUNT 可数名词 If you [**give someone a piggyback**], you carry them high on your back, supporting them under their knees. 背负
+•  They give each other piggyback rides. 他们将彼此背在背上。
+2. ADV Piggyback is also an adverb. 驮
+•  My father carried me up the hill, piggyback. 爸爸把我驮在背上，上了山
+3. V-I If you [**piggyback on/onto something**], you take advantage of it that has been done or achieved by other people. 利用(别人已经有的成果/技术/知识) / 站在巨人的肩膀上
+•  I was just **piggybacking onto** Stokes's idea.  我只是 利用/借用<史都克>的想法而已。
+•  They are **piggybacking onto** developed technology.  他们 利用/借用已发展的科技。
+•  videos that **piggyback onto** the success of proven TV programs 借助已经成功 的电视节目推出的录影带
+4. **[盗用sb's的网络连接: piggyback onto sb's internet connection]**: to use someone else’s wi-fi connection to the Internet, without their knowledge or permission.
+e.g. How can I prevent other people from **piggybacking onto my connection**? 我怎么才能阻止其他人 盗用我的网络连接？
+
+
+## Bridge collapse in Italy
+## alleviate V.S. aggravate
 
 ## mow, mowed, mown  美/məʊ/ or /mo/
 1. V-T/V-I If you **mow an area of grass, like lawn**, you cut it using a machine called **a lawn mower**. (用割草机) 割草
@@ -155,80 +87,6 @@ V.S.
 <<<<<<< HEAD
 ##  [trɪm]
 pp: trimmed   pt: trimmed   pres part: trimming
-MEANINGS 义项
-
-1.
-CUT 剪
-to make something look neater by cutting small pieces off it
-修剪
-THESAURUS CUT
-•
-Pete was trimming the lawn around the roses. 皮特在修剪玫瑰丛周围的草坪。
-•
-I have my hair trimmed every six weeks. 我每六周剪一次头发。
-trim sth away/off
-•
-Trim away any excess glue with a knife. 用小刀修去多余的胶水。
-2.
-REDUCE 减少
-to reduce a number, amount, or the size of something
-削减
-•
-We need to trim costs by £500m. 我们需要削减5亿英镑的成本。
-•
-The bill would trim the number of immigrants to the US. 这项议案将削减美国外来移民的人数。
-trim sth from/off sth
-•
-The company trimmed £46,000 from its advertising budget. 公司把广告预算削减了4.6万英镑。
-3.
-DECORATE 装饰
-[usually passive,一般用被动态] to decorate something, especially clothes, by adding things that look pretty
-装饰，点缀〔尤指衣服〕
-•
-At Christmas, the whole family helps trim the tree. 圣诞节时，全家都帮忙装饰圣诞树。
-trim sth with sth
-•
-a dress trimmed with lace 饰有花边的连衣裙
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-Statutes of limitations are laws passed by legislative bodies in common law systems to set the maximum time after an event within which legal proceedings may be initiated.
-<<<<<<< HEAD
-=======
-=======
-=======
->>>>>>> branch1
-## piggyback /ˈpɪɡɪˌbæk/ [ give sb. a piggyback; piggyback on/onto sth]
-1. N-COUNT 可数名词 If you [**give someone a piggyback**], you carry them high on your back, supporting them under their knees. 背负
-•  They give each other piggyback rides. 他们将彼此背在背上。
-2. ADV Piggyback is also an adverb. 驮
-•  My father carried me up the hill, piggyback. 爸爸把我驮在背上，上了山
-3. V-I If you [**piggyback on/onto something**], you take advantage of it that has been done or achieved by other people. 利用(别人已经有的成果/技术/知识) / 站在巨人的肩膀上
-•  I was just **piggybacking onto** Stokes's idea.  我只是 利用/借用<史都克>的想法而已。
-•  They are **piggybacking onto** developed technology.  他们 利用/借用已发展的科技。
-•  videos that **piggyback onto** the success of proven TV programs 借助已经成功 的电视节目推出的录影带
-4. **[盗用sb's的网络连接: piggyback onto sb's internet connection]**: to use someone else’s wi-fi connection to the Internet, without their knowledge or permission.
-e.g. How can I prevent other people from **piggybacking onto my connection**? 我怎么才能阻止其他人 盗用我的网络连接？
-=======
->>>>>>> branch1
-
-<<<<<<< HEAD
->>>>>>> branch1
->>>>>>> branch1
-=======
->>>>>>> branch1
-
-## Bridge collapse in Italy
-alleviate
-
-
-make easier
--
-
-you could facilitate the process by sharing your knowledge
-=======
 ##  [trɪm] trim, pp: trimmed   pt: trimmed   pres part: trimming
 1. CUT 剪 to make something look neater by cutting small pieces off it 修剪(草坪/头发)
 e.g. Pete was **trimming the lawn 修剪草坪** around the roses.
@@ -242,7 +100,7 @@ e.g. The company trimmed £46,000 bucks from its advertising budget. 公司把�
 3. DECORATE 装饰 [usually passive,一般用被动态] to decorate something, especially clothes, by adding things that look pretty 装饰，点缀〔尤指衣服〕
 e.g. At Christmas, the whole family helps to **trim the XMas tree 装饰圣诞树 with bulbs and gifts**
 e.g. a dress **trimmed with lace** 饰有花边的连衣裙
->>>>>>> branch1
+
 
 ## Bridge collapse
 https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
