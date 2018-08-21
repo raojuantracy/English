@@ -4,13 +4,11 @@ https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
 # Bridge collapse
 https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 
-## Sexual harrassment
-https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
+
 ## 指控
 •	Accuse sb. of/charge sb. with/indict sb. for
-E.g. He was charged with three counts of 1st degree murder. 被指控 三项 罪名
-E.G. He was charged with multiple counts of sexual harassment/assault 性骚扰 and five counts of sexual coercion性胁迫
-
+E.g. He was charged with **three counts of** 1st degree murder. 被指控 三项 罪名
+E.G. He was charged with **multiple counts of** sexual harassment/assault 性骚扰 and **five counts of** sexual coercion性胁迫
 •	N) accusation, charge, indictment
 •	原告: the accuser, plaintiff, indictor
 •	被告: the person in a court of law who has been accused of doing something illegal: defendant; the accused; indictee
