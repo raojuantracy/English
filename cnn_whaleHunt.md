@@ -257,7 +257,8 @@ e.g. **It wouldn't hurt to try** and You'd like it. So, **give it a shot/a try/t
 ## 试试吧; 试一试呗 Give it a try =  Give it a shot =  Try it out = Check it out
 e.g. It wouldn't hurt to try and You'd like it. So, **give it a shot/a try/try it out/check it out 试试吧; 试一试呗**.
 
-## 屠杀 Noun) Nanjing massacre; holocaust; carnage; slaughter; Verb) slaughter
+## 屠杀 Noun) Nanjing massacre/slaughter; holocaust; carnage; slaughter;  Verb) massacre sb=slaughter sb Verb)**mow sb**: to kill large numbers of people at the same time, especially by shooting them 大量杀死〔尤指射杀〕，扫杀
+
 ### ['mæsəkə] massacre = slaughter Noun/Verb
 1. [C,U] when a lot of people are killed violently and **relentlessly无情的/毫不留情的**, especially people who cannot defend themselves 大屠杀 [**NanJing massacre**]
 e.g. He's the only survivor of the **Nanjing massacre** 这场大屠杀的唯一幸存者
@@ -299,6 +300,17 @@ V.S. **A butcher** is a shopkeeper who cuts up and sells meat. Some butchers als
 4. N-UNCOUNT Slaughter is also a noun. 屠宰
 •  More than 491,000 sheep were exported for slaughter last year.  去年，超过四十九万一千只羊被出口供屠宰
 </br> **Manslaughter** is the illegal killing of a person by someone who did not intend to kill them. 过失杀人(罪)  e.g. He **is finally acquitted of manslaughter** *in the court of law*. 在法庭上 宣判他 **过失杀人罪** 不成立，当庭释放 //**convict sb. of <crime> in the court of law V.S. acquit sb of <crime>**
+
+## **mow sb**: to kill large numbers of people at the same time, especially by shooting them 大量杀死〔尤指射杀〕，扫杀
+mow, mowed, mown  美/məʊ/ or /mo/
+1. V-T/V-I If you **mow an area of grass**, you cut it using a machine called **a lawn mower**. (用割草机) 割草
+e.g.  He continued to **mow the lawn** and do other **routine chores [tʃɔrz]日常杂务**.  他继续给草坪割草，并做其他 日常杂务日常杂务
+v.s. **trim the lawn:修剪草坪**
+2. Noun: **割草机 mower/'məʊə,ˋmoɚ/ = lawn mower ['məʊə] : a machine used for cutting**
+3. **mow sb**: to kill large numbers of people at the same time, especially by shooting them **indiscriminatively** 大量杀死〔尤指射杀〕，(不加区别的；不加选择的)扫杀
+e.g. The soldiers were mown down by machine gun fire **indiscriminatively**. 士兵们被机枪扫倒。
+4. **mow down sb.**: to kill someone by driving into them fast 开车撞死
+e.g. He was sentenced to two years in prison for **mowing down a girl** and for **hit-and-run(肇事逃逸)**
 
 ## 免责声明〔尤用于广告或法律合同〕 disclaimer [dɪs'kleɪmə]
 a statement that you are not responsible for or involved with something, or that you do not know about it – used especially in advertising or legal agreements
