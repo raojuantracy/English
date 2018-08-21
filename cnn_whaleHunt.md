@@ -61,14 +61,14 @@ e.g. The EU *blanket ban* on commercial whaling **carries no weight 没有分量
 2. N-COUNT 长矛 A lance is a long **spear** used in former times by soldiers on horseback; A spear is a pole weapon consisting of a **shaft 箭杆；杆状物[ʃæft]**, usually of wood, with **a pointed sharp head**.
 •  ...the clang of lances striking armour.  …长矛撞击盔甲的铿锵
 
-## boil [bɔɪl]
-* Noun) a boil is a painful infected, **inflamed发炎红肿的** swelling under someone’s skin 脓疮,脓泡,疖子; If **a boil 脓泡 on the body is lanced**, a small cut is made in it so that the inflamed yellow liquid 发炎的液体/脓 inside comes out/is discharged. [**切开脓泡 (放脓): lance a boil**]
-e.g. It is a painful experience having the **boil** lanced. 将 **疖子／脓泡** 切开是个痛苦的经历。
-e.g. The boy’s body is covered in boils. 这个男孩满身是疖子。
-* **[切忌好高骛远: Don't boil the ocean ]**
-* **[(情况或问题) 归根结底是xxx: boil down to xxx]**:  PHRASAL VERB If you say that a situation or problem **boils down to** a particular thing or can be boiled down to a particular thing, you mean that this is the most important or the most basic aspect of it.
-e.g. What they want **boils down to money**  他们想要的归根结底就是钱
-e.g. You know, in China, **Everything boils down to money**.
+## boil
+* **go off the boil: 不如从前那么擅长了，生疏了**: to become less good at something that you used to **excel at/in**.   //**verb) excel in/at sth, they are very good at doing it, to do something very well, or much better than most people. (在某方面) 擅长**  e.g. He’s **gone off the boil** after a tournament win in Dubai. 他在迪拜的锦标赛中夺冠后就开始走下坡路了。
+* **切开脓包/浓泡来放脓：lance a boil (in the body)**: A boil is a red, painful, inflamed发炎的 swelling or burst-out on your skin that contains a thick yellow liquid called pus; If **a boil on someone's body is lanced**, a small cut is made in it so that the liquid inside comes out/is discharged.
+* **boil the ocean 好高骛远**; **切忌好高骛远: Don't boil the ocean**
+e.g. It's also common for graduate students to try to **boil the ocean** in their thesis and dissertation proposals.  力求 **好高骛远** 的现象是很普遍的
+e.g. ... I don't want us to **boil the ocean好高骛远** for a 4 hour gap.
+e.g. You know, you do **boil the ocean** too much. 你太 **好高骛远**
+* **boil down to sth: (情况或问题) 归根结底是xxx**: PHRASAL VERB, If you say that a situation or problem boils down to a particular thing or can be boiled down to a particular thing, you mean that this is the most important or the most basic aspect of it.  e.g. **Everything boils down to money.**
 
 ## 没有分量／不受重视: sth carry no weight on sb/sth
 e.g. The EU *blanket ban* on *commercial whaling* **carries no weight 没有分量／不受重视** on that country because that country **is not bound by EU laws 受法律的牵制/约束** and it's an autonomous island. Hundreds of **pilot whales** are killed in this "**archaic nation**", which belongs to Denmark but are an autonomous country and **are not bound by EU laws 受法律的牵制/约束s**. They **are home to** 50, 000 people, according to official **stats/stæts/**, aka, **the population census人口普查**
