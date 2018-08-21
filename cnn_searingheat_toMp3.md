@@ -4,40 +4,53 @@ https://edition.cnn.com/2018/08/04/world/climate-change-deadly-summer-wxc-intl/i
 * Indian renders tons of citizen illegal/stateless (without Hukou): https://edition.cnn.com/2018/07/31/asia/assam-india-citizenship-debate-intl/index.html
 
 
+##〔疾病或问题〕地方性的； (不好的情况、不好的社会问题)总是存在于某个地方/在某个地方极为普遍的常有的 endemic
+1. ADJ If you say that a condition or problem esp bad or unpleasant is endemic, you mean that it is very common and strong, and cannot be dealt with easily；an endemic disease or problem is always present in a particular place, or among a particular group of people
+e.g. Violent crime is now *endemic* in parts of Chicago. 芝加哥一些地区暴力犯罪成患,""极为普遍""
+e.g. Discrimination against Catholics is *endemic* in Northern Ireland's institutions. 对天主教徒的歧视在北爱尔兰的公共机构中"极为普遍""
+e.g. Bribery, corruption, and **embezzlement** are very **endemic** in CHINA, esp in small cities.   //**embezzle /ɪmˈbɛzəl/**  V-T If someone embezzles money that their organization or company has placed in their care, they take it and use it illegally for their own purposes. 挪用 (钱款)
+e.g. **Pickpocketing扒窃 and purse snatching** are *endemic* in LA downtown and becoming even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗  //if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way.〔犯罪、疾病等〕猖獗泛滥的，失控的
+
+2. ADJ If a disease or illness is endemic in a place, it is frequently found among the people who live there. (疾病)在某个地方是很常见的
+e.g. **Polio** was then *endemic* among children my age.  小儿麻痹症在当时是在我这个年纪的儿童中常见的疾病。
+
+V.S.
+## rampant
+1. if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. (犯罪、疾病等〕猖獗的，泛滥的，失控的
+e.g. **Pickpocketing扒窃 and purse snatching** are *endemic* in LA downtown and becoming even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗   //**endemic**:  If you say that a condition or problem esp bad or unpleasant is endemic, you mean that it is very common and strong, and cannot be dealt with easily；an endemic disease or problem is always present in a particular place, or among a particular group of people
+
+## /ˈmɜːkjʊrɪ/ mercury
+1. 水银/温度表 mercury is a silver-coloured liquid metal that is used especially in **thermometers 温度表** and **barometers 气压计**. BTW, it's poisonous and toxic.
+2. [stellar; horoscope; astrology] 水星
+
 ## /ˈskɔːtʃɪŋ/ scorching weather
-ADJ Scorching or scorching hot weather or temperatures a (让人热的发晕的温度） r e very hot indeed. 酷热的
+ADJ Scorching or scorching hot weather or temperatures a (让人热的发晕的温度）very hot indeed. 酷热的
 **[ 酷热的天气：scorching hot weather;   酷热的温度：scorching temperature = sweltering temperatures (让人热的发晕的温度）]**
 
 e.g. That race was run in *scorching weather*.  那次赛跑是在酷热的天气里进行的。
-e.g. We are strongly suffering from the *scorching temperature* in Xi’an, where you're *sweltering* by the waves of *searing heat* 灼热.
+e.g. We are strongly suffering from the *scorching temperature* in Xi’an, where you're *sweltering热的难受/发晕* by the waves of *searing heat* 灼热.
 e.g. In Northern Africa's **Sahara Desert/sə'hɑ:rə;/**, certainly no strange to **sweltering/scorching temperatures**, a record high was recorded July 5 Algeria.
 //['sweltə] if you *swelter*,  you feel very uncomfortable even faint头晕的/dizzy because the weather is extremely hot with waves of *searing heat灼热*.  In other words, you're suffering from *scorching/sweltering temperature* 酷热的温度
 
 Verb) scorch
-e.g.Deadly fires have **scorched** swaths of the Northern Hemisphere this summer, from California to Arctic Sweden and down to Greece on the sunny Mediterranean. Drought in Europe has turned verdant land barren, while people in Japan and Korea are dying from record-breaking heat.
+e.g.Deadly fires have **scorched** swaths of the Northern Hemisphere this summer, from California to Arctic Sweden and down to Greece on the sunny Mediterranean. **Drought** in Europe has **turned land barren/infertile〔土地或土壤〕贫瘠的**, while people in Japan and Korea are dying from record-breaking heat.    //*barren=infertile: 1)〔土地或土壤〕贫瘠的  2) barrenness=infertility 不孕症*
 
-
+## 大众文化: mass culture; V.S. 大众媒体：mass media
 
 ## searing/'sɪərɪŋ/
 1. **searing heat**: extremely hot 炽热的，灼热的
 e.g. You cann't bear **the searing heat of the Sahara Desert /sə'hɑ:rə;/ 撒哈拉大沙漠的灼热**
-e.g. We are suffering from **scorching/sweltering temperature** in Xi’an, where you're **sweltering热得难受/发昏; 感到酷热难当** by the waves of **searing heat** 灼热   
-e.g Spain and Portugal **sweltered** through an exceptionally hot weekend with a **searing heat** wave that has killed three people in Spain and pushed temperatures toward record levels..
+e.g. We are suffering from **scorching/sweltering temperature** in Xi’an, where you're **sweltering V.热得难受/发昏; 感到酷热难当** under the waves of **searing heat** 灼热   
+e.g Spain and Portugal **sweltered V.热得难受/发昏** through an **exceptionally/extremely** hot weekend with a **searing heat** wave that has killed three people in Spain.
 
+2. [ **灼痛/灼热的痛: searing pain**] is severe pain and feels like a burn. For example, if you got burnt by strong bright sunlight, you might get **searing pain** on your face, neck, or arm because you don't use **sunblock/suncreen: cream or oil that you rub into your skin, in order to completely stop the sun’s light from burning you 防晒霜**
+e.g. He got serious **sunstroke 中暑** after surfing because he didn't **rub sunblock/sunscreen**; what is worse, he got sun burnt?? and suffered from **searing pain 灼痛**  on his shoulder and back.
+e.g. The strongly bright sunlight 强烈刺眼的眼光 is beating down **relentlessly无情的／毫不留情的**. I got **searing pain 灼伤的痛** on my face bz I forgot to **rub sunblock/sunscreen**. 太阳正 无情地 照射下来。
 
-2. [ **灼痛/灼热的痛: searing pain**] is severe pain and feels like a burn
-e.g. He got serious **sunstroke中暑** during surfing; what is worse, he got sun burnt?? and suffered from **searing pain** 灼痛 on his shoulder and back.
-
-3. **[ 严厉的/苛刻的/辛辣的〔言语、态度〕searing words or attitudes = harsh words 伤人的/苛刻的/严厉的/刻薄的话 = relentless words]**
-criticize very strongly, harshly, relentlessly(非常严厉的毫不留情的/无情地)
-**[ 严厉的/苛刻的/辛辣的言语 searing words = harsh words ==> relentless words; 苛刻的辛辣的分析:searing analysis]**
-
-e.g. Emily burst into **a spate of洪水一般的** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour (婚姻中不正当/不端正的行为/出轨行为)**.
+3. **[ 严厉的/苛刻的/辛辣的〔言语、态度〕searing words]** criticize very strongly, harshly, relentlessly(非常严厉的毫不留情的/无情地)
+**[ 严厉的/苛刻的/辛辣的言语 searing words = harsh words ==> relentless words(毫不留情的/不留情面的/无情地); 苛刻的辛辣的分析:searing analysis; 洪水一般的讽刺的言词: a spate of sarcastic words; 洪水一般的苛刻的/辛辣的言语: a spate of searing words V.S. trade spat 贸易口角  ]**
+e.g. Emily burst into **a spate of** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour (婚姻中不正当/不端正的行为/出轨行为)**.        //**sexual misconduct/extramarital behaviour; professional misconduct:玩忽职守**
 e.g. Adorno’s *searing analysis* of **mass culture** 阿多诺对 **大众文化** 的 *辛辣的分析*
-
-
-## 大众文化: mass culture; V.S. 大众媒体：mass media
-
 
 ## 热得难受/发昏; 感到酷热难当  verb) ['sweltə] swelter
 if you swelter,  you feel very uncomfortable even faint头晕的/dizzy because the weather is extremely hot with waves of *searing heat灼热*.  In other words, you're suffering from *scorching temperature* 酷热的温度
@@ -49,42 +62,35 @@ e.g. Dozens of people have died across Japan as the country continues to *swelte
 adj) sweltering: [**sweltering temperatures = scorching temperature**]
 e.g. In Northern Africa's **Sahara Desert/sə'hɑ:rə;/**, certainly no stranger to **sweltering/scorching temperatures**, a record high was recorded July 5 in Ouargla, Algeria.
 
-
 ## 书面语中用来表示 唷; 诶油喂(松一口气)
 phew /fjuː/ 唷; 诶油喂(松一口气)
 INTERJ Phew is used in writing to represent the soft whistling sound that you make when you breathe out quickly, for example, when you are relieved or shocked about something or when you are very hot.
 e.g.  **Phew, what a relief! 唷，真是大松一口气！**
 
 ##  [ what if = what would you do if xxx]
-e.g. Just asking the obvious in case no one has, **what if** we do nothing and hope for the best? What's the worst case scenario? I don't want us to **boil the ocean**好高骛远 for a 4 hour gap.
+e.g. Just asking the obvious in case no one has, **what if** we do nothing and hope for the best? What's the worst case scenario? I don't want us to **boil the ocean** 好高骛远 for a 4 hour gap.             
 
 ##  Sahara /sə'hɑ:rə/ (北非的)撒哈拉大沙漠
 1. literal meaning: (北非的)撒哈拉大沙漠 Sahara Desert
-2. figurative meaning: 荒原，不毛之地 **barren area = Sahara area**
-
+2. figurative meaning: 荒原，不毛之地 **barren area=infertile area = Sahara area**
 e.g. You cannot bear **the searing heat of the Sahara Desert /sə'hɑ:rə;/ 撒哈拉大沙漠的灼热**
 e.g. In Northern Africa's **Sahara Desert/sə'hɑ:rə;/**, certainly no strange to **sweltering/scorching temperatures**, a record high was recorded July 5 Algeria.
 
 ## 不端的行为；不诚实的行为；胡作非为 misconduct
 Noun) misconduct is bad, dishonest, unacceptable behaviour by someone in a position of authority or trust, especially by a professional person.
-[ **出轨的行为: sexual misconduct = extramarital behavivour;
-(医生，教师，公务员)失职; 玩忽职守; 职业上不端的行为: professional misconduct** ]
-
-e.g. Emily burst into **a spate of洪水一般的** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour(婚姻中不正当/不端正的行为/出轨行为)**.
+[ **出轨的行为: sexual misconduct = extramarital behavivour; (医生，教师，公务员)失职; 玩忽职守; 职业上不端的行为: professional misconduct** ]
+e.g. Emily burst into **a spate of** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour(婚姻中不正当/不端正的行为/出轨行为)**.   //**洪水一般的讽刺的言词: a spate of sarcastic words; 洪水一般的苛刻的/辛辣的言语: a spate of searing words V.S. trade spat 贸易口角**
 e.g. A psychologist was found guilty of serious **professional misconduct** yesterday.  一名心理学家被判严重的“失职/玩忽职守”  
 e.g. The doctor who is responsible for taking care of her baby has been accused of **professional misconduct** 被指控 “失职/玩忽职守” 的医生
-e.g. He was fired for serious *professional misconduct*. 他因严重 失职/玩忽职守 被解雇。
-
+e.g. He was **sacked/fired** for serious **professional misconduct**. 他因严重 失职/玩忽职守 被解雇。
 
 ## [(病的)诱发性因素: causative factors]
 诱发性的(成为原因的，起因的) ['kɔzətɪv]  Causative factors are ones which are responsible for causing something, esp like disease. **[诱发性因素: causative factors  V.S. contributing factors]**
-e.g.  Both nicotine and carbon monoxide [mə'nɒksaɪd] inhaled with cigarette smoking have **been incriminated
-显示…有罪 as** *causative factors*.  与香烟一起吸入的尼古丁和一氧化碳已经被指控为 诱发性因素
+e.g.  Both nicotine and carbon monoxide [mə'nɒksaɪd] inhaled with cigarette smoking have **been incriminated 显示…有罪 as** *causative factors* in several major cancers.  与香烟一起吸入的尼古丁和一氧化碳已经被指控为 诱发性因素
 e.g. Smoking is *a causative factor* in several major diseases. 吸烟是若干种重大疾病的致病因素。
 
-==》 [ **causative verb使动词**]
-Use the causative verbs使役动词 使动词 let, make, have and get to show that a person or thing helps to make something happen
-
+==》 [ **causative verb (诱发性的动词)使动词**]
+Use the causative verbs 使役动词 使动词 let, make, have and get to show that a person or thing helps to make something happen
 
 ## (尤指管理层或雇员做出的) 公司收购  [a management buyout 管理层/管理权收购]
 [ˈbaɪaʊt] buyout;    verb) **buy out <company>**
@@ -93,62 +99,37 @@ e.g. It is thought that **a management buyout** is one option.  管理权收购�
 e.g. We got the CEO to approve **the buyout of SAP**.
 e.g. **Apparently (it’s said that)**, IBM is going to **buy out** SAP.
 
-
 ## tbh: to be honest
 
 ## downsize (the business/factory/workforce)〔公司、机构为缩减开支而〕裁（员），紧缩（编制） ['daʊnsaɪz]
  [I,T] if a company or organization downsizes, it reduces the number of people it employs in order to reduce costs;  To downsize something such as a business or industry means to make it smaller. 使缩小规模
 **[ 裁员: downsized the workforce (noun: layoffs);  缩小业务（规模）downsize the business;  缩小工厂的规模: downsize the factory]**
 
-e.g. **There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently(it's said that)** it would be the largest *layoffs* ever in IBM.
-e.g. This  **budget airline** has *downsized its workforce* by 30%. 这家航空公司裁员30%。
-e.g. American manufacturing organizations have been downsizing their factories.  缩小他们工厂的规模。
+e.g. **There's a rumor going around that** IBM will **downsize its workforce** by 30% in Q2. **Apparently (it's said that)** it would be the largest *layoffs* ever in IBM.
+e.g. This  **budget airline 廉价航空** has *downsized its workforce* by 30%. 这家航空公司 **裁员30%**。
+e.g. American manufacturing organizations have been **downsizing their factories**.  缩小他们工厂的规模。
 e.g. ...today's downsized economy.  … 今天萎缩了的经济。
-
 2.N-UNCOUNT 缩小规模
 •  ...a trend toward downsizing in the personal computer market.  …个人电脑市场规模缩小的趋势。
-
 
 ##(业务/组织/部门的）剥离/出售（给其他公司）;  公司部门或子公司的出售、清算或资产出售
 divest, divesture, divestiture [dai'vestitʃə]: The sale, liquidation, or spinoff附带的利益/附带的产品of a corporate division or subsidiary. if a company divests, it sells some of its assets, investments etc. normally to another company.
 
-eg IBM has finished its first phase of enterprise transformation转型, such as carrying out/implementing the **divesture of X86server** to Lenovo and achieving the acquisition of Softlayer.  As you also know, a core element of IBM **strategic imperatives战略规则** is our commitment to climb to higher value. We have announced the **divesture业务的出售 of our semiconductor business** to the company GlobalFoundries and the divesture of x86 servers to Lenovo.  
+eg IBM has finished its first phase of enterprise transformation 转型, such as carrying out/implementing the **divesture of X86server** to Lenovo and achieving the acquisition of Softlayer.  As you also know, a core element of IBM **strategic imperatives 战略规则** is our commitment to climb to higher value. We have announced the **divesture业务的出售 of our semiconductor business** to the company GlobalFoundries and the **divesture of x86 servers to Lenovo**.  
 
 eg Our *strategic imperatives战略规则* delivered growth of more than 30 percent for the second quarter and the first half of the year, excluding the impact of currency and *divested business 剥离/出售的业务*, eg *the divesture of X86 server to Lenovo*. Our cloud business grew more than 70 percent in the quarter, and we have delivered $8.7 billion in cloud revenue over the last 12 months. Our mobile business quadrupled, and our security business returned to double-digit growth. Taken together, the *strategic imperatives战略规则* are becoming a substantial part of our total business, and their continued rapid growth gives us confidence in our strategic path forward.  
 
-## (部门/机构)人员不足的 be understaffed /ˌʌndəˈstɑːft/
+## (部门/机构)人员不足的 be understaffed /ˌʌndəˈstɑːft/  ==> **half-staff = half-mast: 降半旗(哀悼)**
 ADJ If an organization is understaffed, it does not have enough employees to do its work properly. 人员/人手不足的
-e.g. DP project is always understaffed.
-e.g. Many institutions offering child care are understaffed and underequipped. 许多提供幼儿看护的机构人手及设备不足。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+e.g. DP project **is always understaffed**, which means it lacks of resources.
+e.g. Many institutions offering child care **are understaffed** and underequipped. 许多提供幼儿看护的机构人手及设备不足。
 
 ##Verb)  ['riːfleks]  reflex
-1. N-PLURAL Your **reflexes (plural form)** are your ability to react quickly with your body when something unexpected happens, for example when you are involved in sports or when you are driving a car；**reflexes** are your the natural ability to react quickly and well to sudden situations (自然的)反应能力; 迅速反应能力  
-[**have good/quick/slow reflexes**]
-•  It takes great skill, cool nerves, and quick reflexes of an athlete.  这需要运动员娴熟的技巧、冷静的头脑以及 迅速反应的能力
+1. N-PLURAL Your **reflexes (plural form)** are your ability to react quickly with your body when something unexpected happens, for example when you are involved in sports or when you are driving a car；**reflexes** are your the natural ability to react quickly and well to sudden situations (自然的)反应能力; 迅速反应能力 [**have good/quick/slow reflexes**]
+• It takes great skill, cool nerves, and quick reflexes of an athlete.  这需要运动员娴熟的技巧、冷静的头脑以及 迅速反应的能力
 • A tennis player needs to **have very quick reflexes**. 网球运动员需要 反应迅速。
 
-2. N-COUNT reflex: **A reflex** or **a reflex action** is a normal, uncontrollable reaction of your body to something that you feel, see, or experience; is a sudden uncontrolled movement that your muscles make as a natural reaction to a physical effect  〔生理上的〕反射动作，反射作用(起跳反射)
-•  ...tests for reflexes, like tapping the knee or the heel with a rubber hammer.  …反射动作的测试，比如用橡胶锤敲击膝盖或脚踵。
+2. N-COUNT reflex: **A reflex** or **a reflex action** is a normal, uncontrollable reaction of your body to something that you feel, see, or experience; is a sudden uncontrolled movement that your muscles make as a natural reaction to a physical effect，like tests for reflexes, like tapping or hitting the knee or the heel with a rubber hammer  〔生理上的〕反射动作，反射作用(起跳反射)
 • Doctor Mulholland tested Jennifer’s reflexes (= especially by hitting her knee with a special rubber hammer ) . 马尔霍兰医生检查了珍妮弗的反射反应。
 
 3. [**下意识的反应/动作; 本能反应/: reflex action**] something that you do without thinking, as a natural, quick reaction to a situation
@@ -163,12 +144,13 @@ N-COUNT A reflex or a reflex action is something that you do automatically and w
 
 ## [‚dɪsə'reɪ] disarray [ (人员/事情)处在一个没有组织/混乱凌乱的状态; 陷入一片混乱; 一团乱麻 be in disarray V.S. I'm such an organized person.]
 1. N-UNCOUNT 不可数名词 If people or things are in disarray, they are in disorganized and confusing state;
-[**(人员/事情)处在一个没有组织/混乱/凌乱的状态；一团乱麻: be in disarray;  打乱了<xxx>安排: throw sth into disarray; 打乱了整个时间安排: throw the entire timetable into disarray; 打乱了整个party的安排: throw the whole party/meeting into disarray; 排陷入一片混乱/凌乱(一团乱麻): fall into disarray**]  
+[**(人员/事情)处在一个没有组织/混乱/凌乱的状态；一团乱麻: be in disarray;  打乱了<xxx>安排: throw sth into disarray; 打乱了整个时间安排: throw the entire timetable into disarray; 打乱了整个party的安排: throw the whole party/meeting into disarray; 陷入一片混乱/凌乱(一团乱麻): fall into disarray**]  
 
-e.g. The nation **is in disarray/fell into disarray** following **political riot/turmoil/ferment 政治混乱** and **military coup/kuː/** led by the extremists.  该国陷入一片 政治混乱。
-e.g. The *military coup* left the Liberal Party *in total disarray* . 这让自由党陷入一片混乱。
-e.g. The plane delay *threw the entire timetable into disarray*. 这一延误 打乱了<整个时间>的安排
+e.g. The nation **is in disarray/fell into disarray** following **political riot/turmoil/ferment 政治混乱** and **military coup/kuː/** 该国陷入一片 政治混乱。  //**yeast ferments; lemon ferment酵素；ferment/turmoil/riot**
+e.g. The *military coup /kuː/* left the Liberal Party *in total disarray* . 这让自由党陷入一片混乱。  
+e.g. The plane delay *threw the entire timetable into disarray*. 这一延误 **打乱了<整个时间>的安排**
 e.g. Despite the deadly summer in extremely **scorching/sweltering temperature**, overwhelming evidence that humans are altering the planet, and ever-improving science that links specific weather events to global warming, the international politics around the issue of climate change are **in disarray**(in disorganized state). And there are alarming signs that the planet may be in worse shape than ever before.
+
 2. [**衣衫不整: sb's clothes are in disarray**]
 e.g. She was left lying on her side and her clothes *were in disarray*.  她被扔在那儿侧躺着，**衣衫不整**
 
@@ -184,9 +166,14 @@ e.g. The declining dollar gave heart and confidence to **skittish investors**. �
 e.g. In China, everyone is talking about inflation. Prices for food, raw materials and other commodities are rising, and that's making people **skittish**.
 
 ## [好高骛远: boil the ocean;  切忌好高骛远: Don't boil the ocean]
+<br>boil:
+* **go off the boil: 不如从前那么擅长了，生疏了**: to become less good at something that you used to **excel at/in**.  //**verb) excel in/at sth, they are very good at doing it, to do something very well, or much better than most people. (在某方面) 擅长**  e.g. He’s **gone off the boil** after a tournament win in Dubai. 他在迪拜的锦标赛中夺冠后就开始走下坡路了。
+* **切开脓包/浓泡来放脓：lance a boil (in the body)**: A boil is a red, painful, inflamed发炎的 swelling or burst-out on your skin that contains a thick yellow liquid called pus; If **a boil on someone's body is lanced**, a small cut is made in it so that the liquid inside comes out/is discharged.
+* **boil the ocean 好高骛远**; **切忌好高骛远: Don't boil the ocean**
 e.g. It's also common for graduate students to try to **boil the ocean** in their thesis and dissertation proposals.  力求 **好高骛远** 的现象是很普遍的
-e.g. ... I don't want us to *boil the ocean好高骛远* for a 4 hour gap.
+e.g. ... I don't want us to **boil the ocean好高骛远** for a 4 hour gap.
 e.g. You know, you do **boil the ocean** too much. 你太 **好高骛远**
+* **boil down to sth: (情况或问题) 归根结底是xxx**: PHRASAL VERB, If you say that a situation or problem boils down to a particular thing or can be boiled down to a particular thing, you mean that this is the most important or the most basic aspect of it.  e.g. **Everything boils down to money.**
 
 ## I'd like to ask you about something. = Can I ask you a question?
 
@@ -219,7 +206,6 @@ e.g. What really *aggravates me* is the way she won’t listen. 让我大为恼�
 e.g. You're so aggravating/annoying/irritating.
 e.g. You don't realize how aggravating you can be.   你没意识到你有多烦人
 
-
 ## bootstrap /ˈbuːtˌstræp/ [bootstrap oneself into xxx; bootstrap oneself out of xxx //oneself:reflexive pronoun]
 1. N a leather or fabric loop on the back or side of a boot for pulling it on 拔靴带
 2. V to set up or achieve (something) using minimal resources 用最少的资源建立或获得(某物)
@@ -251,7 +237,6 @@ e.g. It is unlikely that the court will **render an opinion** before November 5.
 e.g. She made a sound that in print is rendered as ‘harrumph’. 她发出一个声音，写出来就是harrumph。
 e.g. Infrared film renders blue skies a deep black. 红外线胶片将蓝色的天空拍成深黑色。
 
-
 ## caste [kɑːst]
 1.  印度的种姓  [**the caste system 种姓制度**] one of the fixed social classes/ranks, which cannot be changed, into which people are born in India; a caste is one of the traditional social classes into which people are divided in a Hindu society.
 e.g. "I appeal to all members of the Congress party to help maintain peace and help all those against whom an injustice has been done in the draft NRC, no matter what their religion, **caste**, gender, linguistic group or political affiliation," added Gandhi. The government has said people who have been excluded from the latest NRC draft and who might **be rendered stateless** will have until late September to file appeals and claim citizenship.
@@ -260,8 +245,7 @@ e.g.  Caste is defined primarily by social honour attained through personal life
 
 ## spell
 1. V to take over from (a person) for an interval of time; relieve temporarily 在间歇期接替(某人); 暂时换岗
-
-1. a spell is a period of a particular kind of activity, weather, illness etc, usually a short period 〔某种活动、天气、疾病等的〕一段时间〔通常时间较短〕； A spell of a particular type of weather or a particular activity is a short period of time during which this type of weather or activity occurs. (某种天气(间晴/间阴/间下雨)或活动的) 短暂发生期  [**a spell of <weather/disease/activity, e.g. a spell of drizzling 间歇的毛毛雨; a spell of torrential rain/downpour 间歇的暴雨； dizzy spells:一阵阵/间歇头晕 **]
+2. a spell is a period of a particular kind of activity, weather, illness etc, usually a short period 〔某种活动、天气、疾病等的〕一段时间〔通常时间较短〕； A spell of a particular type of weather or a particular activity is a short period of time during which this type of weather or activity occurs. (某种天气(间晴/间阴/间下雨)或活动的) 短暂发生期  [**a spell of <weather/disease/activity, e.g. a spell of drizzling 间歇的毛毛雨; a spell of torrential rain/downpour 间歇的暴雨； dizzy spells:一阵阵/间歇头晕**]
 • a day of **sunny spells** and scattered showers 间晴 且有 零星阵雨 的一天
 • He began to suffer from **dizzy spells** 一阵阵/间歇头晕。
 • There has been **a spell of drizzling 毛毛雨**.  间歇的毛毛雨
@@ -270,41 +254,18 @@ e.g. The lack of rain could **spell disaster for farmers**. 缺少雨水 **会�
 e.g. What you did say could **spell tons of trouble for us**. 你所做的事情 **会给<sb>带来巨大的麻烦**
 e.g. The nature is starting to **revenge against human beings**. You see that the global warming is now **spelling exceptionally/extremely huge disaster and danger for human 给人类带来了巨大的灾难/危险**, like the scorching/sweltering weather酷热, the wildfires, the earthquake and ensuing tsunami, which is what the nature gives back to us.
 
-
 ## relent sb's attitude (verb);  => adj) 毫不留情的/无情地/不留情面的 relentless /rɪˈlɛntlɪs/ , relentlessly
+**[洪水一般的毫不留情的/不留情面的言语: a spate of relentless words]**
 1. ADJ 毫不留情的/无情地 Something bad that is relentless never stops or never becomes less intense.
 e.g. The pressure now was relentless. 压力现在毫无减弱之意。
-e.g. The strongly bright sunlight　强烈刺眼的眼光 is beating down relentlessly. 太阳正 无情地 照射下来。
-2. ADJ 坚持不懈的／无休止地 **Someone who is relentless** is determined to do something and refuses to give up, even if what they are doing is unpleasant or cruel.
-V.S.
-</br>[**be resolute in sth/doing sth: 下决定/下决心做xxx**]
+e.g. The strongly bright sunlight　强烈刺眼的眼光 is beating down relentlessly. I got **searing pain 灼伤的痛** on my face bz I forgot to rub **sunblock/sunscreen**. 太阳正 无情地 照射下来。
+2. ADJ **坚持不懈的／无休止地 Someone who is relentless is determined to do something and refuses to give up, even if what they are doing is unpleasant or cruel.**
+V.S. </br>[**be resolute in sth/doing sth: 下决定/下决心做xxx**]
 e.g. Relentless in his pursuit of quality, his technical ability was remarkable.　 由于对质量的坚持不懈的追求，他的技术能力非同凡响。
-e.g. She always questioned me **relentlessly**. 她总是 无休止地 问我
+e.g. She always questioned me **relentlessly**; and she likes to **get to the bottom of everything刨根问底／打破沙锅问到底**. 她总是 无休止地 问我
 
 ## 一步步的完全的（实现某个任务/项目/计划）[ down the line; right down the line; all down the line]
 e.g. Just FYI... Once Platform and IoTCS offerings are merged, we will change our support process as well, so the process will change and will be optimized **all/right down the line** 一步步的完全彻底地实现.
-
-##〔疾病或问题〕地方性的； (不好的情况、不好的社会问题)总是存在于某个地方/在某个地方极为普遍的常有的 endemic
-1. ADJ If you say that a condition or problem esp bad or unpleasant is endemic, you mean that it is very common and strong, and cannot be dealt with easily；an endemic disease or problem is always present in a particular place, or among a particular group of people
-e.g. Violent crime is now *endemic* in parts of Chicago. 芝加哥一些地区暴力犯罪成患,""极为普遍""
-e.g. Discrimination against Catholics is *endemic* in Northern Ireland's institutions. 对天主教徒的歧视在北爱尔兰的公共机构中"极为普遍""
-e.g. Bribery, corruption, and **embezzlement** are very **endemic** in CHINA, esp in small cities.   //**embezzle /ɪmˈbɛzəl/**  V-T If someone embezzles money that their organization or company has placed in their care, they take it and use it illegally for their own purposes. 挪用 (钱款)
-e.g. **Pickpocketing扒窃 and purse snatching** are *endemic* in LA downtown and becoming even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗  //if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way.〔犯罪、疾病等〕猖獗泛滥的，失控的
-
-2. ADJ If a disease or illness is endemic in a place, it is frequently found among the people who live there. (疾病)在某个地方是很常见的
-e.g. **Polio** was then *endemic* among children my age.  小儿麻痹症在当时是在我这个年纪的儿童中常见的疾病。
-
-V.S.
-## rampant
-1. if you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. (犯罪、疾病等〕猖獗的，泛滥的，失控的
-e.g. **Pickpocketing扒窃 and purse snatching** are *endemic* in LA downtown and becoming even **rampant猖獗** in recent years . 闹市区扒窃活动猖獗   //**endemic**:  If you say that a condition or problem esp bad or unpleasant is endemic, you mean that it is very common and strong, and cannot be dealt with easily；an endemic disease or problem is always present in a particular place, or among a particular group of people
-
-## /ˈmɜːkjʊrɪ/ mercury
-1. 水银/温度表 mercury is a silver-coloured liquid metal that is used especially in **thermometers温度表** and **barometers 气压计**. BTW, it's poisonous.
-2. [stellar; horoscope; astrology] 水星
-
-
-
 
 
 # CNN excerpt
