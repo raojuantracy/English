@@ -2,6 +2,20 @@
 https://edition.cnn.com/2018/08/20/health/contacts-water-trnd/index.html (where I can copy and paste:)
 https://en.news/lessonPlayer/40868-zxx-en/lessonIntro?disableResume=false
 
+## disposable /dɪˈspəʊzəbəl/      |TEM4
+1.
+ADJ A disposable product is designed to be thrown away after it has been used. 一次性的
+•  ...disposable diapers suitable for babies up to 8lbs.
+ …适合重至8磅的婴儿使用的一次性尿布。
+2.
+N-COUNT Disposable products can be referred to as disposables. 一次性物品
+•  Currently, disposables account for about 80% to 85% of the $3 billion-plus annual diaper market.  目前，一次性尿布占年销售额30多亿美元的尿布市场的80%至85%左右。
+e.g. Ever wonder what happens to **disposable contact lenses** when it's time to actually dispose of them?
+3.
+ADJ Your disposable income is the amount of income you have left after you have paid bills and taxes. 可自由支配的 (收入)
+•  Gerald had little disposable income.
+ 杰拉尔德没有多少可自由支配的收入。
+
 anonymous
 
 
@@ -115,3 +129,6 @@ Styrofoam
 
 
 Styrofoam is a trademarked brand of closed-cell extruded polystyrene foam currently made for thermal insulation and craft applications.
+
+## Okinawa  ['ɔki'nɑ:wɑ:] n. 冲绳县（日本）
+## Osaka  [əu'sɑ:kə; 'ɔ:sɑ:kɑ:]  n. 大阪（日本本州岛西南岸港市）
