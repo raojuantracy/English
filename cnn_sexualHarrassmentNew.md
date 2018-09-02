@@ -1,6 +1,8 @@
 
 # Sexual harrassment
 https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
+https://edition.cnn.com/2018/08/31/us/seattle-airplane-sexual-abuse-charges/index.html
+
 # Bridge collapse
 https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 
@@ -8,13 +10,29 @@ https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
 ##	Accuse sb. of/charge sb. with/indict sb. for
 E.g. He was charged with **three counts of** 1st degree murder. 被指控 三项 罪名
 E.G. He was charged with  **multiple counts of** sexual harassment/assault 性骚扰 and  **five counts of** sexual coercion性胁迫
+e.g. Two men have been charged this week with **sexually abusing** women seated near them on flights to Seattle. The unrelated cases come at a time when the number of sexual assaults reported on planes has increased at "an alarming rate," according to the FBI.
 
 •	N) accusation, charge, indictment
 •	原告: the accuser, plaintiff, indictor
 •	被告: the person in a court of law who has been accused of doing something illegal: defendant; the accused; indictee
 
+e.g. FBI investigations into midair **sexual assaults/harassment** increased by 66% from fiscal year 2014 to 2017. The bureau said it had opened 63 counts of accusations/charges into **sexual assault/harassment** on aircraft in 2017. If such behavior occurs, **trust your gut 直觉**, **reprimand 训斥，谴责** the person immediately and consider asking to be moved to another seat. Report it to the flight attendant (FA) immediately, and ask that they record the attacker's identity and report it. "It doesn't matter when you report an **in-flight** sexual assault -- we take it seriously, and we will pursue it.
+
 ## in response 作为回答 作为反应 作为回应
 e.g In response, the manager xxx
+
+## startle /ˈstɑːtəl/      |CET4 TEM4 (startlingstartledstartles)
+1. V-T If something sudden and unexpected startles you, it surprises and frightens you slightly. 使受惊 •  The telephone startled him.   电话声吓了他一跳。
+2. ADJ 受惊吓了的
+•  Martha gave her a startled look.   玛莎受惊地看了她一眼。
+e.g. She kept falling asleep but awoke several times, **startled**, to find Rezapour **sexually assaulting her**. At one point he used his jacket to shield the activity. An FBI agent said Rezapour groped the woman and put her hand on his **genitals ['dʒenɪtəlz]n. 生殖器；外阴部**.
+
+## /mɪsˈkɒndʌkt/ misconduct  不端行为；不诚实行为；胡作非为,玩忽职守
+N-UNCOUNT Misconduct is bad, morally bad, unacceptable behaviour, especially by a professional person in a position of authority or trust  
+[**sexual misconduct /kɒn/= extramarital behaviour; 玩忽职守: professional misconduct /kɒn/**]
+• a doctor who has been accused of **professional misconduct 玩忽职守** 被指控 玩忽职守 的医生
+• He was fired for serious misconduct . 他因严重失职被解雇。
+• A psychologist was found guilty of serious **professional misconduct /kɒndʌkt/ 失职罪/玩忽职守** yesterday.  昨天一名心理学家被判严重的失职罪
 
 ## law pl: statute of limitations 限定法律行动有效时限的法令; 诉讼时效
 Statutes of limitations are written laws passed by **a legislative body 司法机构** in common law systems to restrict the maximum time after an event that legal proceedings may be initiated. Once the period of time specified in **a statute of limitations** passes, a claim can no longer be validly filed. The intentions of these laws can facilitate the resolution in a reasonable amount of time. In **civil law** systems, similar provisions are typically part of the civil code or criminal code and are often known collectively as periods of prescription. There are very strict guidelines, but the cause of action dictates the statute of limitations on a civil case, where contracts, personal injury, libel and fraud cases legal or equitable remedy. These statutes can be reduced or extended to ensure a fair trial. Once a statute in a criminal actions case expires the court no longer has jurisdiction to punish the defendant.
@@ -22,7 +40,7 @@ Statutes of limitations are written laws passed by **a legislative body 司法�
 
 ##  ['trækʃ ə n]  traction /ˈtrækʃən/
 1.	N-UNCOUNT Traction is the grip that something has against the ground, especially the wheels of a vehicle; the force that prevents something such as a wheel sliding on a surface〔防止车轮在路面滑动的〕附着摩擦力
-e.g. The tires were **bald** (秃头的/轮胎表面磨平的= completely worn down ) and lost traction on the wet road. 轮胎已磨平，在这种湿的路面上没有了〔防止车轮在路面滑动的〕摩擦力  //**tires are bald: If a tyre is bald, its surface has worn down and it is no longer safe to use bz it has lost its traction (轮胎表面) 磨平的**
+e.g. **The tires were bald (轮胎表面磨平的= completely worn down )** and lost traction on the wet road.    //**tires are bald: If a tyre is bald, its surface has worn down and it is no longer safe to use bz it has lost its traction (轮胎表面) 磨平的**
 </br> V.S. friction: technical, the natural force that prevents one surface from sliding easily over another surface (物理，自然的)物体之间的摩擦力
 
 2.	N-UNCOUNT Traction is a particular form of power that makes a vehicle move; the type of power needed to make a vehicle move, or to pull a heavy load 〔使汽车或重物等移动的〕牵引力
@@ -52,7 +70,9 @@ e.g. One woman **lodged an accusation against that male 正式的提出诉讼** 
 * **Sexual violence**: is any sexual act or attempt to obtain a sexual act by violence or coercion, acts to traffic a person or acts directed against a person's sexuality, regardless of the relationship to the victim.
 2. to keep attacking an enemy again and again 反复攻击，屡次侵扰〔敌人〕
 
-## [botany] [植] 复果/聚花果 multiple fruit
+e.g. FBI investigations into midair **sexual assaults/harassment** increased by 66% from fiscal year 2014 to 2017. The bureau said it had opened 63 counts of accusations/charges into **sexual assault/harassment** on aircraft in 2017. If such behavior occurs, **trust your gut 直觉**, **reprimand 训斥，谴责** the person immediately and consider asking to be moved to another seat. Report it to the flight attendant (FA) immediately, and ask that they record the attacker's identity and report it. "It doesn't matter when you report an **in-flight** sexual assault -- we take it seriously, and we will pursue it.
+
+## [botany,植] 复果/聚花果 multiple fruit
 N a fruit, such as a pineapple, formed from the ovaries of individual flowers in an inflorescence
 e.g. Pineapple is **a multiple fruit.**
 
