@@ -101,35 +101,74 @@ e.g. Sumati has been staying at a **makeshift evacuation shelter** with her husb
 ## **aftermath of the quake; aftermath of the tsunami**
 e.g. A tsunami warning was issued in the immediate **aftermath of the quake**, prompting people to flee to higher ground. Susanto said the roads in the jungle leading to northern Lombok were **treacherous〔地面、道路、天气情况等〕暗藏危险的** and badly damaged in the quake, which is likely to **hamper aid efforts**.
 
-## aftershock /ˈɑːftəˌʃɒk/ V.S. tremor
-1. a small earthquake that happens after a larger one 〔地震的〕余震; N-COUNT Aftershocks are smaller earthquakes that occur after a large earthquake. 余震
-2. the effects of a shocking event;N-COUNT People sometimes refer to the effects of an important event, especially a bad one, as the aftershock. 余波〔令人震惊之事的〕余波
-• the war and its aftershocks 这次战争及其余波
-•  They were already under stress, thanks to the aftershock of last year's drought. 去年干旱的余波已经给他们造成压力了。
-The earthquake was also felt in neighboring Bali, another popular tourist spot. More than 100 **aftershocks/tremor** continued to rattle the region after the main quake. The devastation comes exactly a week after the region was hit by **a 6.4 magnitude quake** that left at least 15 people dead and 162 injured.
+## 〔地震的〕余震; aftershock /ˈɑːftəˌʃɒk/ V.S. tremor
+1. N-COUNT Aftershocks are smaller earthquakes that occur after a large earthquake. 余震
+e.g. The earthquake was also felt in neighboring Bali, another popular tourist spot. More than 100 **aftershocks/tremor** continued to rattle the region after the main quake. The devastation comes exactly a week after the region was hit by **a 6.4 magnitude quake** that left at least 15 people dead and 162 injured.
+
+2. N-COUNT People sometimes refer to the effects of a shocking event, especially a bad or negative one, as the aftershock. 〔令人震惊之事的〕余波
+V.S.
+* **rippling effect: 涟漪作用, 涟漪效应**; Ripples are little waves on the surface of water caused by the wind or by something moving in or on the water. 涟漪
+* **fallout from sth:  If you refer to the fallout from something that has happened, you mean the `unpleasant` consequences that follow it. 随之而来的不好的/让人不高兴的后果  e.g. fallout from Brexit; fallout from presidential election**
+* **aftershocks of <a shocking event>** People sometimes refer to the effects of a shocking event, especially a bad or negative one, as the aftershock. 〔令人震惊之事的〕余波
+e.g. the war and its aftershocks 这次战争及其余波
+e.g. They were already under stress, thanks to **the aftershock of last year's drought**. 去年 **干旱的余波** 已经给他们造成压力了。
+
+
+##  ['tremə] tremor
+1. -COUNT A tremor is a small earthquake. 小地震
+•  The earthquake sent tremors through the region.  这次地震的震感传遍了整个地区。
+2. N-COUNT If an event causes a tremor in a group or organization, it threatens to make the group or organization less strong or stable. (团体或组织内的) 波动
+•  **There's a rumor going around that** we'll have 160 lay-offs /ˈleɪɒf/, which had sent tremors through the company. 裁员160人的消息在公司中引起了波动。 **verb: downsize xxx workforce**
+3. N-COUNT a slight shaking movement in your body that you cannot control, especially because you are ill, weak, or upset 〔尤指因生病、虚弱或生气而不能控制的身体的〕颤抖,发抖
+•  The old man has a tremor in his hands.  那位老人的双手颤抖着
 
 V.S.
-##  ['tremə] tremor
-1. a small earthquake in which the ground shakes slightly 轻微地震，小震，微震
-• an earth tremor 小地震
-2. a slight shaking movement in your body that you cannot control, especially because you are ill, weak, or upset 〔尤指因生病、虚弱或生气而不能控制的〕颤抖，发抖
+## tremble /ˈtrɛmbəl/
+1. V-I If you tremble, you shake slightly because you are frightened or cold. 颤抖
+•  His mouth became dry, his eyes widened, and he began to tremble all over. 而且开始全身发抖。
+•  Lisa was white and trembling with anger. 莉萨气得脸色发白，身体颤抖。
+2. N-SING Tremble is also a noun. 颤抖
+•  I will never forget the look on the patient's face, **the tremble/tremor in his hand**. 我将永远不会忘记那病人脸上的表情和他颤抖的手。
+3. V-I If something trembles, it shakes slightly. (轻微地) 颤动
+•  He felt the earth trembling under him. 他感觉大地在脚下颤动。
+4. V-I If your **voice trembles**, it sounds unsteady and uncertain, usually because you are upset, nervous, angry, or sad. (因为紧张，生气, 伤心而声音) 发颤
+e.g. His **voice trembled**, on the verge of tears.  他的声音颤抖着，就要落下泪来
+e.g. She started to **blubber** like a child; and her **voice trembled**, murmuring "it's my fault".    //**murmur: to say something in a soft quiet voice that is difficult to hear clearly 小声说，低语，咕哝**  
+5. N-SING Tremble is also a noun. (声音的) 发颤 **with a tremble in sb's voice**
+e.g. "Please understand this," she **mused 沉思地说**, **with a tremble in her voice**. 她开始用颤抖的声音 沉思地说。
+e.g. She started to **blubber** like a child; and then murmured "it's my fault", **with a tremble in her voice**    // **blubber 1. is the fat of whales, seals, and similar sea animals. 海洋动物的脂肪  The baby whale develops **a thick layer of blubber** to protect it from the cold sea. 海洋动物的脂肪; 2) If someone blubbers, they cry noisily and in an unattractive way. 放声大哭**
 
-
-## mammoth /ˈmæməθ/
-1.ADJ You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve. 巨大的; 艰巨的
-Reforming the prison system would be a mammoth task. 改革监狱制度将是一项巨大的任务。
-Despite the mammoth recovery efforts ahead, Indonesia's National Disaster Management Agency said Wednesday that international aid was not yet needed.
-a mammoth corporation 庞大的公司
-•  ...the mammoth task of relocating the library. …搬迁图书馆的艰巨任务。
+## mammoth /ˈmæməθ/  //mammal： [脊椎] 哺乳动物
+1.ADJ You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve. Normally you'd confront some **formidable challenges**. 巨大的; 艰巨的（任务） **一项巨大的任务: a mammoth task; 一项巨大的改变: a mammoth change; 庞大的公司 a mammoth corporation**
+e.g. Reforming the datbase system would be **a mammoth task**. 改革制度将是 一项巨大的任务。  //demanding: need a lot of skill and abilities
+e.g Despite the **mammoth recovery efforts** ahead, Indonesia's National Disaster Management Agency they won't **solicit assistance from 请求** International Red Cross.
+e.g **Apparently/it's said that** the automotive provisioning is **a mammoth, demanding task**. There are hundreds of Ansible files to check, **give or take**.   //**or so, give or take; more or less; approximately; around** //**a demanding task/job/role** requires you a lot of ability, skills, and effort 对技能和能力都要求高的任务/工作/职能
 2. N-COUNT A mammoth was an animal like an elephant, with very long tusks and long hair, that lived a long time ago but no longer exists.  长毛象 猛犸
 
 ## solicit
-1. V-I When prostitutes solicit, they offer to have sex with people in return for money. (妓女) 拉客
-•  Prostitutes were forbidden to solicit on public roads and in public places.  娼妓被禁止在公路上和公共场所拉客。  **prostitution solicitor**
-2. N-UNCOUNT 拉客
-•  Girls could get very heavy sentences for soliciting – nine months or more.   年轻女孩拉客可能会被处以重罚–9个月或更长。
-3. Verb) If you solicit money, help, support, or an opinion from someone, you ask them for it. 请求给予
-[ **solicit assistance from sb V.S. render assistance to sb**]
-•  He's already solicited their support on health care reform.  他已经请求他们给予医疗保健改革方面的支持
-e.g Facebook has **寻求solicited guidance** from U.S. intelligence agencies in its attempt to prevent a repeat of 2016, when its platform was used to **meddle in管闲事** U.S. politics and society.
-e.g. The governor sent two officials to Mexico City to **solicit aid** from the President. 州长派出两名官员去墨西哥城向总统求助。
+1. V-I When prostitutes solicit, they offer to have sex with people in return for money. (妓女) 拉客 **prostitution solicitor**
+•  Prostitutes were forbidden to solicit on public roads and in public places.  娼妓被禁止在公路上和公共场所拉客。  
+2. N-UNCOUNT 拉客  e.g. Girls could get very heavy sentences for soliciting – nine months or more.   年轻女孩拉客可能会被处以重罚–9个月或更长。
+3. Verb) If you solicit money, help, support, or an opinion from someone, you ask them for it. 请求
+[ **向sb.请求: solicit assistance from sb V.S. 提供:render assistance to sb**]
+e.g. He's already solicited their support on health care reform.  他已经请求他们给予医疗保健改革方面的支持
+e.g. Facebook has **请求 solicited guidance and aid** from U.S. intelligence agencies in its attempt to prevent a repeat of 2016, when its platform was used to **meddle in管闲事** U.S. politics and society.    //**meddle in sth; meddler 爱管闲事的人干涉者**
+e.g Despite the **mammoth recovery efforts** ahead, Indonesia's National Disaster Management Agency they won't **solicit assistance from 请求** International Red Cross.  
+
+## cryptic /ˈkrɪptɪk/ cryptically
+1. ADJ A cryptic remark or message contains `a hidden meaning` or is difficult to understand. 隐晦的神秘的(message,声明, comment); 令人捉摸不透的(message,声明, comment)
+•  He has issued a short, **cryptic statement** denying the spying charges.  他发表了一个简短、令人捉摸不透的声明，否认对他从事间谍活动的指控。
+2. ADV 神秘莫测地  "Not necessarily," she says cryptically.  “不一定，”她神秘地说道。
+
+## ingress /ˈɪŋɡrɛs/ V.S. egress ['iɡrɛs] (N the act of going or coming out)
+1. N the act of going or coming in; an entering 进入; the right to enter a place, or the act of entering it 进入权；进入
+2. [计]入口
+e.g. Traditionally, the physical infrastructure providers control the underlying hardware; they provide the cloud tenant with **egress and ingress** at the most fundamental level. 租户基础层上的出口和入口；
+e.g. Whereas the self-balancing feature is related to ingress traffic to the device, the Intelligent Load Distribution feature is used for the egress traffic from the device to back-end servers.
+
+## whirlpool /ˈwɜːlˌpuːl/      
+1. N-COUNT A whirlpool is a small area in a river or the sea where the water current is moving quickly and spinning around, so that objects floating near it are pulled into its centre. 漩涡
+2. a whirlpool is a large **bathtub** that makes hot water move in strong currents around your body 涡流浴缸
+3. **a whirlpool of emotion:感情的旋涡; a whirlpool of activity: 纷繁的活动; a whirlpool of grief**
+a very busy situation or a strong emotion, from which it is difficult to escape
+e.g. people are caught in a whirlpool of grief 沉浸在极度悲伤中的人们

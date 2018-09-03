@@ -125,8 +125,9 @@ e.g. The baby **pilot whale 巨头鲸** develops **a thick layer of blubber** to
 e.g. The meat and **blubber/ˈblʌbə/ of pilot whales 巨头鲸** have long been, and will continue to be a valued part of the national diet, "**Catches[kætʃɪz]捕捉物 are bartered** largely without the exchange of money among the participants in a whale-drived community.   //**barter a for b: If you barter goods, you exchange them for other goods, rather than selling them for money. 以物交换; 以物易物**
 
 2. V-I **放声大哭 If sb. blubbers, they cry noisily (or even *hysterically 歇斯底里地* ) and in an unattractive way.**
-e.g. She started to blubber like a child.  她像个孩子一样开始 **放声大哭**
 e.g. She totally lost her mood 情绪失控 and started to **blubber hysterically**, just to vent发泄.  歇斯底里地 **放声大哭**
+e.g. 她像个孩子一样开始 **放声大哭** She started to **blubber** like a child; and her **voice trembled 声音颤抖**, murmuring "it's my fault".    //**murmur: to say something in a soft quiet voice that is difficult to hear clearly 小声说，低语，咕哝**
+e.g. She started to **blubber** like a child; and then murmured "it's my fault", **with a tremble in her voice**    // **with a tremble in her voice用颤抖的声音**
 
 ## be home to xxx: 是xxx的家园
 e.g. Hundreds of **pilot whales** are killed in this "**archaic nation**", which belongs to Denmark but are an autonomous country and **are not bound by EU laws 受法律的牵制/约束s**. They **are home to** 50, 000 people, according to official **stats/stæts/**, aka, **the population census人口普查**        //**movie censorship**: Censorship is the censoring of books, plays, movies, or reports, especially by government officials, because they are considered immoral or secret in some way; which will be **abridged  (删节)书面作品** from the movie, reports, etc. (官方对书刊、剧本、电影或新闻报道的) 审查
