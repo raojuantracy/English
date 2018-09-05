@@ -3,10 +3,6 @@
 https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
 https://edition.cnn.com/2018/08/31/us/seattle-airplane-sexual-abuse-charges/index.html
 
-# Bridge collapse
-https://en.news/lessonPlayer/40392-zxx-en/learn/1/1/1?disableResume=false
-
-
 ##	Accuse sb. of/charge sb. with/indict sb. for
 E.g. He was charged with **three counts of** 1st degree murder. 被指控 三项 罪名
 E.G. He was charged with  **multiple counts of** sexual harassment/assault 性骚扰 and  **five counts of** sexual coercion性胁迫

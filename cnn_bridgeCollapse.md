@@ -47,6 +47,24 @@ e.g.  ...the man who ran the catering concession at the Rob Roy Links in Palomin
 e.g. To qualify for **travel concessions** you have to be 60. 要到60岁才能够享受 旅行优惠价。
 e.g. Open daily, adults £4, concessions £2 (= people who have the right to a concession pay £2 ) . 每天开放。 成人票价四英镑，优惠票价两英镑。
 
+1. [T always + adv/prep] to force something into a small space; If you cram things or people into a container or place, you put them into it, although there is hardly enough room for them. 把…塞入〔小空间〕，硬塞 [cram sth into/onto etc sth]
+•  Terry **crammed the dirty clothes into** his bag. 特里把脏衣服塞进了包里。
+•  She **crammed her mouth with** peanut jelly. 她塞了一嘴鱼子酱
+• A lot of information has been **crammed into** this book. 这本书包含大量的信息。
+
+2. [I always + adv/prep] if **a lot of people cram into a place or vehicle**, they go into it so it is then full 〔人〕挤进，挤满 [**cram into a place; cram in to a vehicle**]
+V.S.  
+* **(尤指粗暴地像放牧一样)把人群挤进/赶进<一个地方>　herd sb into a place**: to bring people together in a large group, especially roughly
+* **把sb限制/集中在一个小地方(好控制/指挥)　corral sb. into a place /kɒˈrɑːl/**: to keep people in a particular small area, especially in order to control them
+e.g. Once at the airport, we **were herded into** the gate and **corralled into a small room**. 我们一到机场就被赶到登机口，限制/集中一个小房间里。
+* **人涌进<一个地方/一辆车>: sb. cram into <a place>; cram in to a vehicle**：if a lot of people cram into a place or cram into a vehicle, they go into it so it is then full 〔人〕挤进，挤满
+e.g. 36,000 spectators 观众 **crammed into the stadium** to see the football game. 观众涌进体育场观
+e.g. Thousands of people **crammed into the mall** on Black fri. 涌进/挤进了这家大型购物中心。
+e.g. This bus is too packed to hold any more passengers. See, more than 100 persons **crammed into the bus 挤满了工交车** in last stop.
+e.g. In total, an estimated 20,000 people have **been displaced** by the massive earthquake, who are now living in a **makeshift shelter 临时凑合的避难所**. Dramatic video tweeted by authorities showed hundreds of people, many believed to be foreign vacationers, **crammed into〔人〕挤进，挤满 a beach** on the island of Gili as evacuation measures got underway. The islands, famous for their white sandy beaches and clear waters, are located near **the epicenter of the quake**.
+
+3. **to do a lot of activities in a short period of time 〔在短时间内〕做很多事: cram in sth**
+e.g. **We crammed in as much sightseeing as possible during our stay in New York. 尽量安排了很多 观光游览活动**        //sightseeing bus: 观光游览车
 
 
 ## stay-cables: 土木建筑工程, 斜拉索
@@ -252,20 +270,11 @@ e.g. All Italian bridges made of concrete between the 1950s and 1960s have come 
 ## in practice: 在实践中；实际上，事实上
 e.g. All Italian bridges made of concrete between the 1950s and 1960s have come to the end of their life, which means that they will **be decommissioned** soon. They're not eternal. **In practice**, tens of thousands of bridges in Italy have exceeded the **lifespan** for which they were designed and built. He called for many Italian bridges to be replaced with structures with **a lifespan of 100 years**, saying that the costs of the "extraordinary maintenance" required to keep existing bridges functional would in many cases exceed those involved with **demolition** and reconstruction.
 
-
 ## **sound an alarm**
 e.g. The engineering faculty at the University of Genoa **sounded the alarm** in 2016, calling the structure an "engineering failure" even with **metal fatigue 金属疲软** in an interview with broadcaster Primocanale. However, his warning was **brushed aside/over** = ignored.
 
 ## death toll
 e.g. The **death toll** has been revised to 38. The figure is not categorized as final at this time and authorities continue to warn that the **death toll** may rise. //**mortal, mortality rate = death rate; immortal:不会死的，神仙的，永垂不朽的/流芳百世的 immortal words**
-
-##
-
-
-
-
-
-
 
 ## cure-all = heal-all ['hi:lɔ:l]
 N-COUNT A cure-all is something that is believed, usually wrongly, to be able to solve all the problems someone or something has, or to cure a wide range of illnesses. 万灵药
@@ -294,10 +303,18 @@ e.g. He **was stereotyped as** a renegade.  他被一些人带着成见视为一
 ##  早已/非常过时的; 非常陈旧的; 古色古香的 archaic /ɑːˈkeɪɪk/ [archaic words 古词; archaic civilizations 古代文明]  
 ADJ Archaic means extremely old, out of data, or extremely old-fashioned.
 
-## [herd sb into a place V.S. corral sb into a place]
-* **herd sb into a place**: to bring people together in a large group, especially roughly〔尤指粗暴地, 像放牧似的〕把人集合在一个地方
-* **corral sb. into a place [kə'rɑːl] [kə'ræl] 把sb限制/集中在一个小地方(好控制/指挥)**: to keep people in a particular area, especially in order to control them   //Verb) pp: corralled   pt: corralled   
+## deaf 聋的 => deafening /ˈdɛfənɪŋ/震耳欲聋的
+1. ADJ A deafening noise is a very loud noise. 震耳欲聋的  [**a deafening roar 震耳欲聋的轰鸣声; deafening noise**]
+•  ...**the deafening roar** of fighter jets taking off.  …战机起飞时震耳欲聋的轰鸣声
+e.g. when the quake hit. "Everything started moving; **the noise was deafening**.
+2. ADJ 鸦雀无声，死一般的寂静 If you say there was **a deafening silence,** you are emphasizing that there was no reaction or response to something that was said or done; deafening silence:  a complete silence, when it is uncomfortable or you are expecting someone to say something
+•  What was truly despicable was **the deafening silence** maintained by the candidates concerning the riots.   真正可鄙的是这些侯选人对暴乱所持的缄默态度。
+
+## sb. cram into V.S. herd sb into a place V.S. corral sb into a place
+* **(尤指粗暴地像放牧一样)把人群挤进/赶进<一个地方>　herd sb into a place**: to bring people together in a large group, especially roughly
+* **把sb限制/集中在一个小地方(好控制/指挥)　corral sb. into a place /kɒˈrɑːl/**: to keep people in a particular small area, especially in order to control them
 e.g. Once at the airport, we **were herded into** the gate and **corralled into a small room**. 我们一到机场就被赶到登机口，限制/集中一个小房间里。
+* **人涌进<一个地方/一辆车>: sb. cram into <a place>; cram in to a vehicle**：if a lot of people cram into a place or cram into a vehicle, they go into it so it is then full 〔人〕挤进，挤满
 
 ## frivolous,frivolously
 * [**a frivolous person: 不认真/不理智的人;轻浮的／轻佻的，**］If you describe someone as frivolous, you mean they behave in a silly or **light-hearted(not serious)** way, rather than being serious and sensible/rational.

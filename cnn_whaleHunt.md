@@ -182,10 +182,14 @@ e.g. Reacting to the **bloodshed of cetaceans 鲸类**, the Blue Planet society,
 An autonomous administrative division (also referred to as an autonomous area, entity, unit, region, subdivision, or territory) is a subdivision or dependent territory of a country that has a degree of self-governance, or autonomy, from an external authority.
 e.g. The EU *blanket ban全面禁令* on commercial whaling **carries no weight 没有分量／不受重视** on that country because that country **is not bound by EU laws** and it's an autonomous area.   //**be bound by laws: 受法律的牵制/约束**
 
-## [herd sb into a place V.S. corral sb into a place]
-* **herd sb into a place**: to bring people together in a large group, especially roughly〔尤指粗暴地, 像放牧似的〕把人集合在一个地方
-* **corral sb. into a place [kə'rɑːl] [kə'ræl] 把sb限制/集中在一个小地方(好控制/指挥)**: to keep people in a particular area, especially in order to control them
+## [(尤指粗暴地像放牧一样)把人群挤进/赶进<一个地方>: herd sb into a place V.S. corral sb into a place V.S. sb. cram into a place]
+* **(尤指粗暴地像放牧一样)把人群挤进/赶进<一个地方>　herd sb into a place**: to bring people together in a large group, especially roughly
+* **把sb限制/集中在一个小地方(好控制/指挥)corral sb. into a place [kə'rɑːl] [kə'ræl]**: to keep people in a particular area, especially in order to control them
 e.g. Once at the airport, we **were herded into** the gate and **corralled into a small room**. 我们一到机场就被赶到登机口，限制/集中一个小房间里。
+* **人涌进<一个地方/一辆车>: sb. cram into <a place>; cram in to a vehicle**：if **a lot of people cram into a place or vehicle**, they go into it so it is then full 〔人〕挤进，挤满
+e.g. 36,000 spectators 观众 **crammed into the stadium** to see the football game. 观众涌进体育场观
+e.g. Thousands of people **crammed into the mall** on Black fri. 涌进/挤进了这家大型购物中心。
+e.g. This bus is too packed to hold any more passengers. See, more than 100 persons **crammed into the bus 挤满了工交车** in last stop.
 
 ## herd noun/Verb
 1. [C] Noun: a herd of animals is a group of animals of one kind that live and feed together〔同一种类并一同活动的〕兽群；牧群  
@@ -220,6 +224,22 @@ e.g. They corralled the cattle before loading them onto the truck. 他们在把�
 3. to keep people in a particular area, especially in order to control them 把〔人〕限制在某地方(好控制/管理)
 e.g. Once at the airport, we **were herded into** the gate and **corralled into a small room**. 我们一到机场就被赶到登机口，关进一个小房间里
 e.g. The **Advocacy group/pressure group** describes the hunts as "relentless and merciless bloodshed" and argues that these cetaceans 鲸类 are highly intelligent creatures ['kritʃɚ] and they feel pain and fear every bit as we do. However, that nation, so-call "**archaic nation非常过时的**" denies this accusation and pointed that nowadays, more humane methods of **corralling the animals into the bay** and killing them.  把〔人〕限制在某地方(好控制/管理)
+
+## sb. cram into <a place>
+1. [T always + adv/prep] to force something into a small space; If you cram things or people into a container or place, you put them into it, although there is hardly enough room for them. 把…塞入〔小空间〕，硬塞 [cram sth into/onto etc sth]
+•  Terry **crammed the dirty clothes into** his bag. 特里把脏衣服塞进了包里。
+•  She **crammed her mouth with** peanut jelly. 她塞了一嘴鱼子酱
+• A lot of information has been **crammed into** this book. 这本书包含大量的信息。
+2. [I always + adv/prep] if **a lot of people cram into a place or vehicle**, they go into it so it is then full 〔人〕挤进，挤满 [**cram into a place; cram in to a vehicle**]
+V.S.  
+* **人涌进<一个地方>: sb. cram into <a place>**
+* **(像放牧一样)把人群挤进/赶进<一个地方> herd sb into a place = corral sb into a place /kɒˈrɑːl/**
+e.g. 36,000 spectators 观众 **crammed into the stadium** to see the football game. 观众涌进体育场观
+e.g. Thousands of people **crammed into the mall** on Black fri. 涌进/挤进了这家大型购物中心。
+e.g. This bus is too packed to hold any more passengers. See, more than 100 persons **crammed into the bus 挤满了工交车** in last stop.
+e.g. In total, an estimated 20,000 people have **been displaced** by the massive earthquake, who are now living in a **makeshift shelter 临时凑合的避难所**. Dramatic video tweeted by authorities showed hundreds of people, many believed to be foreign vacationers, **crammed into〔人〕挤进，挤满 a beach** on the island of Gili as evacuation measures got underway. The islands, famous for their white sandy beaches and clear waters, are located near **the epicenter of the quake**.
+3. **to do a lot of activities in a short period of time 〔在短时间内〕做很多事: cram in sth**
+e.g. **We crammed in as much sightseeing as possible during our stay in New York. 尽量安排了很多 观光游览活动**        //sightseeing bus: 观光游览车
 
 ## ritual, ritualistic, ritualistically
 * Ritualistic acts are the fixed patterns of behaviour that form part of a religious service or ceremony. 宗教仪式的; 固守仪式的
