@@ -46,8 +46,8 @@ With performances like that, maybe an encore is overdue.
 
 
 
-## 耳垢；耳屎 earwax []'ɪəwæks]  美 ['ɪrwæks]
-e.g. Earwax is a protective material that contains bacteria-fighting elements, but it sometimes accumulates and has to be cleaned out because it can **impede hearing** or cause pain.
+## 耳垢；耳屎 earwax ['ɪəwæks]
+e.g. Earwax is a protective material that contains bacteria-fighting elements, but it sometimes accumulates /əˈkjuːmjʊˌleɪt/ and has to be cleaned out because it can **impede hearing** or cause pain.  //**accumulate:  to gradually get more and more money, possessions, knowledge etc over a period of time 积累，积聚**
 
 ## sinus /ˈsaɪnəs/, plural: sinuses
 N-COUNT Your sinuses are the spaces in the bones of your head that are connected to the inside of your **nostril**. 鼻窦,窦道〔颅骨中与鼻孔相通的空穴〕[**blocked sinuses 阻滞的窦道; a sinus infection 窦感染**]
@@ -61,10 +61,11 @@ hepatitis is a disease of the liver that causes fever and makes your skin yellow
 catarrh is a medical condition in which a lot of **mucus/'mjukəs/黏液, yellow thick liquid, or phlegm/flɛm/痰** is produced in your nose and throat. You may get catarrh黏膜炎 when you have a cold.
 e.g. I got a serious cold; **I have watery eyes and running nose**. What is worse, I still suffer from **catarrh[kə'tɑr], hepatitis/hepə'taɪtɪs/, and sinus problems**. 我仍然患有黏膜炎和鼻窦炎
 
-## (什么行动都不采取)坐等…结束; 耐着性子看完或听完 sit xxx out   V.S. 请听我说完 hear me out
+## (什么行动都不采取)坐等…结束; 耐着性子看完或听完 sit xxx out  V.S. 请听我说完 hear me out
 PHRASAL VERB: If you sit something out, you wait for it to finish, without taking any action. 坐等…结束
 e.g. For this sev1 alert from Concord, the only thing I can do is **sit it out**. In other words, we just leave it until auto-resolve. 坐等这件事结束
 e.g.  **I'm feeling under the weather**. My throat and **sinuses** are killing me and my head is pounding. I'm going to **sit it out**.
+V.S. **请听我说完 hear me out**
 
 ## ['frɒlɪk]frolic, frolicked, frolicking V.S. horse around 胡闹哄闹/瞎闹腾/嬉戏
 adj. 嬉戏的，欢乐的 n. 嬉闹，嬉戏 vi. 嬉戏
@@ -73,6 +74,42 @@ V-I When people or animals frolic, they play, ever **horse around胡闹哄闹/�
 e.g. Tourists sunbathe and frolic in the ocean. 晒日光浴，在海水中嬉戏
 e.g. Children were sliding and **frolicking 嬉戏 in the snow and slush雪泥**.
 
-## 胡闹哄闹；瞎闹腾，闹着玩, 鬼混 horse around
-**PHRASAL VERB**: If you horse around, you play roughly and carelessly, so that you could hurt someone or damage something.
+## 胡闹哄闹；瞎闹腾，闹着玩, 鬼混 horse around; horseplay
+* **horse around: PHRASAL VERB**: If you **horse around**, you play roughly and carelessly, so that you could hurt someone or damage something.
+* **horseplay /ˈhɔːsˌpleɪ/**: N-UNCOUNT Horseplay is rough play in which people push and hit each other, or behave in a silly way. 推搡嬉闹
 e.g. My friends and I are very naughty and we like to horse around and try to push each other.  我和朋友们有时会闹着玩，互相推来搡去
+
+## liaison /lɪˈeɪzɒn/  英 [lɪˈeɪzn]
+1. N-UNCOUNT Liaison is cooperation and the regular exchange of information between different organizations or between different sections of an organization; or between groups of people, especially at work, so that each group knows what the other is doing 〔尤指工作上的〕联络，联系; (部门之间的)联络
+**[ liaison between xxx and xxx; be in liaison with xxx**
+e.g. We CloudOps team **is in better liaison with** other agencies 与其他机构之间更好的联系  
+e.g. Close liaison between police forces and the art world is **vital/critical/crucial/imperative** to combat art crime. **警方和艺术界之间的联络** 对于打击艺术犯罪是至关重要的。    //vital=critical=crucial=imperative: very important
+e.g. The project has been set up **in liaison with** the art department. 该项目是和艺术系联合设立的
+2. N-UNCOUNT If someone acts as liaison with a particular group, or between two or more groups, their job is to encourage co-operation and the exchange of information; is to talk to different departments or groups and to tell each of them about what the others are doing 联络员
+•  He is acting as liaison with the film crew. 他担任拍摄组的联络员。
+•  She acts as **a liaison between patients and staff**. 她担当病人和医务人员之间的联络员。
+3. [C] liaison is a secret sexual relationship between a man and a woman, especially a man and a woman who are married but not to each other〔男女间的〕私通/出轨 **liaison = extramarital behavior = sexual misconduct/mɪsˈkɒndʌkt/**   
+//** /mɪsˈkɒndʌkt/注意发音 Misconduct is bad or unacceptable behaviour, especially by a professional person. 不端行为; **〔男女间的〕私通/出轨: sexual misconduct=extramarital behavior=liaison/lɪˈeɪzɒn/; 玩忽职守: professional misconduct** e.g.  doctor who has been accused of professional misconduct 被指控 玩忽职守的医生
+
+## Simiar expressions
+* **fallout from sth 随之而来的不好的/让人不高兴的后果**:  If you refer to the fallout from something that has happened, you mean the `unpleasant or negative` consequences or effects that follow it. So the `fallout from sth` is like the `aftershocks of that thing 余波(指不好的效应`.  e.g.**fallout from Brexit; fallout from presidential election**
+e.g. The **fallout from economic inflation** is farmers were `beyond stressed out`, also thanks to **the aftershock of last year's drought 干旱的余波**
+
+* **aftershocks of <a shocking event>** People sometimes refer to the effects of a shocking event, especially a bad or negative one, as the aftershock. 〔令人震惊之事的〕余波
+e.g. the war and its aftershocks 这次战争及其余波
+e.g. The **fallout from economic inflation** is farmers were `beyond stressed out`, also thanks to **the aftershock of last year's drought**. 去年 **干旱的余波**
+
+* **repercussions /ˌriːpəˈkʌʃən/**: If an action or event has repercussions, it causes unpleasant things to happen some time after the original action or event. 令人不满意的后果
+e.g. The collapse of the company **had seriously bad repercussions for** the whole industry. 这家公司的倒闭影响了整个行业。
+e.g. There were serious repercussions on his career. 他的事业受到了严重影响
+
+*  **[in the aftermath of the earthquake; in the aftermath of the tsunami]**： The aftermath of an important event, especially a harmful one, is the situation that results from it. (灾难性大事件后的不好的) 后果/余波  
+e.g.  **In the aftermath of the military coup**, the troops opened fire on the demonstrators.  在那次政变的余波之中
+e.g. A tsunami warning was issued **in the immediate aftermath of the quake**, prompting people to be displaced 背井离乡,  fleeing to higher ground. Susanto said the roads in the jungle leading to northern Lombok were **treacherous〔地面、道路、天气情况等〕暗藏危险的**, which is likely to **hamper aid efforts**.
+
+* **rippling effect: 涟漪作用, 涟漪效应**; Ripples are little waves on the surface of water caused by the wind or by something moving in or on the water. 涟漪
+
+## similar 妨碍，阻碍
+* `hinder sb from doing`: If something hinders you, it makes it more difficult for you to do something or make progress. 阻碍
+* `hamper sb from doing`: If someone or something hampers you, they make it difficult for you to do what you are trying to do. 妨碍
+* `impede sb; impediment, speech impediment`: If you impede someone or something, you make their movement, development, or progress difficult; to make it difficult for someone or something to move forward or make progress 妨碍，阻碍
