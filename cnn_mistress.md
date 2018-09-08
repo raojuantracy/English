@@ -8,6 +8,29 @@ a concubine is a woman in the past who lived with and had sex with a man who alr
 ## 情妇 mistress /ˈmɪstrɪs/   
 N-COUNT A married man's mistress is a woman who is not his wife and with whom he is having a sexual relationship. In other words, they did **sexual misconduct [,mɪs'kɑndʌkt]/extramarital behavior**  
 e.g. Lily was his mistress for three years. 给他做了3年情妇。
+e.g. The onetime **mistress** of former deputy Republican National Committee Finance Chairman Elliott alleged in newly revealed court documents that she was physically abused by Elliott, and she charges that he **was emboldened** by President Donald Trump's alleged mistreatment of women and belief that he could get away with it.
+e.g. The disturbing new allegations about the relationship between Broidy, a Republican fundraiser and Trump supporter, and former Playboy model Shera were unsealed Friday by Judge Elizabeth Allen White in Los Angeles Superior Court. Shera has been his **mistress** for 3 years. Broidy and Bechard had signed a $1.6 million agreement that was to be paid to Bechard for an undisclosed "personal injury." The deal required the parties to keep the details of the relationship confidential, but **the agreement was breached/violated** and it spilled into public view.
+
+## fundraiser 资金筹集人;  raise fund
+e.g. The disturbing new allegations about the relationship between Broidy, a Republican fundraiser and Trump supporter, and former Playboy model Shera were unsealed Friday by Judge Elizabeth Allen White in Los Angeles Superior Court. Shera has been his **mistress** for 3 years. Broidy and Bechard had signed a $1.6 million agreement that was to be paid to Bechard for an undisclosed "personal injury." The deal required the parties to keep the details of the relationship confidential, but **the agreement was breached/violated** and it spilled into public view.
+
+## impregnate sb.
+e.g .
+"Although Mr. Broidy said that Mr. Trump was 'an idiot,' who 'could not even pronounce the names of countries correctly,' " the newly unsealed court documents filed by Bechard say, "Mr. Broidy admired Mr. Trump's uncanny ability to sexually abuse woman and get away with it. Mr. Broidy began to hurt Ms. Bechard physically during their sexual activities -- touching her in ways to which she did not consent."
+Bechard alleges that Broidy, a Republican mega donor, impregnated her and then pressured her to have an abortion. "Initially, he supported her keeping the baby," she says in the court documents. "But he quickly changed his tune and began demanding that she gets an abortion, insisting that 'Nobody can know.' "
+
+## herpes
+e.g. Broidy's attorneys have fought to keep the court documents sealed. The complaint says Bechard wanted to have the baby but "was scared of Mr. Broidy." She also accused Broidy of refusing to wear condoms while failing to inform her that he had herpes, according to her complaint.
+
+## blackmail sb
+e.g. Broidy is denying some of the accusations made in the court documents. In a statement Friday to CNN he said: "This person tried to extract money from me by making up false, malicious and disgusting allegations. I have acknowledged making the mistake of having an affair, and I entered a confidential agreement to protect my family's privacy. I honored my agreement until her lawyer breached it -- and then, when I failed to pay her demands, she did what blackmailers do and went public with her lies. I will vigorously defend myself against these false and defamatory allegations."
+
+## preposterous
+e.g. The idea that Mr. Davidson pressured Ms. Bechard to have an abortion is preposterous. That was her decision alone, as was her decision to accept a $1.6 million settlement. Ms. Bechard should be offended that her attorneys, or anyone else, would suggest otherwise," Paul Berra, Davidson's attorney, said in a statement. Avenatti told CNN he was "pleased that the judge sided with him and the media to unseal the documents." The judge also threw out two of the accusations against him.
+
+## installments 分欺付款
+e.g. Before the details of Broidy and Bechard's affair became public, Broidy had agreed to pay Bechard in $200,000 installments for an unspecified personal injury in the deal.
+Broidy's attorney recently argued in the press that their agreement was null and void after the affair was leaked to the press.
 
 ## shard /ʃɑːd/
 N-COUNT Shards are pieces of broken glass, pottery, or metal. (玻璃、陶瓷或金属的)碎片
