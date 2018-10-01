@@ -1,26 +1,30 @@
-On the outskirts of Kiev, somewhere between the city's Nyvky and Sviatoshyn metro stations, sits a drab industrial building that you could drive past a thousand times without guessing it contains an extraordinary secret.
-Inside can be found the unfinished chapter of one of the greatest feats of Soviet aviation ever conceived. The only clue is the building's size. It's gargantuan.
-It needs to be. Because it contains something equally vast -- the largest airplane that was never completed.
-The aircraft is an Antonov An-225, conceived by Soviet engineers in the dying days of the Only one An-225 was ever built by the Kiev-based Antonov company, which came up with the design. Romantically named Mriya, (Ukranian for dream), it first took flight in 1988 and has been in service ever since, drawing crowds of admirers wherever it spreads its huge wings. Cold War as a gigantic, gravity-defying workhorse that would help communism's ongoing race into space and assert the East's dominance of the skies.
-Construction was begun on a second plane, a sister for this aerial leviathan. But while Mriya is breaking world records in the skies, her twin still lies in pieces, only able to dream about leaving the ground.
-The fate of Mriya's hidden sister is a fascinating story about big ambitions and even bigger frustrations caught up in the turbulent history of modern Ukraine after the collapse of the Soviet Union.
-The story isn't over though. Antonov remains optimistic it'll get the second An-225 off the ground.
-It recently granted CNN Travel an exclusive tour of the half-built aircraft, an intriuging glimpse at the legacy of one of the marvels of the modern aviation world.
-Reaching the unfinished An-225's hangar involves being escorted by car through the vast industrial landscape west of Kiev that Antonov occupies. Entering the building is like stepping into a cathedral of mechanics -- it's surprisingly calm and tranquil.
-The cavernous, endless space swallows up the machinery and airplane parts within. Workers can occasionally be glimpsed in the distance, but the sound of their activity is lost, absorbed by the giant metallic structure.
-Towering over everything is the massive fuselage of the unfinished An-225. It's a beast of a thing. If ever completed, it will have a length of 84 meters (276 feet) -- a whole 9 meters longer than the world's largest passenger aircraft, the Airbus A380 superjumbo.
-It's an impressive sight, although it is slightly depressing to see this potentially majestic airplane in pieces. The wings that would give it a span of 88.4 meters are unattached, stretching off to one side. The nose gear, a mechanism the size of a house, is also nearby.
-By the end of the 1970s, the need arose for transporting large and heavy loads from their places of assembly to the Baikonur Cosmodrome, the sprawling spaceport in the deserts of Kazakhstan that was the launchpad for Yuri Gagarin's pioneering space voyage of 1961.
-The cargo in question was the Buran spacecraft, the Soviet Union's answer to NASA's Space Shuttle. Since there were at the time no airplanes capable of carrying it, the Antonov
-To this day, Mriya remains the heaviest aircraft ever built. Powered by six turbofan engines, she has a maximum payload weight of 250 tonnes, which can be carried inside or on its back. It boasts the largest wingspan of any airplane in operational service.
-Because of its size, pilots need special training to cope with the challenges of maneuvering the An-225. One of the airplane's quirks is its ability to perform a so-called "elephant dance," a term used in aviation when the nose gear "kneels" to make cargo loading easier.
-With Mriya declared a success, the Soviet Union forged ahead with plans to build three more An-225s. Construction of the second began in 1989 amid equally high expectations.
-Then history intervened.
-In 1991 the Soviet Union collapsed, taking with it the Soviet space program. In the chaos that followed, production continued on the second plane, but it was eventually halted in 1994.
- company was ordered to develop one.
-What emerged was the An-225 megaplane -- the biggest and most powerful airplane ever to successfully enter service. And on December 21, 1988, three years after she was first conceived, Mriya safely transported the Buran spacecraft to Baikonur.
+# Aviation, hangar /ˈhæŋə/: N-COUNT A hangar is a large building in which aircraft are kept. 飞机库
 
-While its manufacturer Antonov successfully transitioned from communism to capitalism, the end of Soviet funding for the ambitious megaplane project meant the unfinished aircraft was in limbo.
+On the outskirts of Kiev, somewhere between the city's Nyvky and Sviatoshyn metro stations, sits a drab industrial building that you could drive past a thousand times without guessing it contains an extraordinary secret.
+Inside can be found the unfinished chapter of one of the greatest feats of Soviet `/ˈsəʊvɪ'ɛt/` aviation ever `conceived`. The only clue is the building's size. It's gargantuan.  //something that is an impressive achievement, because it needs a lot of skill, strength etc to do 业绩，功绩，壮举
+
+It needs to be. Because it contains something equally vast -- the largest airplane that was never completed.
+The aircraft is an Antonov An-225, `conceived by` Soviet `/ˈsəʊvɪ'ɛt/` engineers in the dying days of the Only one An-225 was ever built by the Kiev-based Antonov company, which came up with the design. Romantically named Mriya, (Ukranian for dream), it first took flight in 1988 and has been in service ever since, drawing crowds of admirers wherever it spreads its huge wings. Cold War as a gigantic, gravity-defying `workhorse` that would help communism's ongoing race into space and assert the East's dominance of the skies. It is `breaking world records` in the skies.
+Construction was begun on a second plane, a sister for this aerial leviathan. But while Mriya is breaking world records in the skies, her twin still lies in pieces, only able to dream about leaving the ground. The fate of Mriya's hidden sister is a fascinating/attractive story about big ambitions and even bigger frustrations caught up in the turbulent history of modern Ukraine after the collapse of the Soviet `/ˈsəʊvɪ'ɛt/` Union.
+
+The story isn't over though. Antonov remains optimistic it'll get the second An-225 off the ground. It recently granted CNN Travel `an exclusive tour` of the half-built aircraft, an `intriuging(interesting and attractive)` glimpse at the legacy of one of the marvels of the modern aviation world.
+
+Reaching the unfinished An-225's `hangar` involves being escorted by car through the vast industrial landscape west of Kiev that Antonov occupies. Entering the building is like stepping into a cathedral of mechanics -- `it's surprisingly calm and tranquil`.      //`tranquil, tranquility; tranquilizer/sedative ['sedətɪv]  //hangar /ˈhæŋə/: N-COUNT A hangar is a large building in which aircraft are kept. 飞机库`
+
+The `cavernous`, endless `hangar` swallows up the machinery and airplane parts within. Workers can occasionally be glimpsed in the distance, but the sound of their activity is lost, absorbed by the giant metallic `[mə'tælɪk]` structure. `Towering over everything` is the massive `fuselage/plane body` of the unfinished An-225. It's a beast of a thing. If ever completed, it will have a length of 84 meters (276 feet) -- a whole 9 meters longer than the world's largest passenger aircraft, the Airbus A380 superjumbo.
+
+It's an impressive sight, although it is slightly depressing to see this potentially majestic airplane in pieces. The wings that would give it `a span of 88.4 meters` are unattached, stretching off to one side. The nose gear, a mechanism the size of a house, is also nearby.
+
+By the end of the 1970s, the need arose for transporting large and heavy loads from their places of assembly to the Baikonur Cosmodrome, the `sprawling` spaceport in the deserts of Kazakhstan that was the `launchpad` for Yuri Gagarin's pioneering space voyage of 1961 (['vɔɪ-ɪdʒ] a long journey in a ship or spacecraft〔乘船或宇宙飞船的长途〕航行).
+
+To this day, Mriya remains the heaviest aircraft ever built. Powered by six `turbofan engines`, she has a maximum payload weight of 250 tonnes, which can be carried inside or on its back. It boasts the largest wingspan of any airplane in operational service. Because of its size, it's a `demanding task (need lots of skill and tech)` for pilots to cope with the `formidable challenges` of `maneuvering this plane`. One of the airplane's `quirks` is its ability to perform a so-called `elephant dance`, a term used in aviation when the `nose gear` kneels down to make cargo loading work easier for the `ramp agent 机坪操作员`.
+
+With Mriya declared a success, the Soviet `/ˈsəʊvɪ'ɛt/` Union **forged ahead** with plans to build three more An-225s. Construction of the second began in 1989 amid equally high expectations. Then history intervened.   //**PHRASAL VERB forge ahead with sth = move forward, If you `forge ahead with` something, you continue with it and make a lot of progress with it. 继续推进<xxx, e.g plan, proposal>** e.g.  He again pledged to `forge ahead with his plans` for reform.  他再次发誓要 `继续推进<他的改革计划>`
+
+In 1991 the `Soviet Union collapsed`, taking with it the Soviet space program. In the `chaos/turmoil/ferment/unrest` that followed, production continued on the second plane, but it was eventually halted in 1994. What emerged was the An-225 megaplane -- the biggest and most powerful airplane ever to successfully enter service. And on December 21, 1988, three years after `she was first conceived`, Mriya safely transported the Buran spacecraft to Baikonur.
+
+While its manufacturer Antonov successfully transitioned from communism to capitalism, the end of Soviet funding for the ambitious megaplane project meant the unfinished aircraft **was in limbo**.  //**be in limbo: a situation in which nothing happens or changes for a long period of time, and it is difficult to make decisions or know what to do, often because you are waiting for something else to happen first;  If you say that someone or something is in limbo, you mean that they are in a situation where they seem to be caught between two stages and it is unclear what will happen next. 〔常指因等待另一事先发生而所处的〕不确定的状态/前途未卜的状态** e.g. The negotiations have been in limbo since mid-December.
+
 The changing geopolitical landscape meant that Mriya was no longer relevant. With the technological rivalry of the two global superpowers ending abruptly, the race to build bigger and more powerful engineering status symbols was at an end.
 The An-225's impressive capabilities suddenly were deemed excessive for the modern aviation world -- and certainly one gargantuan aircraft was enough. With very few oversized payloads needing transportation, another Antonov, the 170-tonne capacity An-124 Ruslan, was doing most of the work.
 Furthermore, when Ukraine was plunged into a revolution in 2014 that set it at odds with Russia, it lost a key supplier of parts and equipment, putting another question mark over the second An-225's future.
@@ -44,6 +48,27 @@ It's also won hearts for participating in humanitarian operations. In 2010, it t
 Needless to say, Mriya has also come to the attention of Hollywood. A CGI-generated aircraft inspired by the An-225 appeared in sci-fi apocalypse movie "2012." A similar rendering starred alongside Vin Diesel in "Fast and Furious 6." The airplane also served as the inspiration for Jetstorm, a shape-shifting robot in the 2007 "Transformers" film.
 With performances like that, maybe an encore is overdue.
 
+
+## be entitled to sth; be entitled to do sth
+1. **be entitled to sth; be entitled to do sth**: to give someone the official right to do sth or have something, allow sb to do 使sb有权利做xxx; 使sb有资格拥有/享受xxx东西
+THESAURUS ALLOW
+e.g. In IBM, full-time employees `are entitled to receive health insurance`. 全职雇员都有资格享受健康保险。
+e.g. In IBM, regular employees `are entitled to 15 days of annual leave` and `are entitled to 3 days of optional leave`.
+e.g. Membership `entitles you to the monthly journal`. 凭会员身份可以获取月刊。
+2. 〔书、戏剧等〕名为… **(a book/play) be entitled sth**: if a book, play etc is entitled something, that is its name
+e.g. a documentary entitled ‘The Price of Perfection’ 一部名为《完美的代价》的纪录片
+3. Noun) entitlement
+* entitlement is the official right to have sth or do something 〔拥有或获得某物的〕权利; 享受福利的权利
+e.g. They lose their `entitlement to welfare, like 15 days of annual leave` when they leave IBM. 就丧失了 `享受福利的权利`
+* entitlement is the amount that you have a right to receive 应得的数额
+**[ entitlement to xx ] [benefit/holiday/pension entitlement]**
+e.g. Do you need advice on your `entitlement to state benefits`?  可享受的国家津贴
+e.g. In IBM, the paid `holiday entitlement` is 15 days; and the `entitlement to optional holiday` is 3 days. `可享有的带薪假期` 为25天。
+
+## popularize sth /ˈpɒpjʊləˌraɪz/
+1. V-T To popularize something means to make a lot of people interested in it and able to enjoy it. 推广
+e.g. Brokaw, who had studied figure skating in Europe, returned to the U.S. and `popularized the new sport` 推广了这项新的体育运动.
+2. N-UNCOUNT 推广 ...the popularization of sports through television. …通过电视对体育运动的推广。
 
 ## 耳垢；耳屎 earwax ['ɪəwæks]
 e.g. Earwax is a protective material that contains bacteria-fighting elements, but it sometimes accumulates /əˈkjuːmjʊˌleɪt/ and has to be cleaned out because it can **impede hearing** or cause pain.  //**accumulate:  to gradually get more and more money, possessions, knowledge etc over a period of time 积累，积聚**
@@ -227,3 +252,8 @@ e.g. I refused to `be blackmailed into joining` the drug-trafficking gang/`carte
 If you describe something as preposterous, you mean that it is extremely unreasonable and foolish, preposterous = absurd = ridiculous 荒谬的
 比较级 more preposterous最高级 most preposterous
 e.g. The whole idea sounds absolutely `preposterous`! 整个想法听起来荒谬透顶！
+
+## synergy /ˈsɪnədʒɪ/: 1 + 1 > 2
+N-VAR If there is synergy between two or more organizations or groups, they are more successful when they work together than when they work separatelyj; the additional effectiveness when two or more companies or people combine and work together
+协同作用，增效作用 协同作用
+•  Of course, there's quite obviously a lot of synergy between the two companies.  当然，这两家公司之间显然有许多的协同作用。
