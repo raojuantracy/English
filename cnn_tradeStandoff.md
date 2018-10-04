@@ -201,6 +201,12 @@ e.g. The team are relying on Gregg to `give them a cutting edge` . 球队仰仗�
 ## [ penetrate Singapore market 打入市场]
 e.g. Firstly, there are a lot of competitions in our industry obviously `in this day and age`, and `I'd like to point out` that we are `in danger of falling behind`. What is more, our rivals are working hard to `catch up to us` and they're very innovative. `Apparently(it's said that)`, our top competitor is developing a new IT app, which aims to **penetrate Singapore market 打入市场**, where we might will lose our core customers in the future.
 ==> Solution: To face with this `formidable challenge`, we must invest more in our R&D department, `embolden` and inspire all employees to be innovative and `think out of the box`. Additionally, bonus and incentive system can be built up to award the most `innovative/inventive/creative person`. As you see, innovation is the key for tech companies to snatch the market pie and to stand **at the cutting edge/forefront of the technology**.
+* penetrate, penetration
+* infiltrate
+* pierce the ear
+
+## （公司的）分类账 ledger /ˈlɛdʒə/
+N-COUNT A ledger is a book in which a company or organization writes down the amounts of money it spends and receives. 分类账
 
 ## divest, divesture
 e.g. Another thing I want to mention is we've `divested our X86 low-end server to Lenovo` to meet the transformation goal of the company, which however means that staffs working for X86 project lose their project.
