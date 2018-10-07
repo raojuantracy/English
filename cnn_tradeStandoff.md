@@ -1,3 +1,4 @@
+# whether mp3? 
 #cnn: trade war; trade spat口角; trade standoff 拉锯战/僵持不下
 # 打印出来，record mp3
 * https://edition.cnn.com/2018/09/22/politics/us-china-trade-talks-tariffs/index.html
