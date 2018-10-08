@@ -1,55 +1,170 @@
 # whether mp3?
+https://edition.cnn.com/travel/article/boeing-777x-jetliner/index.html
 
-# Aviation, hangar /ˈhæŋə/: N-COUNT A hangar is a large building in which aircraft are kept. 飞机库
+## wingspan /ˈwɪŋˌspæn/(鸟、昆虫或飞机的)翼展，翼幅〔指两翼展开时的宽度)
+N-COUNT The wingspan of a bird, insect, or aeroplane is the distance from the end of one wing to the end of the other wing; the distance from the end of one wing to the end of the other 〕 (鸟、昆虫或飞机的)翼展，翼幅〔指两翼展开时的宽度)
+•  ...a glider with an 18-foot wingspan.  ...一架翼幅为18英尺的滑翔机。
+e.g.So you want a plane with huge `lift capability` and the `wingspan` to match, but you also need it to fit through regular airport gates. Once completed, the 777-9X is to have the widest `wingspan` of any aircraft in the company's 102-year history: 235 feet, five inches. Its `hinged wingtips (the point at the end of a bird’s or a plane’s wing〔鸟或飞机的〕翼尖，翼梢)` alone measure 12 feet, with locking pins to prevent them from folding during flight. The wings give the jetliner extra lift, similar to that of a giant sailplane glider, helping the plane to save an overall 12% more fuel than the Airbus A350. Now, you might have seen something similar on military aircraft -- such as the F/A-18 fighters which need to squeeze onto US `aircraft carriers` -- but when it comes to commercial planes this wing thing is the first of its kind.
 
-On the outskirts of Kiev, somewhere between the city's Nyvky and Sviatoshyn metro stations, sits a drab industrial building that you could drive past a thousand times without guessing it contains an extraordinary secret.
-Inside can be found the unfinished chapter of one of the greatest feats of Soviet `/ˈsəʊvɪ'ɛt/` aviation ever `conceived`. The only clue is the building's size. It's gargantuan.  //something that is an impressive achievement, because it needs a lot of skill, strength etc to do 业绩，功绩，壮举
+## wingtip /ˈwɪŋtɪp/
+1. the point at the end of a bird’s or a plane’s wing〔鸟或飞机的〕翼尖，翼梢, N-COUNT The wingtips of an aircraft are the ends of its wings. (飞机)翼尖
+e.g. The Tornado was about thirty feet from Mace's right wingtip.  “龙卷风”离“梅斯”的右机翼尖约三十英尺。
+e.g.So you want a plane with huge `lift capability` and the `wingspan` to match, but you also need it to fit through regular airport gates. Once completed, the 777-9X is to have the widest `wingspan` of any aircraft in the company's 102-year history: 235 feet, five inches. Its `hinged wingtips (the point at the end of a bird’s or a plane’s wing〔鸟或飞机的〕翼尖，翼梢)` alone measure 12 feet, with locking pins to prevent them from folding during flight. The wings give the jetliner extra lift, similar to that of a giant sailplane glider, helping the plane to save an overall 12% more fuel than the Airbus A350. Now, you might have seen something similar on military aircraft -- such as the F/A-18 fighters which need to squeeze onto US `aircraft carriers` -- but when it comes to commercial planes this wing thing is the first of its kind.
+2. N-COUNT Wingtips are formal men's shoes with laces and a pattern in the shape of a wing on the toe;a type of man’s shoe with a pattern of small holes on the toe 〔脚尖处有孔的〕男式拷花皮鞋 (正装)男鞋
+•  ...a pair of well-polished brown wingtips.  ...一双擦得很亮的棕色正装男鞋
 
-It needs to be. Because it contains something equally vast -- the largest airplane that was never completed.
-The aircraft is an Antonov An-225, `conceived by` Soviet `/ˈsəʊvɪ'ɛt/` engineers in the dying days of the Only one An-225 was ever built by the Kiev-based Antonov company, which came up with the design. Romantically named Mriya, (Ukranian for dream), it first took flight in 1988 and has been in service ever since, drawing crowds of admirers wherever it spreads its huge wings. Cold War as a gigantic, gravity-defying `workhorse` that would help communism's ongoing race into space and assert the East's dominance of the skies. It is `breaking world records` in the skies.
-Construction was begun on a second plane, a sister for this aerial leviathan. But while Mriya is breaking world records in the skies, her twin still lies in pieces, only able to dream about leaving the ground. The fate of Mriya's hidden sister is a fascinating/attractive story about big ambitions and even bigger frustrations caught up in the turbulent history of modern Ukraine after the collapse of the Soviet `/ˈsəʊvɪ'ɛt/` Union.
+## on the heels of sth 紧跟，紧接着…；紧随…之后
+e.g. October's wing reveal follows `on the heels of` the "fully assembled" static 777-9X test plane being `rolled out` at the Everett facility in September. While it will never take to the skies, the aircraft is to undergo almost a year of `static testing` on the ground to verify the structural strength and accuracy of the design. Although the airframe of the `fuselage` is largely complete, it's missing some components, such as engines and `an avionics system`.
 
-The story isn't over though. Antonov remains optimistic it'll get the second An-225 off the ground. It recently granted CNN Travel `an exclusive tour` of the half-built aircraft, an `intriuging(interesting and attractive)` glimpse at the legacy of one of the marvels of the modern aviation world.
+## static test 土木建筑工程, 航天科学技术: 静力试验
+e.g. "`Static test` is our opportunity to verify the design of the structure and load-bearing components of the airplane, ensuring the final product is safe for our customers and the flying public," says Boeing Program manager.
+"Using a full-scale airplane, we'll run various load conditions on the wings, gears, the struts and the `fuselage`."
+The wings have been tested at one-and-a-half-times the designated load during previous static tests, resulting in a wing flexing more than 26 feet.
 
-Reaching the unfinished An-225's `hangar` involves being escorted by car through the vast industrial landscape west of Kiev that Antonov occupies. Entering the building is like stepping into a cathedral of mechanics -- `it's surprisingly calm and tranquil`.      //`tranquil, tranquility; tranquilizer/sedative ['sedətɪv]  //hangar /ˈhæŋə/: N-COUNT A hangar is a large building in which aircraft are kept. 飞机库`
+## debut /ˈdeɪbjuː/  [de'bju]     |CET6+
+N-COUNT The debut of a performer or sports player is their first public performance, appearance, or recording. 首次登台
+•  She made her debut in a 1937 production of "Hamlet."  她在1937年《哈姆雷特》的演出中首次登台。
+e.g. Seating 350 to 425 passengers, the airliner is due to `debut` in 2020, with test flights beginning next year. Boeing's new X family comes as part of an engineering revolution allowing jetliners with only two engines to take on many of the same global routes as larger, `fuel-guzzling` four-engine airliners such as the 747 and Airbus's A340 and A380 Super Jumbo.
 
-The `cavernous`, endless `hangar` swallows up the machinery and airplane parts within. Workers can occasionally be glimpsed in the distance, but the sound of their activity is lost, absorbed by the giant metallic `[mə'tælɪk]` structure. `Towering over everything` is the massive `fuselage/plane body` of the unfinished An-225. It's a beast of a thing. If ever completed, it will have a length of 84 meters (276 feet) -- a whole 9 meters longer than the world's largest passenger aircraft, the Airbus A380 superjumbo.
+## guzzle sth (oil, gas)/ˈɡʌzəl/ (guzzlingguzzledguzzles)
+1. V-T/V-I If you guzzle something, you drink it or eat it quickly and greedily; to eat or drink a lot of something, eagerly and quickly – usually showing disapproval 狼吞虎咽,暴饮暴食〔一般含贬义〕
+=`snarf down sth`: to eat something quickly, especially in an untidy or noisy way 狼吞虎咽地吃
+=`devour sth`: devour /dɪˈvaʊə/: V-T If a person or animal devours something, they eat it quickly and eagerly. 狼吞虎咽地吃
+•  A medium-sized dog will devour at least one can of food plus biscuits per day.
+ 一只中等大小的狗每天至少要干掉一罐食物外加饼干。
+•  Melissa had guzzled gin and tonics like they were lemonade.   梅丽莎狂饮杜松子酒和奎宁水调的饮品，就像喝柠檬水一样。1.
+e.g. They’ve been guzzling beer all evening. 他们整个晚上都在狂饮啤酒。
+2.if a vehicle guzzles petrol, it uses a lot of it in a wasteful way, V-T If you say that a vehicle guzzles fuel, you mean that it uses a lot of it in a way that is wasteful and unnecessary.〔汽车〕费油，耗油；大量消耗〔汽油〕[gas guzzler]
+•  The plane was `deafeningly/ˈdɛfənɪŋ/` noisy, `guzzled fuel`, and left a trail of smoke.  这架飞机噪音震耳，费油
+e.g. Seating 350 to 425 passengers, the airliner is due to `debut` in 2020, with test flights beginning next year. Boeing's new X family comes as part of an engineering revolution allowing jetliners with only two engines to take on many of the same global routes as larger, `fuel-guzzling` four-engine airliners such as the 747 and Airbus's A340 and A380 Super Jumbo.
 
-It's an impressive sight, although it is slightly depressing to see this potentially majestic airplane in pieces. The wings that would give it `a span of 88.4 meters` are unattached, stretching off to one side. The nose gear, a mechanism the size of a house, is also nearby.
+## deaf, deafening /ˈdɛfənɪŋ/      
+1. ADJ A deafening noise is a very loud noise. 震耳欲聋的  `deafening noise:震耳欲聋的噪音; deafening roar:震耳欲聋的轰鸣声`
+e.g. When fighter jets are taking off, they cause `deafening roar` 震耳欲聋的轰鸣声。
+2. ADJ If you say there was `a deafening silence`, you are emphasizing that there was no reaction or response to something that was said or done. 死一般的 `the deafening silence: 死一般的寂静`
+•  What was truly despicable was `the deafening silence` maintained by the candidates concerning the riots. 真正可鄙的是这些侯选人对暴乱所持的缄默态度。
 
-By the end of the 1970s, the need arose for transporting large and heavy loads from their places of assembly to the Baikonur Cosmodrome, the `sprawling` spaceport in the deserts of Kazakhstan that was the `launchpad` for Yuri Gagarin's pioneering space voyage of 1961 (['vɔɪ-ɪdʒ] a long journey in a ship or spacecraft〔乘船或宇宙飞船的长途〕航行).
+## hangar /ˈhæŋə/: N-COUNT A hangar is a large building in which aircraft are kept. 飞机库
+e.g. Reaching the unfinished An-225's `hangar` involves being escorted by car through the vast industrial landscape west of Kiev that Antonov occupies. Entering the building is like stepping into a cathedral of mechanics -- `it's surprisingly calm and tranquil`.      //`tranquil, tranquility; tranquilizer/sedative ['sedətɪv]`
 
-To this day, Mriya remains the heaviest aircraft ever built. Powered by six `turbofan engines`, she has a maximum payload weight of 250 tonnes, which can be carried inside or on its back. It boasts the largest wingspan of any airplane in operational service. Because of its size, it's a `demanding task (need lots of skill and tech)` for pilots to cope with the `formidable challenges` of `maneuvering this plane`. One of the airplane's `quirks` is its ability to perform a so-called `elephant dance`, a term used in aviation when the `nose gear` kneels down to make cargo loading work easier for the `ramp agent 机坪操作员`.
+## conceive sth = invent sth; conceive a baby
+1. [I,T] formal to imagine a particular situation or to think about something in a particular way 想象，构想，设想〔某一具体情况〕
+(cannot) conceive of (doing) sth
+e.g. Many people can’t `conceive of` a dinner without meat or fish. 许多人无法想象正餐怎么可以没有肉或鱼。
+e.g. He could not `conceive that` anything really serious could be worrying his friend. 他想象不出能有什么非常严重的事情让他的朋友操心。
+e.g. I can hardly conceive what it must be like here without heaters in winter. 我无法想象这里的冬天会是什么样子的。
+**conceive of sth/sb as sth**
+e.g. Language may `be conceived of as` a process which arises from social interaction. 语言可以被看成是社会交流的产物。
 
-With Mriya declared a success, the Soviet `/ˈsəʊvɪ'ɛt/` Union **forged ahead** with plans to build three more An-225s. Construction of the second began in 1989 amid equally high expectations. Then history intervened.   //**PHRASAL VERB forge ahead with sth = move forward, If you `forge ahead with` something, you continue with it and make a lot of progress with it. 继续推进<xxx, e.g plan, proposal>** e.g.  He again pledged to `forge ahead with his plans` for reform.  他再次发誓要 `继续推进<他的改革计划>`
+2. [T] conceive sth = invent sth: to think of a new idea, plan etc and develop it in your mind;  If you `conceive a plan or idea`, you think of it and work out how it can be done. 构思；设想；构想出(新的主意、计划等) [`想出了个关于xxx的主意 conceive the idea of xxx`]
+RELTD CONCEPTION
+e.g. Scientists first `conceived the idea of` the atomic bomb in the 1930’s. 在20世纪30年代，科学家第一次有了原子弹的设想。
+e.g. She had `conceived the idea of` a series of novels, each of which would reveal some aspect of Chinese life.  她已经想出了个关于一个系列小说的主意，每一部都将反映中国人生活的某一方面
+e.g. `On the outskirts/suburb of city`, sits a drab industrial building that you could drive past a thousand times without guessing it contains an extraordinary secret.Inside can be found the unfinished chapter of one of `the greatest feats (impressive achievements 业绩功绩，壮举)` of Soviet `/ˈsəʊvɪ'ɛt/` aviation ever `conceived (to think of a new idea, plan etc and develop it in your mind构思；设想；想出〔新的主意、计划等)`. It needs to be. Because it contains something equally vast -- the largest airplane that was never completed. The aircraft is an Antonov An-225, `conceived by (to think of a new idea, plan etc and develop it in your mind) 构想出` Soviet `/ˈsəʊvɪ'ɛt/` engineers in the dying days of the Only one An-225 was ever built by the Kiev-based Antonov company, which came up with the design.
 
-In 1991 the `Soviet Union collapsed`, taking with it the Soviet space program. In the `chaos/turmoil/ferment/unrest` that followed, production continued on the second plane, but it was eventually halted in 1994. What emerged was the An-225 megaplane -- the biggest and most powerful airplane ever to successfully enter service. And on December 21, 1988, three years after `she was first conceived`, Mriya safely transported the Buran spacecraft to Baikonur.
+3. [I,T] V-T/V-I When a woman `conceives a child or conceives`, she becomes pregnant. 怀 (胎); 怀孕
+e.g. Women should give up alcohol before they plan to conceive.  他说女人在计划怀孕前应该戒酒
+e.g. `Infertility/barrenness 不孕症 treatment` for women who have difficulty in conceiving 对受孕困难的妇女进行的不孕治疗
+* **1) impregnate a female; 2) The small rug has to be impregnated浸透 with disinfectant消毒剂 for 30 mins `or so/give or take/more or less`**.
 
-While its manufacturer Antonov successfully transitioned from communism to capitalism, the end of Soviet funding for the ambitious megaplane project meant the unfinished aircraft **was in limbo**.  //**be in limbo: a situation in which nothing happens or changes for a long period of time, and it is difficult to make decisions or know what to do, often because you are waiting for something else to happen first;  If you say that someone or something is in limbo, you mean that they are in a situation where they seem to be caught between two stages and it is unclear what will happen next. 〔常指因等待另一事先发生而所处的〕不确定的状态/前途未卜的状态** e.g. The negotiations have been in limbo since mid-December.
+4. conceivable: able to be believed or imagined 可以相信的；可想象的
+e.g. `It is conceivable that` you may get full compensation, but it’s not likely. 你可能会得到全额赔偿，但可能性不大。
+e.g. `Conceivably`, interest rates could rise very high indeed. 可以想象得到，利率可能会涨到很高
+V.S. **inconceivable /ˌɪnkənˈsiːvəbəl/ ADJ If you describe something as inconceivable, you think it is very unlikely to happen or be true; too strange or unusual to be thought real or possible. 不可思议/匪夷所思的; 难以置信的**
+e.g. `It was inconceivable to me that` Toby could have been my attacker.  托比竟会是袭击我的人，这对我来说简直是``匪夷所思``
+e.g. A few years ago a car fuelled by solar energy would have been inconceivable. 几年前太阳能汽车还是``不可思议的``事。
+e.g. `It is inconceivable that` a man in such a powerful position could act so unwisely. ``真是难以置信``，这么大权在握的人行事竟如此愚蠢。
 
-The changing geopolitical landscape meant that Mriya was no longer relevant. With the technological rivalry of the two global superpowers ending abruptly, the race to build bigger and more powerful engineering status symbols was at an end.
-The An-225's impressive capabilities suddenly were deemed excessive for the modern aviation world -- and certainly one gargantuan aircraft was enough. With very few oversized payloads needing transportation, another Antonov, the 170-tonne capacity An-124 Ruslan, was doing most of the work.
-Furthermore, when Ukraine was plunged into a revolution in 2014 that set it at odds with Russia, it lost a key supplier of parts and equipment, putting another question mark over the second An-225's future.
-Antonov, however, says finishing the build should be relatively simple.
-Growing private sector interest in space exploration, tourism and communications -- and the prospect of heavy payloads in need of transportation -- may yet decide the aircraft's fate.
-"When there is a need to solve such a problem, there will be a demand for the complete
-on of the second aircraft and the investors will appear," says Gennadiy Silchenko, Antonov's An-225 program director.
-Today, the second An-225 is about 70% completed. All the essential components of its superstructure have been manufactured, including the fuselage, wings, nose gear and tail.
-Surveying the giant jigsaw puzzle of airplane parts, Silchenko insists they could be quickly assembled should sufficient funding -- between $250 million and $350 million -- arrive.
-Once the investment is in, he says, the existing parts will be connected, the control panel developed and the horizontal stabilizer finished. Then the second An-225 would be ready for conquering the skies.
-Because it's been kept in a state of conservation, Silchenko adds, the completed aircraft will be as-new, with no limitations on its capabilities.
-Assembly nearly happened in 2016, when China expressed an interest in completing the construction, but because of difficulties of transporting the aircraft parts to Chinese soil, it never happened.
-Silchenko says that while the company is still open for different options, the aircraft could be successfully put together and completed only in Kiev.
-Should it ever leave Kiev, the second An-225 would certainly cause a sensation -- if the adulation of its sister aircraft is anything to go by.
+V.S.
+## 出奇的(很奇怪的难以解释的) uncanny /ʌnˈkænɪ/,uncannily `an uncanny coincidence 出奇的巧合(很奇怪的难以解释的)`
+ADJ If you describe something as uncanny, you mean that it is strange and difficult to explain. 出奇的(很奇怪的难以解释的) [`an uncanny coincidence 出奇的巧合`]
+•  The hero bears an uncanny resemblance to Kirk Douglas.  主人翁丹尼与柯克·道格拉斯出奇地相像。
+2. ADV 出奇地 e.g. They have uncannily similar voices.  他们有着出奇相似的嗓音
 
-Because of its sleek design and size, Mriya has a cult following among plane lovers who frequently gather to see it land and take off during commercial flights.
-A crowd of more than 15,000 spectators came to Perth Airport in western Australia to witness the plane arrive during a visit in May 2016.
-Among reasons for its popularity are the mind-blowing 240 world records the An-225 holds, including transportation of the heaviest commercial cargo and carrying the largest single piece of cargo.
+## intriguing /ɪnˈtriːɡɪŋ/, intriguingly = fascinating;〔由于奇特、神秘或出人意料而〕非常有趣的，新奇的/引人入胜的(书, 故事)      
+ADJ If you describe something as intriguing, you mean that it is interesting, mysterious, or strange. 〔由于奇特、神秘或出人意料而〕非常有趣的，新奇的/引人入胜的(书, 故事) [`an intriguing book; an intriguing story`]
+e.g. `This intriguing book` is both thoughtful and informative.  这本引人入胜的书既有思想性又有知识性。
+e.g. The magazine carries an intriguing mixture of high fashion, gossip and racing. 这本杂志内容丰富有趣，有关时尚、花边新闻和赛马的内容都有。
+V.S. **a gripping story; a gripping movie; a gripping novel**: is very exciting and interesting 扣人心弦的，引人入胜的〔电影、故事，小说等〕
+e.g. Collins’ `intriguing and gripping detective novel` 科林斯扣人心弦的侦探小说
+V.S. **engaging /ɪnˈɡeɪdʒɪŋ/ [有意思的迷人的（人或事): an engaging person or thing]**
+ADJ `An engaging person or thing` is pleasant, interesting, and entertaining, which attracts your interest. 有意思的迷人的（人或事) [`an engaging smile 迷人的微笑`]
+e.g. .one of her most engaging and least known novels.  …她最迷人却最鲜为人知的小说之一
 
-It's also won hearts for participating in humanitarian operations. In 2010, it transported 110 tonnes of equipment and supplies to the Dominican Republic to help with relief efforts in neighboring Haiti after a devastating earthquake.
-Needless to say, Mriya has also come to the attention of Hollywood. A CGI-generated aircraft inspired by the An-225 appeared in sci-fi apocalypse movie "2012." A similar rendering starred alongside Vin Diesel in "Fast and Furious 6." The airplane also served as the inspiration for Jetstorm, a shape-shifting robot in the 2007 "Transformers" film.
-With performances like that, maybe an encore is overdue.
 
+## fuselage (飞机、火箭的) 机身; (导弹的) 弹身 /ˈfjuːzɪˌlɑːʒ or 'fjʊsə'lɑːʒ/ 注意发音    
+N-COUNT The fuselage is the main body of an aeroplane, missile, or rocket. It is usually `cylindrical` in shape. (飞机、火箭的) 机身; (导弹的) 弹身
+e.g. The force of the impact `ripped apart` the plane's fuselage /ˈfjuːzɪˌlɑːʒ or 'fjʊsə'lɑːʒ/.  冲击力使该飞机的机身断裂了。
+e.g. The `cavernous`, endless `hangar` swallows up the machinery and airplane parts within. Workers can occasionally be glimpsed in the distance, but the sound of their activity is lost, absorbed by the giant metallic `[mə'tælɪk]` structure. `Towering over everything` is the massive `fuselage/plane body` of the unfinished An-225.
+
+## (航空、航天科学技术)飞机的前起落架；前轮鼻轮 nose gear
+e.g. It's an impressive sight, although it is slightly depressing to see this potentially majestic airplane in pieces. The `wingspan`, aka he wings that would give it `a span of 88.4 meters` are unattached, stretching off to one side. The `nose gear`, a mechanism the size of a house, is also nearby.
+e.g. To this day, Mriya remains the heaviest aircraft ever built. Powered by six `turbofan engines  /ˈtɜːbəʊˌfæn/`, she has a maximum payload weight of 250 tonnes, which can be carried inside or on its back. It boasts the largest `wingspan` of any airplane in operational service. Because of its size, it's a `demanding task (need lots of skill and tech)` for pilots to cope with `formidable challenges` of `maneuvering this plane`. One of the airplane's `quirks` is its ability to perform a so-called `elephant dance`, a term used in aviation when the `nose gear 飞机的前起落架` kneels down to make cargo loading work easier for the `ramp agent 机坪操作员`.
+
+## turbofan /ˈtɜːbəʊˌfæn/; turbine
+N a type of by-pass engine in which a large fan driven by `a turbine (tɜːbɪn, -baɪn/A turbine is a machine or engine which uses a stream of air, gas, water, or steam to turn a wheel and produce power. 涡轮机)` and housed in a short duct forces air rearwards around the exhaust gases in order to increase the propulsive thrust 涡轮风扇喷气发动机 (Also called high bypass ratio engine)
+
+e.g. To this day, Mriya remains the heaviest aircraft ever built. Powered by six `turbofan engines  /ˈtɜːbəʊˌfæn/`, she has a maximum payload weight of 250 tonnes, which can be carried inside or on its back. It boasts the largest `wingspan` of any airplane in operational service. Because of its size, it's a `demanding task (need lots of skill and tech)` for pilots to cope with `formidable challenges` of `maneuvering this plane`. One of the airplane's `quirks` is its ability to perform a so-called `elephant dance`, a term used in aviation when the `nose gear 飞机的前起落架` kneels down to make cargo loading work easier for the `ramp agent 机坪操作员`.
+
+## ramp agent 机坪操作员
+e.g. To this day, Mriya remains the heaviest aircraft ever built. Powered by six `turbofan engines  /ˈtɜːbəʊˌfæn/`, she has a maximum payload weight of 250 tonnes, which can be carried inside or on its back. It boasts the largest `wingspan` of any airplane in operational service. Because of its size, it's a `demanding task (need lots of skill and tech)` for pilots to cope with `formidable challenges` of `maneuvering this plane`. One of the airplane's `quirks` is its ability to perform a so-called `elephant dance`, a term used in aviation when the `nose gear 飞机的前起落架` kneels down to make cargo loading work easier for the `ramp agent 机坪操作员`.
+
+##　PHRASAL VERB 继续推进(xxx, e.g plan, proposal) forge ahead with sth = move forward
+If you `forge ahead with` something, you continue with it and make a lot of progress with it. 继续推进<e.g plan, proposal> [**forge ahead with plans to do xxx; forge ahead with proposals to do xxx**]
+e.g. With Mriya declared a success, the Soviet `/ˈsəʊvɪ'ɛt/` Union **forged ahead with plans** to build three more An-225s.
+e.g.  He again pledged to `forge ahead with his plans` for reform.  他再次发誓要 `继续推进<他的改革计划>`
+
+## chaos, turmoil, ferment, unrest
+e.g. In 1991 the `Soviet Union collapsed /ˈsəʊvɪ'ɛt/`, taking with it the Soviet space program. In the `chaos/turmoil/ferment/unrest` that followed, production continued on the second plane, but it was eventually halted in 1994. What emerged was the An-225 megaplane -- the biggest and most powerful airplane ever to successfully enter service. And on December 21, 1988, three years after `she was first conceived 构想`, Mriya safely transported the Buran spacecraft to Baikonur.
+
+## be in limbo: 〔常指因等待另一事先发生而所处的〕不确定的状态; 处于一个前途未卜的状态; 处于一个mengbi的状态
+If you say that someone or something is in limbo, you mean that they are in a situation where they seem to be caught between two stages and it is unclear what will happen next; a situation in which nothing happens or changes for a long period of time, and it is difficult to make decisions or know what to do, often because you are waiting for something else to happen first〔常指因等待另一事先发生而所处的〕不确定的状态; 处于一个前途未卜的状态; 处于一个mengbi的状态**
+e.g. While its manufacturer Antonov successfully transitioned from communism to capitalism, the end of Soviet funding for the ambitious megaplane project meant the unfinished aircraft **was in limbo**.
+e.g. The negotiations have `been in limbo` since mid-December.
+
+## gargantuan /ɡɑːˈɡæntjʊən/
+ADJ If you say that something is gargantuan, you are emphasizing that it is very large. 巨大的
+•  ...a marketing event of gargantuan proportions.   …一次大型的营销活动。
+•  ...a gargantuan corruption scandal.   …一个巨大的腐败丑闻。
+e.g. The An-225's impressive capabilities suddenly were deemed excessive for the modern aviation world -- and certainly one `gargantuan /ɡɑːˈɡæntjʊən/` aircraft was enough. With very few oversized payloads needing transportation.
+
+## at odds with sb 与……不一致,与…争执
+Furthermore, when Ukraine was plunged into a revolution in 2014 that set it `at odds with Russia 与……不一致,与…争执`, it lost a key supplier of parts and equipment of the `gargantuan /ɡɑːˈɡæntjʊən/` aircraft, putting another question mark over the second An-225's future.
+
+
+## a sensation  [引起一个轰动: cause a sensation]
+* N-COUNT If a person, event, or situation is a sensation, it causes great excitement or interest. 引起轰动的人或事物
+e.g.  It's the film that `turned her into an overnight sensation`. …让她一夜成名的影片。
+* N-SING If a person, event, or situation causes a sensation, they cause great interest or excitement. 轰动
+e.g. She was just 14 when she `caused a sensation` at the Montreal Olympics.  她在蒙特利尔奥运会上引起轰动时，年仅14岁
+e.g. Because this `gargantuan airplane /ɡɑːˈɡæntjʊən/` is been kept/retained in a state of conservation, Silchenko adds, the completed aircraft will be as-new, with no limitations on its capabilities. Assembly nearly happened in 2016, when China expressed an interest in completing the construction, but because of difficulties of transporting the aircraft parts to Chinese soil, it never happened. Silchenko says that while the company is still open for different options, the aircraft could be successfully put together and completed only in Kiev. Should it ever leave Kiev, the second An-225 would certainly `cause a sensation 引起一个轰动` -- if the adulation of its sister aircraft is anything to go by.
+
+##　sleek
+* `sleek design` a vehicle or other object that is sleek has a smooth attractive shape 〔汽车，飞机等〕流线型的，造型优美的（设计)  
+[**优美的流线型外形: sleek lines; 优美的流线型设计: sleek design**]
+e.g. `the sleek lines` of the new `Mercedes convertible` 这款 ``新梅赛德斯敞篷车`` 的优美的流线型外形
+e.g. Because of its `sleek design` and size, Mriya has a cult following among plane lovers who frequently gather to see it land and take off during commercial flights.`A throng of more than 15,000 spectators 观众` came to Perth Airport in western Australia to witness the plane arrive during a visit in May 2016.
+* `sleek hair or fur` is straight, shiny, and healthy-looking 〔头发、皮毛〕油亮光滑的，有光泽的(非常健康的头发)　[**sleek black hair: 乌黑光滑的头发**]
+e.g. In that shampoo advertisement, after the girl' using that new-brand shampoo and hair conditioner, she `got her hair vitalized  ['vaɪt(ə)laɪz] 使有生气` and 5mins later, she had `sleek black hair 乌黑光滑的头发`.
+* If you describe someone as sleek, you mean that they look rich, well dressed, and stylish. 时髦阔气的〔人〕[**sleek and elegant:时尚高雅**]
+•  Lord White is as sleek and elegant as any other millionaire businessman.  怀特勋爵像其他百万富商一样时尚高雅
+
+## 不用说 needless to say
+e.g. It's also won hearts for participating in humanitarian operations. In 2010, it transported 110 tonnes of equipment, supplies, and provisions (food and water) to the Dominican Republic to help with relief efforts in neighboring Haiti after `a devastating earthquake`. `Needless to say`, Mriya has also come to the attention of Hollywood. A CGI-generated aircraft inspired by the An-225 appeared in sci-fi apocalypse movie "2012." A similar rendering starred alongside Vin Diesel in "Fast and Furious 6." The airplane also served as the inspiration for Jetstorm, a shape-shifting robot in the 2007 "Transformers" film. With performances like that, maybe an `encore` is overdue.
+
+## pod
+* a pod is a long narrow seed container that grows on various plants, especially peas and beans 豆荚 [a pea pod 豌豆荚]
+e.g. .fresh peas in the pod.  …豆荚中的新鲜豌豆
+* a pod is a part of a space vehicle that can be separated from the main part〔太空船的〕分离舱 [a space pod 飞船分离舱]
+* a pod is a long narrow container for petrol or other substances, especially one carried under an aircraft wing 〔尤指飞机翼下的〕吊舱（一个又长又窄的容器)
+* a pod is a group of sea animals, such as whale s or dolphin s , that swim together〔鲸、海豚等海洋动物的〕一群
+  * [**the herd instinct 群集本能**]
+  * [ **flocks of birds; flocks of swallows 一群小鸟/燕子**]
+  * [ **a swarm of bees 涌入的一大群蜜蜂; a swarm of locusts/['ləʊkəst]/ 涌入的一大群蝗虫蟑螂**]
+  * [ **a throng of people 一大群人, a throng of excited spectators 一大群兴奋的观众**  v.s. wear a thong; wear thongs]
+  * [ **a pod of sea animals**]: a group of sea animals, such as whale s or dolphin s , that swim together〔鲸、海豚等海洋动物的〕一群, a small group of animals, esp seals, whales, or birds 小群动物
+  * [ **a plague of locusts/ˈləʊkəst//rats  蝗灾/鼠患**] a plague of rats/locusts etc: an uncontrolled and harmful increase in the numbers of a particular animal or insect 鼠灾/蝗灾等 e.g. `A plague of squirrels` is threatening our forests. 松鼠灾害正在威胁我们的森林  e.g. The city is under threat from `a plague of rats`. 这座城市面临着鼠患的威胁。
+* a pod is a container which holds the eggs of some types of insects〔某些昆虫的〕卵囊
 
 ## be entitled to sth; be entitled to do sth
 1. **be entitled to sth; be entitled to do sth**: to give someone the official right to do sth or have something, allow sb to do 使sb有权利做xxx; 使sb有资格拥有/享受xxx东西
@@ -74,6 +189,8 @@ e.g. Brokaw, who had studied figure skating in Europe, returned to the U.S. and 
 
 ## 耳垢；耳屎 earwax ['ɪəwæks]
 e.g. Earwax is a protective material that contains bacteria-fighting elements, but it sometimes accumulates /əˈkjuːmjʊˌleɪt/ and has to be cleaned out because it can **impede hearing** or cause pain.  //**accumulate:  to gradually get more and more money, possessions, knowledge etc over a period of time 积累，积聚**
+
+## Trump set to shuffle top generals
 
 ## sinus /ˈsaɪnəs/, plural: sinuses
 N-COUNT Your sinuses are the spaces in the bones of your head that are connected to the inside of your **nostril**. 鼻窦,窦道〔颅骨中与鼻孔相通的空穴〕[**blocked sinuses 阻滞的窦道; a sinus infection 窦感染**]

@@ -1,3 +1,4 @@
+
 # whether mp3?
 
 ## indonesia earthquake https://edition.cnn.com/2018/10/03/asia/indonesia-tsunami-earthquake-volcano-intl/index.html
@@ -10,7 +11,10 @@ ADJ Tectonic means relating to the structure of the Earth's surface or crust地�
 •  ...the tectonic plates of the Pacific region.  ...太平洋地区的地壳构造板块。
 e.g. But `a volcanic eruption [vɑl'kænɪk]` just north of the disaster zone, the third severe `tectonic event` in Indonesia in less than a week, has highlighted the difficult task facing authorities in the geographically unstable region. The volcano, Mount Soputan, in the northern part of the island of Sulawesi, `erupted` just before 8 a.m. on Wednesday. The `volcanic ash cloud` rose four kilometers high over the devastated island毁坏的, the originally `idyllic island  [aɪ'dɪlɪk] 田园一般的岛屿`, but so far the local airport still remains open and no evacuations have been required. Indonesia sits between two `continental plates` on what is known as the Ring of Fire, a band around the basin of the Pacific Ocean that leads to high levels of **tectonic and volcanic activity**. Wednesday's eruption isn't even the first `seismic event` to hit Indonesia following the devastating earthquake and tsunami on Friday. A separate 6.0-magnitude tremor struck the island of Sumba, close to Bali, on Tuesday morning
 
-## 国际刑警组织 Interpol /ˈɪntəˌpɒl/ = International Criminal Police Organization
+## annotation /ˌænəʊˈteɪʃən/ An annotation is a note that is added to a text or diagram, often in order to explain it. 注释
+e.g. In k8s, Labels empower users to organize their resources however they please. V.S. Annotations enable users to decorate resources with annotating some custom information to facilitate their workflows and provide an easy way for management tools to checkpoint state.
+
+## 国际刑警组织 Interpol /ˈɪntəˌpɒl/ = International Police = International Criminal Police Organization
 N ACRONYM for International Criminal Police Organization, an association of over 100 national police forces, devoted chiefly to fighting international crime 国际刑警组织
 
 ## seismic /ˈsaɪzmɪk/      

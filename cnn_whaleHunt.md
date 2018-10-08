@@ -191,13 +191,16 @@ e.g. 36,000 spectators 观众 **crammed into the stadium** to see the football g
 e.g. Thousands of people **crammed into the mall** on Black fri. 涌进/挤进了这家大型购物中心。
 e.g. This bus is too packed to hold any more passengers. See, more than 100 persons **crammed into the bus 挤满了工交车** in last stop.
 
+
 ## herd noun/Verb
 1. [C] Noun: a herd of animals is a group of animals of one kind that live and feed together〔同一种类并一同活动的〕兽群；牧群  
 * [**the herd instinct 群集本能**]
 * [ **flocks of birds; flocks of swallows 一群小鸟/燕子**]
 * [ **herds of horses/sheeps/cattle 成群的马/羊/牛/牲畜; herds of elephants 数群大象**]
-* [ **a swarm of bees; a swarm of locusts/['ləʊkəst]/ 一大群蜜蜂/蝗虫蟑螂**]
+* [ **a swarm of bees 涌入的一大群蜜蜂; a swarm of locusts/['ləʊkəst]/ 涌入的一大群蝗虫蟑螂**]
 * [ **a throng of people 一大群人, a throng of excited spectators 一大群兴奋的观众**  v.s. wear a thong; wear thongs]
+* [ **a pod of sea animals**]: a group of sea animals, such as whale s or dolphin s , that swim together〔鲸、海豚等海洋动物的〕一群, a small group of animals, esp seals, whales, or birds 小群动物
+* [ **a plague of locusts/rats 鼠患/蝗灾`**] a plague of rats/locusts etc: an uncontrolled and harmful increase in the numbers of a particular animal or insect 鼠灾/蝗灾等 e.g. `A plague of squirrels` is threatening our forests. 松鼠灾害正在威胁我们的森林  e.g. The city is under threat from `a plague of rats`. 这座城市面临着鼠患的威胁。
 
 2. the herd: people generally, especially when thought of as being easily influenced/pushed over by others 〔易受人支配的〕民众，老百姓，芸芸众生  [**run with the herd: 随大溜**]
 [**随大溜是没有用的 It's not use running with the herd**]
@@ -216,6 +219,21 @@ V.S. **corral sb. into a place [kə'rɑːl] [kə'ræl] 把sb限制/集中在一�
 e.g. It was Tom’s duty to **herd the cows/cattle/horses/sheeps**. 汤姆的职责是放牛
 e.g. Who will be **herding the cattle** when the cowboy dies?
 5. slang) **某群人极难管理: sth is like herding cats**: used to say that trying to control or organize a group of people is very difficult
+
+## pod
+* a pod is a long narrow seed container that grows on various plants, especially peas and beans 豆荚 [a pea pod 豌豆荚]
+e.g. .fresh peas in the pod.  …豆荚中的新鲜豌豆
+* a pod is a part of a space vehicle that can be separated from the main part〔太空船的〕分离舱 [a space pod 飞船分离舱]
+* a pod is a long narrow container for petrol or other substances, especially one carried under an aircraft wing 〔尤指飞机翼下的〕吊舱（一个又长又窄的容器)
+* a pod is a group of sea animals, such as whale s or dolphin s , that swim together〔鲸、海豚等海洋动物的〕一群
+  * `flocks of birds`
+  * `herds of horses/sheeps/cattle`
+  * `swarms of bees`
+  * `a throng of People`
+  * `a pod of sea animals`: a group of sea animals, such as whale s or dolphin s , that swim together〔鲸、海豚等海洋动物的〕一群, a small group of animals, esp seals, whales, or birds 小群动物
+  * `a plague of locusts/rats 鼠患/蝗灾`: a plague of rats/locusts etc: an uncontrolled and harmful increase in the numbers of a particular animal or insect 鼠灾/蝗灾等 e.g. `A plague of squirrels` is threatening our forests. 松鼠灾害正在威胁我们的森林  e.g. The city is under threat from `a plague of rats`. 这座城市面临着鼠患的威胁。
+* a pod is a container which holds the eggs of some types of insects〔某些昆虫的〕卵囊
+
 
 ##  [kə'rɑːl] corral; Verb) pp: corralled   pt: corralled   pres part: corralling corraling
 1. Noun: a corral is a fairly small **enclosed area** where cattle, horses etc can be kept temporarily, especially in North America 〔尤指北美临时关牛、马等的〕畜栏
