@@ -24,7 +24,6 @@
 • He `dashed off to lunch` at the Hard Rock Cafe.  他急匆匆地到硬石餐馆去吃午饭
 • ...so that players could `dash off to the pub` after the game ``能够飞奔/迅速去到``酒馆
 
-
 ## [ˈɔːtɪz ə m] 孤独症，自闭症 autism, autistic
 N-UNCOUNT Autism is a severe `mental disorder` that makes someone unable to respond to other people or unable to communicate properly. In other workds, they cannot form relationships with people.
 DERIVATIVE 派生词: **autistic adj /ɔˋtɪstɪk ; ɔːˈtɪstɪk /**
@@ -49,6 +48,8 @@ V.S.
 * **robe**:
 1. a robe: a long loose piece of clothing, especially one worn for official ceremonies〔尤指正式典礼上穿的〕长袍 e.g. a priest’s/a pope's robe 牧师的长袍  
 2. a robe: a long loose piece of clothing that you wear over your night clothes or after a bath 睡袍；浴衣
+
+## go from the margins to mainstream　从边缘到主流
 
 ## dash off to a place: 迅速离开，飞奔到xxx地方; dash off to do sth 迅速离开，去做xxx
 * PHRASAL VERB: If you dash off to a place, you go there very quickly. 迅速去做
