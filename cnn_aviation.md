@@ -30,11 +30,13 @@ e.g. Seating 350 to 425 passengers, the airliner is due to `debut` in 2020, with
 1. V-T/V-I If you guzzle something, you drink it or eat it quickly and greedily; to eat or drink a lot of something, eagerly and quickly – usually showing disapproval 狼吞虎咽,暴饮暴食〔一般含贬义〕
 =`snarf down sth`: to eat something quickly, especially in an untidy or noisy way 狼吞虎咽地吃
 =`devour sth`: devour /dɪˈvaʊə/: V-T If a person or animal devours something, they eat it quickly and eagerly. 狼吞虎咽地吃
-•  A medium-sized dog will devour at least one can of food plus biscuits per day.
+•  A medium-sized dog will `devour` at least one can of food plus biscuits per day.
  一只中等大小的狗每天至少要干掉一罐食物外加饼干。
-•  Melissa had guzzled gin and tonics like they were lemonade.   梅丽莎狂饮杜松子酒和奎宁水调的饮品，就像喝柠檬水一样。1.
-e.g. They’ve been guzzling beer all evening. 他们整个晚上都在狂饮啤酒。
-2.if a vehicle guzzles petrol, it uses a lot of it in a wasteful way, V-T If you say that a vehicle guzzles fuel, you mean that it uses a lot of it in a way that is wasteful and unnecessary.〔汽车〕费油，耗油；大量消耗〔汽油〕[gas guzzler]
+•  Melissa had `guzzled gin` like they were lemonade.
+e.g. They’ve been `guzzling beer` all evening. 他们整个晚上都在狂饮啤酒。
+2. if a vehicle `guzzles petrol/gas/fuel`, it uses a lot of it in a wasteful way, V-T If you say that a vehicle guzzles fuel, you mean that it uses a lot of it in a way that is wasteful and unnecessary.〔汽车〕费油，耗油；大量消耗〔汽油〕
+* `a gas guzzler/a fuel guzzler`
+* `fuel efficient 节能的, 节约能源的 V.S. fuel-guzzling/gas-guzzling (汽车〕大量消耗〔汽油，能源〕费油的``
 •  The plane was `deafeningly/ˈdɛfənɪŋ/` noisy, `guzzled fuel`, and left a trail of smoke.  这架飞机噪音震耳，费油
 e.g. Seating 350 to 425 passengers, the airliner is due to `debut` in 2020, with test flights beginning next year. Boeing's new X family comes as part of an engineering revolution allowing jetliners with only two engines to take on many of the same global routes as larger, `fuel-guzzling` four-engine airliners such as the 747 and Airbus's A340 and A380 Super Jumbo.
 

@@ -3,10 +3,10 @@
 
 ## indonesia earthquake https://edition.cnn.com/2018/10/03/asia/indonesia-tsunami-earthquake-volcano-intl/index.html
 
-## death toll  V.S. mortality rate (死亡率)
+## death toll  V.S. mortality rate (死亡率)  death toll; death toll
 e.g. The `volcanic eruption` hasn't yet slowed rescue efforts in Palu, where Sutopo said authorities were only just within `the seven-day window` in which there is a chance that survivors "still exist." It gives rescue crews less than two days to finish `combing through rubbles 梳理;在xxx中搜寻` for possible `signs of life 生命迹象`. The `death toll` rised again on Wednesday, rising to 1,407 amid warnings from authorities that the casualty count is expected to rise even further as search efforts continue. In total, an estimated 2.4 million people have been `displaced 背井离乡` by the disasters.
 
-## 地壳构造的;地质构造的 tectonic /tɛkˈtɒnɪk/ [地壳构造板块: tectonic plates; 地壳运动:tectonic movements  ]
+## 地壳构造的;地质构造的 tectonic /tɛkˈtɒnɪk/ [地壳构造板块: tectonic plates; 地壳运动:tectonic movements]
 ADJ Tectonic means relating to the structure of the Earth's surface or crust地壳; relating to plate tectonics 地壳构造的  
 •  ...the tectonic plates of the Pacific region.  ...太平洋地区的地壳构造板块。
 e.g. But `a volcanic eruption [vɑl'kænɪk]` just north of the disaster zone, the third severe `tectonic event` in Indonesia in less than a week, has highlighted the difficult task facing authorities in the geographically unstable region. The volcano, Mount Soputan, in the northern part of the island of Sulawesi, `erupted` just before 8 a.m. on Wednesday. The `volcanic ash cloud` rose four kilometers high over the devastated island毁坏的, the originally `idyllic island  [aɪ'dɪlɪk] 田园一般的岛屿`, but so far the local airport still remains open and no evacuations have been required. Indonesia sits between two `continental plates` on what is known as the Ring of Fire, a band around the basin of the Pacific Ocean that leads to high levels of **tectonic and volcanic activity**. Wednesday's eruption isn't even the first `seismic event` to hit Indonesia following the devastating earthquake and tsunami on Friday. A separate 6.0-magnitude tremor struck the island of Sumba, close to Bali, on Tuesday morning
@@ -14,8 +14,124 @@ e.g. But `a volcanic eruption [vɑl'kænɪk]` just north of the disaster zone, t
 ## annotation /ˌænəʊˈteɪʃən/ An annotation is a note that is added to a text or diagram, often in order to explain it. 注释
 e.g. In k8s, Labels empower users to organize their resources however they please. V.S. Annotations enable users to decorate resources with annotating some custom information to facilitate their workflows and provide an easy way for management tools to checkpoint state.
 
-## 国际刑警组织 Interpol /ˈɪntəˌpɒl/ = International Police = International Criminal Police Organization
-N ACRONYM for International Criminal Police Organization, an association of over 100 national police forces, devoted chiefly to fighting international crime 国际刑警组织
+##  [‚riː'steɪt] state sth => restate sth ; restatement n [C,U]
+to say something again in a different way, so that it is clearer or more strongly expressed 〔换一种方式〕重说
+e.g.  He is not changing the rules; he is simply restating the policy that was established last year. 他没有改变规定，只是把去年定下来的政策重新表述了一下。
+* V.S. **重申xxx: reiterate sth /riːˈɪtəˌreɪt/**: V-T If you reiterate something, you say it again, usually in order to emphasize it.
+e.g.  He reiterated his opposition to the creation of a central bank.  他重申了他对创办中央银行的反对。
+* V.S.  ['pærəfreɪz] **paraphrase /ˈpærəˌfreɪz/**
+1. V-T If you `paraphrase someone sb的意思是 or paraphrase something` that they have said or written, you express what they have said or written in a different way; to express in a shorter, clearer, or different way what someone has said or written 意译，释义，改述 释义; 改述  
+[**To paraphrase sb, xxx: sb的意思是**]
+e.g.  `To paraphrase President Bush`, we must restore confidence in our economic sector.  ``布什总统的意思是``，我们必须在我们的经济领域恢复自信。
+e.g. `To paraphrase Frank`, mathematics is a language, like English. ``Frank的意思是``，数学是一门语言，就像英语一样。
+e.g.  Baxter paraphrased the contents of the press release.  巴克斯特解释了新闻发布的内容。
+2. N-COUNT A paraphrase of something written or spoken is the same thing expressed in a different way. 释义; 改述
+•  The last two clauses were an exact quote rather than a paraphrase of Mr. Forth's remarks.   最后两个分句是对福思先生言论的准确引用而不是改述。
+
+## solve => dissolve [dɪ'zɒlv]
+MEANINGS 义项
+
+1.
+BECOME PART OF LIQUID 变成液体的一部分
+[I,T] if a solid dissolves, or if you dissolve it, it mixes with a liquid and becomes part of it
+（使）〔固体〕溶解
+•
+Stir until the sugar dissolves. 一直搅拌到糖溶解掉。
+[+ in]
+•
+Sugar dissolves in water. 糖溶解于水。
+dissolve sth in sth
+•
+Dissolve the tablet in water. 把药片溶于水中。
+2.
+END 结束
+[T] to formally end a parliament, business arrangement, marriage etc
+解散〔议会〕；解除〔商业协定、婚姻关系等〕
+•
+The monarch had the power to dissolve parliament. 君主有权解散议会。
+3.
+dissolve into/in laughter/tears etc
+EMOTION 情绪
+to start laughing or crying
+笑起来/流起泪来等
+•
+She dissolved into fits of laughter. 她一阵阵大笑起来。
+
+## retain sth = keep sth; retention
+[rɪ'tenʃ ə n]
+MEANINGS 义项
+
+1.
+formal the act of keeping something
+保持，保留
+[+ of]
+•
+The UN will vote on the retention of sanctions against Iraq. 联合国将投票决定是否继续制裁伊拉克。
+2.
+technical the ability or tendency of something to hold liquid, heat etc within itself
+〔液体的〕潴留；〔热量等的〕滞留
+•
+Many people with heart problems suffer from fluid retention. 很多有心脏病的人都有体液潴留。
+3.
+the ability to keep something in your memory
+记忆力
+•
+I have a real problem with retention of information. 我的记忆力大有问题
+
+## brief, brevity /ˈbrɛvɪtɪ/
+1. brief, brevity:  the quality of expressing something in very few words 简洁，简练
+The patterns are no less accurate for their brevity — and in some cases their descriptions are also more precise — but they are summarised and much of the plumbing detail is omitted. 模式并不会因为本身的简洁而变得不精确——在某些情形下，它们的描述还更准确了--而是它们被概括并忽略了很多不必要的细节•
+Letters published in the newspaper are edited for brevity and clarity. 报上刊登的来信都要编辑得简洁明了。
+V.S.
+* **concise, conciseness**  [kən'saɪs]
+MEANINGS 义项
+
+1.
+short, with no unnecessary words
+简洁的，简练的，简明的
+SYN BRIEF
+
+•
+Your summary should be as clear and concise as possible. 你的总结应该尽可能地明白简洁。
+2.
+[only before noun,仅用于名词前] shorter than the original book on which something is based
+〔书籍〕简略的，简缩的，简明的
+•
+the ‘Concise Dictionary of Spoken Chinese’ 《汉语口语简明词典》
+DERIVATIVE 派生词
+
+concisely adv
+conciseness n [U]
+
+2.  N-UNCOUNT The brevity of something is the fact that it is short or lasts for only a short time. 短暂 •  ...the hardship and brevity of human existence.
+ ...人类存在的艰难及短暂 the quality of continuing for only a short time 短暂，短促
+e.g. the brevity of her visit 她的短暂来访
+
+## 〔行动、建议、计划等〕（几乎）等于某（坏）事，无异于某（坏）事  be tantamount to sth/doing sth; become tantamount to sth
+**[ 无异于自虐: be tantamount to self-in'flict;  无异于/等于自杀: be tantamount to committing suicide]**
+if an action, suggestion, plan etc is tantamount to something bad, it has the same effect or is almost as bad
+e.g. To leave a dog home alone `is tantamount to cruel torture`. 把狗独自留在家里 ``等于虐待``
+
+## [ləʊ'kælɪti,ləʊ'kæləti]
+formal
+pl: localities
+MEANINGS 义项
+
+a small area of a country, city etc
+地区
+SYN AREA 【正式】
+
+•
+weather reports from several different localities 来自几个不同地区的天气报告
+in the locality
+•
+Both sea fishing and fresh water angling are available in the locality. 这个地区既有海钓，又有淡水垂钓。
+以上来源
+
+## immutable /ɪˈmjuːtəbəl/ immutably adv; immutability n /ɪ͵mjutəˋbɪlətɪ/
+ADJ Something that is immutable will never change or cannot be changed, or impossible to change 永恒的; 永远不变的; 不能改变的
+•  ...the eternal and immutable principles of right and wrong.   ...这些永恒不变的对与错的原则。
+• This decision should not be seen as immutable. 不该把这个决定看成是不可改变的。
 
 ## seismic /ˈsaɪzmɪk/      
 1. ADJ Seismic means caused by or relating to an earthquake. 地震的; 地震引起的
