@@ -108,3 +108,37 @@ e.g. Many people believe that `reckless drivers 鲁莽的司机` are treated too
 
 ## embolden sb. to do
 e.g. "That China feels so `emboldened` to disappear even one of its most famous actresses ... should be a real wake up call that anyone within China could be next," human rights advocate Michael Caster wrote for CNN last month. "Yin-yang contracts" are considered a form of `tax evasion/dodge/avoidance (tax evasion 连读)` where the first, smaller contract is reported to authorities while the second, larger one is treated as tax-free income. Separately from Fan, officials said her agent Mou, `obstructed/impede` the investigation, and ordered employees of companies owned by Fan and himself to `conceal` or destroy accounting evidence like the `company ledger(a book in which a business, bank etc records how much money it receives and spends分类账)`. Mou is now being detained by police as the investigation of his case continues. Officials at several local tax bureaus in Jiangsu have also been held responsible for Fan's tax evasion.
+
+## spell
+### spell trouble/disaster/danger etc:
+if a situation or action spells trouble etc, it makes you expect trouble etc 招致[带来]麻烦/灾难/危险等
+e.g. The lack of rain could `spell disaster for farmers`. 缺少雨水会 ``给农民带来/招致灾难``
+### spell sb.:  to do someone else’s work for them for a short period so that they can rest 暂时代替某人工作(以便让他休息〕
+e.g. I can `spell you` if you get tired. 如果你累了，我可以替你一会儿
+### spell out sth; spell sth out = elaborate on sth
+1. `PHRASAL VERB`: If you spell something out, you explain it in detail or in a very clear way, just to `articulate this thing and elaborate on it`  清楚地解释; 详细说明
+e.g. Be assertive and confident, and `spell out exactly how you feel`. 把<你的真实感受>详细说出来。
+e.g. May struck a defiant tone during a Downing Street statement in which she called for the EU to "respect" the British position and the result of the June 2016 referendum. She called on the EU to `spell out its objections` to her plan or come up with an alternative.
+e.g. The report `spelled out in detail what` the implications were for teacher training.这份报告详细说明了教师培训的作用
+V.S.
+* **spell sth out, spell out sth**: If you spell something out, you explain it in detail or in a very clear way, just to `articulate this thing and elaborate on it`  清楚地解释; 详细说明
+* **articulate sth: [ɑr'tɪkjulet]** When you articulate your ideas or feelings, you express them clearly in words. 清楚地表述
+* **elaborate on sth; elaboration** to give more details or new information about something 详尽说明；阐述  e.g. She refused to elaborate on his reasons for resigning. 麦克唐纳拒绝细说他辞职的原因
+###  a spell: is a period of a particular kind of activity, weather, illness etc, usually a short period 〔某种活动、天气、疾病等的〕一段时间〔通常时间较短〕 [**a brief/short spell; sunny/cold/wet/dry spells**]
+e.g. a day of `sunny spells` and scattered showers 间晴且有零星阵雨的一天
+e.g. Water the young plants carefully during `dry spells`. 干燥无雨的时候
+e.g. He began to suffer from `dizzy spells` . 他开始一阵阵头晕。
+e.g. After `a brief/short spell` in the army, I returned to teaching. 我在部队里待了一阵子
+e.g. She is suffering from `a spell of` bad luck 一段倒霉的日子
+###  a spell: is piece of magic that someone does, or the special words or ceremonies used in doing it 魔法；符咒，咒语
+[**a magic spell 魔咒
+put/cast a spell on sb (=do a piece of magic to change someone)对某人施魔法
+be under a spell: 像中了魔法似的
+break the spell: to make someone stop paying all their attention to something, or to make a time stop feeling special （使）停止着魔状态，（使）走出入迷状态**]
+e.g. The kiss of the prince `broke the spell` (= stopped the magic from working ) . 王子的吻 ``解除了魔咒``。
+e.g. He lay still, not wanting to `break the spell`. 他静静地躺着，不想结束这魔幻般的美妙时刻
+e.g. The whole town seemed to `be under a spell`. 整个小镇都 像中了魔法似的
+### spell = charming attraction: is a power that attracts, interests, and influences you very strongly 吸引力，魅力；迷惑力
+e.g. an ancient city that still casts its spell over travellers 对旅游者依然具有魔力的一座古城
+[**fall/come/be under a spell**]
+e.g. I `fell under the spell of her charm`. 我被她的魅力迷倒了。
