@@ -1,13 +1,12 @@
 ## trade war, trade spat; trade standoff 拉锯战
+* https://edition.cnn.com/2018/10/18/investing/protectionism-china-tariffs-trade-markets-economy-recession/index.html
 * https://edition-m.cnn.com/2018/09/17/politics/us-china-tariff-trade-war/index.html?r=https%3A%2F%2Fedition.cnn.com%2F
-
 * https://edition.cnn.com/2018/09/22/politics/us-china-trade-talks-tariffs/index.html
-
 * https://edition.cnn.com/2018/10/07/business/china-tariffs-toys/index.html
-
 
 ##  ['kɜːfjuː] curfew
 1. curfew:  N-VAR A curfew is a law stating that people must stay inside their houses after a particular time at night, for example, during a war or in a state of emergency. In other words, if you breach the curfew law and go out, you will be punished;  宵禁  [**被实施宵禁: be placed under curfew; 解除了宵禁: life the curfew**]
+e.g. ...`a spate of terrorism attacks` in London, the government has `imposed curfew` in the city and escalate the security level to the `state of emergency` in the city.   //`a spate of unpleasant things`: a large number of similar things that happen in a short period of time, especially bad or unpleasant things; `A spate of things`, especially `unpleasant` things, is a large number of them that happen or appear within a short period of time. 一连串[接二连三]的尤指不好的事情     
 • The village `was placed under curfew`.  该村处于宵禁之中宵禁；宵禁时间
 • The government `imposed a night-time curfew` throughout the country. 政府在全国 `实施宵禁`
 • `The curfew was lifted (= ended )` on May 6th.  `解除了宵禁`。
@@ -17,11 +16,11 @@
 •  They raced back to the dormitory before the nine o'clock curfew.  他们在9点熄灯之前拼命跑回了宿舍
 
 ## light off V.S.  light out
-* light off: 关灯
-* light out: V to depart quickly, as if being chased (就像是被追逐时)快速离开
-* dash off to a place: 迅速离开，飞奔到xxx地方; dash off to do sth 迅速离开，去做xxx
- PHRASAL VERB: If you dash off to a place, you go there very quickly. 迅速去做
-• He `dashed off to lunch` at the Hard Rock Cafe.  他急匆匆地到硬石餐馆去吃午饭
+* `light off 关灯; light on`
+* `light out`: V out + light => light out: to depart quickly, as if being chased (就像是被追逐时)快速离开/匆匆离去
+* `dash off to a place`: `PHRASAL VERB`: If you dash off to a place, you go there very quickly.
+[迅速离开然后飞奔到xxx地方:`dash off to a place`; 迅速离开然后去做xxx:`dash off to do sth` ]
+• He `dashed off to lunch` after the meeting.  他急匆匆地到硬石餐馆去吃午饭
 • ...so that players could `dash off to the pub` after the game ``能够飞奔/迅速去到``酒馆
 
 ## [ˈɔːtɪz ə m] 孤独症，自闭症 autism, autistic
@@ -30,7 +29,39 @@ DERIVATIVE 派生词: **autistic adj /ɔˋtɪstɪk ; ɔːˈtɪstɪk /**
 ADJ An autistic person suffers from autism. 自闭症的;
 **an autistic child 一个患自闭症的孩子**
 
-## bride and groom => 新娘礼服; 婚纱 : a bridal gown = a wedding gown
+## frosty relationship with sb.
+['frɒsti] frost, frosty, frostily
+1. frosty: extremely cold, esp. covered with frost  结霜的严寒的 e.g. a beautiful frosty morning 一个美丽而严寒的早晨
+[frosty air 结霜的冰冷的空气; the frosty ground 结霜的地面 ]
+2. frosty = unfriendly, indifferent (不关心的，不在乎的) (结霜一般)不友好的，冷淡的
+[**冷淡的关系: frosty relationship with sb; 冷冷地瞪了我一眼: a frosty stare; 冷冷地看了我一眼: a frosty look; 冷冷的语气: a frosty tone; 冷寂: a frosty silence V.S. 鸦雀无声, 死一般的寂静，大家都沉默不说: deafening silence； 反应冷淡：a frosty reflection**]
+THESAURUS UNFRIENDLY
+• the `frosty silence (the deafening silence)` that followed her announcement 在她宣布之后的冷寂   //**鸦雀无声, 死一般的寂静，大家都沉默不说: deafening silence**
+• My words got `a frosty reflection 反应冷淡`. 大家对我的话反应冷淡。
+•He gave me `a frosty stare`. 他冷冷地瞪了我一眼。
+3. DERIVATIVE 派生词 frostily adv
+e.g. Take `a trade war` with China, mix in `frosty/unfriendly economic relations 冷淡的关系` with Canada and Europe, add in Federal Reserve rate hikes and here's what you get: An `economic recession/meltdown　经济萧条` by 2020. So says the head of US `equity` Management. He told CNN Business that Presidents `protectionist policies 贸易保护主义的政策` may lead to a deep `slowdown/meltdown in the economy`, particularly because these `trade skirmishes/spat口角` coincide with rising interest rates. An `economic recession` in the near-term is not `inevitable `, but the risk of one by 2020 has increased substantially /[səb/ in the past few months. "Take trade wars off the table and that significantly reduces the risk of recession."    //**equity /ˈɛkwɪtɪ/ N-UNCOUNT 不可数名词 In finance, your equity is the sum of your assets, for example the total value of your house and cars, once your debts have been subtracted from it. 资产净值**
+
+
+## skirmish V.S. spat  (V.S. a spate of attacks　接二连三的袭击)
+### skirmish /ˈskɜːmɪʃ/ = a small fight or battle
+1. N-COUNT A skirmish is a minor battle; a fight between small groups of soldiers, ships etc, especially one that happens away from the main part of a battle – used in news reports 小规模战斗，小冲突〔用于新闻报道〕
+e.g. Border skirmishes between India and Pakistan were common.  印巴边境的小冲突曾经是常有的事。
+2. V-RECIP If people skirmish, they fight. 进行小规模战斗; 发生小冲突
+e.g. They were skirmishing close to the minefield now.  他们当时正在雷区附近小规模交火
+e.g. They skirmished briefly with soldiers from Fort Benton. 他们和来自本顿堡的士兵发生了短暂的冲突
+3. **a skirmish: is a short argument, especially between political, economic, or sports opponents 〔尤指政治,经济,或体育运动对手间的〕小争论，小冲突，口角**  ［**trade spat = trade skirmish 贸易口角战**]
+e.g. Tracy was sent off after a skirmish with the referee. 贝茨和裁判发生冲突后被罚下场。
+e.g. a budget skirmish预算问题上的冲突 between the President and Congress 总统和国会在预算问题上的冲突
+e.g. Take `a trade war` with China, mix in `frosty/unfriendly economic relations 冷淡的关系` with Canada and Europe, add in Federal Reserve rate hikes and here's what you get: An `economic recession/meltdown　经济萧条` by 2020. So says the head of US `equity` Management. He told CNN Business that Presidents `protectionist policies 贸易保护主义的政策` may lead to a deep `slowdown/meltdown in the economy`, particularly because these `trade skirmishes/spat口角` coincide with rising interest rates. An `economic recession` in the near-term is not `inevitable `, but the risk of one by 2020 has increased substantially /[səb/ in the past few months. "Take trade wars off the table and that significantly reduces the risk of recession."   //**equity /ˈɛkwɪtɪ/ N-UNCOUNT 不可数名词 In finance, your equity is the sum of your assets, for example the total value of your house and cars, once your debts have been subtracted from it. 资产净值**
+e.g. The chief investment officer said in a recent report that while she's not expecting a `recession/meltdown` in economy anytime soon her outlook could change because of "the `trade skirmish/spat口角` with China and fears that it will evolve into `an all-out trade war 全面的战争`. Nixon said that the combination of a nasty `trade spat/skirmish` with China and the Fed's rate hikes could `jeopardize` the US economy's impressive growth streak.   //**all-out war/attack/offensive etc 全面的战争/进攻/攻击等**
+
+### spat, trade spat [spæt]
+informal a short unimportant quarrel 口角，小争吵 ［**a marital spat 夫妻间的口角; trade spat = trade skirmish 贸易口角战**]
+V.S. `a spate of attacks　接二连三的袭击`
+
+
+## bride and groom =>  新娘礼服; 婚纱: a bridal gown = a wedding gown
 bridal /ˈbraɪdəl/  
 ADJ Bridal is used to describe something that belongs or relates to a bride, or to both a bride and her bridegroom. 新娘的; 新郎新娘的
 •  She wore a floor length `bridal/wedding gown`.  她穿了一件拖地 `婚纱`
@@ -48,6 +79,135 @@ V.S.
 * **robe**:
 1. a robe: a long loose piece of clothing, especially one worn for official ceremonies〔尤指正式典礼上穿的〕长袍 e.g. a priest’s/a pope's robe 牧师的长袍  
 2. a robe: a long loose piece of clothing that you wear over your night clothes or after a bath 睡袍；浴衣
+
+
+## 委屈; 不满 grievance /ˈɡriːvəns/  |TEM8
+N-VAR If you `have a grievance about something or have grievances about sth` that has happened or been done, you believe that it was unfair and have complaints 委屈; 不满  [**委屈是合乎情理的: a legitimate grievance**]
+e.g. They had `a legitimate grievance`.  他们的委屈是合乎情理的。
+e.g. The main `grievance of the drivers` is the imposition of higher fees for driving licences. 司机们的主要不满委屈是...
+e.g. Temple said that the United States -- as well as the rest of the world for that matter -- do `have legitimate grievances 委屈是合乎情理的` with China, particularly when it comes to China's `intellectual property theft` and `stringent/draconian` restrictions on foreign companies doing business there.
+
+## 中间观点；中间立场；折中办法 on middle ground
+ideas that are not extreme, and that people who oppose each other can agree about 中间观点；中间立场；折中办法
+e.g. The negotiators could find no `middle ground`. 谈判人员找不到双方都能接受的立场
+e.g. But it's likely that the United States is `overestimating` how much China needs to import from America, he said.
+China has more options than it once did, and the Trump administration's **hardline stance 强硬立场** makes a prolonged  `stalemate/deadlock/logjam/impasse` more likely. "The days where we could have a trade agreement where China just buys more US stuff are probably behind us," he said. "It's difficult to find how China and the United States come to `a common middle ground/compromise` on trade."      //**a unified stance统一的立场; a hardline stance强硬立场**
+V.S. **compromise**
+1. [C,U] an agreement that is achieved after everyone involved accepts less than what they wanted at first, or the act of making this agreement 折中，妥协   [**对sb.让步/妥协: compromise with sb.; 在xxx上作出让步: compromise on sth**]
+• Compromise is an inevitable part of marriage. 妥协是婚姻生活中必不可少的。
+• To stop the argument they decided on a compromise. 为停止争吵，他们决定作出妥协。
+• If moderates fail to `reach a compromise` , the extremists will dominate the agenda. 如果温和派不能达成妥协，激进派就会主宰议事日程。
+• Be prepared to `make compromises` . 你要准备作出妥协。
+• Fresh attempts at `compromise with` the legislature were also on the agenda. 日程表上还有一项安排，就是向立法机关再次寻求折中办法。
+2. [C] a solution to a problem in which two things or situations are changed slightly so that they can exist together
+折中办法[协议] [+ between]
+• `a compromise between government and opposition` 政府和反对派之间的妥协
+• `a happy compromise between` the needs of family and work 家庭和工作需要之间皆大欢喜的妥协
+3. Verb) [I] to reach an agreement in which everyone involved accepts less than what they wanted at first
+妥协，让步
+• She admitted that she was unable to compromise. 她承认自己无法作出妥协。
+[**对sb.让步/妥协: compromise with sb.**]
+• His workmates demanded that he never `compromise with the bosses`. 他的同事们要求他决不要对老板让步。
+[**在xxx上作出让步: compromise on sth**]
+• The new regime was prepared to `compromise on the oil dispute`. 新政权打算在石油争端上作出让步。
+
+## all-out war/attack/offensive etc 全面的战争/进攻/攻击等    
+* ADJ You use all-out to describe actions that are carried out in a very energetic and determined way, using all the resources available; one in a very determined way, and involving a lot of energy or anger 全力以赴的，竭尽全力的 [**all-out war/attack/offensive etc 全面的战争/进攻/攻击等**]
+**pay an all-out effort to do sth; pay an all-out effort to win 竭尽全力争取胜利**
+e.g. The chief investment officer said in a recent report that while she's not expecting a `recession/meltdown` anytime soon her outlook could change because of "the `trade skirmish/spat口角` with China and fears that it will evolve into `an all-out trade war全面的战争`. Nixon said that the combination of a nasty `trade spat/skirmish` with China and the Fed's rate hikes could `jeopardize` the US economy's impressive growth streak.  
+e.g. He launched an all-out attack on his critics. 他对他的批评者们发动了一场全力的攻击。
+* DERIVATIVE 派生词 all out adv
+Canada will have to go all out on the ice if they want to win. 如果加拿大队想赢，就必须在冰场上全力以赴。
+* V.S. **an all-around athlete 全能运动员**: `all-round` good at doing many different things, especially sports 〔尤指运动员〕全能的，多才多艺的
+
+## wind => unwind /ʌnˈwaɪnd/= relax  
+1. V-I When you unwind, you relax after you have done something that makes you tense or tired. 放松
+•  It helps them to `unwind 放松一下` after a busy day at work.
+2. V-T/V-I If you unwind a length of something that is wrapped around something else or around itself, you loosen it and make it straight. You can also say that it unwinds. 解开(绳子)
+•  One of them `unwound a length of rope/strap` from around his waist.  他们中的一个人解开绕在他腰间的一条绳子。
+
+## stance
+* **a unified stance统一的立场: all are standing in the same page**
+* **a hardline stance强硬立场**
+e.g. But it's likely that the United States is `overestimating` how much China needs to import from America, he said.
+China has more options than it once did, and the Trump administration's **hardline stance 强硬立场** makes a prolonged  `stalemate/deadlock/logjam/impasse` more likely. "The days where we could have a trade agreement where China just buys more US stuff are probably behind us," he said. "It's difficult to find how China and the United States come to `a common middle ground/compromise` on trade."      
+e.g. The United States can deal most effectively with China by working with its allies, e.g. Europe, Canada, Australia, Japan and the rest of the developed world on `a unified stance统一的立场`, Temple said. "If it's China versus everyone then China has to figure out way to be more `accommodative`," Temple said. But we've `fragmented` a potential coalition instead of building one.   //**fragment sth: to break something, or be broken into a lot of small separate parts – used to show disapproval （使）成碎片；使xxx分裂;分崩离析〔含贬义)**
+e.g. "The Afghan government could have started a dialogue with Taliban if it had had `a unified stance统一立场` with the international community, " .    
+
+##　soothe /suːð/    
+1. V-T  使sb.镇定;抚慰安慰 If you `soothe someone` who is angry or upset, you make them feel calmer;  to make someone feel calmer and less anxious, upset, or angry
+e.g. He said recent agreements with Mexico and Canada might not have been enough to completely `soothe tensions` caused by highly imposed steel and aluminum tariffs. Temple isn't the only one worried about the potential impact of even `frostier/unfriendly 冷淡的 trade relations` between China and America.   //**frost, frosty=unfriendly**
+e.g. Lucy `soothed the baby` by rocking it in her arms. 让他安静下来。
+e.g. She made a cup of tea to `soothe her nerves`. 她泡了杯茶让自己平静下来。
+e.g. He would embrace her in his arms and `soothe her`. 使她镇定下来。
+
+2. V-T Something that `soothes a part of your body` where there is pain or discomfort makes the pain or discomfort less severe; to make a pain become less severe, or slowly disappear 减轻,缓和`身体的`疼痛或不适. **注意：soothe后面直接跟 身体部位**
+e.g. put some body lotion or balm to `soothe dry skin`.  …减轻皮肤干燥的润肤露。 //**balm: an oily liquid with a strong pleasant smell that you rub into your skin, often to reduce pain 〔涂在皮肤上常起止痛作用的〕油，膏，香脂；镇痛软膏**
+e.g. rub some balm on your `scorched part 烫伤的地方` to `soothe your skin`  //**注意：soothe后面直接跟""身体部位""**
+e.g. I bought some lozenges to `soothe my sore throat`. 我买了一些润喉糖来减轻喉咙痛。
+e.g. I got sun burnt on my face bz I forgot to `rub sunblock/sunscreen`. I use some balm to soothe away from my `searing pain`  缓解灼伤的痛   //**注意：soothe后面直接跟""身体部位""**
+e.g. Massage can gently `soothe away your aches and pains 缓解疼痛`
+3. DERIVATIVE 派生词 soothing adj; soothingly adv
+**舒缓的音乐: soothing music; 舒缓的颜色: soothing color; 柔和的颜色：pastel color**
+•  Put on some nice `soothing music 舒缓的音乐`.
+e.g. gentle, soothing music 柔和舒缓的音乐
+4. Verb) **soothe V.S. alleviate V.S. mitigate**
+* `soothe a party of your body, e.g. skin`:  **注意：soothe后面直接跟 身体部位**
+* `alleviate your pain/sadness/sorrow/distress(忧虑，苦恼，悲伤)/your suffering:  you alleviate pain, suffering, or an unpleasant condition, you make it less intense or severe. 减轻 (不适)``
+* `mitigate sth (the effect/impact)` 减轻，缓解(疼痛)，缓和(不好的／负面的影响): to make a situation or the effects of something less unpleasant, harmful, or serious; To mitigate something means to make it less unpleasant, serious, or painful.
+e.g. ...ways of mitigating the effects of an explosion.  …减轻爆炸后果的方法
+e.g. Measures need to be taken to `mitigate the environmental effects` of burning more coal. 需要采取措施来减轻燃煤增加对环境造成的影响
+
+## searing/'sɪərɪŋ/
+1. **searing heat**: extremely hot 炽热的，灼热的
+e.g. You cann't bear **the searing heat of the Sahara Desert /sə'hɑ:rə;/ 撒哈拉大沙漠的灼热**
+e.g. We are suffering from **scorching/sweltering temperature** in Xi’an, where you're **sweltering V.热得难受/发昏; 感到酷热难当** under the waves of **searing heat** 灼热   
+e.g Spain and Portugal **sweltered V.热得难受/发昏** through an **exceptionally/extremely** hot weekend with a **searing heat** wave that has killed three people in Spain.
+
+2. [ **灼痛/灼热的痛: searing pain**] is severe pain and feels like a burn. For example, if you got burnt by strong bright sunlight, you might get **searing pain** on your face, neck, or arm because you don't use **sunblock/suncreen: cream or oil that you rub into your skin, in order to completely stop the sun’s light from burning you 防晒霜**
+e.g. He got serious **sunstroke 中暑** after surfing because he didn't **rub sunblock/sunscreen**; what is worse, he got sun burnt?? and suffered from **searing pain 灼痛**  on his shoulder and back.
+e.g. The strongly bright sunlight 强烈刺眼的眼光 is beating down **relentlessly无情的／毫不留情的**. I got **searing pain 灼伤的痛** on my face bz I forgot to **rub sunblock/sunscreen**. 太阳正 无情地 照射下来。
+
+3. **[ 严厉的/苛刻的/辛辣的〔言语、态度〕searing words]** criticize very strongly, harshly, relentlessly(非常严厉的毫不留情的/无情地)
+**[ 严厉的/苛刻的/辛辣的言语 searing words = harsh words ==> relentless words(毫不留情的/不留情面的/无情地); 苛刻的辛辣的分析:searing analysis; 洪水一般的讽刺的言词: a spate of sarcastic words; 洪水一般的苛刻的/辛辣的言语: a spate of searing words V.S. trade spat 贸易口角  ]**
+e.g. Emily burst into **a spate of** *searing and sarcastic words* against her husband because of her husband's **sexual misconduct/extramarital behaviour (婚姻中不正当/不端正的行为/出轨行为)**.        //**sexual misconduct/extramarital behaviour; professional misconduct:玩忽职守**
+e.g. Adorno’s *searing analysis* of **mass culture** 阿多诺对 **大众文化** 的 *辛辣的分析*
+
+## intellectual property (IP) theft
+e.g. Temple said that the United States -- as well as the rest of the world for that matter -- do `have legitimate grievances委屈是合乎情理的` with China, particularly when it comes to China's `intellectual property theft` and `stringent/draconian` restrictions on foreign companies doing business there.
+
+## stringent V.S. draconian
+### stringent
+1. `a stringent law, rule, standard` etc is very strict and must be obeyed 〔法律、规章、标准等〕严格的，严厉的
+• stringent anti-noise regulations 严格的防噪音条例
+e.g. Temple said that the United States -- as well as the rest of the world for that matter -- do `have legitimate grievances委屈是合乎情理的` with China, particularly when it comes to China's `intellectual property theft` and `stringent/draconian` restrictions on foreign companies doing business there.
+2. `stringent economic conditions` exist when there is a severe lack of money and strict controls on the supply of money〔经济状况〕银根紧的，紧缩的
+3. DERIVATIVE 派生词 stringently adv; stringency n [U]
+### draconian /dreɪˈkəʊnɪən, drə-/      
+ADJ Draconian laws or measures are extremely harsh and severe;very strict and cruel 严厉的，严酷的(法令或措施)
+•  ...indications that there would be no `draconian measures` to lower U.S. health care costs. …迹象表明将不会有严厉的措施来降低美国的医疗成  [**draconian measures/controls/penalties etc**]
+draconian measures to control population growth 控制人口增长的严厉措施
+
+## cornerstone = basis /ˈkɔːnəˌstəʊn/      |CET6 TEM4
+1. cornerstone is something that is extremely important because everything else depends on it; N-COUNT The cornerstone of something is the basic part of it on which its existence, success, or truth depends. 基础；柱石
+•  Research is the cornerstone of the profession.  研究是该职业的基石。
+THESAURUS BASIS
+The magazine became the cornerstone of McFadden’s publishing empire. 这本杂志成了迈克法登出版帝国的支柱。
+2. (building)基石；奠基石: cornerstone: is a stone at one of the bottom corners of a building, often put in place at a special ceremony
+
+## economic recession/meltdown 经济萧条;
+e.g. Take `a trade war` with China, mix in `frosty/unfriendly economic relations 冷淡的关系` with Canada and Europe, add in Federal Reserve rate hikes and here's what you get: An `economic recession/meltdown　经济萧条` by 2020. So says the head of US `equity` Management. He told CNN Business that Presidents `protectionist policies 贸易保护主义的` may lead to a deep `slowdown/meltdown in the economy`, particularly because these `trade skirmishes/spat口角` coincide with rising interest rates. An `economic recession` in the near-term is not `inevitable `, but the risk of one by 2020 has increased substantially /[səb/ in the past few months. "Take trade wars off the table and that significantly reduces the risk of recession."   //**equity /ˈɛkwɪtɪ/ N-UNCOUNT 不可数名词 In finance, your equity is the sum of your assets, for example the total value of your house and cars, once your debts have been subtracted from it. 资产净值**
+
+
+## protectionism /prəˈtɛkʃənɪzəm/; protectionist /prəˈtɛkʃənɪst/    
+* N-UNCOUNT Protectionism is the trade policy some countries have of helping their own industries by putting a large tax/tariffs on imported goods or by restricting imports in some other way. 贸易保护主义
+•  The aim of the current round of talks is to promote/drive `free trade` and to `avert/avoid the threat of` increasing protectionism.
+* protectionist /prəˈtɛkʃənɪst/       //**avert = avoid**
+1. N-COUNT A protectionist is someone who agrees with and supports protectionism. 贸易保护主义者
+•  `Trade frictions 贸易摩擦/skirmish/spat口角` between the two countries had been caused by trade protectionists.
+2. ADJ `Protectionist policies, measures, and laws` are meant to stop or reduce imports. 贸易保护主义的
+e.g. The administration may be moving away from `free trade` and toward more `protectionist policies贸易保护主义的政策`.
+e.g. Take `a trade war` with China, mix in `frosty/unfriendly economic relations 冷淡的关系` with Canada and Europe, add in Federal Reserve rate hikes and here's what you get: An `economic recession/meltdown　经济萧条` by 2020. So says the head of US `equity` Management. He told CNN Business that Presidents `protectionist policies 贸易保护主义的政策` may lead to a deep `slowdown/meltdown in the economy`, particularly because these `trade skirmishes/spat口角` coincide with rising interest rates. An `economic recession` in the near-term is not `inevitable `, but the risk of one by 2020 has increased substantially /[səb/ in the past few months. "Take trade wars off the table and that significantly reduces the risk of recession."
 
 ## go from the margins to mainstream　从边缘到主流
 

@@ -1,6 +1,9 @@
 # fallout from Brexit
-* https://edition.cnn.com/2018/09/25/uk/brexit-labour-conference-second-referendum-intl/index.html
-* https://edition.cnn.com/2018/10/12/perspectives/brexit-analysis-ian-bremmer/index.html
+* NOt ready: https://edition.cnn.com/2018/10/18/economy/brexit-transition-period-business/index.html
+
+
+* Done: https://edition.cnn.com/2018/09/25/uk/brexit-labour-conference-second-referendum-intl/index.html
+* Done: https://edition.cnn.com/2018/10/12/perspectives/brexit-analysis-ian-bremmer/index.html
 
 ## （针对某个事件进行的;为表决某问题进行的)全民公决,全民投票 referendum [,rɛfə'rɛndəm], **pl: referenda referendums**
 [C,U] when people vote in order to make a decision about a particular subject esp. nation related, rather than voting for a person; If a country `holds a referendum on` a particular policy or subject, they ask the people to vote on it and show whether or not they agree with it. （针对某个事件进行的;为表决某问题进行的)全民公决, 全民投票
@@ -232,13 +235,13 @@ e.g. Then there's the future of a post-Brexit European Union. Britain's bolt fro
 •  She read everything, digesting every fragment of news 新闻的每一个片段.
 2. V-T/V-I If something fragments or is fragmented, it breaks or separates into small pieces or parts. 碎裂
 •  The clouds fragmented and out came the sun.  云开日出。
-3. (figurative meaning) fragment sth: to break something, or be broken into a lot of small separate parts – used to show disapproval （使）成碎片；使xxx分裂;分崩离析〔含贬义〕
+3. **(figurative meaning) fragment sth: to break something, or be broken into a lot of small separate parts – used to show disapproval （使）成碎片；使xxx分裂;分崩离析〔含贬义)**
 e.g. the dangers of fragmenting the Health Service 医疗保健服务分崩离析的危险
 e.g. a fragmented society 四分五裂的社会
+e.g. The United States can deal most effectively with China by working with its allies, e.g. Europe, Canada, Australia, Japan and the rest of the developed world on `a unified stanc e统一的立场`. If it's China versus everyone then China has to figure out way to be more `accommodative`," Temple said. But we've `fragmented` a potential coalition instead of building one. //**a unified stance统一的立场; a hardline stance强硬立场**
 e.g. Finally, when it is complete, Brexit will slow the momentum of trade integration that has done so much to create a global middle class and lift hundreds of millions from poverty around the world. In short, this will be the biggest win to date for country-first populism. Brexit will further `fragment a global political system` that's already fracturing, and it will generate greater friction in global markets. Today's conflicts among the world's great power are fought over trade and investment. The achievement of Brexit will mark a milestone toward a much more contentious international order.
 4. N-UNCOUNT 分裂 fragmentation [frægmen'teɪʃ(ə)n]     
 •  ...the extraordinary fragmentation of styles on the music scene.   …音乐界各种风格的不寻常分化。
-
 
 ## extradite /ˈɛkstrəˌdaɪt/     
 1. V-T If `someone is extradited`, they are officially sent back to their own or another country or state to be tried for a crime that they have been accused of; to use a legal process to send someone who may be guilty of a crime back to the country where the crime happened in order to judge them in a court of law 引渡引渡
@@ -263,6 +266,47 @@ RELTD DEPORT
  [,ripetrɪ'eʃən]　　epatriation 归国准备遣返收回的风险归国
 2.　currency repatriation 避免与现金汇回本国止与现金汇回本国
 3.　Repatriation Expenses 船员遣返费用送返开支
+
+## virus ==> viral
+1. `literal meaning`: relating to or caused by a virus, in other words, the virus is the `causative factor 诱发因素，诱因` in the disease 病毒(性)的，病毒引起的
+[**a viral infection 病毒感染; a viral flu: 病毒性的流感**]
+2. `figurative meaning`: **sth go viral**: sth is passed on to other people on the Internet or using mobile phones, which is popularized to more people （像病毒一样) 通过网络上或手机而广为传播的  [**a viral video, advertisement etc: （像病毒一样) 在网络上广泛传播的视频、广告等; 病毒视频，病毒广告**]
+e.g. It is one of the most viewed `viral videos` on the web. 这是网络上被观看次数最多的“病毒视频”。
+e.g. They use humorous `viral advertisment` to promote their products. 他们利用滑稽的“病毒广告”来推广产品
+e.g. Photos have emerged that appear to show a plane on the ground at Hong Kong International Airport, proudly emblazoned with the words "CATHAY PACIIC." An engineer for Haeco, a Cathay Pacific `subsidiary /səbˈsɪdɪərɪ/ `, told the South China Morning Post: "The spacing is too on-point for `a mishap/a small mistake`. We have stencils. Should be a blank gap in between letters if it was a real mistake I think." A spokesperson for Cathay Pacific told CNN Travel: "We did not intend to `make it a big fuss/kick up a fuss 大惊小怪，小题大做` in the first place, but photos went `viral（像病毒一样) 通过网络上或手机而广为传播的)` within the aviation enthusiastic forums, so we just shared the `hilarious/pretty funny` moment with everyone."   //**/səbˈsɪdɪərɪ/ A subsidiary or a subsidiary company is a company which is part of a larger and more important company. 子公司**
+
+## chit /tʃɪt/
+1. N-COUNT A chit is a short official note, such as a receipt, an order, or a memo, usually signed by someone in authority. (当权者签署的)便条
+•  Schrader initialed the chit for the barman.   施拉德为酒吧男侍应签了收据。
+2. N-COUNT a pert, impudent, or self-confident girl or child 傲慢、粗鲁或自满的女孩; 傲慢、粗鲁或自满的小孩
+•  a young chit of a thing
+3. chitchat /ˈtʃɪtˌtʃæt/ N-UNCOUNT Chitchat is informal talk about things that are not very important. 闲聊 •  Not being a mother, I found the chitchat exceedingly dull.
+ 还没做母亲的我，觉得闲谈异常无味。
+V.S. **Smack talk**
+Smack talk (also smacktalk and talking smack) is a slang term seen in chat channels in chat room, blog, and MMOG conversations. It generally refers to the use of threatening or intentionally inflammatory language.
+e.g. Even chat with them - smack talk or praise 咂嘴谈话或赞美 - it's your choice!
+e.g. Most were kids, playing around with the telephone network, infiltrating early computer systems and slinging `smack talk` about their activities on bulletin boards.
+
+## savour N/V: savour sth   品尝，品味(的滋味); 细细地品尝/尽情享受(一个过程；自由)
+1. Verb) savour sth: to fully enjoy the taste or smell of something 品尝，品味(的滋味)
+e.g. She `takes a sip of her wine`, savouring every drop. ``啜着酒``，细细地品尝每一滴的滋味。
+2. V-T If you `savour an experience`, you enjoy it as much as you can, to fully enjoy a time or experience 细细地品尝/尽情享受/充分享受(一个过程；自由)
+e.g. She `savoured her newfound freedom`.   她体味到了她新获得的自由。
+e.g. She `savoured her few hours of freedom`. 她 充分享受那短短几小时的自由。
+e.g. He is `savouring the moment. 细细品味这一刻`
+e.g. The Guardian reports that the plane had been flying overnight from Xiamen in China, arriving in Hong Kong `in the wee hours` of Wednesday morning.
+Twitter users were quick to "savor" this most `titanic of typos`.
+**PHRVB 短语动词 savour of sth**
+to seem to involve something bad or to have some of a bad quality 有点…的成分，带有…的味道〔指不好的事或品质〕
+e.g. We must avoid anything that `savours of corruption`. 我们必须避免任何与腐败沾边的事。
+Nou)
+1. savour: is a pleasant taste, flavour, or smell 〔令人愉快的〕味道，滋味，气味
+•the sweet savour of wood smoke 香甜的木柴烟味
+V.S.
+* odor: a smell, especially an unpleasant one〔尤指难闻的〕气味，臭味
+* flavor: the particular taste of a food or drink〔食物或饮料的〕味，味道
+2. **savour: is interest and enjoyment 趣味乐趣，吸引力**
+e.g. **Life seemed to have `lost its savour` for him. 生活似乎已经了无乐趣**
 
 ## 美: 忠诚调查；安全调查 security clearance: 〔经过严格安全审查后〕对参加机密工作的批准；出入某建筑物的许可
 official permission for someone to see secret documents etc, or to enter a building, after a strict checking process

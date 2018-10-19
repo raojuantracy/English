@@ -1,22 +1,30 @@
 ## Avaition
 https://edition.cnn.com/travel/article/cathay-pacific-livery-typo/index.html
 
-## mishap /ˈmɪshæp/      
-N-VAR A mishap is an unfortunate but not very serious event that happens to someone.a small accident or mistake that does not have very serious results
-小事故；小错误; 小灾难 **a series of mishaps 一连串的倒霉事； without mishap: 顺利地(无灾无难的)**
-e.g. I had a slight mishap with one of the glasses. 我犯了一个小小的错误，把其中的一个玻璃杯打破了。
-e.g. Only one horse finished the course `without mishap`. 只有一匹马顺利地跑完全程。
-e.g. After `a number of mishaps`, she did manage to get back to Germany.  发生了几次小的不幸之后，她设法回到了德国。
-e.g. This mishap reminded me of a traffic accident I once experienced. 这次``不幸事故``使我联想起我过去经历的一次交通事故。
-e.g. Photos have emerged that appear to show a plane on the ground at Hong Kong International Airport, proudly emblazoned with the words "CATHAY PACIIC." An engineer for Haeco, a Cathay Pacific `subsidiary`, told the South China Morning Post: "The spacing is too on-point for a mishap. We have stencils. Should be a blank gap in between letters if it was a real mistake I think." A spokesperson for Cathay Pacific told CNN Travel: "We did not intend to `make it a big fuss` in the first place, but photos went viral within the aviation enthusiastic groups, so we just shared the hilarious moment with everyone."
+## 小事故；小错误; 小灾难; 倒霉事/不幸 mishap /ˈmɪshæp/  (强调“小”)
+N-VAR A mishap is an unfortunate but not very serious event that happens to someone. A mishap is a small accident or mistake that does not have very serious results.
+ [**一个小小的错误: a slight mishap; 一连串的倒霉事: a series of mishaps； 顺利地(无灾无难的): do sth without mishap**]
+e.g. I had `a slight mishap` that I broke one of the glasses. 我犯了一个小小的错误
+e.g. (In the horse race in the `Jockey club`) Only one horse finished the course `without mishap`. 只有一匹马 ``顺利地(无灾无难的)`` 跑完全程   //**Jocky club: is the governing body that regulates and controls horse-racing both on the flat and over jumps 赛马俱乐部; 香港赛马会**
+e.g. After `a number/series of slight mishaps`, she did manage to get back to Germany.  发生了 ``几次小的倒霉事/不幸`` 之后
+e.g. This mishap reminded/recalled me of a traffic accident I once experienced. 这次``不幸事故``使我联想起我过去经历的一次交通事故。
+e.g. Photos have emerged that appear to show a plane on the ground at Hong Kong International Airport, proudly emblazoned with the words "CATHAY PACIIC." An engineer for Haeco, a Cathay Pacific `subsidiary /səbˈsɪdɪərɪ/ `, told the South China Morning Post: "The spacing is too on-point for `a mishap/a small mistake`. We have stencils. Should be a blank gap in between letters if it was a real mistake I think." A spokesperson for Cathay Pacific told CNN Travel: "We did not intend to `make it a big fuss/kick up a fuss 大惊小怪，小题大做` in the first place, but photos went `viral（像病毒一样) 通过网络上或手机而广为传播的)` within the aviation enthusiastic forums, so we just shared the `hilarious/pretty funny` moment with everyone."   //**/səbˈsɪdɪərɪ/ A subsidiary or a subsidiary company is a company which is part of a larger and more important company. 子公司**
 
-## savour N/V: savour sth
-1. savour sth: to fully enjoy the taste or smell of something 品尝，品味
-• She `sipped her wine`, savouring every drop. ``啜着酒``，细细地品尝每一滴的滋味。
-2. V-T If you `savour an experience`, you enjoy it as much as you can, to fully enjoy a time or experience 尽情享受(一个过程；自由)
-• She `savoured her newfound freedom`.   她体味到了她新获得的自由。
-• She savoured her few hours of freedom. 她充分享受那短短几小时的自由。
-• He is savouring the moment. 细细品味这一刻。
+## virus ==> viral
+1. `literal meaning`: relating to or caused by a virus, in other words, the virus is the `causative factor 诱发因素，诱因` in the disease 病毒(性)的，病毒引起的
+[**a viral infection 病毒感染; a viral flu: 病毒性的流感**]
+2. `figurative meaning`: **sth go viral**: sth is passed on to other people on the Internet or using mobile phones, which is popularized to more people （像病毒一样) 通过网络上或手机而广为传播的  [**a viral video, advertisement etc: （像病毒一样) 在网络上广泛传播的视频、广告等; 病毒视频，病毒广告**]
+e.g. It is one of the most viewed `viral videos` on the web. 这是网络上被观看次数最多的“病毒视频”。
+e.g. They use humorous `viral advertisment` to promote their products. 他们利用滑稽的“病毒广告”来推广产品
+e.g. Photos have emerged that appear to show a plane on the ground at Hong Kong International Airport, proudly emblazoned with the words "CATHAY PACIIC." An engineer for Haeco, a Cathay Pacific `subsidiary /səbˈsɪdɪərɪ/ `, told the South China Morning Post: "The spacing is too on-point for `a mishap/a small mistake`. We have stencils. Should be a blank gap in between letters if it was a real mistake I think." A spokesperson for Cathay Pacific told CNN Travel: "We did not intend to `make it a big fuss/kick up a fuss 大惊小怪，小题大做` in the first place, but photos went `viral（像病毒一样) 通过网络上或手机而广为传播的)` within the aviation enthusiastic forums, so we just shared the `hilarious/pretty funny` moment with everyone."   //**/səbˈsɪdɪərɪ/ A subsidiary or a subsidiary company is a company which is part of a larger and more important company. 子公司**
+
+## savour N/V: savour sth   品尝，品味(的滋味); 细细地品尝/尽情享受(一个过程；自由)
+1. Verb) savour sth: to fully enjoy the taste or smell of something 品尝，品味(的滋味)
+e.g. She `takes a sip of her wine`, savouring every drop. ``啜着酒``，细细地品尝每一滴的滋味。
+2. V-T If you `savour an experience`, you enjoy it as much as you can, to fully enjoy a time or experience 细细地品尝/尽情享受/充分享受(一个过程；自由)
+e.g. She `savoured her newfound freedom`.   她体味到了她新获得的自由。
+e.g. She `savoured her few hours of freedom`. 她 充分享受那短短几小时的自由。
+e.g. He is `savouring the moment. 细细品味这一刻`
 e.g. The Guardian reports that the plane had been flying overnight from Xiamen in China, arriving in Hong Kong `in the wee hours` of Wednesday morning.
 Twitter users were quick to "savor" this most `titanic of typos`.
 **PHRVB 短语动词 savour of sth**
@@ -31,38 +39,6 @@ V.S.
 2. **savour: is interest and enjoyment 趣味乐趣，吸引力**
 e.g. **Life seemed to have `lost its savour` for him. 生活似乎已经了无乐趣**
 
-## fuss /fʌs/ fuss
-1.	`make a fuss/kick up a fuss (about sth)`:  to complain or become angry about something, especially when this is not necessary; fuss is anxious behaviour or activity that is usually about unimportant things〔通常指对小事的)大惊小怪，小题大做
-e.g. Photos have emerged that appear to show a plane on the ground at Hong Kong International Airport, proudly emblazoned with the words "CATHAY PACIIC." An engineer for Haeco, a Cathay Pacific `subsidiary`, told the South China Morning Post: "The spacing is too on-point for a mishap. We have stencils. Should be a blank gap in between letters if it was a real mistake I think." A spokesperson for Cathay Pacific told CNN Travel: "We did not intend to `make it a big fuss` in the first place, but photos went viral within the aviation enthusiastic groups, so we just shared the hilarious moment with everyone."
-e.g. VivianHp `kicked up a fuss` because the egg tart is not crispy.  小题大做了一番。
-e.g. I don’t know why you’re `making such a fuss about it`. 我搞不懂你为什么对此大惊小怪
-e.g. There’s no need to `make such a fuss` regarding this issue.
-
-2.	N-SING Fuss is anxious or excited behaviour which serves no useful purpose. (没有实际目的)忙乎；瞎忙乎; 无谓的忙乎
-e.g. The Steamatic enables you to clean any carpet and rug小地毯 with the minimum of fuss . 蒸汽清洁器可以让你轻轻松松地清洁地毯, 不用 `瞎忙乎`
-e.g. I don't know what all the fuss is about.
-e.g. What result did you get during the last two months? Nothing? Hmm, did you just pretend to be busy, or `I don’t know what all the fuss is about? ` 我不知道这一切 `(没有实际目的)忙乎；瞎忙乎`是怎么回事
-
-3.	fuss is an attention or excitement that is usually unnecessary or unwelcome （不必要的不想要的）关注; 无谓的关注; 不必要的兴奋激动
-e.g. They wanted a quiet wedding without any `fuss/any unnecessary attention` 不想大事铺张/不想有`不必要的关注`。
-
-4.	 V-I If you `fuss about/over sth`, you worry or behave in a nervous, anxious way about unimportant matters or rush around doing unnecessary things. (没有实际目的) 瞎紧张瞎操心; 瞎忙乎  [**fuss about/over sth**]
-e.g. My wife was `fussing over/about` the food and clothing we were going to take for the trip  为我们要带的食物和衣服瞎操心。
-e.g. "Stop fussing. Have a rest" he mused.  “别瞎忙了，”他 沉思的说。
-
-5. Verb): [**fuss over sb. 宠爱  V.S. spoil sb = indulge sb 溺爱**]
-V-I If you `fuss over someone`, you pay them a lot of attention and do things to make them happy or comfortable. 宠爱
-e.g.  Auntie Hilda and Uncle Jack couldn't `fuss over them` enough.  希尔达婶婶和杰克叔叔再宠爱他们不过
-V.S.
-* ``宠爱sb: fuss over sb.``: If you `fuss over someone`, you pay them a lot of attention and do things to make them happy or comfortable.
-* `宠坏惯坏/溺爱〔小孩): spoil sb`: to give a child everything they `crave`, or let them do whatever they want, often with the result that they behave badly   //`crave sth: be keen to obtain; have a craving for sth`
-e.g. She’s an only child, but they didn’t really `spoil/indulge her`. 她是独生女，不过他们也没有娇惯她。
-* `纵容惯坏/溺爱sb.: indulge sb`:  If you indulge someone, you let them have or do what they want or `crave`, even if this is not good for them.  //`crave sth: be keen to obtain; have a craving for sth`
-e.g  He did not agree with indulging children.  他不同意 `纵容惯坏/溺爱`孩子
-e.g. His mother `spoiled him`, `indulging his every whim` 他母亲对他纵容娇惯，百依百顺
-
-## fuselage /ˈfjuːzɪˌlɑːʒ, -lɪdʒ/      
-N-COUNT The fuselage is the main body of an aeroplane, missile, or rocket. It is usually `cylindrical in shape`. (飞机、火箭的) 机身; (导弹的) 弹身 e.g. The force of the impact ripped apart the plane's fuselage.  冲击力使该飞机的机身断裂了
 
 ## fame => defame sb; defamation /ˌdɛfəˈmeɪʃən/; defamatory /dɪˈfæmətərɪ/  
 * Verb) defame sb. /dɪˈfeɪm/
@@ -145,3 +121,37 @@ e.g. The whole town seemed to `be under a spell`. 整个小镇都 像中了魔�
 e.g. an ancient city that still casts its spell over travellers 对旅游者依然具有魔力的一座古城
 [**fall/come/be under a spell**]
 e.g. I `fell under the spell of her charm`. 我被她的魅力迷倒了。
+
+
+## fuss /fʌs/ fuss
+1.	`make a fuss/kick up a fuss (about sth)`:  to complain or become angry about something, especially when this is not necessary; fuss is anxious behaviour or activity that is usually about unimportant things〔通常指对小事的)大惊小怪，小题大做
+e.g. Photos have emerged that appear to show a plane on the ground at Hong Kong International Airport, proudly emblazoned with the words "CATHAY PACIIC." An engineer for Haeco, a Cathay Pacific `subsidiary`, told the South China Morning Post: "The spacing is too on-point for a mishap. We have stencils. Should be a blank gap in between letters if it was a real mistake I think." A spokesperson for Cathay Pacific told CNN Travel: "We did not intend to `make it a big fuss` in the first place, but photos went viral within the aviation enthusiastic groups, so we just shared the hilarious moment with everyone."
+e.g. VivianHp `kicked up a fuss` because the egg tart is not crispy.  小题大做了一番。
+e.g. I don’t know why you’re `making such a fuss about it`. 我搞不懂你为什么对此大惊小怪
+e.g. There’s no need to `make such a fuss` regarding this issue.
+
+2.	N-SING Fuss is anxious or excited behaviour which serves no useful purpose. (没有实际目的)忙乎；瞎忙乎; 无谓的忙乎
+e.g. The Steamatic enables you to clean any carpet and rug小地毯 with the minimum of fuss . 蒸汽清洁器可以让你轻轻松松地清洁地毯, 不用 `瞎忙乎`
+e.g. I don't know what all the fuss is about.
+e.g. What result did you get during the last two months? Nothing? Hmm, did you just pretend to be busy, or `I don’t know what all the fuss is about? ` 我不知道这一切 `(没有实际目的)忙乎；瞎忙乎`是怎么回事
+
+3.	fuss is an attention or excitement that is usually unnecessary or unwelcome （不必要的不想要的）关注; 无谓的关注; 不必要的兴奋激动
+e.g. They wanted a quiet wedding without any `fuss/any unnecessary attention` 不想大事铺张/不想有`不必要的关注`。
+
+4.	 V-I If you `fuss about/over sth`, you worry or behave in a nervous, anxious way about unimportant matters or rush around doing unnecessary things. (没有实际目的) 瞎紧张瞎操心; 瞎忙乎  [**fuss about/over sth**]
+e.g. My wife was `fussing over/about` the food and clothing we were going to take for the trip  为我们要带的食物和衣服瞎操心。
+e.g. "Stop fussing. Have a rest" he mused.  “别瞎忙了，”他 沉思的说。
+
+5. Verb): [**fuss over sb. 宠爱  V.S. spoil sb = indulge sb 溺爱**]
+V-I If you `fuss over someone`, you pay them a lot of attention and do things to make them happy or comfortable. 宠爱
+e.g.  Auntie Hilda and Uncle Jack couldn't `fuss over them` enough.  希尔达婶婶和杰克叔叔再宠爱他们不过
+V.S.
+* ``宠爱sb: fuss over sb.``: If you `fuss over someone`, you pay them a lot of attention and do things to make them happy or comfortable.
+* `宠坏惯坏/溺爱〔小孩): spoil sb`: to give a child everything they `crave`, or let them do whatever they want, often with the result that they behave badly   //`crave sth: be keen to obtain; have a craving for sth`
+e.g. She’s an only child, but they didn’t really `spoil/indulge her`. 她是独生女，不过他们也没有娇惯她。
+* `纵容惯坏/溺爱sb.: indulge sb`:  If you indulge someone, you let them have or do what they want or `crave`, even if this is not good for them.  //`crave sth: be keen to obtain; have a craving for sth`
+e.g  He did not agree with indulging children.  他不同意 `纵容惯坏/溺爱`孩子
+e.g. His mother `spoiled him`, `indulging his every whim` 他母亲对他纵容娇惯，百依百顺
+
+## fuselage /ˈfjuːzɪˌlɑːʒ, -lɪdʒ/      
+N-COUNT The fuselage is the main body of an aeroplane, missile, or rocket. It is usually `cylindrical in shape`. (飞机、火箭的) 机身; (导弹的) 弹身 e.g. The force of the impact ripped apart the plane's fuselage.  冲击力使该飞机的机身断裂了
