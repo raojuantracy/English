@@ -195,9 +195,28 @@ THESAURUS BASIS
 The magazine became the cornerstone of McFadden’s publishing empire. 这本杂志成了迈克法登出版帝国的支柱。
 2. (building)基石；奠基石: cornerstone: is a stone at one of the bottom corners of a building, often put in place at a special ceremony
 
+
+## 从边缘到主流: go from the margins to mainstream　
+
+## dash
+1. dash=run quickly: to go or run somewhere very quickly 猛冲，急奔 THESAURUS HURRY  RUN
+e.g. Olive `dashed into the room冲进屋`, grabbed her bag, and ran out again.
+2. `使某人的希望破灭，让某人失望: dash sb’s hopes`: to `disappoint and frustrate sb.` by telling them that what they want is not possible
+e.g. Hopkins’ `hopes were dashed` when his appeal was denied. 他的希望破灭了。
+3. `（我）得赶紧走了: I've got to dash=I have to dash`: spoken used to tell someone that you must leave quickly
+e.g. Anyway, `I must dash` – I said I’d meet Daniel at eight. 好了，我得赶紧走了，我约好了八点钟和丹尼尔见面。
+4. PHRASAL VERB: `dash off`
+* PHRASAL VERB: `dash off to a place: 迅速离开，飞奔到xxx地方; dash off to do sth 迅速离开，去做xxx`
+e.g. He `dashed off to lunch` at the Hard Rock Cafe.  他急匆匆地到硬石餐馆去吃午饭
+e.g. so that players could `dash off to the pub` after the game ``能够飞奔/迅速去到``酒馆
+* PHRASAL VERB If you `dash off a piece of writing`, you write or compose it very quickly, without thinking about it very much. 匆匆地写完(小说，报道)，匆匆地完成作曲
+e.g. He `dashed off a couple of novels`. 他匆匆地完成了几本小说。
+e.g. He, a talented singer, `dashed off his famous song 'I love u'`.匆匆地完成作曲
+e.g. `Dash off a letter` 仓促地写完一封信
+
+
 ## economic recession/meltdown 经济萧条;
 e.g. Take `a trade war` with China, mix in `frosty/unfriendly economic relations 冷淡的关系` with Canada and Europe, add in Federal Reserve rate hikes and here's what you get: An `economic recession/meltdown　经济萧条` by 2020. So says the head of US `equity` Management. He told CNN Business that Presidents `protectionist policies 贸易保护主义的` may lead to a deep `slowdown/meltdown in the economy`, particularly because these `trade skirmishes/spat口角` coincide with rising interest rates. An `economic recession` in the near-term is not `inevitable `, but the risk of one by 2020 has increased substantially /[səb/ in the past few months. "Take trade wars off the table and that significantly reduces the risk of recession."   //**equity /ˈɛkwɪtɪ/ N-UNCOUNT 不可数名词 In finance, your equity is the sum of your assets, for example the total value of your house and cars, once your debts have been subtracted from it. 资产净值**
-
 
 ## protectionism /prəˈtɛkʃənɪzəm/; protectionist /prəˈtɛkʃənɪst/    
 * N-UNCOUNT Protectionism is the trade policy some countries have of helping their own industries by putting a large tax/tariffs on imported goods or by restricting imports in some other way. 贸易保护主义
@@ -208,14 +227,3 @@ e.g. Take `a trade war` with China, mix in `frosty/unfriendly economic relations
 2. ADJ `Protectionist policies, measures, and laws` are meant to stop or reduce imports. 贸易保护主义的
 e.g. The administration may be moving away from `free trade` and toward more `protectionist policies贸易保护主义的政策`.
 e.g. Take `a trade war` with China, mix in `frosty/unfriendly economic relations 冷淡的关系` with Canada and Europe, add in Federal Reserve rate hikes and here's what you get: An `economic recession/meltdown　经济萧条` by 2020. So says the head of US `equity` Management. He told CNN Business that Presidents `protectionist policies 贸易保护主义的政策` may lead to a deep `slowdown/meltdown in the economy`, particularly because these `trade skirmishes/spat口角` coincide with rising interest rates. An `economic recession` in the near-term is not `inevitable `, but the risk of one by 2020 has increased substantially /[səb/ in the past few months. "Take trade wars off the table and that significantly reduces the risk of recession."
-
-## go from the margins to mainstream　从边缘到主流
-
-## dash off to a place: 迅速离开，飞奔到xxx地方; dash off to do sth 迅速离开，去做xxx
-* PHRASAL VERB: If you dash off to a place, you go there very quickly. 迅速去做
-• He `dashed off to lunch` at the Hard Rock Cafe.  他急匆匆地到硬石餐馆去吃午饭
-• ...so that players could `dash off to the pub` after the game ``能够飞奔/迅速去到``酒馆
-* PHRASAL VERB If you `dash off a piece of writing`, you write or compose it very quickly, without thinking about it very much. 匆匆地写完(小说，报道)，匆匆地完成作曲
-•  He dashed off a couple of novels. 他匆匆地完成了几本小说。
-•  He, a talented singer, `dashed off his famous song 'I love u'`.
-•  `Dash off a letter`; dash down a glass of juice. 仓促地写完一封信

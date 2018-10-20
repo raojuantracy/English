@@ -14,8 +14,7 @@ e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane
 e.g. Rescue crews had `scoured/combed through an area` of 30 square miles.  救援人员已经 ``四处搜索/搜遍了30平方英里的范围``
 e.g. 10 aereoplances have been dispatched to `scour/comb through the whole Pacific ocean 〔彻底地〕四处搜索/搜遍(一个地方)` for the missing MH370.
 e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane or standing on slippery `steep/precipitous` rocks near the top of a waterfall, you may want to think twice. Some 259 people worldwide have died while `taking/snapping selfies`, according to a study published in the Journal. Researchers `scoured news reports 〔彻底地〕查找（文档，文件)` on selfie deaths that occurred from October 2011 to November 2017. They found that the most selfie deaths occurred in India. India `accounted for more than 50% of the total selfie deaths`. Researchers `attributed the high number to` the country's enormous population of people. Although women generally take more selfies than men, researchers found that men were more likely to take risks -- like standing at the edge of a `steep/precipitous` cliff -- to capture a dramatic shot. "It justifies the higher number of deaths and incidents for men," the study said.
-
-e.g. Her family began to scour the countryside for a suitable house. 她的家人开始在乡下寻找合适的房子。
+e.g. Her family began to `scour the countryside` for a suitable house. 她的家人开始在乡下寻找合适的房子。
 2. `scour an oily place/bow/pan`: If you scour something such as a sink, floor, or pan, you clean its surface by rubbing it hard with something rough; to clean something very thoroughly by rubbing it with a rough material 擦净，擦亮 SYN SCRUB (费力地) 擦洗
 e.g. He decided to scour the sink. 他决定把水池擦洗干净
 e.g. Ada was scouring out the pans. 阿达在擦锅
@@ -47,6 +46,7 @@ V.S.
 e.g. **Life seemed to have `lost its savour` for him. 生活似乎已经了无乐趣**
 
 
+
 ## fame => defame sb; defamation /ˌdɛfəˈmeɪʃən/; defamatory /dɪˈfæmətərɪ/  
 * Verb) defame sb. /dɪˈfeɪm/
 V-T If someone defames another person or thing, they **write or say** bad and untrue things about them, esp by `distorting the truth` 诽谤，中伤
@@ -76,13 +76,11 @@ V.S. **slander sb; libel sb; backstab sb; badmouth sb**
 2. V-T pp: libelled libeled   pt: libelled libeled   pres part: libelling libeling
 To `libel someone` means to `write or print something` in a book, newspaper, or magazine which wrongly damages that person's reputation and is therefore against the law. 书面诽谤〔某人〕
 •  The newspaper which `libelled /ˈlaɪbəl/` him had already offered compensation.  那家诽谤他的报纸已经提出赔偿。
-3. libel = slander: restrictions on press freedom, such as libel laws 诽谤法之类对新闻自由的限制
-**a libel action/case/trial (=a court case against someone for libel)诽谤诉讼案**
+3. libel = slander: 不可数名词 (书面的)诽谤罪 **a libel action/case/trial (=a court case against someone for libel)诽谤诉讼案**
 
 ### backstab sb = back + stab （背后用刀刺，戳） 以卑鄙的手段陷害；为个人私利而出卖他人;　Noun **a stab in the back**
 
 ### badmouth sb = bad + mouth: 诽谤, 说某人的坏话
-
 
 
 ## undermine sth/ˌʌndəˈmaɪn/   
