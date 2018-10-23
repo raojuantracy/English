@@ -231,8 +231,12 @@ e.g. Then there's the future of a post-Brexit European Union. Britain's bolt fro
 ## fragment ['fræɡmənt]; fragmented, fragmentation [frægmen'teɪʃ(ə)n]     
 1. N-COUNT A fragment of something is a small piece or part of it. 碎片; 片段
 [**glass fragments 玻璃碎片; metal fragments 金属碎片; fragments of broken pottery 陶器碎片**]
-•  The only reminder of the shooting is a few fragments of metal 金属碎片 in my shoulder.
+•  The only reminder of the shooting is `a few fragments of metal = shards of metal` 金属碎片 in my shoulder.
 •  She read everything, digesting every fragment of news 新闻的每一个片段.
+V.S. **shard /ʃɑːd/**
+N-COUNT Shards are pieces of broken glass, pottery, or metal. (玻璃、陶瓷或金属的)碎片
+[**玻璃碎片:shards of glass; 金属碎片: shards of metal; 陶瓷碎片: shards of ceramic/pottery**]
+•  Rocks and `shards of glass 玻璃碎片` are flying in the air.
 2. V-T/V-I If something fragments or is fragmented, it breaks or separates into small pieces or parts. 碎裂
 •  The clouds fragmented and out came the sun.  云开日出。
 3. **(figurative meaning) fragment sth: to break something, or be broken into a lot of small separate parts – used to show disapproval （使）成碎片；使xxx分裂;分崩离析〔含贬义)**

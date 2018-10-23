@@ -21,10 +21,13 @@ e.g. The onetime **mistress** of former deputy Chairman Elliott alleged in newly
 
 e.g. The **disturbing** new allegations about the disgusting and nasty relationship between Elliott, a Republican **fundraiser** and former Playboy model Shera were **unsealed/disclosed** by Judge Allen in Los Angeles Superior Court. Shera has been his **mistress /ˈmɪstrɪs/** for 3 years. Elliott and Shera had signed a $1.6 million agreement that was to be paid to Shera for `an undisclosed relationship 未公开的保密的关系` of **sexual misconduct/extramarital behavior**. The deal required the parties to keep the details of the relationship confidential and undisclosed, but **the agreement was breached/violated** and it spilled into public view.      //**professional misconduct/kɑn/:玩忽职守 e.g. The doctor is accused of `professional misconduct` bz she failed to take care of the newborn婴儿.**
 
-## hands-off
-ADJ A hands-off policy or approach to something consists of not being personally or directly involved in it. 不插手的; 不干涉的   `[不干涉的态度: hands-off attitude; 不干涉的政策; hands-off policy]`
+## hands-off (adj)
+ADJ `A hands-off policy or approach` to something consists of not being personally or directly involved in it. (把手拿开)不插手的; 不干涉的   
+`[不干涉/不插手的态度: a hands-off attitude; 不干涉的政策; a hands-off policy 不干涉的政策; a hands-off approach]`
 •  ...the state's traditional `hands-off attitude` toward big business. 不干涉的态度
-e.g. It's Chinese government's traditional `hands-off attitude` when we're facing political or sovereignty conflict among other countries. "No comment" is our `hands-off policy`.
+e.g. It's Chinese government's traditional `hands-off attitude` when there're some political or `sovereignty conflict` that other countries are facing in the world. "No comment" is our `hands-off policy`.
+V.S. **meddle in sth; a meddler**
+to deliberately try to influence or change a situation that does not concern you, or that you do not understand 干预，干涉；管闲事
 
 ## 侥幸做成了坏事而未受惩罚；侥幸成功: get away with it
 If you get away with sth bad or unpleasant, you make it successfully without being punished or accused.
@@ -89,9 +92,9 @@ e.g. `Commercialism 商业主义/营利主义` has been infiltrating universitie
 N-MASS detergent is a chemical substance, usually in the form of a powder or liquid, which is used for `washing things such as clothes or utensils, like dishes`. 洗衣剂；（厨房用具的)清洁剂, 洗洁剂   //`utensils or kitchen utensils` are tools or objects that you use in order to help you to cook, serve food, or eat, like spoon, pans 〔指烹调用具〕器皿; 用具
 e.g. I like to buy the detergent with rose flavor to wash my clothes.
 e.g. You put too much detergent in the laundry.
-*  **infect => disinfectant** /ˌdɪsɪnˈfɛktənt/ 消毒剂，杀菌剂
+* **infect => disinfectant** /ˌdɪsɪnˈfɛktənt/ 消毒剂，杀菌剂
 N-MASS disinfectant is a chemical substance that kills germs or bacteria. It is used, for example, for cleaning kitchens and bathrooms.
-e.g. The small rug 小地毯 has to **be impregnated with** disinfectant. 垫子得用 `消毒剂` 浸透  //V-T **[impregate A with B: 使B渗入/浸透到A]** If someone or something impregnates a thing with a substance, they make the substance spread through the thing and stay in it; to make a substance spread completely through something, or to spread completely through something 使浸透浸渍  
+e.g. The small rug 小地毯 has to **be impregnated with disinfectant 用 `消毒剂` 浸透** for 30 mins `or so/give or take/more or less`.         //V-T **[impregate A with B: 使B渗入/浸透到A]** If someone or something impregnates a thing with a substance, they make the substance spread through the thing and stay in it; to make a substance spread completely through something, or to spread completely through something 使浸透浸渍  
 
 ## changed his tune/attitude
 e.g. "Mr. Broidy admired Mr. Trump's `uncanny` ability to sexually abuse or harass woman and `get away with it`. Mr. Broidy began to hurt Ms. Bechard physically during their sexual activities -- touching her in ways to which she did not consent." Bechard alleges that Broidy **impregnated her** and then pressured her to have an abortion. Initially, he supported her keeping the baby. But he quickly **changed his tune/attitude** and began demanding that she gets an abortion. The idea that Mr. Davidson pressured Ms. Bechard to have an abortion is `preposterous [prɪ'pɑstərəs]/absurd/ridiculous`.
@@ -100,7 +103,7 @@ e.g. "Mr. Broidy admired Mr. Trump's `uncanny` ability to sexually abuse or hara
 1. ADJ A deafening noise is a very loud noise. 震耳欲聋的  [**a deafening roar 震耳欲聋的轰鸣声; deafening noise**]
 e.g  ...**the deafening roar** of fighter jets taking off.  …战机起飞时震耳欲聋的轰鸣声
 e.g. when the quake hit. "Everything started moving; **the noise was deafening** 震耳欲聋的噪音.
-2. ADJ 鸦雀无声，死一般的寂静 If you say there was **a deafening silence,** you are emphasizing that there was no reaction or response to something that was said or done; deafening silence:  a complete silence, when it is uncomfortable or you are expecting someone to say something
+2. ADJ 鸦雀无声，死一般的寂静 If you say there was **a deafening silence = a frosty silence,** you are emphasizing that there was no reaction or response to something that was said or done; deafening silence:  a complete silence, when it is uncomfortable or you are expecting someone to say something
 e.g. What was truly despicable was **the deafening silence** maintained by the candidates concerning the riots.   真正可鄙的是这些侯选人对暴乱所持的缄默态度。
 
 ## 终身无优; 一劳永逸 set-and-forget; set-it-and-forget-it
@@ -131,17 +134,43 @@ e.g. I refuse to `be blackmailed into making` a quick decision. 我不会因为�
 e.g. I refused to `be blackmailed into joining` the drug-trafficking gang/`cartel/syndicate联盟`.
 e.g.The government insisted that it would not be blackmailed by violence.  政府坚称不会受暴力要挟。
 
-## fame/reputation/prestige=>defame sb /dɪˈfeɪm/; defamation /ˌdɛfəˈmeɪʃən/; defamatory /dɪˈfæmətərɪ/
-* **V-T defame sb /dɪˈfeɪm/**
-If someone defames another person or thing, they say bad and untrue things about them; to write or say bad or untrue things about someone or something, so that people will have a bad opinion of them (写文章或口头)诽谤，中伤
-e.g. He complained that the article defamed him /dɪˈfeɪm/. 诽谤他。
-* **Nou) defamation /ˌdɛfəˈmeɪʃən/**
-N-UNCOUNT Defamation is the damaging of someone's good `reputation or prestige` by saying something bad and untrue about them. 诽谤
-e.g. He sued for defamation/ˌdɛfəˈmeɪʃən/.  他因诽谤而起诉。
-* **Adj) defamatory /dɪˈfæmətərɪ/, e.g. defamatory allegations 诽谤性的指控**
-ADJ Speech or writing that is defamatory is likely to damage someone's good reputation/prestige by saying something bad and untrue about them. 诽谤的
-e.g. The article was highly defamatory /dɪˈfæmətərɪ/. 这篇文章充满诽谤。
-e.g. Broidy is `emphatically denying` the accusations made in the court documents. He said: "This person tried to `extort money from me/blackmail me` by fabricating false, malicious and disgusting evidences. I have acknowledged making the mistake of having an affair, and I entered a confidential agreement to protect my family's privacy. I honored my agreement until her lawyer `breached the agreement` -- and then, when I failed to pay her demands, she did what `blackmailers /'blæk,meilə/` do and want to `extort huge money from me`. I will vigorously defend myself against these false and `defamatory /dɪˈfæmətərɪ/ allegations 诽谤性的指控`."  
+## fame => defame sb; defamation /ˌdɛfəˈmeɪʃən/; defamatory /dɪˈfæmətərɪ/  
+* Verb) defame sb. /dɪˈfeɪm/
+V-T If someone defames another person or thing, they **write or say** bad and untrue things about them, esp by `distorting the truth` 诽谤，中伤
+•  Sgt. Norwood complained that the article defamed him. 诽谤他。
+to write or say bad or untrue things about someone or something, so that people will have a bad opinion of them
+* Noun: defamation /ˌdɛfəˈmeɪʃən/
+Defamation is the damaging of someone's good reputation/fame by saying or writing something bad and untrue about them, esp by `distorting the truth`
+•  He sued for defamation.  他因诽谤而起诉
+* Adj) defamatory ``/dɪˈfæmətərɪ/``
+ADJ Speech or writing that is defamatory is likely to damage someone's good reputation by saying something bad and untrue about them. 诽谤的
+•  The article was highly defamatory.  这篇文章充满诽谤
+e.g. Here it is:“As we’ve said from the beginning, it’s sad that someone would `fabricate`伪造 such `a malicious and defamatory /dɪˈfæmətərɪ/ false claim`.  伪造这样一个恶意的、诽谤性质 的控诉
+e.g. "Those websites published insulting, defamatory`/dɪˈfæmətərɪ/`, and untrue information about Wang that damaged his reputation ... and violated his privacy, " argues his lawyer.  侮辱 诽谤和不实的信息
+
+V.S. **slander sb; libel sb; backstab sb; badmouth sb**
+### **slander sb.** 〔口头的〕诽谤，诋毁,  强调“〔口头的〕”/ˈslɑːndə/   
+1. N-VAR Slander is an untrue `spoken` statement about someone which is intended to damage their reputation or prestige [prɛ'stidʒ]; a slander is a false `spoken` statement about someone, intended to damage the good opinion that people have of that person〔口头的〕诽谤，诋毁
+•  Dr. Bach is now suing the company for slander.  巴赫博士现在正在控告该公司犯诽谤罪　强调“〔口头的〕。
+2. V-T To slander someone means to `say` untrue things about them in order to damage their reputation or prestige [prɛ'stidʒ]. 诋毁; 诽谤
+•  He accused me of `slandering him` and trying to `undermine his position`.   // If you `undermine someone or undermine sb's position or authority`, you make their authority or position less secure, often by indirect methods. (通常以间接方式) 动摇 (某人的地位或权威) **动摇 (某人的地位或权威): undermine sb's position; undermine sb's authority**
+3. [U]不可数名词: slander is the crime of making false spoken statements about someone  e.g. He is being sued for slander . 他被控犯有口头诽谤罪。
+
+### **libel sb.**  /ˈlaɪbəl/  〔书面的〕诽谤中伤  强调“〔书面的〕”
+1. N-VAR Libel is `a written statement` which wrongly accuses someone of something, and which is therefore against the law; when someone `writes or prints` untrue statements about someone so that other people could have a bad opinion of them 〔书面的〕诽谤中伤
+•  Warren sued him for libel over the remarks.  沃伦因为他言论诽谤而起诉了他。
+• Holt sued the newspaper for libel. 霍尔特控告该报诽谤。
+2. V-T pp: libelled libeled   pt: libelled libeled   pres part: libelling libeling
+To `libel someone` means to `write or print something` in a book, newspaper, or magazine which wrongly damages that person's reputation and is therefore against the law. 书面诽谤〔某人〕
+•  The newspaper which `libelled /ˈlaɪbəl/` him had already offered compensation.  那家诽谤他的报纸已经提出赔偿。
+3. libel = slander: 不可数名词 (书面的)诽谤罪 **a libel action/case/trial (=a court case against someone for libel)诽谤诉讼案**
+
+### backstab sb = back + stab （背后用刀刺，戳） 以卑鄙的手段陷害；为个人私利而出卖他人;　Noun **a stab in the back**
+
+### badmouth sb = bad + mouth: 诽谤, 说某人的坏话
+
+
+
 
 ## installments 分欺付款
 e.g. Before the details of Broidy and Bechard's affair became public, Broidy had agreed to pay Bechard in $200,000 installments for an unspecified personal injury in the deal.
