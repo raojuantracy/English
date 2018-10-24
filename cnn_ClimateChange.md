@@ -1,7 +1,14 @@
 # Climate change
 https://edition.cnn.com/2018/10/18/health/plant-based-diet-climate-change-food-drayer/index.html
 https://blog.citigroup.com/2017/08/powering-the-future-with-wind/
+https://edition.cnn.com/2018/10/23/health/cruise-ship-spills-waste-in-great-barrier-reef-trnd/index.html
+https://edition.cnn.com/2018/10/23/health/microplastics-human-stool-pollution-intl/index.html
 
+## onus /ˈəʊnəs/      
+N-SING If you say that `the onus is on someone to do something`, you mean it is their duty or responsibility to do it. 责任; 义务
+e.g.`The onus is on companies and consumers to` keep up with anti-virus updates.
+ 公司和用户有责任跟上杀毒软件的更新。
+e.g. `The onus is on the prosecution to provide` proof of guilt. 举证责任在于控方
 
 ## fill a prescription; fill sb's prescription 拿处方抓药　用动词'fill'
 e.g. Rachel was already having a tough time when she called a supermarket chain's pharmacy to `get her prescription filled 拿处方抓药`. Rachel says that a pharmacist at a Meijer pharmacy Michigan, refused to `fill her prescription` for a drug to treat her `miscarriage /mɪsˈkærɪdʒ/ 意外流产/小产` because of his religious beliefs. She was initially told that the `prescription (her doctor had called in) would be filled`. But then the pharmacist there called back and said he wouldn't `fill it/her prescription`.  //**fill a prescription; fill sb's prescription 拿处方抓药**

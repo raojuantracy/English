@@ -106,8 +106,10 @@ e.g. The **disturbing** new allegations about the disgusting and nasty relations
 
 ## scour
 1. `scour a place; scour a document/book`: V-T If you scour something such as a place or a book, you make a thorough search of it to try to find what you are looking for; o search very carefully and thoroughly through an area, a document etc〔彻底地〕四处搜索/搜遍(一个地方); 〔彻底地〕查找（文档，文件)   
-  * `scour a place = comb through a place 四处搜索/搜遍了(一个地方)`
-  * `scour a doc/file 彻底地〕查找（文档，文件)`
+ * **scour a place/comb through a place**: 〔彻底地〕查找/搜索一个地方;
+ * **scour an oily utentil: 冲洗烹调用具**   //a utensil is a thing such as a knife, spoon, pan etc that you use when you are cooking or you use to server food
+器皿，用具〔指烹调用具〕kitchen utensils 厨房用具
+ * **scour a doc: 彻底地〕查找文件**
 e.g. Rescue crews had `scoured/combed through an area` of 30 square miles.  救援人员已经 ``四处搜索/搜遍了30平方英里的范围``
 e.g. 10 aereoplances have been dispatched to `scour/comb through the whole Pacific ocean 〔彻底地〕四处搜索/搜遍(一个地方)` for the missing MH370.
 e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane or standing on slippery `steep/precipitous` rocks near the top of a waterfall, you may want to think twice. Some 259 people worldwide have died while `taking/snapping selfies`, according to a study published in the Journal. Researchers `scoured news reports 〔彻底地〕查找（文档，文件)` on selfie deaths that occurred from October 2011 to November 2017. They found that the most selfie deaths occurred in India. India `accounted for more than 50% of the total selfie deaths`. Researchers `attributed the high number to` the country's enormous population of people. Although women generally take more selfies than men, researchers found that men were more likely to take risks -- like standing at the edge of a `steep/precipitous` cliff -- to capture a dramatic shot. "It justifies the higher number of deaths and incidents for men," the study said.

@@ -1,10 +1,19 @@
-# whether mp3? 
+# whether mp3?
 #cnn: trade war; trade spat口角; trade standoff 拉锯战/僵持不下
 # 打印出来，record mp3
+* not study: https://edition.cnn.com/2018/10/23/politics/navarro-china-trade-policy/index.html
+
 * https://edition.cnn.com/2018/09/22/politics/us-china-trade-talks-tariffs/index.html
 * done: https://edition.cnn.com/2018/09/28/politics/china-unga-speech/index.html
 * done: https://edition.cnn.com/2018/09/17/politics/us-china-tariff-trade-war/index.html?no-st=1537947936
 
+
+
+## onus /ˈəʊnəs/      
+N-SING If you say that `the onus is on someone to do something`, you mean it is their duty or responsibility to do it. 责任; 义务
+e.g.`The onus is on companies and consumers to` keep up with anti-virus updates.
+ 公司和用户有责任跟上杀毒软件的更新。
+e.g. `The onus is on the prosecution to provide` proof of guilt. 举证责任在于控方
 
 ## trade war, trade spat (a short unimportant quarrel口角，小争吵); trade standoff 贸易僵持状态/拉锯战
 * 僵局／拉锯战的状态 standoff /ˈstændˌɒf/：A standoff is a situation in which neither of two opposing groups or forces will make a move until one of them does something to concede, so nothing can happen until one of them gives way or concedes (concede: to admit that you are not going to win a game, argument, battle 认输，让步) [**trade standoff 贸易僵持状态/拉锯战**]
