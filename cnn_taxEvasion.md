@@ -59,6 +59,40 @@ e.g. The police are anxious to hear from anyone who may know `the whereabouts of
 2. QUEST You use whereabouts in questions when you are asking precisely where something is. (用在疑问句中) 确切在哪里
 •  "Can I know her current whereabouts in France?"—"Normandy," I said.  “在法国的确切位置？
 
+## onus /ˈəʊnəs/  The onus is on sb. to do sth
+N-SING If you say that `the onus is on someone to do something`, you mean it is their duty or responsibility to do it. 责任; 义务
+e.g. `The onus is on companies and consumers to` keep up with anti-virus updates.  公司和用户有责任跟上杀毒软件的更新。
+e.g. `The onus is on the prosecution side to provide` proof/evidence of guilt. 举证责任在于控方
+V.S.
+* `The onus is on sb. to do sth = It's sb's responsibility/duty to do  是某人的责任去做xxx`
+* `sb.应当对xx负责: hold sb. accountable for xxx;  sb. be held accountable for xxx`
+## accountable:  [ sb.应当对xx负责: hold sb. accountable for xxx;  sb. be held accountable for xxx]
+1. responsible for the effects of your actions and willing to explain or be criticized for them 负有责任的
+• The hospital should `be held accountable for` the quality of care it gives. 医院应当对医护质量负责。
+[+ to]
+• The government should be accountable to all the people of the country. 政府应当对全体国民负责。
+[+ for]
+• Managers must `be accountable for` their decisions. 管理人员必须对自己作出的决定负责。
+2. DERIVATIVe: accountability n /əˌkaʊntəˈbɪləti / [U]
+
+## centerpiece; a centerpiece of sth
+1. `a centerpiece of sth` is the central or most important feature of that thing.
+e.g. Education was `the centerpiece of` the Democratic Party's political platform.
+e.g. Trump has said he will increase the tariff rate from 10% to 25% on most of those imports by the end of the year if China doesn't agree to change its trade strategy. Hitting hard on trade, particularly on China, has been `a centerpiece` of Trump's presidency after he promised to `hold other countries accountable for` engaging in unfair trade practices during the campaign. He's pushed forward with more tariffs even though he's met repeatedly with Chinese President Xi and at one point said he "didn't `point fingers at/blame` China" for `taking advantage of 利用` the differences between the way the two do business.   //**利用xxx: take advantage of sth; take full advantage of sth**  //`The onus is on sb. to do sth = It's sb's responsibility/duty to do  是某人的责任去做xxx`  V.S. `hold sb. accountable for xxx`
+2. something placed at the center of something else (as on a table) 中心装饰品; 放在餐桌中央的摆饰
+**floral centerpiece: 放在餐桌中央的插花**
+e.g. Keep `a floral centerpiece` fresh and healthy with water and plant food.
+
+## on an equal footing 在平等的基础上/立于平等地位/处于同等地位 V.S. on the back foot (处于不利境地)
+Wang did not mention the US during his remarks on trade, but said Beijing wants "a proper settlement based on rules and consensus through dialogue and `consultation` **on an equal footing 在平等的基础上**." He framed China's approach as a defense of the broader free trade system against unilateral and destructive steps by others. "China has taken steps not just to defend its own `legitimate rights` and interests," Wang said. "China is also acting to `uphold/support the free trade system` and international rules and order for the benefit of global recovery and the common interests of all countries."    //**If you uphold something such as a law, a principle, or a decision, you support and maintain it.**
+
+## on the sidelines 事情就在眼前上演; 在场外; 非正式会议期间; 不实际参与
+**sit on the sidelines 冷眼旁观 V.S. 袖手旁观/坐等…结束；耐着性子看完或听完 sit it out (PHRASAL VERB: If you sit something out, you wait for it to finish, without taking any action)**
+**非正式会议期间: on the sidelines of a meeting/summit**
+e.g. White House economic adviser said that Trump is expected to meet with Xi `on the sidelines of the upcoming G20 summit 非正式会议期间` in Argentina. But Navarro `downplayed the meeting`, saying it's not a trade negotiation by any means. A report released by Navarro's office `pointed fingers at/blame` CHINA for its engaging/implication牵连，卷入 in unfair trade practices detailing the ways China's "economic aggression" threatens the technology and `intellectual property` of businesses around the world.    //**If you downplay a fact or feature, you try to make people think that it is less important or less serious than it really is. 对xxx轻描淡写 e.g. Police sources yesterday downplayed the significance of the security breach.
+ 警方昨天的消息对这次安全缺口的重要性轻描淡写**
+
+
 ## a public figure 公众人物
 e.g. "As **a public figure 公众人物**, I should have `abided by laws and regulations`, and been a role model in the industry and society," she said. "I shouldn't have lost `self-restraint 自我约束` or become lax in managing (my companies), which led to the violation/breach of laws, in the name of economic interests."
 

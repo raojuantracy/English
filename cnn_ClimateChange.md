@@ -4,11 +4,7 @@ https://blog.citigroup.com/2017/08/powering-the-future-with-wind/
 https://edition.cnn.com/2018/10/23/health/cruise-ship-spills-waste-in-great-barrier-reef-trnd/index.html
 https://edition.cnn.com/2018/10/23/health/microplastics-human-stool-pollution-intl/index.html
 
-## onus /ˈəʊnəs/      
-N-SING If you say that `the onus is on someone to do something`, you mean it is their duty or responsibility to do it. 责任; 义务
-e.g.`The onus is on companies and consumers to` keep up with anti-virus updates.
- 公司和用户有责任跟上杀毒软件的更新。
-e.g. `The onus is on the prosecution to provide` proof of guilt. 举证责任在于控方
+
 
 ## fill a prescription; fill sb's prescription 拿处方抓药　用动词'fill'
 e.g. Rachel was already having a tough time when she called a supermarket chain's pharmacy to `get her prescription filled 拿处方抓药`. Rachel says that a pharmacist at a Meijer pharmacy Michigan, refused to `fill her prescription` for a drug to treat her `miscarriage /mɪsˈkærɪdʒ/ 意外流产/小产` because of his religious beliefs. She was initially told that the `prescription (her doctor had called in) would be filled`. But then the pharmacist there called back and said he wouldn't `fill it/her prescription`.  //**fill a prescription; fill sb's prescription 拿处方抓药**
@@ -22,6 +18,16 @@ e.g. Rachel was already having a tough time when she called a supermarket chain'
 •  He `shuffles around` in his chair.  他在椅子上坐立不安。
 4. V-T If you shuffle playing cards, you mix them up before you begin a game. 洗 (牌)
 e.g. There are various ways of shuffling and dealing the cards. 有各种不同的洗牌和发牌方法。
+
+## (literal)球在某人的球场/地盘上; (figurative:) 某人掌握着主动权
+[**The ball is in someone's court**]
+e.g. White House trade adviser Peter wouldn't offer a time frame Tuesday for how long it will take President Donald Trump to reach a trade deal with China amid escalating rounds of tariffs. " `The ball's in China's court`," he said in an interview with CNN correspondent Christine. Now, U.S. `has a frosty relationship with 冷淡的关系` CHINA and trade talks aiming to `mitigate the effects of` the `trade skirmish/spat 贸易争端/口角战` between the two countries have `stalled 熄火了` after Trump said that he'd move forward with his biggest round of tariffs yet, hitting $200 billion  of imports.       //**soothe a part of body, soothe your skin, soothe your sore throat  V.S. alleviate pain/sadness/sorrow/distress/suffering  V.S.  mitigate the impact/effects of sth (缓解/减轻xxx不好的/负面的影响)**
+e.g. (Such a good sentence) Even when `当别人掌握着主动时 the ball is in someone else's court` for the moment, always give yourself `a timely reminder 及时的提醒` to ensure that it returns to `your side of the net (of the Court)` when it's expected and needed.
+
+## onus /ˈəʊnəs/  The onus is on sb. to do sth = It's sb's responsibility/duty to do
+N-SING If you say that `the onus is on someone to do something`, you mean it is their duty or responsibility to do it. 责任; 义务
+e.g. `The onus is on companies and consumers to` keep up with anti-virus updates.  公司和用户有责任跟上杀毒软件的更新。
+
 
 ## fame => defame sb; defamation /ˌdɛfəˈmeɪʃən/; defamatory /dɪˈfæmətərɪ/  
 * Verb) defame sb. /dɪˈfeɪm/

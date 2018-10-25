@@ -1,21 +1,59 @@
 # whether mp3?
 #cnn: trade war; trade spat口角; trade standoff 拉锯战/僵持不下
 # 打印出来，record mp3
-* not study: https://edition.cnn.com/2018/10/23/politics/navarro-china-trade-policy/index.html
-
+* done: https://edition.cnn.com/2018/10/23/politics/navarro-china-trade-policy/index.html
 * https://edition.cnn.com/2018/09/22/politics/us-china-trade-talks-tariffs/index.html
 * done: https://edition.cnn.com/2018/09/28/politics/china-unga-speech/index.html
 * done: https://edition.cnn.com/2018/09/17/politics/us-china-tariff-trade-war/index.html?no-st=1537947936
 
 
+## (literal)球在某人的球场/地盘上; (figurative:) 某人掌握着主动权
+[**The ball is in someone's court**]
+e.g. White House trade adviser Peter wouldn't offer a time frame Tuesday for how long it will take President Donald Trump to reach a trade deal with China amid escalating rounds of tariffs. " `The ball's in China's court`," he said in an interview with CNN correspondent Christine. Now, U.S. `has a frosty relationship with 冷淡的关系` CHINA and trade talks aiming to `mitigate the effects of` the `trade skirmish/spat 贸易争端/口角战` between the two countries have `stalled 谈判熄火了` after Trump said that he'd move forward with his biggest round of tariffs yet, hitting $200 billion  of imports.       //**soothe a part of body, soothe your skin, soothe your sore throat  V.S. alleviate pain/sadness/sorrow/distress/suffering  V.S.  mitigate the impact/effects of sth (缓解/减轻xxx不好的/负面的影响)**
+e.g. (Such a good sentence) Even when `当别人掌握着主动时 the ball is in someone else's court` for the moment, always give yourself `a timely reminder 及时的提醒` to ensure that it returns to `your side of the net (of the Court)` when it's expected and needed.
 
-## onus /ˈəʊnəs/      
+## onus /ˈəʊnəs/  The onus is on sb. to do sth
 N-SING If you say that `the onus is on someone to do something`, you mean it is their duty or responsibility to do it. 责任; 义务
-e.g.`The onus is on companies and consumers to` keep up with anti-virus updates.
- 公司和用户有责任跟上杀毒软件的更新。
-e.g. `The onus is on the prosecution to provide` proof of guilt. 举证责任在于控方
+e.g. `The onus is on companies and consumers to` keep up with anti-virus updates.  公司和用户有责任跟上杀毒软件的更新。
+e.g. `The onus is on the prosecution side to provide` proof/evidence of guilt. 举证责任在于控方
+V.S.
+[**The onus is on sb. to do sth = It's sb's responsibility/duty to do = sb.应当对xx负责: sb. should be held accountable for xxx 是某人的责任去做xxx**]
+## accountable:  [ sb.应当对xx负责: sb. be held accountable for xxx]
+1. responsible for the effects of your actions and willing to explain or be criticized for them 负有责任的
+• The hospital should `be held accountable for` the quality of care it gives. 医院应当对医护质量负责。
+• Managers must `be accountable for` their decisions. 管理人员必须对自己作出的决定负责。
+2. DERIVATIVe: accountability n /əˌkaʊntəˈbɪləti / [U]
 
-## trade war, trade spat (a short unimportant quarrel口角，小争吵); trade standoff 贸易僵持状态/拉锯战
+## centerpiece; a centerpiece of sth
+1. `a centerpiece of sth` is the central or most important feature of that thing.
+2. something placed at the center of something else (as on a table) 中心装饰品; 放在餐桌中央的摆饰 **floral centerpiece: 放在餐桌中央的插花**
+e.g. Education was `the centerpiece of` the Democratic Party's political platform.
+e.g. Trump has said he will increase the tariff rate from 10% to 25% on most of those imports by the end of the year if China doesn't agree to change its trade strategy. Hitting hard on trade, particularly on China, has been `a centerpiece` of Trump's presidency after he promised to `hold other countries accountable for` engaging in unfair trade practices during the campaign. He's pushed forward with more tariffs even though he's met repeatedly with Chinese President Xi and at one point said he "didn't `point fingers at/blame` China" for `taking advantage of 利用` the differences between the way the two do business.   //**利用xxx: take advantage of sth; take full advantage of sth**  //`The onus is on sb. to do sth = It's sb's responsibility/duty to do  是某人的责任去做xxx`  V.S. `hold sb. accountable for xxx`
+e.g. Keep `a floral centerpiece` fresh and healthy with water and plant food.
+
+## on an equal footing 在平等的基础上/立于平等地位/处于同等地位 V.S. on the back foot (处于不利境地) V.S. on the heels of sth/ensue
+Wang did not mention the US during his remarks on trade, but said Beijing wants "a proper settlement based on rules and consensus through dialogue and `consultation` **on an equal footing 在平等的基础上**." He framed China's approach as a defense of the broader free trade system against unilateral and destructive steps by others. "China has taken steps not just to defend its own `legitimate rights` and interests," Wang said. "China is also acting to `uphold/support the free trade system` and international rules and order for the benefit of global recovery and the common interests of all countries."    //**If you uphold something such as a law, a principle, or a decision, you support and maintain it.**
+* `on an equal footing: 在平等的基础上/立于平等地位/处于同等地位`
+* `on the back foot: (在脚的后面)处于不利境地`
+* `follow on the heels of sth/ensue: （在脚跟)紧接着…；紧随…之后`
+
+## on the sidelines 事情就在眼前上演; 在场外; 非正式会议期间; 不实际参与
+**sit on the sidelines 冷眼旁观 V.S. 袖手旁观/坐等…结束；耐着性子看完或听完 sit it out (PHRASAL VERB: If you sit something out, you wait for it to finish, without taking any action)**
+**非正式会议期间: on the sidelines of a meeting/summit**
+e.g. White House economic adviser said that Trump is expected to meet with Xi `on the sidelines of the upcoming G20 summit 非正式会议期间` in Argentina. But Navarro `downplayed the meeting`, saying it's not a trade negotiation by any means. A report released by Navarro's office `pointed fingers at/blame` CHINA for its engaging/implication牵连，卷入 in unfair trade practices detailing the ways China's "economic aggression" threatens the technology and `intellectual property` of businesses around the world.    //**If you downplay a fact or feature, you try to make people think that it is less important or less serious than it really is. 对xxx轻描淡写 e.g. Police sources yesterday downplayed the significance of the security breach. 警方昨天的消息对这次安全缺口的重要性轻描淡写**
+
+## stall
+**谈判熄火了: Negotiations stalled**
+e.g. `Negotiations` between the United States and China have `stalled 谈判熄火了` after President Donald Trump ordered new tariffs on Chinese goods.
+e.g. White House trade adviser Peter wouldn't offer a time frame Tuesday for how long it will take President Donald Trump to reach a trade deal with China amid escalating rounds of tariffs. " `The ball's in China's court`," he said in an interview with CNN correspondent Christine. Now, U.S. `has a frosty relationship with 冷淡的关系` CHINA and trade talks aiming to `mitigate the effects of` the `trade skirmish/spat 贸易争端/口角战` between the two countries have `stalled 谈判熄火了` after Trump said that he'd move forward with his biggest round of tariffs yet, hitting $200 billion  of imports.
+
+## espionage /ˈɛspɪəˌnɑːʒ/; counter-espionage
+N-UNCOUNT Espionage is the activity of finding out the political, military, or industrial secrets of your enemies or rivals by using spies.  谍报活动，间谍行为
+SYN SPYING
+**counter-espionage**: the process of trying to stop someone spying on your country 反间谍活动
+e.g. "There are thousands and thousands of people who work for the Chinese government just `hammering us, hammering us through cyber-espionage`," he said. China has `retaliated` with its own tariffs on US goods. But it imports far/rather less from the United States than it exports back (aka `trade surplus`), and is running out of new products to target. Beijing could try other measures to escalate the `trade war/skirmish/spat `, including charging even higher tariffs, imposing stringent(very strict) import quotas, restricting Chinese citizens' travel to the United States for study and tourism and `slashing taxes` for companies affected by the tariffs.     //**trade imbalance = trade surplus, trade deficit**：`trade surplus`: the amount by which the value of the goods that a country sells to other countries (exports) is more than the value of the goods it buys from them (imports); in other words, you earn money in this situation. (赚钱了)贸易盈余，贸易顺差　V.S.  `trade deficit`: N-COUNT A trade deficit is a situation in which a country imports goods worth more than the value of the goods that it exports; in other words, you lose money in this situation instead of earning money. (赔本了) 贸易赤字，贸易逆差
+
+## trade war, trade spat/skirmish 贸易口角战／争端; trade standoff 贸易僵持状态/拉锯战
 * 僵局／拉锯战的状态 standoff /ˈstændˌɒf/：A standoff is a situation in which neither of two opposing groups or forces will make a move until one of them does something to concede, so nothing can happen until one of them gives way or concedes (concede: to admit that you are not going to win a game, argument, battle 认输，让步) [**trade standoff 贸易僵持状态/拉锯战**]
 e.g. President Donald Trump is sharply escalating the American trade war and get their `trade spat` with China fiercer. Two parts are trapped in a `trade standoff 贸易僵持状态/拉锯战`.
 
@@ -24,6 +62,7 @@ e.g. President Donald Trump is sharply escalating the American trade war and get
 * Verb) retaliate: if you retaliate against sb when someone harms or annoys you, you do something which harms or annoys them in return, just hitting back to that person.
 e.g. The company would `retaliate against` employees who joined a union.
 e.g. The army began to `retaliate against` the civilian population. 军队开始报复平民
+e.g. "There are thousands and thousands of people who work for the Chinese government just `hammering us, hammering us through cyber-espionage`," he said. China has `retaliated` with its own tariffs on US goods. But it imports far/rather less from the United States than it exports back (aka `trade surplus`), and is running out of new products to target. Beijing could try other measures to escalate the `trade war/skirmish/spat `, including charging even higher tariffs, imposing stringent(very strict) import quotas, restricting Chinese citizens' travel to the United States for study and tourism and `slashing taxes` for companies affected by the tariffs.
 * `adj) retaliatory [ri'tæliətəri]`, If you `take retaliatory action`, you try to harm or annoy someone who has harmed or annoyed you,just hitting back to that person. 报复性的; 以牙还牙的 = **tit for tat一报还一报，以牙还牙**　e.g. There's been talk of a retaliatory blockade报复性封锁 to prevent supplies from getting through.
 ### `tit for tat 一报还一报，以牙还牙`
 something bad that you do to someone because they have done something bad to you 一报还一报，以牙还牙
@@ -54,6 +93,12 @@ avenge /əˈvɛndʒ/: V-T If you avenge a wrong or harmful act, you hurt or puni
 e.g. He has devoted the past five years to `avenging his daughter's death`.  一直在努力 `为<他女儿>的死报仇`
 e.g. He wanted to `avenge his brother’s death`. 他要 `为<弟弟>的死复仇`
 
+## trade imbalance = trade surplus, trade deficit
+* `trade surplus`: the amount by which the value of the goods that a country sells to other countries (exports) is more than the value of the goods it buys from them (imports); in other words, you earn money in this situation. (赚钱了)贸易盈余，贸易顺差
+* `trade deficit`: N-COUNT A trade deficit is a situation in which a country imports goods worth more than the value of the goods that it exports; in other words, you lose money in this situation instead of earning money. (赔本了) 贸易赤字，贸易逆差
+e.g. The US `trade deficit` grew to just under $30 billion in the third quarter.    美国的贸易逆差在第三季度增加到恰好低于300亿美元的水平
+e.g. "There are thousands and thousands of people who work for the Chinese government just `hammering us, hammering us through cyber-espionage`," he said. China has `retaliated` with its own tariffs on US goods. But it imports far/rather less from the United States than it exports back (aka `trade surplus`), and is running out of new products to target. Beijing could try other measures to escalate the `trade war/skirmish/spat `, including charging even higher tariffs, imposing stringent(very strict) import quotas, restricting Chinese citizens' travel to the United States for study and tourism and `slashing taxes` for companies affected by the tariffs.
+
 ## 及时的: in a timely manner/fashion; （对某事的）及时提醒：a timely reminder (of xxx)
 timely /ˈtaɪmlɪ/ ADJ If you describe an event as timely, it happens exactly at the moment when it is most useful, effective, or relevant. 适时的
 * `in a timely manner/fashion (=as quickly as is reasonable in a particular situation)及时`
@@ -69,7 +114,6 @@ e.g. Treasury Secretary had invited the Chinese counterpart negotiators to Washi
 e.g. Treasury Secretary had invited the Chinese counterpart negotiators to Washington to resume trade talks. But Beijing said the US insistence on `imposing/slapping tariffs` brings new uncertainties to those negotiations. We hope that the US could recognize the possible `negative consequences (aftermath)` of such actions and take convincing measures to `rectify them` `in a timely manner/fashion` 及时地(把错误)矫正.   //**aftermath of the earthquake/aftermath of tsunami**
 e.g. I did my best to `rectify the situation (that is wrong) 挽回局面`, but the damage was already done.
 
-
 ## hassle /ˈhæsəl/ = trouble
 1. N-VAR A hassle is a situation that is difficult and involves problems, effort, or arguments with people. 麻烦
 e.g. I don't think it's worth the money or the hassle.  我认为不值得为此花钱或者费劲。
@@ -80,13 +124,15 @@ e.g. Then my husband started hassling me.  然后我丈夫便开始不停地烦�
 e.g. Stop hassling me 别烦我了! I said I’ll call them tomorrow.
 3. [C] informal an argument between two people or groups 争论，争吵 = spat, trade spat口角
 e.g. hassles with the management 与管理层的争论
+V.S **spell trouble/disaster/danger**:  if a situation or action spells trouble etc, it makes you expect trouble etc 招致[带来]麻烦/灾难/危险等
 
 ## shed light on sth   照亮 ==> 阐明启发, 使…被充分理解/启发
 e.g.  The work is also expected to `shed light on` intriguing studies that suggest how we live today can have `striking repercussions 非常重大的影响` for the health and behaviour of our grandchildren.
 e.g. Let me share my story and revelations and perhaps they will `shed light on` a new perspective for your situation. 给你一个新的启发
+V.S. **shards, Shards are pieces of broken glass, pottery, or metal. (玻璃、陶瓷或金属的)碎片: shards of glass, shards of metal, shards of pottery = broken fragments**
 
 ## rebuke sb. /rɪˈbjuːk/ N/V  
-1. V-T If you `rebuke someone for sth`, you speak severely to them because they have said or done something that you do not approve of. 谴责  [**rebuke/decry/denounce/slam/criticize/condemn sb**]
+1. V-T If you `rebuke someone for sth`, you speak severely to them because they have said or done something that you do not approve of. 谴责  [**rebuke/decry/denounce/slam/criticize/condemn sb = pointer fingers at sb.**]
 e.g. The president rebuked the House and Senate 责参众两院 for not `enacting those bills 通过那些法案` within 100 days.
 e.g. Members of the jury were sharply rebuked for speaking to the press. 陪审团成员因向媒体发表言论而受到严厉指责
 e.g. China `issued a rebuke` to the United States on Friday, `decrying/denouncing protectionism` and unilateral trade moves that "bring damage to all" in a wide-ranging challenge to President Donald Trump as tensions between the two countries continue to rise. Speaking to the United Nations General Assembly two days after Trump accused Beijing of election interference and a week after his administration announced new tariffs that mean roughly half the products China sells to the US will now be penalized, Foreign Minister Wang Yi declared that China "will not be `blackmailed` or `yield to pressure`."    //**blackmail sb = /ɪkˈstɔːt/ extort $ from sb**
@@ -115,12 +161,6 @@ e.g. It’s very hard to measure a dollar-for-dollar return on such a thing, but
 
 ## a zero-sum game
 e.g. International trade is complementary and win-win by nature," Wang said. "It should not be **a zero-sum game** in which one gains at the expense of others, and no one should be allowed to place its own interest above the interest of others. `Protectionism` will only hurt oneself, and unilateral moves will bring damage to all.
-
-## Protectionism
-e.g. International trade is complementary and win-win by nature," Wang said. "It should not be **a zero-sum game** in which one gains at the expense of others, and no one should be allowed to place its own interest above the interest of others. `Protectionism` will only hurt oneself, and unilateral moves will bring damage to all.
-
-##
-Wang did not mention the US during his remarks on trade, but said Beijing wants "a proper settlement based on rules and consensus through dialogue and `consultation` on an equal footing." He framed China's approach as a defense of the broader free trade system against unilateral and destructive steps by others. "China has taken steps not just to defend its own `legitimate rights` and interests," Wang said. "China is also acting to `uphold the free trade system` and international rules and order for the benefit of global recovery and the common interests of all countries."
 
 ## or so = give or take, roughly, approximately
 e.g. The United States will `impose/slap a 10% tariffs later this month on $200 billion worth of Chinese goods`, increasing to 25% at the end of the year, the Trump administration announced Monday. The additional tariffs are on top of penalties that `was enacted (sth happened before)` earlier this year on $50 billion `or so` worth of Chinese goods.
@@ -160,6 +200,7 @@ e.g. Trump also threatened to **inflict 造成 more economic pain in the form of
 ## 强加（制裁／关税)impose (economic sanctions/tariffs/taxes) against <sb/country>  V.S. 无理由的／蛮横的强加（制裁／关税)slap sanctions/tariffs/taxes against <sb/country>
 e.g. The United States will `impose/slap a 10% tariffs later this month on $200 billion worth of Chinese goods`, increasing to 25% at the end of the year. The additional tariffs are on top of penalties that was `enacted` earlier this year on $50 billion `or so` worth of Chinese goods. //**or so = give or take, roughly, approximately**
 e.g. Treasury Secretary had invited the Chinese negotiators to Washington this week to resume talks. But Beijing said "the US `insistence` on `imposing/slapping tariffs` brings new uncertainties" to those negotiations.
+e.g. `To date`, the United States has `imposed tariffs on` $250 billion of Chinese goods, roughly half the value of all Chinese goods sold to the United States last year.   //**or so = give or take/ more or less/ roughly**
 
 ====================
 ## revolutionize sth /ˌrɛvəˈluːʃəˌnaɪz/ ; revolutionize the way: 彻底改变了xxx的方式; 使xxx的方式彻底变革    

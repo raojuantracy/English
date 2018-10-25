@@ -345,3 +345,63 @@ e.g. This bus is too packed to hold any more passengers. See, more than 100 pers
 e.g. In total, an estimated 20,000 people have **been displaced** by the massive earthquake, who are now living in a **makeshift shelter 临时凑合的避难所**. Dramatic video tweeted by authorities showed hundreds of people, many believed to be foreign vacationers, **crammed into〔人〕挤进，挤满 a beach** on the island of Gili as evacuation measures got underway. The islands, famous for their white sandy beaches and clear waters, are located near **the epicenter of the quake**.
 3. **to do a lot of activities in a short period of time 〔在短时间内〕做很多事: cram in sth**
 e.g. **We crammed in as much sightseeing as possible during our stay in New York. 尽量安排了很多 观光游览活动**        //`sightseeing bus: 观光游览车`
+
+## (literal)球在某人的球场/地盘上; (figurative:) 某人掌握着主动权
+[**The ball is in someone's court**]
+e.g. White House trade adviser Peter wouldn't offer a time frame Tuesday for how long it will take President Donald Trump to reach a trade deal with China amid escalating rounds of tariffs. " `The ball's in China's court`," he said in an interview with CNN correspondent Christine. Now, U.S. `has a frosty relationship with 冷淡的关系` CHINA and trade talks aiming to `mitigate the effects of` the `trade skirmish/spat 贸易争端/口角战` between the two countries have `stalled 谈判熄火了` after Trump said that he'd move forward with his biggest round of tariffs yet, hitting $200 billion  of imports.       //**soothe a part of body, soothe your skin, soothe your sore throat  V.S. alleviate pain/sadness/sorrow/distress/suffering  V.S.  mitigate the impact/effects of sth (缓解/减轻xxx不好的/负面的影响)**
+e.g. (Such a good sentence) Even when `当别人掌握着主动时 the ball is in someone else's court` for the moment, always give yourself `a timely reminder 及时的提醒` to ensure that it returns to `your side of the net (of the Court)` when it's expected and needed.
+
+## onus /ˈəʊnəs/  The onus is on sb. to do sth
+N-SING If you say that `the onus is on someone to do something`, you mean it is their duty or responsibility to do it. 责任; 义务
+e.g. `The onus is on companies and consumers to` keep up with anti-virus updates.  公司和用户有责任跟上杀毒软件的更新。
+e.g. `The onus is on the prosecution side to provide` proof/evidence of guilt. 举证责任在于控方
+V.S.
+[**The onus is on sb. to do sth = It's sb's responsibility/duty to do = sb.应当对xx负责: sb. should be held accountable for xxx 是某人的责任去做xxx**]
+## accountable:  [ sb.应当对xx负责: sb. be held accountable for xxx]
+1. responsible for the effects of your actions and willing to explain or be criticized for them 负有责任的
+• The hospital should `be held accountable for` the quality of care it gives. 医院应当对医护质量负责。
+• Managers must `be accountable for` their decisions. 管理人员必须对自己作出的决定负责。
+2. DERIVATIVe: accountability n /əˌkaʊntəˈbɪləti / [U]
+
+## centerpiece; a centerpiece of sth
+1. `a centerpiece of sth` is the central or most important feature of that thing.
+2. something placed at the center of something else (as on a table) 中心装饰品; 放在餐桌中央的摆饰 **floral centerpiece: 放在餐桌中央的插花**
+e.g. Education was `the centerpiece of` the Democratic Party's political platform.
+e.g. Trump has said he will increase the tariff rate from 10% to 25% on most of those imports by the end of the year if China doesn't agree to change its trade strategy. Hitting hard on trade, particularly on China, has been `a centerpiece` of Trump's presidency after he promised to `hold other countries accountable for` engaging in unfair trade practices during the campaign. He's pushed forward with more tariffs even though he's met repeatedly with Chinese President Xi and at one point said he "didn't `point fingers at/blame` China" for `taking advantage of 利用` the differences between the way the two do business.   //**利用xxx: take advantage of sth; take full advantage of sth**  //`The onus is on sb. to do sth = It's sb's responsibility/duty to do  是某人的责任去做xxx`  V.S. `hold sb. accountable for xxx`
+e.g. Keep `a floral centerpiece` fresh and healthy with water and plant food.
+
+## on an equal footing 在平等的基础上/立于平等地位/处于同等地位 V.S. on the back foot (处于不利境地) V.S. on the heels of sth/ensue
+Wang did not mention the US during his remarks on trade, but said Beijing wants "a proper settlement based on rules and consensus through dialogue and `consultation` **on an equal footing 在平等的基础上**." He framed China's approach as a defense of the broader free trade system against unilateral and destructive steps by others. "China has taken steps not just to defend its own `legitimate rights` and interests," Wang said. "China is also acting to `uphold/support the free trade system` and international rules and order for the benefit of global recovery and the common interests of all countries."    //**If you uphold something such as a law, a principle, or a decision, you support and maintain it.**
+* `on an equal footing: 在平等的基础上/立于平等地位/处于同等地位`
+* `on the back foot: (在脚的后面)处于不利境地`
+* `follow on the heels of sth/ensue: （在脚跟)紧接着…；紧随…之后`
+
+## on the sidelines 事情就在眼前上演; 在场外; 非正式会议期间; 不实际参与
+**sit on the sidelines 冷眼旁观 V.S. 袖手旁观/坐等…结束；耐着性子看完或听完 sit it out (PHRASAL VERB: If you sit something out, you wait for it to finish, without taking any action)**
+**非正式会议期间: on the sidelines of a meeting/summit**
+e.g. White House economic adviser said that Trump is expected to meet with Xi `on the sidelines of the upcoming G20 summit 非正式会议期间` in Argentina. But Navarro `downplayed the meeting`, saying it's not a trade negotiation by any means. A report released by Navarro's office `pointed fingers at/blame` CHINA for its engaging/implication牵连，卷入 in unfair trade practices detailing the ways China's "economic aggression" threatens the technology and `intellectual property` of businesses around the world.    //**If you downplay a fact or feature, you try to make people think that it is less important or less serious than it really is. 对xxx轻描淡写 e.g. Police sources yesterday downplayed the significance of the security breach. 警方昨天的消息对这次安全缺口的重要性轻描淡写**
+
+## hassle /ˈhæsəl/ = trouble
+1. N-VAR A hassle is a situation that is difficult and involves problems, effort, or arguments with people. 麻烦
+e.g. I don't think it's worth the money or the hassle.  我认为不值得为此花钱或者费劲。
+e.g. I don’t feel like cooking tonight, it’s too much hassle. 今天晚上我不想做饭，太麻烦了
+e.g. It’s such a hassle not having a washing machine. 没有洗衣机真是麻烦
+2. V-T pp: hassled pt: hassled pres part: hassling;  If someone `hassles you`, they `cause/inflict problems on you`, often by repeatedly telling you or asking you to do something, in an annoying way. 不停地烦/不停地打扰sb. [**hassle sb. = annoy sb and inflict troubles**]
+e.g. Then my husband started hassling me.  然后我丈夫便开始不停地烦我
+e.g. Stop hassling me 别烦我了! I said I’ll call them tomorrow.
+3. [C] informal an argument between two people or groups 争论，争吵 = spat, trade spat口角
+e.g. hassles with the management 与管理层的争论
+V.S **spell trouble/disaster/danger**:  if a situation or action spells trouble etc, it makes you expect trouble etc 招致[带来]麻烦/灾难/危险等
+
+## rebuke/decry/denounce/slam/criticize/condemn sb = pointer fingers at sb.
+
+## lad [læd]; a bit of a lad: 放荡不羁的人/痞痞的人(但是讨人喜欢); (讨人喜欢)花花公子
+1. `伙伴，哥们儿 the lads` spoken a group of male friends that a man works with or spends his free time with
+e.g. I'm gonna work `with the lads` in my time zone.
+3. `a bit of a lad 放荡不羁的人/痞痞的人(但是讨人喜欢); 花花公子(但是讨人喜欢)`, spoken a man that people like even though he behaves rather badly
+e.g. That Chris is `a bit of a lad`, isn’t he? 那个克里斯是`个花花公子/痞痞的人(但是讨人喜欢)`
+
+## end => 倒放xx，使xx颠倒/倒过来: upend sth /ʌpˈɛnd/  
+V-T If you upend something, you turn it upside down; to turn something over so that it is upside down.
+[**颠覆了xxx的可能性: upend the possibility of xxx; 排除了xxx的可能性: rule out the possibility of xxx**]
+e.g. Trump had urged his advisers to `impose/slap an additional 10% tariffs on $200 billion worth of Chinese goods`, even as counterparts from both sides were willing to coop to end the `trade spat口角` or ease the `trade standoff 僵局/拉锯战`. Trump's decision threatens to `upend the possibility of 颠覆了xxx可能性` a `diplomatic breakthrough 外交的突破口` with Chinese negotiators.
