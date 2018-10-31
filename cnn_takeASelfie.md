@@ -1,6 +1,8 @@
 # More than 250 people around the world have died taking selfies since 2011
 https://edition.cnn.com/2018/10/03/health/selfie-deaths-trnd/index.html
 
+Not print
+
 ## take a selfie = snap a selfie 自拍，用手机或相机给自己拍照
 e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane or standing on slippery `steep/precipitous` rocks near the top of a waterfall, you may want to think twice. Some 259 people worldwide have died while `taking/snapping selfies`; even 300 people were hurt by the `selfie stick 自拍杆`. Researchers **scoured news reports 〔彻底地〕查找（文件)** on selfie deaths that occurred since October 2011. They found that India `accounted for more than 50% of the total selfie deaths`. Researchers `attributed the high number to 归因于` the country's enormous population of people.     //**scour a place/comb through: 〔彻底地〕查找/搜索一个地方; scour an oily utentils:冲洗烹调用具；scour a doc**
 
@@ -82,17 +84,65 @@ e.g. `It’s imperative for CloudOps team to` resolve the sev1 alerts as quickly
 
 
 
+# STOP STOP
+## grope /ɡrəʊp/
+1. V-I If you `grope for something` that you cannot see, you try to find it by moving your hands around in order to feel it. [I] to try to find something that you cannot see by feeling with your hands 〔在黑暗中〕摸索
+e.g. With his left hand he `groped for the knob`, turned it, and pulled the door open. 摸索到门把手，转动把手，把门拉开。,
+e.g. Ginny `groped for her glasses` on the bedside table. 摸索着找眼镜。
+2.  V-T If you `grope around` or `grope your way to a place`, you move there, holding your hands in front of you and feeling the way because you cannot see anything. 摸索而行; [I,T] to go somewhere by feeling the way with your hands because you cannot see
+〔因看不见而用手〕摸索着走  **grope around; grope your way along/across etc**
+e.g. I didn't turn on the light, but `groped my way` across the room.   我没有开灯，而是摸索着穿过房间。
+e.g. We `groped around` in the darkness. 我们在黑暗中摸索。
+e.g. I was groping my way blindly through the trees. ``摸索着``往前走。
+e.g. Ally groped steadily towards the door. ``摸索着`` 稳步朝门口走去。
+3. grope for sth: to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this努力寻找〔恰当的言辞或正确的解决办法〕
+e.g. She hesitated, seeming to `grope for proper words`. 她犹豫了一下，像是在 `寻找恰当的词语``
+4. [T] `grope sb`: informal to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this 爱抚〔尤指当对方不愿意的时候〕(sort of `sexual harassment`)
+e.g. A Florida man, Bruce, accused of `groping a passenger` on Southwest Airlines told an FBI agent after his arrest/apprehension that the "President of the United States says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事而未受惩罚；侥幸成功,逍遥法外`, according to a criminal `complaint that is lodged 正式提出抱怨` by the female. Bruce was in federal custody after being charged federally on Sunday with abusive sexual contact on a female passenger during a flight from Houston to Albuquerque.
 
+## laud /lɔːd/: laud/commend/eulogize/praise sb.
 
+## （飞机）滑出跑道 overshoot the runway = an aviation jargon
+1. V-T If you `overshoot a place` that you want to get to, you go past it by mistake; to accidentally go a little further than you intended 〔意外地〕超过/驶过〔预定地点〕**(飞机）滑出/冲出跑道 overshoot the runway = an aviation jargon**
+• The plane `overshot the runway` and plunged into a ditch. 这架飞机 冲出跑道，一头扎进沟里。
+2. Verb) `overshoot the budget/the spending plan`: to spend more money than you had intended 超出(预算计划，支出目标)
+V-T If a government or organization `overshoots its budget`, it spends more than it had planned to. 超出(预算计划，支出目标)
+• The government usually `overshot its original spending target`.  该政府经常超过它原本的支出目标。
+• The school has `overshot its cash limit`. 开支超出了预计的现金额度
+3. N-COUNT Overshoot is also a noun. 超支; 超出〔预计费用〕的部分
+•  ...the 100 million dollar `overshoot` in the cost of building the hospital. ...该医院建设成本中1亿美元的超支
 
+## log Verb)
+[T] In aviation industry, `log` means to travel a particular distance or for a particular length of time, especially in a plane or ship (尤指飞机或船只)行驶，行进〔一定距离或时间〕 e.g. The pilot has `logged 1,000 flying hours`. 飞行员已有 1,000 小时的飞行记录
 
+## preflight V.S. in-flight
+* `preflight, e.g. preflight inspections 飞机起飞前的例行检查`
+* `in-flight services; in-flight entertainment, e.g. TV 飞行途中提供的娱乐活动; in-flight meals; an in-flight magazine: 飞机上飞行途中提供的杂志`  
 
+## tarnish
+1. [T] if an event or fact `tarnishes someone’s reputation/fame, prestige 威望, record, image or brand` etc, it makes it worse  玷污，败坏，损害〔名誉、形象, 品牌形象等〕
+e.g. His regime was tarnished by human rights abuses. 他的政权因践踏人权而形象受损。
+2. [I,T] **if metals such as silver, copper , or brass tarnish, or if something tarnishes them, they become dull and lose their colour （使）〔银、铜等金属〕失去光泽，变暗淡**
+e.g. `Gold does not tarnish easily. 黄金色泽不容易变暗`
+e.g. `the tarnished silver spoons 发乌的银勺`
 
+## commoner /ˈkɒmənə/ 平民(not a royal)
+N-COUNT In countries such as Britain which have a nobility, commoners are the people who are not members of the nobility.
+•  It's only the second time a potential heir to the throne has married a commoner.  这只是第二次王储与平民结婚。
 
+## syllabus /ˈsɪləbəs/   
+1. N-COUNT A syllabus is an outline or summary of the subjects to be covered in a course. 教学大纲
+•  The course syllabus consisted mainly of novels by African-American authors, male and female.   该课程的教学大纲主要包括了非裔美国男女作家的小说。
+2. N-COUNT You can refer to the subjects that are studied in a particular course as the syllabus. 课程
 
+## monolithic /ˌmɒnəˈlɪθɪk/
+1. ADJ If you refer to an organization or system as monolithic, you are critical of it because it is very large and very slow to change, and does not seem to have different parts with different characters. 大一统的
+•  ...an authoritarian and monolithic system.
+ …大一统的独裁体制。
+2. ADJ If you describe something such as a building as monolithic, you do not like it because it is very large and plain with no character. 巨大而平庸的
+•  ...a huge monolithic concrete building.
+ …一座巨大而平庸的混凝土建筑。
 
-
-STOP STOP
 ## 未公开的未披露的，保密的，(info, relationship) undisclosed /ˌʌndɪsˈkləʊzd/      
 **[未公开的保密的信息:undisclosed information; 未公开的保密的价钱:undisclosed amount; 未公开的保密的关系:undisclosed relationship]**
 ADJ undisclosed information, undisclosed relationship is not revealed to the public; used to describe information which is not given to the public

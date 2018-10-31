@@ -4,6 +4,49 @@ world's longest airline flight: Singapore to New York: 5 things we learned on wo
 
     https://edition.cnn.com/travel/article/singapore-to-new-york-5-things/index.html
 
+
+    ## 旅客名单 passenger manifest
+    a manifest: is a list of passengers or goods carried on a ship, plane, or train 〔船、飞机、火车的〕旅客名单，载货清单
+    * a passenger manifest: a list of passengers who are on board of a plane/train/ship
+    * a cargo manifest: a list of goods/cargoes carried on a plane/train/ship 载货清单, 货物清单
+    e.g. the ship’s cargo manifest 船的载货清单; the plane's cargo manifest; the plane's passenger manifest  
+
+    ## （飞机）滑出跑道 overshoot the runway = an aviation jargon
+    overshoot, pp: overshot   pt: overshot
+    1. V-T If you `overshoot a place` that you want to get to, you go past it by mistake; to accidentally go a little further than you intended 〔意外地〕超过/驶过〔预定地点〕**（飞机）滑出/冲出跑道 overshoot the runway = an aviation jargon**
+    • In 2007 the EU banned all 51 Indonesian airlines from its airspace, following a series of crashes and concerns over degrading safety standards. That same year, a Garuda Indonesia plane with 140 people on board `overshot the runway` in the Indonesian city and `burst into flames`, killing 21 people.  
+    • The plane apparently `overshot the runway` after landing.  飞机在着陆后明显 越过了跑道。
+    • The plane `overshot the runway` and plunged into a ditch. 这架飞机 冲出跑道，一头扎进沟里。
+    2. Verb) `overshoot the budget/the spending plan`: to spend more money than you had intended;
+    V-T If a government or organization `overshoots its budget`, it spends more than it had planned to. 超出(预算计划，支出目标)
+    • The government usually `overshot its original spending target`.  该政府经常超过它原本的支出目标。
+    • The school has `overshot its cash limit`. 这所学校的开支超出了预计的现金额度
+    3. N-COUNT Overshoot is also a noun. 超支; 超出〔预计费用〕的部分
+    •  ...the 100 million dollar `overshoot` in the cost of building the hospital. ...该医院建设成本中1亿美元的超支
+    超出〔预计费用〕
+
+    ## log Verb)
+    [T] In aviation industry, `log` means to travel a particular distance or for a particular length of time, especially in a plane or ship (尤指飞机或船只)行驶，行进〔一定距离或时间〕
+    e.g. The pilot has `logged 1,000 flying hours`. 飞行员已有 1,000 小时的飞行记录
+    e.g. The captain of the plane had `logged more than 5,000 flight hours`. 飞行员已有5,000小时的飞行记录
+
+    ## taxi Verb) ing: taxiing  V.S. a taxing task/work/job
+    V-T/V-I When an aircraft taxis along the ground or when a pilot taxis a plane somewhere, it moves slowly along the ground. 使 (飞机) 缓慢滑行; (飞机) 缓慢滑行
+    e.g. She gave permission to the plane to `taxi into position 飞机滑行入位` and hold for takeoff.  
+    e.g. The plane is pulled from the Gate and taxiing to the runway.
+    V.S. **a taxing task, a taxing job**
+    taxing /ˈtæksɪŋ/: ADJ `A taxing task or problem` is one that requires a lot of mental or physical effort. (需要耗费大量脑力或体力)费劲的（任务，活)
+    e.g. All tasks in DP project are pretty taxing.
+    e.g. It's such a taxing task for me.
+
+    ## preflight V.S. in-flight
+    * `preflight, e.g. preflight inspections 飞机起飞前的例行检查`
+    preflight /ˈpriːˈflaɪt/: ADJ of or relating to the period just prior to a plane taking off 飞机起飞前的
+    e.g. Speaking to reporters at the carrier's headquarters in Jakarta, Sirait said the plane was "airworthy" and that the pilot had carried out all `preflight inspections` according to procedure.
+    * In-flight services are ones that are provided provided during a plane journey. 飞行途中提供的服务 e.g. 娱乐活动，餐饮
+    `in-flight services; in-flight entertainment, e.g. TV 飞行途中提供的娱乐活动; in-flight meals; an inflight magazine: 飞机上飞行途中提供的杂志`  
+
+    
 touch down: PHRASAL VERB When an aircraft touches down, it lands. 着陆
 
 • The space shuttle touched down yesterday. 这架航天飞机昨日着陆。 e.g. Just a little while ago, I was on the complete other side of the planet. After touching down at New Jersey's Newark Liberty International airport outside New York -- completing the inaugural journey of the longest flight in the world -- I can tell you this: It was an unforgettable night ... followed by a day ... followed by another night. In about 17 hours and 25 minutes, we flew from Singapore halfway around the globe nonstop aboard Singapore Airlines Flight SQ22 -- now the most ultra of ultra-long-haul routes. It was a little bit of a travel endurance [ɪn'dʊrəns] test 耐久性试验疲劳试验持久试验 for everyone on board -- passengers and crew, including captain, first officers, and flight attendants (FA). The sheer achievement, mechanical and human, to make it happen -- amazing!

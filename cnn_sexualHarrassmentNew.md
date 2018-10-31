@@ -7,26 +7,18 @@
 
 ## grope /ɡrəʊp/
 1. V-I If you `grope for something` that you cannot see, you try to find it by moving your hands around in order to feel it. [I] to try to find something that you cannot see by feeling with your hands 〔在黑暗中〕摸索
-•  With his left hand he groped for the knob, turned it, and pulled the door open.
- 他用左手摸索到门把手，转动把手，把门拉开。,
-Ginny groped for her glasses on the bedside table. 金尼在床头柜上摸着找眼镜。
-
+e.g. With his left hand he `groped for the knob`, turned it, and pulled the door open. 摸索到门把手，转动把手，把门拉开。,
+e.g. Ginny `groped for her glasses` on the bedside table. 摸索着找眼镜。
 2.  V-T If you `grope around` or `grope your way to a place`, you move there, holding your hands in front of you and feeling the way because you cannot see anything. 摸索而行; [I,T] to go somewhere by feeling the way with your hands because you cannot see
-〔因看不见而用手〕摸索着走
-grope around; grope your way along/across etc
-•  I didn't turn on the light, but `groped my way` across the room.   我没有开灯，而是摸索着穿过房间。
-We `groped around` in the darkness. 我们在黑暗中摸索。
-I was groping my way blindly through the trees. 我像瞎子似的在树丛中摸索着往前走。
-Ally groped steadily towards the door. 艾丽摸索着稳步朝门口走去。
-
-3. grope for sth
-to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this
-努力寻找〔恰当的言辞或正确的解决办法〕
-
-She hesitated, seeming to grope for words. 她犹豫了一下，像是在寻找恰当的词语。
+〔因看不见而用手〕摸索着走  **grope around; grope your way along/across etc**
+e.g. I didn't turn on the light, but `groped my way` across the room.   我没有开灯，而是摸索着穿过房间。
+e.g. We `groped around` in the darkness. 我们在黑暗中摸索。
+e.g. I was groping my way blindly through the trees. ``摸索着``往前走。
+e.g. Ally groped steadily towards the door. ``摸索着`` 稳步朝门口走去。
+3. grope for sth: to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this努力寻找〔恰当的言辞或正确的解决办法〕
+e.g. She hesitated, seeming to `grope for proper words`. 她犹豫了一下，像是在 `寻找恰当的词语``
 4. [T] `grope sb`: informal to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this 爱抚〔尤指当对方不愿意的时候〕(sort of `sexual harassment`)
 e.g. A Florida man, Bruce, accused of `groping a passenger` on Southwest Airlines told an FBI agent after his arrest/apprehension that the "President of the United States says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事而未受惩罚；侥幸成功,逍遥法外`, according to a criminal `complaint that is lodged 正式提出抱怨` by the female. Bruce was in federal custody after being charged federally on Sunday with abusive sexual contact on a female passenger during a flight from Houston to Albuquerque.
-
 
 ## get away with it 做了坏事而未受惩罚；侥幸成功, 逍遥法外
 e.g. A Florida man, Bruce, accused of `groping a passenger` on Southwest Airlines told an FBI agent after his arrest/apprehension that the "President of the United States says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事而未受惩罚；侥幸成功,逍遥法外`, according to a criminal `complaint that is lodged 正式提出抱怨` by the female. Bruce was in federal custody after being charged federally on Sunday with abusive sexual contact on a female passenger during a flight from Houston to Albuquerque.

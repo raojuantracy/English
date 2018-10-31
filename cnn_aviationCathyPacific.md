@@ -1,5 +1,46 @@
  cnn_aviationCathyPacific.md
 
+ ## 旅客名单 passenger manifest
+ a manifest: is a list of passengers or goods carried on a ship, plane, or train 〔船、飞机、火车的〕旅客名单，载货清单
+ * a passenger manifest: a list of passengers who are on board of a plane/train/ship
+ * a cargo manifest: a list of goods/cargoes carried on a plane/train/ship 载货清单, 货物清单
+ e.g. the ship’s cargo manifest 船的载货清单; the plane's cargo manifest; the plane's passenger manifest  
+
+ ## （飞机）滑出跑道 overshoot the runway = an aviation jargon
+ overshoot, pp: overshot   pt: overshot
+ 1. V-T If you `overshoot a place` that you want to get to, you go past it by mistake; to accidentally go a little further than you intended 〔意外地〕超过/驶过〔预定地点〕**（飞机）滑出/冲出跑道 overshoot the runway = an aviation jargon**
+ • In 2007 the EU banned all 51 Indonesian airlines from its airspace, following a series of crashes and concerns over degrading safety standards. That same year, a Garuda Indonesia plane with 140 people on board `overshot the runway` in the Indonesian city and `burst into flames`, killing 21 people.  
+ • The plane apparently `overshot the runway` after landing.  飞机在着陆后明显 越过了跑道。
+ • The plane `overshot the runway` and plunged into a ditch. 这架飞机 冲出跑道，一头扎进沟里。
+ 2. Verb) `overshoot the budget/the spending plan`: to spend more money than you had intended;
+ V-T If a government or organization `overshoots its budget`, it spends more than it had planned to. 超出(预算计划，支出目标)
+ • The government usually `overshot its original spending target`.  该政府经常超过它原本的支出目标。
+ • The school has `overshot its cash limit`. 这所学校的开支超出了预计的现金额度
+ 3. N-COUNT Overshoot is also a noun. 超支; 超出〔预计费用〕的部分
+ •  ...the 100 million dollar `overshoot` in the cost of building the hospital. ...该医院建设成本中1亿美元的超支
+ 超出〔预计费用〕
+
+ ## log Verb)
+ [T] In aviation industry, `log` means to travel a particular distance or for a particular length of time, especially in a plane or ship (尤指飞机或船只)行驶，行进〔一定距离或时间〕
+ e.g. The pilot has `logged 1,000 flying hours`. 飞行员已有 1,000 小时的飞行记录
+ e.g. The captain of the plane had `logged more than 5,000 flight hours`. 飞行员已有5,000小时的飞行记录
+
+ ## taxi Verb) ing: taxiing  V.S. a taxing task/work/job
+ V-T/V-I When an aircraft taxis along the ground or when a pilot taxis a plane somewhere, it moves slowly along the ground. 使 (飞机) 缓慢滑行; (飞机) 缓慢滑行
+ e.g. She gave permission to the plane to `taxi into position 飞机滑行入位` and hold for takeoff.  
+ e.g. The plane is pulled from the Gate and taxiing to the runway.
+ V.S. **a taxing task, a taxing job**
+ taxing /ˈtæksɪŋ/: ADJ `A taxing task or problem` is one that requires a lot of mental or physical effort. (需要耗费大量脑力或体力)费劲的（任务，活)
+ e.g. All tasks in DP project are pretty taxing.
+ e.g. It's such a taxing task for me.
+
+ ## preflight V.S. in-flight
+ * `preflight, e.g. preflight inspections 飞机起飞前的例行检查`
+ preflight /ˈpriːˈflaɪt/: ADJ of or relating to the period just prior to a plane taking off 飞机起飞前的
+ e.g. Speaking to reporters at the carrier's headquarters in Jakarta, Sirait said the plane was "airworthy" and that the pilot had carried out all `preflight inspections` according to procedure.
+ * In-flight services are ones that are provided provided during a plane journey. 飞行途中提供的服务 e.g. 娱乐活动，餐饮
+ `in-flight services; in-flight entertainment, e.g. TV 飞行途中提供的娱乐活动; in-flight meals; an inflight magazine: 飞机上飞行途中提供的杂志`  
+
  小事故；小错误; 小灾难; 倒霉事/不幸 mishap /ˈmɪshæp/ (强调“小”)
 
 N-VAR A mishap is an unfortunate but not very serious event that happens to someone. A mishap is a small accident or mistake that does not have very serious results. [一个小小的错误: a slight mishap; 一连串的倒霉事: a series of mishaps； 顺利地(无灾无难的): do sth without mishap] e.g. I had a slight mishap that I broke one of the glasses. 我犯了一个小小的错误 e.g. (In the horse race in the Jockey club) Only one horse finished the course without mishap. 只有一匹马 顺利地(无灾无难的) 跑完全程 //Jocky club: is the governing body that regulates and controls horse-racing both on the flat and over jumps 赛马俱乐部; 香港赛马会 e.g. After a number/series of slight mishaps, she did manage to get back to Germany. 发生了 几次小的倒霉事/不幸 之后 e.g. This mishap reminded/recalled me of a traffic accident I once experienced. 这次不幸事故使我联想起我过去经历的一次交通事故。 e.g. Photos have emerged that appear to show a plane on the ground at Hong Kong International Airport, proudly emblazoned with the words "CATHAY PACIIC." An engineer for Haeco, a Cathay Pacific subsidiary /səbˈsɪdɪərɪ/ , told the South China Morning Post: "The spacing is too on-point for a mishap/a small mistake. We have stencils. Should be a blank gap in between letters if it was a real mistake I think." A spokesperson for Cathay Pacific told CNN Travel: "We did not intend to make it a big fuss/kick up a fuss 大惊小怪，小题大做 in the first place, but photos went viral（像病毒一样) 通过网络上或手机而广为传播的) within the aviation enthusiastic forums, so we just shared the hilarious/pretty funny moment with everyone." ///səbˈsɪdɪərɪ/ A subsidiary or a subsidiary company is a company which is part of a larger and more important company. 子公司
