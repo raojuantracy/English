@@ -8,45 +8,59 @@ e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane
 
 ## selfie stick 自拍杆 自拍棒 自拍神棍
 
-## age ==> overage ['ovərɪdʒ] n. 过于老化； 商品过剩；  人工时效过度 adj. 年龄偏大的/超龄的
+
+## age ==> overage ['ovərɪdʒ] 注意发音 n. 过于老化； 商品过剩；人工时效过度 adj. 年龄偏大的/超龄的
 1. ADJ If you are overage, you are officially older than that age standard, and are too old to do something. 超龄的
-•  He `was a couple of months overage` for the youth team, so he cannot join the youth team 他比青年组的年龄大了几个月。
+e.g. He `was a couple of months overage` for the youth team, so he cannot join the youth team 他比青年组的年龄大了几个月。
+e.g. We're a little `overage` for the HPI vaccine-Level4 so we've got to wait for L9 which is suitable for our age.
 2. ADJ You use `overage` to describe someone who is doing something that is usually done by much younger people, and which therefore seems inappropriate or silly. 年龄偏大的
-e.g. an overage singer 一位年龄偏大的歌手; an overage steward(male flight attendant/FA):一位年龄偏大的男乘务员
+e.g. `an overage ['ovərɪdʒ] singer 一位年龄偏大的歌手; an overage steward(male flight attendant/FA):一位年龄偏大的男乘务员; an overage  ['ovərɪdʒ] actor`
 
-
-## refute /rɪˈfjuːt/; refutable adj; refutation
-1. V-T If you `refute an argument, rumor, accusation, or theory`, you prove that it is wrong or untrue; to prove that a statement or idea is not correct 批驳,反驳,推翻〔陈述或观点; 谣言〕
-[**反驳xxx理论: refute a hypothesis/a theory/a claim/an idea**]
+## refute /rɪˈfjuːt/; refutable adj; refutation  
+1. V-T If you `refute an argument, rumor, accusation, or theory`, you prove that it is wrong or untrue; to prove that a statement or idea is not correct 驳倒,反驳,推翻〔陈述或观点; 谣言; 指控〕
+[**反驳xxx理论: refute a hypothesis/a theory；驳倒,反驳一个陈述 refute a claim; 驳倒,反驳一个观点 refute an idea**]
 e.g. It was the kind of rumour that it is impossible to refute.  这是那种不可能推翻的谣言。
-an attempt to refute Darwin’s theories 反驳达尔文理论的尝试
+e.g. ... attempt to `refute Darwin’s theories 反驳/驳倒达尔文理论``
 2. V-T If you `refute an argument or accusation`, you deny it and say that it is not true. 否认
-**驳斥，反驳指控: refute a charge/an accusation = rebut a charge/an accusation**
-**驳斥，反驳批评: refute criticism = rebut criticism**
-e.g. She is quick to `refute/rebut any accusation` of `intellectual property theft`.  对于 xxx 指控，都予以否认
-e.g. `She refuted any allegations` of malpractice. 她否认任何有关玩忽职守的指控
-3. SYN `rebut /rɪˈbʌt/, rebuttal`
+**驳斥，反驳/否认指控: refute a charge/an accusation = /rɪˈbʌt/ rebut a charge/an accusation**  
+**驳斥，反驳批评: refute criticism = /rɪˈbʌt/ rebut criticism**
+e.g. She is quick to `emphatically/categorically refute/rebut any accusation` of intellectual property theft.  对于 xxx 指控，都予以 断然/直截了当的反驳/否认
+e.g. They were charged with `masterminding this plot/scheme 策划一个阴谋` of the `overthrow of the state 颠覆政府`; and they `emphatically/categorically refuted/rebutted any accusations` against them.
+e.g. She emphatically/categorically refuted/rebutted any allegations of malpracice and `professional misconduct`. 断然/直截了当的否认任何有关玩忽职守的指控
+3. Nou) `refutation /ˌrɛfjʊˈteɪʃən/ = rebuttal`
+N-VAR A refutation of an argument, accusation, or theory is something that proves it is wrong or untrue. (对观点、指责或理论的)驳斥; 反驳
+e.g. He prepared a complete `refutation/rebuttal of` the Republicans' most serious charges.  全面反驳共和党人对他最严重的指控。
+e.g. He `made a firm/emphatic/categorical [,kætə'ɡɔrɪkl] refutation of the accusations` 对这些指控的`断然/直截了当的驳斥/反驳`
+//**an emphatic denial = deny sth emphatically; deny sth categorically**
 4. V.S. overthrow; rebut
-### rebut /rɪˈbʌt/; rebuttal /rɪˈbʌtəl/
-**pp: rebutted   pt: rebutted   pres part: rebutting**
-* V-T If you `rebut a charge, an accusation or criticism` that is made against you, you give reasons why it is untrue or unacceptable; to prove that a statement or a charge made against you is false 驳斥，反驳(指控或批评)
-e.g. He spent most of his speech `rebutting criticisms` of his foreign policy. 反驳他在外交政策上受到的各种批评
-* Noun) `rebuttal n [C,U]`:  
-N-COUNT If you `make a rebuttal of a charge, accusation, or criticism` that has been made against you, you make a statement that gives reasons why the accusation is untrue. 反驳; 驳斥 (指控或批评)
-e.g. He is conducting a point-by-point rebuttal of charges from former colleagues. 他正在对前同事的指责逐条加以驳斥。
-e.g. He `made a firm/emphatic/categorical[,kætə'ɡɔrɪkl] rebuttal 断然驳斥/反驳 of the accusations` 他对这些指控的断然驳斥反驳
+### rebut /rɪˈbʌt/; rebuttal /rɪˈbʌtəl/ **pp: rebutted   pt: rebutted   pres part: rebutting**
+* V-T If you `rebut a charge, an accusation or criticism` that is made against you, you `refute it` and you give reasons why it is untrue or unacceptable; to prove that a statement or a charge made against you is false 驳斥，反驳(指控或批评)
+  * **驳斥，反驳/否认指控: refute a charge/an accusation = /rɪˈbʌt/ rebut a charge/an accusation**  
+  * **驳斥，反驳批评: refute criticism = /rɪˈbʌt/ rebut criticism**
+e.g. He spent most of his speech `rebutting/refuting criticisms` of his foreign policy. 反驳他在外交政策上受到的各种批评
+* Noun) `rebuttal /rɪˈbʌtəl/ = refutation`
+N-COUNT If you `make a rebuttal/refutation of a charge, accusation, or criticism` that has been made against you, you `make a refutation statement` that gives reasons why the accusation is untrue. 反驳; 驳斥 (指控或批评)
+e.g. He is conducting a point-by-point `rebuttal/refutation of charges` from former colleagues. 他正在对前同事的指责逐条加以驳斥/反驳/否认。
+e.g. He `made a firm/emphatic/categorical[,kætə'ɡɔrɪkl] rebuttal of the accusations` 他对这些指控的`断然的/直截了当的驳斥/反驳`
+e.g. He `made a firm/emphatic/categorical[,kætə'ɡɔrɪkl] refutation of the accusations` 他对这些指控的`断然的/直截了当的驳斥/反驳`
+//**an emphatic denial = deny sth emphatically; deny sth categorically**
 
 ### overthrow, overthrew, overthrown
 1. V-T When a government or leader is overthrown, they are removed from power by force.〔尤指用武力〕颠覆，推翻〔某领导或政府〕
 **颠覆政府:overthrow a government; 颠覆一个政权/政体: overthrow a political regime; overthrow a leader**
 e.g. `That government was overthrown` by insurgents 起义军 in a `military coup`  该政府在一次军事政变中被起义军颠覆了
-e.g. Rebels were already `masterminding a plot 策划一个阴谋` to `overthrow the government 颠覆政府`     //**mastermind sth N/V: to think of, plan, and organize a large, important, and difficult operation; mastermind a plan; mastermind a plot/scheme 策划，组织〔重大而艰难的行动〕**
+e.g. Rebels were already `masterminding a plot 策划一个阴谋` to `overthrow the government 颠覆政府`     //**mastermind sth N/V: to think of, plan, and organize a large, important, and difficult operation; mastermind a plan; 策划，组织〔重大而艰难的行动〕e.g. mastermind a plot/scheme**
 2. N-SING Overthrow is also a noun. 颠覆 **overthrow of the gov/state/leadship/political regime**
-e.g. They were charged with plotting `the overthrow of the state`. = They were charged with `masterminding the plot/scheme` of the `overthrow of the state`  他们被控密谋颠覆国家
+e.g. They were charged with plotting `the overthrow of the state`. = They were charged with `masterminding the plot/scheme` of the `overthrow of the state`; and they `emphatically/categorically refuted/rebutted any accusations` against them. 他们被控密谋颠覆国家
+
+
+
+# STOP STOP
+
 ### talk the pilot down; talk sth down
 1. `PHRASAL VERB: [talk the pilot down]`
-To talk down someone who is flying an aircraft in an emergency means to give them instructions so that they can land safely. 紧急引导 (飞行员) 安全着陆
-e.g. The Air Traffic Controller (ATC) began to `talk the pilot down` by giving instructions over the `radiotelephony[,reɪdɪəʊtɪ'lefɒnɪ]` after they received the `Mayday/distress call 无线电求救信号`.
+To `talk down someone who is flying an aircraft` in an emergency means to give them instructions so that they can land safely. 紧急引导 (飞行员) 安全着陆
+e.g. The Air Traffic Controller (ATC) began to `talk the pilot down` by giving them instructions via `radiotelephony[,reɪdɪəʊtɪ'lefɒnɪ]` after they received the `Mayday/distress call/Panpan call 无线电求救信号`.
 2. `PHRASAL VERB` If someone talks down a particular thing, they make it less interesting, valuable, or likely than it originally seemed. 贬低(重要性/价值)
 * **talk sth down**: make it less interesting, important,valuable, or likely than it originally seemed. 贬低(重要性/价值)
 e.g. talk down the nation's biggest industry. 府贬低国家的产业。
@@ -56,6 +70,11 @@ e.g. They spread tales and scandals about her in an attempt to `devalue her work
 * **downplay sth**: V-T If you downplay a fact or feature, you try to make people think that it is less important or serious than it really is. 淡化…的重要性，对…轻描淡写
 e.g. Police sources `downplayed the significance of` the security breach. 对<这次安全缺口的重要性>轻描淡写
 e.g. White House officials attempted to `downplay the President’s role` in the affair.
+
+## a tiller:
+1.	A tiller is a long handle fastened to the `rudder (= part that controls the direction )` of a boat; The tiller of a boat is a handle that is fixed to `the rudder`. It is used to turn the rudder, which then steers the boat.  〔船的〕舵柄
+V.S. **paddle**:  [C] a short pole that is wide and flat at the end, used for moving a small boat in water〔小船的〕短桨，桨
+2.	农夫, 土地的耕种者 e.g.  The first-born son of Adam and Eve (Gen. 4). He became `a tiller` of the ground, while his brother Abelfollowed the pursuits of pastoral life. 他成为了一个土地的耕种者
 
 ## [ point your fingers (at sb.): to blame sb]
 e.g. When you `point your finger` to blame others, your other four fingers are pointing to yourself.  //**thumb; index finger; middle finger; ring finger, little finger**
