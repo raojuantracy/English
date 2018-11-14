@@ -1,9 +1,6 @@
-# More than 250 people around the world have died taking selfies since 2011
+# printed: More than 250 people around the world have died taking selfies since 2011
 https://edition.cnn.com/2018/10/03/health/selfie-deaths-trnd/index.html
-Not study: https://edition.cnn.com/2018/11/10/africa/uganda-pornography-revenge-porn-asequals-africa-intl/index.html
-
-
-Not print
+https://edition.cnn.com/2018/11/10/africa/uganda-pornography-revenge-porn-asequals-africa-intl/index.html
 
 ## take a selfie = snap a selfie 自拍，用手机或相机给自己拍照
 e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane or standing on slippery `steep/precipitous` rocks near the top of a waterfall, you may want to think twice. Some 259 people worldwide have died while `taking/snapping selfies`; even 300 people were hurt by the `selfie stick 自拍杆`. Researchers **scoured news reports 〔彻底地〕查找（文件)** on selfie deaths that occurred since October 2011. They found that India `accounted for more than 50% of the total selfie deaths`. Researchers `attributed the high number to 归因于` the country's enormous population of people.     //**scour a place/comb through: 〔彻底地〕查找/搜索一个地方; scour an oily utentils:冲洗烹调用具；scour a doc**
@@ -14,18 +11,123 @@ e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane
 
 ## bare-metal computer  【网络】裸机电脑 裸机
 
-## socialite /ˈsəʊʃəˌlaɪt/
-N-COUNT A socialite is a person who attends many fashionable upper-class social events and who is well known because of this. 交际名流； someone who is well known for going to many fashionable parties, and who is often `sleek and rich` 社交界名人，社会名流
-a Washington socialite 一位华盛顿的社会名流         //sleek  1. a vehicle or other object that is sleek has a smooth attractive shape  〔汽车等〕线条流畅的，造型优美的   2. sleek hair or fur is straight, shiny, and healthy-looking〔头发、皮毛〕油亮光滑的，有光泽的  3. someone who is sleek looks rich and is well dressed 〔人〕时髦阔气的
-e.g. When model and `socialite` Judith was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat`. The 32-year-old from Uganda didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/ 没有经过某人的许可/同意`.
+##  incognito /ˌɪnkɒɡˈniːtəʊ/
+ADJ Someone who is incognito is using a false name or wearing a disguise, in order not to be recognized or identified. 隐姓埋名的; 使用化名的; 隐瞒真实身份的
+• Hotel inspectors have to travel incognito.   酒店检查员巡查时必须隐瞒真实身份。
+• if a famous person does something incognito, they do it without letting people know who they are 〔名人行事〕隐瞒身份地，微服地
+• That night, Lenin travelled incognito to the party headquarters. 那天晚上，列宁微服出行，去了党总部。
+
+## prescriptive /prɪˈskrɪptɪv/; prescriptively adv
+1. A prescriptive approach to something involves telling people what they should do, rather than simply giving suggestions or describing what is done. 指令性的; 规定性的
+•  ...prescriptive attitudes to language on the part of teachers.
+ ...教师们对语言的说教态度。
+•  The psychologists insist, however, that they are not being prescriptive.
+ 然而，心理学家坚称他们并非一味说教 saying how something should or must be done, or what should be done
+规定的，指定的
+• prescriptive teaching methods 规定的教学方法
+2. stating how a language should be used, rather than describing how it is used
+〔语言〕规定性的 OPP DESCRIPTIVE
+prescriptive grammar 规定语法
+3. prescriptive right
+law a right that has existed for so long that it is as effective as a law  依时效而取得的权利
+
+## telemetry /tɪˈlɛmɪtrɪ/
+N-UNCOUNT Telemetry is the science of using automatic equipment to make scientific measurements and transmit them by radio to a receiving station. 遥感勘测
+
+## postmortem /pəʊstˈmɔːtəm/=autopsy      
+1. N-COUNT A postmortem is a medical examination of a dead person's body in order to find out how they died. 尸检
+V.S. **autopsy /ˈɔːtəpsɪ/['ɔːtɒpsɪ/**: N-COUNT An autopsy is an examination of a dead body by a doctor who cuts it open in order to try to discover the cause of death. 验尸
+•  Macklin had the grim task of `carrying out an autopsy/a postmortem` on his friend. 麦克林的可怕差事是为他的朋友验尸。
+V.S. **biopsy /ˈbaɪɒpsɪ/**: N-VAR A biopsy is the removal and examination of fluids or tissue from a patient's body in order to discover why they are ill. 活组织检查
+2. N-COUNT A postmortem is an examination of something that has recently happened, especially something that has failed or gone wrong. 事后调查(后续分析)
+•  The postmortem on the presidential campaign is under way.  对总统竞选的事后调查正在进行。
+•  Thank you for handling this alert.  Could we do a quick postmortem together?
+V.S. **in retrospect /ˈrɛtrəʊˌspɛkt/; retrospective; retrospectively**
+PHRASE When you consider something `in retrospect`, you think about it afterward, and often have a different opinion about it from the one that you had at the time. 回想
+•  `In retrospect`, I wish that I had thought about alternative courses of action. 回想起来，我真希望自己当初考虑过其他的行动方案。
+
+## 社交界名人，社会名流, 交际名流 socialite /ˈsəʊʃəˌlaɪt/
+N-COUNT A socialite is a person who attends many fashionable upper-class social events or parties and who is well known because of this；a socialite is someone who is well known for going to many fashionable parties, and who is often `sleek and rich 时髦阔气的`
+e.g. a HK socialite 一位HK的社会名流            //**sleek   1. `sleek design; sleek lines`: a vehicle, aeroplane, or other object that is sleek has a smooth attractive shape 〔汽车，飞机等〕线条流畅的，造型优美的    2. `sleek and black hair or sleek fur` is straight, shiny, and healthy-looking〔头发、皮毛〕油亮光滑的，顺华有光泽的   3. `a sleek and rich person`: someone who is sleek looks rich and is well dressed 〔人〕时髦阔气的**
+e.g. When model and `socialite` Judy was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat 心跳漏了一拍(指（激动，惊吓）等强烈的情感)`. The 32-year-old model didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/ 没有经过某人的许可/同意`.
+V.S.
+## dignitary /ˈdɪɡnɪtərɪ/ ['dɪɡnɪtɛri] (政府或教会的) 显要人物; 达官显贵    
+N-COUNT Dignitaries are people who are considered to be important because they have a high rank in government, society, or in a church.
+
+## 心跳漏了一拍(指（激动，惊吓）等强烈的情感): skip a beat
+e.g. When model and `socialite` Judy was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat 心跳漏了一拍(指（激动，惊吓）等强烈的情感)`. The 32-year-old model didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/=approval 没有经过某人的许可/同意`.
+e.g. My heart `skipped a beat` when he proposed to me.
+
+## entitle
+1. 常用`被动`：**sb. be entitled to sth; sb. be entitled to do sth 使sb.有权做xxx; 有sb.权享受xxx; 使sb.有资格做xxx/享受xxx**
+If you are entitled to something, you have the official right to have it or do it.
+• They `are entitled to` first class travel.  他们``有权享受``头等舱旅行
+• IBM full-time employees `are entitled to receive` health insurance. 全职雇员都``有资格享受``健康保险。
+• If you're a VIP membership, you `are entitled to` the monthly journal. 凭会员身份``有资格``可以获取月刊。
+2. be entitled sth: if a book, play etc `is entitled something`, that is its name 〔书、戏剧等〕名为…
+• a documentary entitled ‘The Price of Perfection’ 一部名为《完美的代价》的纪录片
 
 
-## without her consent /kənˈsɛnt/ 没有经过某人的许可/同意
+## resilience 恢复力；弹力；(一个人在逆境中的)反弹力/顺应力/适应力
+1. the ability to become strong, happy, or successful again after a difficult situation or event (一个人在逆境中的)反弹力/顺应力/适应力
+e.g.  People showed remarkable resilience during the war. 战争期间人们表现得特别坚韧。
+[+ of] the resilience of youth 年轻人的恢复能力
+2. the ability of a substance such as rubber to return to its original shape after it has been pressed or bent (橡胶的)弹性
+## resiliency /ri'ziliənsi, -jənsi/
+n.
+1. an occurrence of rebounding or springing back 近义词：resilience
+2. the physical property of a material that can return to its original shape or position after deformation that does not exceed its elastic limit
+
+## 承受的住(失败； 压力): withstand failures/pressure
+e.g. I'm always `bracing myself for failures 准备迎接失败` so that I can `withstand failures and pressure` when they come unexpectedly. //**brace for sth = be prepared to have sth**
+V.S. **withhold sth**: V-T If you withhold something that someone wants, you do not wanna give it to them  拒绝给xxx东西
+e.g. Police `withheld the dead boy's name` yesterday until relatives could be told. 拒绝在通知亲属前透露死去男孩的名字。
+
+##  ['dʒænɪtə,'dʒænətə] janitor
+A janitor is someone whose job is to look after a school or other large building 〔学校或大楼的〕看门人，门房，管理员
+
+## 没有经过某人的许可/同意 without sb's consent /kənˈsɛnt/
 e.g. Among those arrested were women who say their nude pictures and sex tapes were shared online `without their consent`.
-e.g. When model and `socialite` Judith was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat`. The 32-year-old from Uganda didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/ 没有经过某人的许可/同意`.
+e.g. When model and `socialite /ˈsəʊʃəˌlaɪt/` Judy was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat 心跳漏了一拍(指（激动，惊吓）等强烈的情感)`. The 32-year-old model didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/=approval 没有经过某人的许可/同意`.
 
-##
-e.g. The mother-of-three was charged under Uganda's Anti-Pornography Act, which criminalizes the production and circulation of "pornographic material," including on messaging apps like WhatsApp.  "People should understand the pain we go through," Heard said about being the victim of revenge porn. When her photos were first leaked, she says it caused strife with family members and almost ended her marriage. ..In June 2018, the PCC, under the direction of the Ministry of Ethics, issued `arrest warrants` for eight people -- including Heard.
+## [ˈblækmeɪl] blackmail
+1. when someone tries to get money from you or make you do what they want by threatening to tell other people your secrets;
+V-T If one person blackmails another person, they use blackmail against them. 勒索，敲诈，讹诈
+**向sb.勒索钱财: blackmail sb. = extort money from sb.**
+•  He told her their affair would have to stop, because Jack Smith was `blackmailing him`.  敲诈他。
+•  The government insisted that it would not be blackmailed by violence.  政府坚称不会受暴力要挟   
+•  He was jailed for four years for `blackmailing gay businessmen`. 他因敲诈同性恋商人而入狱四年。
+2. when someone tries to make you do what they want by making threats or by making you feel guilty if you do not do it; N-UNCOUNT If you describe an action as `emotional or moral blackmail`, you disapprove of it because someone is using a person's emotions or moral values to persuade them to do something against their will. 要挟
+**情感要挟: emotional blackmail; 道德要挟/绑架: moral blackmail**
+• The tactics employed can range from overt bullying to subtle `emotional blackmail`.  使用的手段从公开恐吓到``情感要挟``花样百出
+• She had already tried `emotional blackmail` (= tried to make him feel guilty ) to stop him leaving. 她试过以情相迫，不让他离开。
+3. Noun) N-UNCOUNT Blackmail is the action of threatening to reveal a secret about someone, unless they do something you tell them to do, such as giving you money. 敲诈
+•  It looks like the pictures were being used for blackmail.  看来这些照片正被用于敲诈勒索
+4. `blackmail sb into (doing) sth 要挟/胁迫sb做xxx`
+I refuse to be blackmailed into making a quick decision. 我不会因为受到胁迫而作出仓促的决定。
+5. `blackmailer` n [C]
+V.S.
+## extort /ɪkˈstɔːt/
+V-T If someone `extorts money from you 向sb.勒索钱财 = blackmail sb.`, they get it from you using force, threats, or other unfair or illegal means. 勒索
+•  Corrupt government officials were `extorting money from him`. 向他勒索钱财。
+•  Her kidnapper `extorted a $175,000 ransom` for her release.  绑架者勒索175,000美元作为释放她的赎金
+
+## enact /ɪnˈækt/
+1. V-T When a government or authority enacts a proposal, they make it into a law;  law to make a proposal into a law
+将…(通过)制定成法律
+e.g. Congress refused to `enact the bill 通过该法案`
+e.g. The authorities have failed so far to `enact a law` allowing unrestricted emigration.   当局到目前为止还未能通过一项允许自由移民出境的法律。
+2. V-T If people `enact a story or play`, they perform it by acting. 把()故事/表演出来
+e.g. She often `enacted the stories` told to her by her father.   她经常把父亲讲给她的故事表演出来。
+3. V-T **be enacted**: If `a particular event or situation is enacted`, it has happened before. 尤指过去已发生的事件或情况
+e.g. It was a scene that `was enacted` month after month for eight years.   这是8年来月复一月出现的场景。
+
+## be emblematic of sth: 象征着xxx /ˌɛmbləˈmætɪk/
+1. ADJ If something, such as an object in a picture, `is emblematic of` a particular quality or an idea, it symbolically represents the quality or idea. 象征的
+•  `Dogs are emblematic of faithfulness and loyalty 狗象征着忠诚`
+2. ADJ If you say that something `is emblematic of` a state of affairs, you mean that it is characteristic of it and represents its most typical features. 典型的
+•  The killing in Pensacola is emblematic of a lot of the violence that is happening around the world.
+ 发生在彭萨科拉的凶杀案是世界各地发生的大量暴力事件的典型代表。
 
 ## pervert
 1. V-T If you `pervert something` such as a process or society, you interfere with it so that it is not as good as it used to be or as it should be; to change something in an unnatural and often harmful way 歪曲扭曲；败坏
@@ -38,10 +140,24 @@ e.g. TV violence `perverts the minds of young children`. 电视暴力 `腐蚀了
 4. someone whose sexual behaviour is considered unnatural and unacceptable; N-COUNT If you say that someone is a pervert, you mean that you consider their behaviour, especially their sexual behaviour, to be immoral or unacceptable. (尤在性行为方面) 变态的人; 性行为反常者，性变态者
 e.g. I hope the police track down these perverts and charge them with rape. 我希望警方追查这些性变态者，并以强奸罪起诉他们
 
-## arrest warrant [法] 逮捕证; issue an arrest warrant: 发出了一个逮捕证
-e.g. The mother-of-three was charged under Uganda's Anti-Pornography Act, which criminalizes the production and circulation of "pornographic material," including on messaging apps like WhatsApp.  "People should understand the pain we go through," Heard said about being the victim of revenge porn. When her photos were first leaked, she says it caused `strife` with family members and almost ended her marriage. ..In June 2018, the PCC, under the direction of the Ministry of Ethics, issued `arrest warrants` for eight people -- including Heard. "There is a way Ugandans want to see Uganda, and myself that's what I subscribe to," Kezaabu said, sitting in a hotel lobby close to the President's residence. "Where do we want to see Uganda in the next 50 years? Do we want to be led by `perverts`?"     //**pervert**: someone whose sexual behaviour is considered unnatural and unacceptable; N-COUNT If you say that someone is a pervert, you mean that you consider their behaviour, especially their sexual behaviour, to be immoral or unacceptable. (尤在性行为方面) 变态的人; 性行为反常者，性变态者
+## arrest warrant [法] 逮捕证; issue arrest warrants: 发出逮捕证
+e.g. The mother-of-three was charged under Uganda's Anti-Pornography Act, which criminalizes the production and circulation of `pornographic /pɔːnə'ɡræfɪk/ material`, including on messaging apps like WhatsApp.  When her photos were first leaked, she says it caused `strife /quarrel/spat口角/skirmish` with family members and almost ended her marriage. ..In June 2018, the PCC, under the direction of the Ministry of Ethics, `issued arrest warrants` for her. "There is a way Ugandans want to see Uganda. Where do we want to see Uganda in the next 50 years? Do we want to be led by `perverts`?"       //**pervert**: someone whose sexual behaviour is considered unnatural and unacceptable; N-COUNT If you say that someone is a pervert, you mean that you consider their behaviour, especially their sexual behaviour, to be immoral or unacceptable. (尤在性行为方面) 变态的人; 性行为反常者，性变态者
 
-## porn = pornography /pɔːˈnɒɡrəfɪ/; pornographic adj /pɔːnə'ɡræfɪk◂ /
+## /straɪf/ strife 〔两个或两个以上的人或团体之间的〕冲突，纠纷，争斗   
+N-UNCOUNT Strife is strong disagreement or fighting; strife is severely fierce trouble between two or more people or groups
+**SYN CONFLICT 【正式】; spat口角, skirmish: small battle**
+**ethnic/religious strife：种族冲突;  civil strife：国内的冲突; political strife:政治纷争/冲突**
+e.g. Money is a major cause of strife in many marriages. Well, everything `boils down to 归根结底是` money.  钱在许多婚姻中是导致冲突的一个主要原因
+
+## 教唆唆使; 怂恿(某人做错事/违法的事); 煽动 abet sb. /əˈbɛt/ pp: abetted  pt: abetted   pres part: abetting
+V-T If one person `abets another`, they help or encourage them to do something illegal, criminal or wrong.
+[law]Abet is often used in the legal expression **aid and abet sb** 同谋
+e.g. His wife was sentenced to seven years imprisonment for `aiding and abetting him`.  他的妻子因与他同谋被判决关押七年。
+e.g. Uganda's Anti-Pornography Act, which states that "a person shall not produce, traffic in, publish, broadcast, procure, import, export, sell or `abet /əˈbɛt/煽动` any form of pornography,"
+e.g. Under current legislation, those who "`aid and abet`, counsel or procure" someone to end their own life can be prosecuted and jailed for up to 14 years. 根据现行的英国法律，“帮助，教唆，建议或者鼓励”他人自杀的，将被起诉，并判14年监禁。
+
+
+## porn = pornography /pɔːˈnɒɡrəfɪ/; pornographic adj /pɔːnə'ɡræfɪk/
 **porn industry 色情业; a porno movie 色情电影; porn star/actor; pornographic websites 色情网站**
 N-UNCOUNT Pornography refers to books, magazines, and movies that are designed to cause sexual excitement by showing naked people or referring to sexual acts. 色情作品
 e.g. Akol, whose partially-nude photograph taken in uniform circulated online, claims that the image was Photoshopped. She says her ex-boyfriend is the one who `maliciously` Photoshopped what you saw and started circulating on the social media. PCC chair Annette referenced Akol's case in a press conference, telling reporters that a woman can be both a victim and `perpetrator/criminal` at the same time. Marriage breakdown, the spread of HIV, teenage pregnancies and `domestic abuse (DA)/violence 家庭暴力` are among the "dangers of `pornography /pɔːˈnɒɡrəfɪ/`"
@@ -98,10 +214,6 @@ e.g. Rebels were already `masterminding a plot 策划一个阴谋` to `overthrow
 2. N-SING Overthrow is also a noun. 颠覆 **overthrow of the gov/state/leadship/political regime**
 e.g. They were charged with plotting `the overthrow of the state`. = They were charged with `masterminding the plot/scheme` of the `overthrow of the state`; and they `emphatically/categorically refuted/rebutted any accusations` against them. 他们被控密谋颠覆国家
 
-
-
-# STOP STOP
-
 ### talk the pilot down; talk sth down
 1. `PHRASAL VERB: [talk the pilot down]`
 To `talk down someone who is flying an aircraft` in an emergency means to give them instructions so that they can land safely. 紧急引导 (飞行员) 安全着陆
@@ -116,77 +228,52 @@ e.g. They spread tales and scandals about her in an attempt to `devalue her work
 e.g. Police sources `downplayed the significance of` the security breach. 对<这次安全缺口的重要性>轻描淡写
 e.g. White House officials attempted to `downplay the President’s role` in the affair.
 
-##  incognito /ˌɪnkɒɡˈniːtəʊ/
-ADJ Someone who is incognito is using a false name or wearing a disguise, in order not to be recognized or identified. 隐姓埋名的; 使用化名的; 隐瞒真实身份的
-• Hotel inspectors have to travel incognito.   酒店检查员巡查时必须隐瞒真实身份。
-• if a famous person does something incognito, they do it without letting people know who they are 〔名人行事〕隐瞒身份地，微服地
-• That night, Lenin travelled incognito to the party headquarters. 那天晚上，列宁微服出行，去了党总部。
 
-
-## prescriptive /prɪˈskrɪptɪv/; prescriptively adv
-1. A prescriptive approach to something involves telling people what they should do, rather than simply giving suggestions or describing what is done. 指令性的; 规定性的
-•  ...prescriptive attitudes to language on the part of teachers.
- ...教师们对语言的说教态度。
-•  The psychologists insist, however, that they are not being prescriptive.
- 然而，心理学家坚称他们并非一味说教 saying how something should or must be done, or what should be done
-规定的，指定的
-• prescriptive teaching methods 规定的教学方法
-2. stating how a language should be used, rather than describing how it is used
-〔语言〕规定性的 OPP DESCRIPTIVE
-prescriptive grammar 规定语法
-3. prescriptive right
-law a right that has existed for so long that it is as effective as a law  依时效而取得的权利
-
-## telemetry /tɪˈlɛmɪtrɪ/
-N-UNCOUNT Telemetry is the science of using automatic equipment to make scientific measurements and transmit them by radio to a receiving station. 遥感勘测
-
-## chronological [,krɑnə'lɑdʒɪkl] 注意发音
-Noun) chronology /krəˈnɒlədʒɪ/
+## chronological [,krɑnə'lɑdʒɪkl] 注意发音; Noun) chronology /krəˈnɒlədʒɪ/
+1. N-UNCOUNT 不可数名词 The chronology of a series of past events is the times at which they happened in the order in which they happened. 大事记
+•  She gave him a factual account of the chronology of her brief liaison.  她就自己在短时间内的联络给了我一个确凿的``大事记``。
+2. N-COUNT A chronology is an account or record of the times and the order in which a series of past events took place. 年表
+•  The second part of Duffy's book is a detailed chronology of the Reformation.  黛菲书的第二部分是关于改革的一个详细年表。
 
 ## parity /ˈpærɪtɪ/     
 1. N-UNCOUNT If there is parity between two things, they are equal; the state of being equal, especially having equal pay, rights, or power 〔尤指薪金、权利或权力的〕相同，相等，同等SYN EQUALITY
-• Women have yet to achieve wage or occupational parity in many fields. 薪酬或职业的平等
-• Women workers are demanding parity with their male colleagues. 女职工在要求与男同事享有同等的待遇
+• Women have yet to achieve `wage or occupational parity` in many fields. 薪酬或职业的平等
+• Women workers are demanding `parity with` their male colleagues. 女职工在要求与男同事享有同等的待遇
 2. N the condition or fact of having given birth 分娩或分娩状态
 3. technical equality between the units of money from two diffe-rent countries〔两个不同国家的货币单位的〕平价，等价
 4. 奇偶校验
 
-## scum /skʌm/    
+## scum /skʌm/ V.S. slam the door V.S. slum=run-down area
 1. N-PLURAL If you refer to people as scum, you are expressing your feelings of dislike and disgust for them. 令人厌恶的人;
 [plural,复数] informal nasty unpleasant people 社会渣滓，人渣
 •  She never would have even spoken to scum like him when Mom was alive.  妈妈活着的时候她是绝不会和像他这样令人厌恶的人说话的。
-Scum like that should be locked away! 像这种人渣应该关起来！
-People like that are the scum of the earth . 那种人是社会渣滓。
-
+Scum like that should be locked away! 像这种人渣应该关起来！ People like that are the scum of the earth . 那种人是社会渣滓。
 2.  N-UNCOUNT Scum is a layer of a dirty or unpleasant-looking substance on the surface of a liquid. 〔液体表面的〕浮沫，浮渣，浮垢
  •  ...scum marks around the bath.   …浴缸周围的垢迹
 [U] an unpleasant dirty substance that forms on the surface of water
 a pond covered with green scum 漂满绿色浮沫的池塘
 
-
 ## acyclic /eɪˈsaɪklɪk, eɪˈsɪklɪk/
 ADJ not cyclic; having an open chain structure 非环式的; 非循环的；[物] 非周期的
 e.g. Notice the dependencies shown here. This is an acyclic  /eɪˈsaɪklɪk, eɪˈsɪklɪk/ directed graph. This means that if service A depends on service B, then B does not also depend on A.
 
-## monolithic /ˌmɒnəˈlɪθɪk/
-1. ADJ If you refer to an organization or system as monolithic, you are critical of it because it is very large and very slow to change, and does not seem to have different parts with different characters. 大一统的
-•  ...an authoritarian and monolithic system.  …大一统的独裁体制。
-2. ADJ If you describe something such as a building as monolithic, you do not like it because it is very large and plain with no character. 巨大而平庸的
+## monolithic /ˌmɒnəˈlɪθɪk/ V.S. monopoly, monopolize  [mə'nɑpə'laɪz] the market: 垄断了市场
+1. ADJ If you refer to an organization or system as monolithic, you are critical of it because it is very large and very slow to change, and does not seem to have different parts with different characters. 大一统的; 一大坨的，一大块的
+•  ...an authoritarian and monolithic system.  …大一统的独裁体制。  V.S. **monopoly /məˈnɒpəlɪ/; monopolize sth:[mə'nɑpə'laɪz]**
+2. ADJ If you describe something such as a building as monolithic /ˌmɒnəˈlɪθɪk/, you do not like it because it is very large and plain with no character. 巨大而平庸的
 •  ...a huge monolithic concrete building.   …一座巨大而平庸的混凝土建筑。
 
-##　tenet of sth/ˈtɛnɪt/   
+##　tenets of sth/ˈtɛnɪt/   
 N-COUNT `The tenets of a theory or belief` are the main principles on which it is based. (理论、信仰的) 基本原则
 •  Non-violence and patience are the central tenets of their faith.　 非暴力和忍耐是他们信仰的基本原则
 
 ## from soup to nuts 一应俱全; 麻雀虽小五脏俱全; 从头到尾
-It deals with many goods `from soup to nuts` like building materials, dopes, paints, pipes, locks, hardware, clean, flowers, and cloth art. 经营品种从建材、涂料、油漆、管件、锁具、五金工具、厨卫家电、洁具、灯具、花卉园艺、布艺等``一应俱全``
-
-The first aid things are held `from soup to nuts` in the nursing trolley. The personnel take the things more conveniently, accurately and fast when rescuing patient, the medical. 该护理车承载的抢救用品``一应俱全``
-
-Our hotel have 91 tastefully decorated rooms, plus central air condition, satellite TV, internet access, CNC, etc `from soup to nuts. ` 宾馆拥有各类豪华标准房、套房、商务房91套，中央空调、 卫星电视、 网通宽带上网系统等设施`一应俱全`
+•  It deals with many goods `from soup to nuts` like building materials, dopes, paints, pipes, locks, hardware, clean, flowers, and cloth art. 经营品种从建材、涂料、油漆、管件、锁具、五金工具、厨卫家电、洁具、灯具、花卉园艺、布艺等``一应俱全``
+•  Although my house is quiet small, it's fully equipped with all necessary furnitures, `house appliances 家电;家用电器`, `kitchen utensil [jʊ'tɛnsl]烹调用具`, well, `from soup to nuts 一应俱全; 麻雀虽小五脏俱全`.
+•  Our hotel have 91 tastefully decorated rooms, plus central air condition, satellite TV, internet access, CNC, etc `from soup to nuts. ` 宾馆拥有各类豪华标准房、套房、商务房91套，中央空调、 卫星电视、 网通宽带上网系统等设施`一应俱全`
 
 ##  [ɪn'klaɪn] incline to do sth
-1. [T] formal if a situation, fact etc inclines you to do or think something, it influences you towards a particular action or opinion 使倾向于〔某种行动或观点〕
+1. [T] formal if a situation, fact etc `inclines you to do` or think something, it influences you towards a particular action or opinion 使倾向于〔某种行动或观点〕
 incline sb to do sth
 The accident inclined him to reconsider his career. 这次意外使他重新考虑他的职业。
 2. [I] formal to think that a particular belief or opinion is most likely to be correct 倾向于〔认为某个信念或观点是正确的〕 incline to do sth
@@ -195,14 +282,11 @@ I incline to accept the official version of events. 我倾向于接受官方对�
 I incline to the opinion that this principle extends to cases of religious discrimination. 我倾向于认为这一原则也适用于宗教歧视的情况。
 3. [I,T] to slope at a particular angle, or to make something do this (使)有斜度，(使)倾斜
 The telescope is inclined at an angle of 43 degrees. 这架望远镜以43度角倾斜。
-4. V-T If you incline your head, you bend your neck so that your head is leaning forward. 点 (头)
-incline your head;
-•  Jack inclined his head very slightly.
- 杰克微微点了点头
-to bend your neck so that your head is lowered
-点头
+4. V-T If you `incline your head`, you bend your neck so that your head is leaning forward. 点 (头)
+•  Jack inclined his head very slightly.  杰克微微点了点头
 
-## transient /ˈtrænzɪənt/      |CET6 TEM8
+
+## transient /ˈtrænzɪənt/   
 1. ADJ Transient is used to describe a situation that lasts only a short time or is constantly changing. 短暂的
 •  ...the transient nature of high fashion.
  …最新时尚转瞬即逝的特点。
@@ -210,7 +294,7 @@ to bend your neck so that your head is lowered
 •  ...a dormitory for transients.
  …一个流动人员的宿舍。
 
-## one-off      
+## a one-off payment   一次性的付款
 1. N-COUNT 可数名词 You can refer to something as `a one-off` when it is made or happens only once. 一次性事物
 •  Our survey revealed that these allergies were mainly `one-offs`.  这些过敏大多是一次性反应。
 The deal was `a one-off`. 这项交易是一次性的。
