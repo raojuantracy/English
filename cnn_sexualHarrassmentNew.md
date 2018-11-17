@@ -1,27 +1,128 @@
 
 # Sexual harrassment
 * Not study: https://edition.cnn.com/2018/10/23/us/southwest-airlines-sexual-assault/index.html
-
+* Not study: https://edition.cnn.com/2018/11/15/us/dartmouth-title-ix-lawsuit/index.html
 * https://en.news/lessonPlayer/40242-zxx-en/learn/1/1/1?disableResume=false
 * https://edition.cnn.com/2018/08/31/us/seattle-airplane-sexual-abuse-charges/index.html
 
-## grope /ɡrəʊp/
-1. V-I If you `grope for something` that you cannot see, you try to find it by moving your hands around in order to feel it. [I] to try to find something that you cannot see by feeling with your hands 〔在黑暗中〕摸索
-e.g. With his left hand he `groped for the knob`, turned it, and pulled the door open. 摸索到门把手，转动把手，把门拉开。,
-e.g. Ginny `groped for her glasses` on the bedside table. 摸索着找眼镜。
-2.  V-T If you `grope around` or `grope your way to a place`, you move there, holding your hands in front of you and feeling the way because you cannot see anything. 摸索而行; [I,T] to go somewhere by feeling the way with your hands because you cannot see
-〔因看不见而用手〕摸索着走  **grope around; grope your way along/across etc**
-e.g. I didn't turn on the light, but `groped my way` across the room.   我没有开灯，而是摸索着穿过房间。
+## grope for sth /ɡrəʊp/; grope around; grope sb.=sexual harassment V.S. grape (grapefruit 柚子)
+1. V-I If you `grope for something` that you cannot see usually because of darkness or because you're blind, you try to find it by moving your hands around in order to feel or touch it; to try to find something that you cannot see by feeling with your hands 〔在黑暗中〕摸索着/找xxx
+e.g. With his left hand, he `groped for the knob/groped for the bolt`, turned it, and pulled the door open. ``〔在黑暗中〕摸索到``门把手 //**bolt: A bolt on a door or window is a metal bar that you can slide across in order to fasten the door or window. (门或窗的)闩**
+e.g. Ginny `groped for her glasses` on the bedside table. ``〔在黑暗中〕摸索着找``眼镜
+2.  V-T If you `grope around` or `grope your way to a place`, you move there, holding your hands in front of you and feeling the way because you cannot see anything usually because of darkness or because you're blind. 〔在黑暗中〕摸索而行; [I,T] to go somewhere by feeling the way with your hands because you cannot see 〔因看不见而用手〕摸索着走  
+**grope around; grope your way to a place; grope your way along/across etc**
+e.g. I didn't turn on the light, but `groped my way across` the room.   我没有开灯，而是摸索着穿过房间。
 e.g. We `groped around` in the darkness. 我们在黑暗中摸索。
-e.g. I was groping my way blindly through the trees. ``摸索着``往前走。
-e.g. Ally groped steadily towards the door. ``摸索着`` 稳步朝门口走去。
-3. grope for sth: to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this努力寻找〔恰当的言辞或正确的解决办法〕
+e.g. I was `groping my way` blindly through the trees. ``摸索着``往前走。
+e.g. Ally `groped steadily towards` the door. ``摸索着`` 稳步朝门口走去。
+3. `grope for proper words; grope for proper solution`: to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this 努力寻找恰当的言辞(去表达); 努力寻找正确的解决办法
 e.g. She hesitated, seeming to `grope for proper words`. 她犹豫了一下，像是在 `寻找恰当的词语``
-4. [T] `grope sb`: informal to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this 爱抚〔尤指当对方不愿意的时候〕(sort of `sexual harassment`)
-e.g. A Florida man, Bruce, accused of `groping a passenger` on Southwest Airlines told an FBI agent after his arrest/apprehension that the "President of the United States says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事而未受惩罚；侥幸成功,逍遥法外`, according to a criminal `complaint that is lodged 正式提出抱怨` by the female. Bruce was in federal custody after being charged federally on Sunday with abusive sexual contact on a female passenger during a flight from Houston to Albuquerque.
+e.g. Regarding this `killer task with unresolved formidable challenges 很难的有艰巨挑战的任务`, the manager is trying to `grope for a proper solution 努力寻找正确的解决办法`.
+4. [T] `grope sb 〔尤指当对方不愿意的时候〕(畏缩地)爱抚 (sort of sexual harassment)`: informal, to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this.
+e.g. Bruce is accused of `groping a female passenger` on Southwest Airlines told an FBI agent after his `arrest/apprehension` that the "Donald Trump says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事可以侥幸成功,逍遥法外`, according to `a criminal complaint that is lodged 正式提出抱怨` by the female.    //**做了坏事而未受惩罚；做了坏事而侥幸成功,逍遥法外: get away with it; 正式提出抱怨: lodge a complaint against sb.; 正式提出指控: lodge an accusation against; 正式提出抗议: lodge a protest against; [law] 逮捕证: issue arrest warrants**
+
+## a tentative plan
+1. tentative: not definite/affirmative or certain, and may be changed later; ADJ `Tentative agreements, plans, or arrangements` are not definite or certain, but have been made as a first step.  初步的不确定的(plan, solution, schedule)；暂定的 **初步的结论: tentative conclusion; tentative plan; tentative solution; tentative schedule; be tentatively scheduled 初步定在<什么时候>**
+• Political leaders have reached `a tentative agreement 初步的协议` to hold a preparatory conference next month.
+• The next round of talks `is tentatively scheduled 初步定在<什么时候>` to begin October 21st in Washington.  `初步定在`10月21日于华盛顿进行
+• I passed on my `tentative conclusions` to the police. 把``初步结论``递交给了警方。
+• The government is taking `tentative steps/actions 初步的举动/措施` towards tackling the country’s economic problems.
+2. ADJ If `someone is tentative`, they are cautious and not very confident because they are uncertain or afraid. (没有信心有点害怕)犹豫的
+•  My first attempts at complaining against Travis' bad performance to my boss `were kind of tentative`. 我头几次的投诉尝试都有点儿``犹豫``。
+4.
+ADV 犹豫地
+•  Perhaps, he suggested tentatively, they should send for Dr. Esteves.
+ 他犹犹豫豫地建议道，他们也许应该派人去请埃斯特维斯医生
+done without confidence
+踌躇不决的，犹豫的
+SYN HESITANT
+
+•
+a tentative smile 犹疑的微笑
+DERIVATIVE 派生词
+
+tentatively adv
+•
+Albi knocked tentatively and entered. 阿尔比犹豫地敲敲门，走了进去。
+tentativeness n [U]
+
+## adversity /ədˈvɜːsɪtɪ/ 逆境，不幸，厄运  
+N-VAR Adversity is a very difficult or unfavourable situation; a situation in which you have a lot of problems that seem to be caused by bad luck or mishap
+**在逆境中: in adversity /ədˈvɜːsɪtɪ/;  从逆境中反弹 bounce back from adversity**
+• his courage in the face of adversity 他面对逆境的勇气  困境; 逆境
+• He showed his guts and courage `in adversity /ədˈvɜːsɪtɪ/`.  他``在逆境``中显示出了勇气
+V.S.
+* `in a tight spot` 处于困境困难中; 处于窘境
+* `in adversity /ədˈvɜːsɪtɪ/` 在逆境中
+* `mishap /ˈmɪshæp/`：N-VAR A mishap is an unfortunate but not very serious event that happens to someone. 小灾难;厄运 `a series of mishaps 一连串的倒霉事`
+
+
+## bolt
+MEANINGS 义项
+
+1.
+lock 锁
+a metal bar that you slide across a door or window to fasten it
+〔门、窗的〕金属插销，闩
+→ see picture at 见 lock 2
+2.
+screw 螺钉
+a screw with a flat head and no point, for fastening things together
+螺栓
+→ see picture at at 见 screw 1
+3.
+a bolt from/out of the blue
+news that is sudden and unexpected
+突如其来的消息；晴天霹雳
+•
+Was this money a bolt from the blue or did you know you were going to get it? 这是一笔意料之财呢，还是你本来就知道会有的？
+4.
+bolt of lightning
+lightning that appears as a white line in the sky
+闪电，霹雳
+→ thunderbolt
+•
+There’s not much left of his house after it was struck by a bolt of lightning . 他的房子遭雷击之后差不多全毁了。
+5.
+make a bolt for it
+to suddenly try to escape from somewhere
+急忙逃跑，拔腿便跑
+•
+They attacked the driver and he straightaway made a bolt for it. 他们袭击司机，司机立刻没命地逃跑。
+6.
+weapon 武器
+a short heavy arrow that is fired from a crossbow
+〔短而粗的〕弩箭，矢
+7.
+cloth 布
+a large long roll of cloth
+一卷，一匹
+
+## sidecar /ˈsaɪdˌkɑː/
+N-COUNT A sidecar is a kind of box with wheels which you can attach to the side of a motorcycle so that you can carry a passenger in it; a small vehicle attached to the side of a motorcycle , in which a passenger can ride
+〔附于摩托车旁的〕边车
+o	 (附于摩托车旁用于载人的)
+
+## load shedding
+N the act or practice of temporarily reducing the supply of electricity to an area to avoid overloading the generators 间歇供电; 用来减缓总供电负荷
 
 ## get away with it 做了坏事而未受惩罚；侥幸成功, 逍遥法外
 e.g. A Florida man, Bruce, accused of `groping a passenger` on Southwest Airlines told an FBI agent after his arrest/apprehension that the "President of the United States says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事而未受惩罚；侥幸成功,逍遥法外`, according to a criminal `complaint that is lodged 正式提出抱怨` by the female. Bruce was in federal custody after being charged federally on Sunday with abusive sexual contact on a female passenger during a flight from Houston to Albuquerque.
+
+## withhold sth : just hold it and don' wannt give it to you
+e.g. Boeing allegedly withheld information about the potential hazards of new flight-control features on the model of plane involved in the deadly Lion Air crash in Indonesia last month
+
+## it's beyong comprehension that xxx
+beyond comprehension 无法理解理解费解大或不解
+2.
+beyond all comprehension 不可理解
+3.
+wholly y beyond his comprehension 完全超出你的理解
+e.g. "What seems to have happened here is that a new version or a modified anti-stall capacity was added which pushes the nose down automatically. If it's true, `it is beyond comprehension that` Boeing did not tell the airline and pilots about this.
+
+##
+e.g. The issue is how much information to give the pilots about the systems on board so they can respond in an emergency," Quest said, adding that pilots are often overloaded with readouts and signals from multiple devices and monitors that can risk distracting them at the worst possible moment
+
 
 ## (literal)球在某人的球场/地盘上; (figurative:) 某人掌握着主动权
 [**The ball is in someone's court**]
@@ -47,11 +148,12 @@ e.g. Education was `the centerpiece of` the Democratic Party's political platfor
 e.g. Trump has said he will increase the tariff rate from 10% to 25% on most of those imports by the end of the year if China doesn't agree to change its trade strategy. Hitting hard on trade, particularly on China, has been `a centerpiece` of Trump's presidency after he promised to `hold other countries accountable for` engaging in unfair trade practices during the campaign. He's pushed forward with more tariffs even though he's met repeatedly with Chinese President Xi and at one point said he "didn't `point fingers at/blame` China" for `taking advantage of 利用` the differences between the way the two do business.   //**利用xxx: take advantage of sth; take full advantage of sth**  //`The onus is on sb. to do sth = It's sb's responsibility/duty to do  是某人的责任去做xxx`  V.S. `hold sb. accountable for xxx`
 e.g. Keep `a floral centerpiece` fresh and healthy with water and plant food.
 
-## on an equal footing 在平等的基础上/立于平等地位/处于同等地位 V.S. on the back foot (处于不利境地) V.S. on the heels of sth/ensue
+## on an equal footing 在平等的基础上/立于平等地位/处于同等地位
+V.S. **on the back foot (处于不利境地) V.S. on the heels of sth/ensue**
 Wang did not mention the US during his remarks on trade, but said Beijing wants "a proper settlement based on rules and consensus through dialogue and `consultation` **on an equal footing 在平等的基础上**." He framed China's approach as a defense of the broader free trade system against unilateral and destructive steps by others. "China has taken steps not just to defend its own `legitimate rights` and interests," Wang said. "China is also acting to `uphold/support the free trade system` and international rules and order for the benefit of global recovery and the common interests of all countries."    //**If you uphold something such as a law, a principle, or a decision, you support and maintain it.**
 * `on an equal footing: 在平等的基础上/立于平等地位/处于同等地位`
 * `on the back foot: (在脚的后面)处于不利境地`
-* `follow on the heels of sth/ensue: （在脚跟)紧接着…；紧随…之后`
+* `follow on the heels of sth = ensue: （在脚跟)紧接着…；紧随…之后`
 
 ## on the sidelines 事情就在眼前上演; 在场外; 非正式会议期间; 不实际参与
 **sit on the sidelines 冷眼旁观 V.S. 袖手旁观/坐等…结束；耐着性子看完或听完 sit it out (PHRASAL VERB: If you sit something out, you wait for it to finish, without taking any action)**
@@ -60,6 +162,7 @@ e.g. White House economic adviser said that Trump is expected to meet with Xi `o
 
 ## hassle /ˈhæsəl/ = trouble
 1. N-VAR A hassle is a situation that is difficult and involves problems, effort, or arguments with people. 麻烦
+**spell trouble for sb.= spell hassle for sb; spell disaster/danger: if a situation or action spells trouble etc, it makes you expect trouble etc 招致[带来]麻烦/灾难/危险等**
 e.g. I don't think it's worth the money or the hassle.  我认为不值得为此花钱或者费劲。
 e.g. I don’t feel like cooking tonight, it’s too much hassle. 今天晚上我不想做饭，太麻烦了
 e.g. It’s such a hassle not having a washing machine. 没有洗衣机真是麻烦

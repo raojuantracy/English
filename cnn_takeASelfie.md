@@ -1,9 +1,13 @@
-# printed: More than 250 people around the world have died taking selfies since 2011
+# Not printed:
+# More than 250 people around the world have died taking selfies since 2011
 https://edition.cnn.com/2018/10/03/health/selfie-deaths-trnd/index.html
 https://edition.cnn.com/2018/11/10/africa/uganda-pornography-revenge-porn-asequals-africa-intl/index.html
 
 ## take a selfie = snap a selfie 自拍，用手机或相机给自己拍照
 e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane or standing on slippery `steep/precipitous` rocks near the top of a waterfall, you may want to think twice. Some 259 people worldwide have died while `taking/snapping selfies`; even 300 people were hurt by the `selfie stick 自拍杆`. Researchers **scoured news reports 〔彻底地〕查找（文件)** on selfie deaths that occurred since October 2011. They found that India `accounted for more than 50% of the total selfie deaths`. Researchers `attributed the high number to 归因于` the country's enormous population of people.     //**scour a place/comb through: 〔彻底地〕查找/搜索一个地方; scour an oily utentils:冲洗烹调用具；scour a doc**
+
+## on sb's deathbed 在sb临终之时
+e.g. `On his deathbed`, the General `was attended by several doctors`. 将军临终时, 有几名医生在照料他    //**T usually passive,一般用被动态] be attended by sb/doctors/nurses: to look after someone, especially because they are ill 看护，照料〔病人**
 
 ## selfie stick 自拍杆 自拍棒 自拍神棍
 
@@ -16,6 +20,23 @@ ADJ Someone who is incognito is using a false name or wearing a disguise, in ord
 • Hotel inspectors have to travel incognito.   酒店检查员巡查时必须隐瞒真实身份。
 • if a famous person does something incognito, they do it without letting people know who they are 〔名人行事〕隐瞒身份地，微服地
 • That night, Lenin travelled incognito to the party headquarters. 那天晚上，列宁微服出行，去了党总部。
+
+## (对自己能力)自信的; 雄有成竹的 assured /əˈʃʊəd/, self-assured V.S. self-esteem    
+1. ADJ confident about your own abilities; SYN `SELF-ASSURED` Someone who is assured is very confident and relaxed. (对自己能力)自信的; 雄有成竹的
+**an assured manner 雄有成竹的/自信的态度**
+2. `be assured of sth`; ADJ If you are assured of something, you are certain to get it or achieve it; you have confidence that you will definitely get it or achieve it 雄有成竹, 有把握得到xxx
+**有把握得到<比赛的一席>: be assured of a place (in the Olympic game/in the final)**
+e.g. Laura Davies `is assured of a place` in the Olympic team.  劳拉·戴维斯``有把握得到<奥林匹克队中的一席>``
+e.g. I `am assured of` my 3rd patent plateau this year.
+e.g. I'm assured of becoming her boyfriend shortly.
+e.g. His victory means that he `is now assured of a place` in the final. 他的这次获胜意味着他现在``有把握得到<决赛中的一席>``
+3.  ADJ If something is assured, it is certain to happen definitely. 确定的
+• Our victory is assured; nothing can stop us.  我们的胜利是确定无疑的；没有什么能阻挡我们
+• Her political future looks assured. 她的政治前途一片光明。
+4. `the assured 人寿保险的受保人`:  technical someone whose life has been insured
+5. PHRASE If you say that `someone can rest assured that` something is the case, you mean that it is definitely the case, so they do not need to worry about it. 尽管放心
+•  Their parents `can rest assured that` their children's safety will be of paramount importance.   他们的家长们可以尽管放心，
+V.S. **self-esteem**: N-UNCOUNT Your self-esteem is how you feel about yourself. For example, if you have low self-esteem, you do not like yourself, you do not think that you are a valuable person, and therefore you do not behave confidently. 自尊
 
 ## prescriptive /prɪˈskrɪptɪv/; prescriptively adv
 1. A prescriptive approach to something involves telling people what they should do, rather than simply giving suggestions or describing what is done. 指令性的; 规定性的
@@ -58,8 +79,17 @@ N-COUNT Dignitaries are people who are considered to be important because they h
 e.g. When model and `socialite` Judy was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat 心跳漏了一拍(指（激动，惊吓）等强烈的情感)`. The 32-year-old model didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/=approval 没有经过某人的许可/同意`.
 e.g. My heart `skipped a beat` when he proposed to me.
 
-## entitle
-1. 常用`被动`：**sb. be entitled to sth; sb. be entitled to do sth 使sb.有权做xxx; 有sb.权享受xxx; 使sb.有资格做xxx/享受xxx**
+## entitlement /ɪnˈtaɪt əlmənt/  Verb: `you're entitled to st　有权利／有资格享受/享有xxx`
+N-VAR An entitlement to something is the right to have it or do it. 权利
+e.g. They lose their `entitlement to welfare` when they start work.  他们开始工作时就丧失了享受福利的权利。
+the official right to have or do something, or the amount that you have a right to receive 〔拥有或获得某物的〕权利；应得的数额
+[+ to]
+e.g. Do you need advice on your `entitlement to state benefits`? 关于你可享受的国家津贴
+benefit/holiday/pension etc entitlement
+e.g.`可享有的带薪假期 The paid holiday entitlement` is 25 days. 可享有的带薪假期为25天。
+e.g. There is an urge for everyone to submit China Statutory Annual Leave 法定年假　in Workday, according to government policy，each regular IBMer has `10-days paid holiday entitlements 可享有的带薪假期`
+==> **entitle**
+1. 常用`被动`：**you're entitled to sth; you're entitled to do sth 有权利／有资格享受/享有xxx**
 If you are entitled to something, you have the official right to have it or do it.
 • They `are entitled to` first class travel.  他们``有权享受``头等舱旅行
 • IBM full-time employees `are entitled to receive` health insurance. 全职雇员都``有资格享受``健康保险。
@@ -156,6 +186,17 @@ e.g. His wife was sentenced to seven years imprisonment for `aiding and abetting
 e.g. Uganda's Anti-Pornography Act, which states that "a person shall not produce, traffic in, publish, broadcast, procure, import, export, sell or `abet /əˈbɛt/煽动` any form of pornography,"
 e.g. Under current legislation, those who "`aid and abet`, counsel or procure" someone to end their own life can be prosecuted and jailed for up to 14 years. 根据现行的英国法律，“帮助，教唆，建议或者鼓励”他人自杀的，将被起诉，并判14年监禁。
 
+## procure sth; procurement 公司的采购
+1. to obtain something, especially something that is difficult to get 获得，取得〔尤指难以得到的东西〕
+e.g. It remained very difficult to procure food, fuel, and other daily necessities in slams. 当时仍然很难获得食品、燃料和其他日用必需品
+V.S. **If someone penetrates an organization/a group/a profession/a rank/level, they succeed in entering it although it is difficult to do so. (排除困难) 进入 e.g.the continuing failure of women to `penetrate the higher levels of engineering`.  …女性跻身工程业较高层级的连续失败;  penetrate the Singapore market**
+2. procure: to provide a prostitute for someone 为〔某人〕介绍妓女，给…拉皮条
+V.S.
+* procure: to provide a prostitute for someone 为〔某人〕介绍妓女，给…拉皮条
+* solicit: V-I When `prostitutes solicit`, they offer to have sex with people in return for money. (妓女) 拉客
+e.g. Prostitutes were forbidden to solicit on public roads and in public places.
+3. DERIVATIVE 派生词 procurable adj procurement n [U]  采购
+the procurement of raw materials from abroad 从国外购买原材料
 
 ## porn = pornography /pɔːˈnɒɡrəfɪ/; pornographic adj /pɔːnə'ɡræfɪk/
 **porn industry 色情业; a porno movie 色情电影; porn star/actor; pornographic websites 色情网站**
@@ -342,32 +383,40 @@ e.g. `It’s imperative for CloudOps team to` resolve the sev1 alerts as quickly
 
 
 # STOP STOP
-## grope /ɡrəʊp/
-1. V-I If you `grope for something` that you cannot see, you try to find it by moving your hands around in order to feel it. [I] to try to find something that you cannot see by feeling with your hands 〔在黑暗中〕摸索
-e.g. With his left hand he `groped for the knob`, turned it, and pulled the door open. 摸索到门把手，转动把手，把门拉开。,
-e.g. Ginny `groped for her glasses` on the bedside table. 摸索着找眼镜。
-2.  V-T If you `grope around` or `grope your way to a place`, you move there, holding your hands in front of you and feeling the way because you cannot see anything. 摸索而行; [I,T] to go somewhere by feeling the way with your hands because you cannot see
-〔因看不见而用手〕摸索着走  **grope around; grope your way along/across etc**
+## grope /ɡrəʊp/ V.S. grape V.S. grapefruit柚子
+1. V-I If you `grope for something` that you cannot see, you try to find it by moving your hands around in order to feel it. 〔在黑暗中用手〕摸索
+e.g. With his left hand, he `groped for the knob`, turned it, and pulled the door open. `摸索到`门把手，转动把手，把门拉开
+e.g. Ginny `groped for her glasses` on the bedside table. ``摸索着``找眼镜。
+2.  V-T If you `grope around` or `grope your way to a place`, you move there, holding your hands in front of you and feeling the way because you cannot see anything; to go somewhere by feeling the way with your hands because you cannot see (因看不见而用手〕摸索着走/摸索而行  **grope around; grope your way along/across etc**
 e.g. I didn't turn on the light, but `groped my way` across the room.   我没有开灯，而是摸索着穿过房间。
 e.g. We `groped around` in the darkness. 我们在黑暗中摸索。
 e.g. I was groping my way blindly through the trees. ``摸索着``往前走。
 e.g. Ally groped steadily towards the door. ``摸索着`` 稳步朝门口走去。
-3. grope for sth: to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this努力寻找〔恰当的言辞或正确的解决办法〕
+3. `努力寻找〔恰当的言辞或正确的解决办法〕: grope for proper words; grope for proper solution`: to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this
 e.g. She hesitated, seeming to `grope for proper words`. 她犹豫了一下，像是在 `寻找恰当的词语``
-4. [T] `grope sb`: informal to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this 爱抚〔尤指当对方不愿意的时候〕(sort of `sexual harassment`)
+4. [T] `grope sb 爱抚〔尤指当对方不愿意的时候), sort of sexual harassment)`: informal to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this
 e.g. A Florida man, Bruce, accused of `groping a passenger` on Southwest Airlines told an FBI agent after his arrest/apprehension that the "President of the United States says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事而未受惩罚；侥幸成功,逍遥法外`, according to a criminal `complaint that is lodged 正式提出抱怨` by the female. Bruce was in federal custody after being charged federally on Sunday with abusive sexual contact on a female passenger during a flight from Houston to Albuquerque.
 
+
 ## laud /lɔːd/: laud/commend/eulogize/praise sb.
+1. V-T If people laud someone, they `praise/commend` and admire them. 嘉许; 称赞
+•  He lauded the work of the UN High Commissioner for Refugees.  他赞扬了联合国难民事务高级专员的工作。
+•  Dickens was lauded for his social and moral sensitivity.
+ 狄更斯因他的社会和道德敏感度被称赞。
+2. ADJ `lauded`:  ...the most lauded actress in New York. ...纽约最受褒扬的女演员。
+V.S.
+* **commend sb.**: to praise, laud, or approve of someone or something publicly 〔公开地〕赞扬
+e.g. The paper was highly commended in the UK Press Awards. 该报获得了“英国新闻奖”的高度褒奖。
+* **eulogize sb.** /ˈjuːləˌdʒaɪz/
+1. V-T If you `eulogize someone` who has died, you make a speech `praising/lauding/commending them`, usually at their funeral. (在葬礼上)致悼词赞颂
+•  Leaders from around the world eulogized the Egyptian president.  全世界的领导人都致悼词颂赞了那位埃及总统。
+2. V-T/V-I If you `eulogize someone or something`, you `praise/commend/laud them` very highly. 称赞; 颂扬
+•  The boss eulogized about Steven's versatility.  老板称赞了史蒂芬的多才多艺。
 
 ## （飞机）滑出跑道 overshoot the runway = an aviation jargon
 1. V-T If you `overshoot a place` that you want to get to, you go past it by mistake; to accidentally go a little further than you intended 〔意外地〕超过/驶过〔预定地点〕**(飞机）滑出/冲出跑道 overshoot the runway = an aviation jargon**
-• The plane `overshot the runway` and plunged into a ditch. 这架飞机 冲出跑道，一头扎进沟里。
 2. Verb) `overshoot the budget/the spending plan`: to spend more money than you had intended 超出(预算计划，支出目标)
 V-T If a government or organization `overshoots its budget`, it spends more than it had planned to. 超出(预算计划，支出目标)
-• The government usually `overshot its original spending target`.  该政府经常超过它原本的支出目标。
-• The school has `overshot its cash limit`. 开支超出了预计的现金额度
-3. N-COUNT Overshoot is also a noun. 超支; 超出〔预计费用〕的部分
-•  ...the 100 million dollar `overshoot` in the cost of building the hospital. ...该医院建设成本中1亿美元的超支
 
 ## log Verb)
 [T] In aviation industry, `log` means to travel a particular distance or for a particular length of time, especially in a plane or ship (尤指飞机或船只)行驶，行进〔一定距离或时间〕 e.g. The pilot has `logged 1,000 flying hours`. 飞行员已有 1,000 小时的飞行记录
