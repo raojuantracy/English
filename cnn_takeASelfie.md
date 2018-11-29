@@ -4,22 +4,114 @@ https://edition.cnn.com/2018/10/03/health/selfie-deaths-trnd/index.html
 https://edition.cnn.com/2018/11/10/africa/uganda-pornography-revenge-porn-asequals-africa-intl/index.html
 
 ## take a selfie = snap a selfie 自拍，用手机或相机给自己拍照
-e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane or standing on slippery `steep/precipitous` rocks near the top of a waterfall, you may want to think twice. Some 259 people worldwide have died while `taking/snapping selfies`; even 300 people were hurt by the `selfie stick 自拍杆`. Researchers **scoured news reports 〔彻底地〕查找（文件)** on selfie deaths that occurred since October 2011. They found that India `accounted for more than 50% of the total selfie deaths`. Researchers `attributed the high number to 归因于` the country's enormous population of people.     //**scour a place/comb through: 〔彻底地〕查找/搜索一个地方; scour an oily utentils:冲洗烹调用具；scour a doc**
+## selfie stick 自拍杆 自拍棒 自拍神棍
+e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane or standing on slippery `steep/precipitous` rocks near the top of a waterfall, you may want to think twice. Some 259 people worldwide have died while `taking/snapping selfies`; even 300 people were hurt by the `selfie stick 自拍杆`. Researchers `scoured news reports 〔彻底地〕查找（文件)` on selfie deaths that occurred since October 2011. They found that India `accounted for more than 50% of the total selfie deaths`. Researchers `attributed the high number to 归因于` the country's enormous population of people.      //**scour a place/comb through a place: 〔彻底地〕查找/搜索一个地方; scour oily utentils: 冲洗烹调用具；scour a doc/report:〔彻底地〕查找（文件,报告)**
 
 ## on sb's deathbed 在sb临终之时
-e.g. `On his deathbed`, the General `was attended by several doctors`. 将军临终时, 有几名医生在照料他    //**T usually passive,一般用被动态] be attended by sb/doctors/nurses: to look after someone, especially because they are ill 看护，照料〔病人**
-
-## selfie stick 自拍杆 自拍棒 自拍神棍
+e.g. `On his deathbed`, the General `was attended by several doctors`. 将军临终时, 有几名医生在照料他     //**`be attended by sb/doctors/nurses`: usually passive,一般用被动态, to look after someone, especially because they are ill 看护，照料〔病人**
 
 ## 英镑: GBP是 Great Britain Sterling Pound的简称,就是大不列颠银币的简称。英镑
 
-## bare-metal computer  【网络】裸机电脑 裸机
+## bare-metal computer; bare-metal server  【网络】裸机电脑 裸机
+
+## NOUN) cool head 冷静的头脑; 不易冲动
+**keep a cool head 保持头脑冷静; 不易冲动**
+e.g. "The shift is almost entirely due to the US-China trade conflict," Steve Madden CEO told CNN's. "We have to prepare as though tariffs will be the new normal, but we are hopeful that cooler heads will prevail."
+
+
+
+
+# STOP STOP
+## an anomaly /əˈnɒməlɪ/, plural: anomalies
+N-COUNT If something is an anomaly, it is different from what is usual or expected. 反常的事物
+e.g. The space shuttle had stopped transmitting data, a very serious anomaly for the mission.  这架航天飞机已经停止了传输数据，这是这次任务中一个十分严重的 ``反常现象``
+e.g. In those days, a woman professor was still an anomaly. 那个时候，女教授仍旧 "反常现象"
+
+## ambient /ˈæmbɪənt/ V.S. surrounding
+1. ADJ The ambient temperature is the temperature of the air above the ground in a particular place. 环境的
+2. ADJ `Ambient sound or light` is the sound or light which is all around you. (声音或光线)环绕的
+**ambient temperature/light/sound** etc: technical the temperature etc of the surrounding area 环境温度/光线等
+•  ...ambient sounds of children in the background.   ...背景处环绕着孩子们的声音
+2. `ambient music/sounds 背景音乐/音效`
+a type of modern music or sound that is slow, peaceful, and does not have a formal structure
+V.S. **surrounding**: near or around a particular place 附近的；四周的
+e.g. Troops sealed off the surrounding area . 军队封锁了周围地区。
+e.g. We decided to explore the surrounding countryside . 我们决定去附近的乡间走走看看
+
+## filial duties /ˈfɪljəl/
+ADJ You can use filial to describe the duties, feelings, or relationships which exist between a son or daughter and his or her parents. 子女辈的; 孝顺的  **her filial duty 她的孝道**
+•  His father would accuse him of neglecting his `filial duties`.  他父亲会指控他没有尽孝。
+relating to the relationship of a son or daughter to their parents 子女的；孝顺的
+
+## like-minded persons
+e.g. Running has become a hugely popular way to keep fit in Seoul, not to mention `a trendy way` to explore the city. `As a response to` the sport's rising status, a number of running clubs have formed, giving locals and `expats/ˌɛksˈpæt/expatriate 老外统称` a chance to hit the streets with `like-minded individuals`.
+
+## cater to sb.
+e.g. A lot of bigger events are trying to `cater to a younger group's style and taste`.
+
+## be content with sth = feel comfortable with 安心安于; 满足于; 对……感到满意
+e.g. be content with the current cozy situation 安于现在这种舒服的安于现态;
+be content with the current comfort zone 安于现在的安全区=安于现态
+be content with hardships 乐于吃苦
+be not content with 不满足于
+
+## holistic /həʊˈlɪstɪk/      
+ADJ Holistic means based on the principles of holism. 整体主义的
+•  ...practitioners of holistic medicine.
+ …整体医学医生。
+1.
+considering a person or thing as a whole, rather than as separate parts
+整体（论）的，全面的
+•
+a holistic approach to design 设计的整体方法
+2.
+holistic medicine/treatment/healing etc
+medical treatment based on the belief that the whole person must be treated, not just the part of their body that has a disease
+整体医学/治疗/疗法等
+RELTD ALTERNATIVE MEDICINE
+DERIVATIVE 派生词
+
+holistically adv /-kḷɪ ; -kli /
+
+## velocity /vɪˈlɒsɪtɪ/      |CET6 TEM8
+N-VAR Velocity is the speed at which something moves in a particular direction. (沿某一方向运动的) 速度
+•  ...the velocities at which the stars orbit.
+ …恒星绕轨道运行的速度
+
+## inundate /ˈɪnʌnˌdeɪt/  ; inundation [,ɪnʌn'deɪʃn]
+1. V-T be inundated (with/by sth)：to receive so much of something that you cannot easily deal with it all　〔收到太多某物而〕应接不暇；收到了铺天盖地的(信件或请求等)而应接不暇 If you say that you are inundated with things such as letters, demands, or requests, you are emphasizing that you receive so many of them that you cannot deal with them all. 被 (大量信件或请求等) 淹没
+e.g. Her office `was inundated with requests` for tickets.  她的办公室接到了铺天盖地的索票请求。
+e.g. "The shift is almost entirely due to the US-China trade conflict," Steve Madden CEO Ed Rosenfeld told CNN's Alison Kosik. "We have to prepare as though tariffs will be the new normal, but we are hopeful that cooler heads will prevail." Consumer tech brands are also looking to Southeast Asia. Hugh Lo, vice president of the consumer division at Taiwan's New Kinpo Group, which makes electronics for clients such as Toshiba (TOSBF) and Samsung (SSNLF), says he has `been inundated with inquiries` from companies keen to transfer manufacturing out of China
+e.g. After the broadcast, we `were inundated with requests` for more information. 节目播出之后，太多人来询问详情，令我们应接不暇。
+2. V-T If an area of land is inundated, it becomes covered with water. 淹没
+e.g. Their neighbourhood is being inundated by the rising waters of the Colorado River. 他们的临近区域正被科罗拉多河不断上涨的河水所淹没
+e.g. The tidal wave inundated vast areas of cropland. 海啸淹没了大片农田。DERIVATIVE 派生词
+
+## canary /kəˈnɛərɪ/
+N-COUNT Canaries are small, yellow birds which sing beautifully and are often kept as pets. 金丝雀
+
+## fauna /ˈfɔːnə/  
+Animals, especially the animals in a particular area, can be referred to as fauna. (尤指某区域的) 动物群
+•  ...`the flora and fauna 植物群和动物群` of the African jungle.
+**flora centerpiece**　摆在桌子中间的花卉
+
+## 旁系亲属 collateral relatives V.S. 直系亲属: immediate relatives
 
 ##  incognito /ˌɪnkɒɡˈniːtəʊ/
 ADJ Someone who is incognito is using a false name or wearing a disguise, in order not to be recognized or identified. 隐姓埋名的; 使用化名的; 隐瞒真实身份的
 • Hotel inspectors have to travel incognito.   酒店检查员巡查时必须隐瞒真实身份。
 • if a famous person does something incognito, they do it without letting people know who they are 〔名人行事〕隐瞒身份地，微服地
 • That night, Lenin travelled incognito to the party headquarters. 那天晚上，列宁微服出行，去了党总部。
+
+## `Starting from scratch` in another country is not an easy action
+
+## bureaucracy /bjʊəˈrɒkrəsɪ/      |CET6 TEM4
+1. N-COUNT A bureaucracy is an administrative system operated by a large number of officials. 官僚体制
+•  State bureaucracies can tend to stifle enterprise and initiative.
+ 国家官僚体制会压抑人的进取心和积极性。
+2. N-UNCOUNT Bureaucracy refers to all the rules and procedures followed by government departments and similar organizations, especially when you think that these are complicated and cause long delays. 官僚作风
+•  People usually complain about too much bureaucracy.
+ 人们通常会抱怨过多的官僚作风。
 
 ## (对自己能力)自信的; 雄有成竹的 assured /əˈʃʊəd/, self-assured V.S. self-esteem    
 1. ADJ confident about your own abilities; SYN `SELF-ASSURED` Someone who is assured is very confident and relaxed. (对自己能力)自信的; 雄有成竹的
@@ -463,15 +555,14 @@ e.g. The **disturbing** new allegations about the disgusting and nasty relations
 ## scour
 1. `scour a place; scour a document/book`: V-T If you scour something such as a place or a book, you make a thorough search of it to try to find what you are looking for; o search very carefully and thoroughly through an area, a document etc〔彻底地〕四处搜索/搜遍(一个地方); 〔彻底地〕查找（文档，文件)   
  * **scour a place/comb through a place**: 〔彻底地〕查找/搜索一个地方;
- * **scour an oily utentil: 冲洗烹调用具**   //a utensil is a thing such as a knife, spoon, pan etc that you use when you are cooking or you use to server food
-器皿，用具〔指烹调用具〕kitchen utensils 厨房用具
+ * **scour oily utentils/oily plates/oily bowls: 冲洗烹调用具**    //a utensil is a thing such as a knife, spoon, pan etc that you use when you are cooking or you use to server food  器皿，用具〔指烹调用具〕kitchen utensils 厨房用具
  * **scour a doc: 彻底地〕查找文件**
 e.g. Rescue crews had `scoured/combed through an area` of 30 square miles.  救援人员已经 ``四处搜索/搜遍了30平方英里的范围``
 e.g. 10 aereoplances have been dispatched to `scour/comb through the whole Pacific ocean 〔彻底地〕四处搜索/搜遍(一个地方)` for the missing MH370.
 e.g. `Snapping the perfect selfie` can be fun. But if it involves flying a plane or standing on slippery `steep/precipitous` rocks near the top of a waterfall, you may want to think twice. Some 259 people worldwide have died while `taking/snapping selfies`, according to a study published in the Journal. Researchers `scoured news reports 〔彻底地〕查找（文档，文件)` on selfie deaths that occurred from October 2011 to November 2017. They found that the most selfie deaths occurred in India. India `accounted for more than 50% of the total selfie deaths`. Researchers `attributed the high number to` the country's enormous population of people. Although women generally take more selfies than men, researchers found that men were more likely to take risks -- like standing at the edge of a `steep/precipitous` cliff -- to capture a dramatic shot. "It justifies the higher number of deaths and incidents for men," the study said.
 e.g. Her family began to `scour the countryside` for a suitable house. 她的家人开始在乡下寻找合适的房子。
 2. `scour an oily place/bow/pan`: If you scour something such as a sink, floor, or pan, you clean its surface by rubbing it hard with something rough; to clean something very thoroughly by rubbing it with a rough material 擦净，擦亮 SYN SCRUB (费力地) 擦洗
-e.g. He decided to scour the sink. 他决定把水池擦洗干净
+e.g. He decided to `scour the sink` that is covered with disgusting `scum (液体表面的) 浮垢.`     //**scum**:  Scum is a layer of a dirty or unpleasant-looking substance on the surface of a liquid. (液体表面的) 浮垢;  a scum: nasty unpleasant people 社会渣滓，人渣
 e.g. Ada was scouring out the pans. 阿达在擦锅
 3. to form a hole by continuous movement over a long period  〔长期不断地〕冲刷成〔洞〕
 e.g. Over the years, the stream had scoured out a round pool in the rock. 经年累月，溪水在岩石上冲出了一个圆圆的水潭。
@@ -732,6 +823,34 @@ Wang did not mention the US during his remarks on trade, but said Beijing wants 
 * `on the back foot: (在脚的后面)处于不利境地`
 * `follow on the heels of sth/ensue: （在脚跟)紧接着…；紧随…之后`
 
+
+## uphold sth = support and maintain it/ʌpˈhəʊld/    
+1. V-T If you uphold something such as a law, a principle, or a decision, you support and maintain it. 维护
+•  Our policy has been to uphold the law.  我们的政策一直是维护法律。
+•  It is the responsibility of every government to uphold certain basic principles.  每个政府都有责任维护某些基本原则。
+2. V-T If a court of law upholds a legal decision that has already been made, it decides that it was the correct decision. 维持 (原判)
+•  The State Supreme Court upheld the Superior Court judge's decision.
+ 国家最高法院维持了高级法院法官的判决。
+1.
+to defend or support a law, system, or principle so that it continues to exist
+支持，维护〔法规、制度或原则〕
+•
+a committee that aims to uphold educational standards 旨在保持教育水准的委员会
+2.
+if a court upholds a decision made by another court, it states that the decision was correct
+〔法庭〕维持〔原判〕
+OPP OVERRULE
+
+•
+The conviction was upheld by the Court of Appeal. 上诉法庭维持原判
+
+## incognito /ˌɪnkɒɡˈniːtəʊ/
+ADJ Someone who is incognito is using a false name or wearing a disguise, in order not to be recognized or identified;  if a famous person does something incognito, they do it without letting people know who they are〔名人行事 e.g. celebrity〕隐瞒真实身份地，微服出行地； 使用化名的;
+•  Hotel inspectors have to travel incognito.  酒店检查员巡查时必须隐瞒真实身份
+
+RELTD DISGUISE
+•
+That night, Lenin travelled incognito to the party headquarters. 那天晚上，列宁微服出行，去了党总部。
 ## on the sidelines 事情就在眼前上演; 在场外; 非正式会议期间; 不实际参与
 **sit on the sidelines 冷眼旁观 V.S. 袖手旁观/坐等…结束；耐着性子看完或听完 sit it out (PHRASAL VERB: If you sit something out, you wait for it to finish, without taking any action)**
 **非正式会议期间: on the sidelines of a meeting/summit**
