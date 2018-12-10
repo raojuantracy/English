@@ -107,6 +107,15 @@ conciseness n [U]
  ...人类存在的艰难及短暂 the quality of continuing for only a short time 短暂，短促
 e.g. the brevity of her visit 她的短暂来访
 
+##  死亡related
+* **on sb's deathbed:临终之时**  e.g. `On the General's death`, he `was attended by nice doctors and nurses　被医生护士照顾着`.
+* **sb. perish** /ˈpɛrɪʃ/：V-I If people or animals perish, they die as a result of very harsh conditions or as the result of an accident. (因恶劣条件或事故) 死亡  e.g. Most of the butterflies perish in the first frosts of autumn.  大多数蝴蝶在秋季初霜来临时死亡
+* **让自己接受sb's的死亡: reconcile yourself to sb's death**; PHRVB 短语动词 **使某人不情愿的接受〔困难或不愉快的情况/消息): reconcile sb to sth difficult or unpleasant; reconcile sb. to doing sth**: to make someone able to accept a difficult or unpleasant situation even though they `are reluctant to do 不情愿的`.
+* **avenge sb's death**:  e.g. He wanted to `avenge his brother’s death`. 他要为弟弟的死复仇。
+
+e.g. The dictionary is a vast treasure trove of information.　 这本字典是一个信息的巨大宝库。
+
+
 ## 〔行动、建议、计划等〕（几乎）等于某（坏）事，无异于某（坏）事  be tantamount to sth/doing sth; become tantamount to sth
 **[ 无异于自虐: be tantamount to self-in'flict;  无异于/等于自杀: be tantamount to committing suicide]**
 if an action, suggestion, plan etc is tantamount to something bad, it has the same effect or is almost as bad

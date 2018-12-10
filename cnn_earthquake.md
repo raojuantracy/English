@@ -33,6 +33,15 @@ e.g. when the quake hit. "Everything started moving; **the noise was deafening**
 **There's nothing that can be set-and-forget**.
 e.g. Comodo Backup also translates as a set-and-forget application , you can set it once and it will work like a charm in the background.
 
+##  死亡related
+* **on sb's deathbed:临终之时**  e.g. `On the General's death`, he `was attended by nice doctors and nurses　被医生护士照顾着`.
+* **sb. perish** /ˈpɛrɪʃ/：V-I If people or animals perish, they die as a result of very harsh conditions or as the result of an accident. (因恶劣条件或事故) 死亡  e.g. Most of the butterflies perish in the first frosts of autumn.  大多数蝴蝶在秋季初霜来临时死亡
+* **让自己接受sb's的死亡: reconcile yourself to sb's death**; PHRVB 短语动词 **使某人不情愿的接受〔困难或不愉快的情况/消息): reconcile sb to sth difficult or unpleasant; reconcile sb. to doing sth**: to make someone able to accept a difficult or unpleasant situation even though they `are reluctant to do 不情愿的`.
+* **avenge sb's death**:  e.g. He wanted to `avenge his brother’s death`. 他要为弟弟的死复仇。
+
+e.g. The dictionary is a vast treasure trove of information.　 这本字典是一个信息的巨大宝库。
+
+
 ##  ['tretʃərəs] treacherous
 1. **a treacherous person: 背信弃义的; 不忠阴险的人**: someone who is treacherous cannot be trusted because they are not loyal and secretly intend to harm you; If you describe someone as treacherous, you mean that they are likely to betray you and cannot be trusted. 背信弃义的; 不忠阴险的    //**人渣: a scum**
 •  He publicly left the party and denounced its **treacherous leaders**.  背信弃义的领导人们。

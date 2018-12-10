@@ -16,34 +16,44 @@ e.g. `On his deathbed`, the General `was attended by several doctors`. 将军临
 
 ## NOUN) cool head 冷静的头脑; 不易冲动
 **keep a cool head 保持头脑冷静; 不易冲动**
-e.g. "The shift is almost entirely due to the US-China trade conflict," Steve Madden CEO told CNN's. "We have to prepare as though tariffs will be the new normal, but we are hopeful that cooler heads will prevail."
+e.g. "The shift is almost entirely due to the US-China trade conflict," Steve Madden CEO told CNN's. "We have to prepare as though tariffs will be the new normal, but we are hopeful that cooler heads will prevail.
+
+##  zombie /ˈzɒmbɪ/
+1. N-COUNT You can describe someone who moves very slowly or `sluggishly慢吞吞地,懒怠地` and does not seem to be thinking about what they are doing, especially because they are very tired 〔尤指因极度疲劳而〕行动迟缓的人，无精打采的人/行尸走肉; 麻木迟钝的人
+•  Without sleep you will become a zombie at work.  如果不睡觉，工作时会变得无精打采的。
+• I walked around like a zombie for most of the day. 我一天大部分时间里走到哪儿都无精打采的。
+2. N-COUNT In horror stories and some religions, a zombie is a dead person who has been brought back to life. 僵尸
+a dead person whose body is made to move by magic, according to some African and Caribbean religions 〔非洲和加勒比地区一些宗教中的〕还魂尸，僵尸，行尸
+3. a computer that someone has secretly gained control of and uses to do things such as send spam(= unwanted emails sent to a large number of people )
+僵尸（计算机）〔被某人暗中控制用来滥发垃圾邮件等的计算机〕
+
+## 反常现象; 反常的事物 an anomaly /əˈnɒməlɪ/, plural: anomalies
+N-COUNT If something is an anomaly, it is different from what is usual or expected. 反常的事物
+e.g. The space shuttle had stopped transmitting data, a very serious `anomaly /əˈnɒməlɪ/`for the mission.  这是这次任务中一个十分严重的 ``反常现象``
+e.g. In those days, a woman professor was still an anomaly. 那个时候，女教授仍旧 "反常现象"
+
+
+
 
 
 
 
 # STOP STOP
-## an anomaly /əˈnɒməlɪ/, plural: anomalies
-N-COUNT If something is an anomaly, it is different from what is usual or expected. 反常的事物
-e.g. The space shuttle had stopped transmitting data, a very serious anomaly for the mission.  这架航天飞机已经停止了传输数据，这是这次任务中一个十分严重的 ``反常现象``
-e.g. In those days, a woman professor was still an anomaly. 那个时候，女教授仍旧 "反常现象"
+## atrocious = awful, terrible[əˈtrəʊʃəs], atrociously; atrocity /əˈtrɒsɪtɪ/
+extremely bad; f you describe something as atrocious, you are emphasizing that its quality is very bad. (质量) 极差的; 糟透的 **atrocious/terrible weather 恶劣的天气**
+e.g. It sucks = It's so atrocious/awful
+e.g. Her singing was atrocious/awful. 她唱得糟透了。
+e.g. my English is atrocious/pretty bad.
+2. ADJ If you describe someone's behaviour or their actions as atrocious, you mean that it is unacceptable because it is extremely violent or cruel. (行为) 残暴的
+•  The judge said he had committed atrocious crimes against women.  该法官称他对妇女犯下了残暴的罪行
+3. atrocity /əˈtrɒsɪtɪ/:   N-VAR An atrocity is a very cruel, shocking action. 暴行
+ •  The killing was cold-blooded, and those who committed this atrocity should be tried and punished.   这场杀戮非常残酷，那些犯下此暴行的人应该受到审判和惩罚
 
-## ambient /ˈæmbɪənt/ V.S. surrounding
-1. ADJ The ambient temperature is the temperature of the air above the ground in a particular place. 环境的
-2. ADJ `Ambient sound or light` is the sound or light which is all around you. (声音或光线)环绕的
-**ambient temperature/light/sound** etc: technical the temperature etc of the surrounding area 环境温度/光线等
-•  ...ambient sounds of children in the background.   ...背景处环绕着孩子们的声音
-2. `ambient music/sounds 背景音乐/音效`
-a type of modern music or sound that is slow, peaceful, and does not have a formal structure
-V.S. **surrounding**: near or around a particular place 附近的；四周的
-e.g. Troops sealed off the surrounding area . 军队封锁了周围地区。
-e.g. We decided to explore the surrounding countryside . 我们决定去附近的乡间走走看看
-
-## filial duties /ˈfɪljəl/
+## 孝道 filial duties /ˈfɪljəl/
 ADJ You can use filial to describe the duties, feelings, or relationships which exist between a son or daughter and his or her parents. 子女辈的; 孝顺的  **her filial duty 她的孝道**
-•  His father would accuse him of neglecting his `filial duties`.  他父亲会指控他没有尽孝。
-relating to the relationship of a son or daughter to their parents 子女的；孝顺的
+e.g. His father would accuse him of neglecting his `filial duties`.  他父亲会指控他没有尽孝。
 
-## like-minded persons
+## 志同道合的人 like-minded persons
 e.g. Running has become a hugely popular way to keep fit in Seoul, not to mention `a trendy way` to explore the city. `As a response to` the sport's rising status, a number of running clubs have formed, giving locals and `expats/ˌɛksˈpæt/expatriate 老外统称` a chance to hit the streets with `like-minded individuals`.
 
 ## cater to sb.
@@ -55,63 +65,15 @@ be content with the current comfort zone 安于现在的安全区=安于现态
 be content with hardships 乐于吃苦
 be not content with 不满足于
 
-## holistic /həʊˈlɪstɪk/      
-ADJ Holistic means based on the principles of holism. 整体主义的
-•  ...practitioners of holistic medicine.
- …整体医学医生。
-1.
-considering a person or thing as a whole, rather than as separate parts
-整体（论）的，全面的
-•
-a holistic approach to design 设计的整体方法
-2.
-holistic medicine/treatment/healing etc
-medical treatment based on the belief that the whole person must be treated, not just the part of their body that has a disease
-整体医学/治疗/疗法等
-RELTD ALTERNATIVE MEDICINE
-DERIVATIVE 派生词
-
-holistically adv /-kḷɪ ; -kli /
-
-## velocity /vɪˈlɒsɪtɪ/      |CET6 TEM8
-N-VAR Velocity is the speed at which something moves in a particular direction. (沿某一方向运动的) 速度
-•  ...the velocities at which the stars orbit.
- …恒星绕轨道运行的速度
-
-## inundate /ˈɪnʌnˌdeɪt/  ; inundation [,ɪnʌn'deɪʃn]
-1. V-T be inundated (with/by sth)：to receive so much of something that you cannot easily deal with it all　〔收到太多某物而〕应接不暇；收到了铺天盖地的(信件或请求等)而应接不暇 If you say that you are inundated with things such as letters, demands, or requests, you are emphasizing that you receive so many of them that you cannot deal with them all. 被 (大量信件或请求等) 淹没
-e.g. Her office `was inundated with requests` for tickets.  她的办公室接到了铺天盖地的索票请求。
-e.g. "The shift is almost entirely due to the US-China trade conflict," Steve Madden CEO Ed Rosenfeld told CNN's Alison Kosik. "We have to prepare as though tariffs will be the new normal, but we are hopeful that cooler heads will prevail." Consumer tech brands are also looking to Southeast Asia. Hugh Lo, vice president of the consumer division at Taiwan's New Kinpo Group, which makes electronics for clients such as Toshiba (TOSBF) and Samsung (SSNLF), says he has `been inundated with inquiries` from companies keen to transfer manufacturing out of China
-e.g. After the broadcast, we `were inundated with requests` for more information. 节目播出之后，太多人来询问详情，令我们应接不暇。
-2. V-T If an area of land is inundated, it becomes covered with water. 淹没
-e.g. Their neighbourhood is being inundated by the rising waters of the Colorado River. 他们的临近区域正被科罗拉多河不断上涨的河水所淹没
-e.g. The tidal wave inundated vast areas of cropland. 海啸淹没了大片农田。DERIVATIVE 派生词
-
-## canary /kəˈnɛərɪ/
-N-COUNT Canaries are small, yellow birds which sing beautifully and are often kept as pets. 金丝雀
-
-## fauna /ˈfɔːnə/  
-Animals, especially the animals in a particular area, can be referred to as fauna. (尤指某区域的) 动物群
-•  ...`the flora and fauna 植物群和动物群` of the African jungle.
-**flora centerpiece**　摆在桌子中间的花卉
-
-## 旁系亲属 collateral relatives V.S. 直系亲属: immediate relatives
-
-##  incognito /ˌɪnkɒɡˈniːtəʊ/
-ADJ Someone who is incognito is using a false name or wearing a disguise, in order not to be recognized or identified. 隐姓埋名的; 使用化名的; 隐瞒真实身份的
-• Hotel inspectors have to travel incognito.   酒店检查员巡查时必须隐瞒真实身份。
-• if a famous person does something incognito, they do it without letting people know who they are 〔名人行事〕隐瞒身份地，微服地
-• That night, Lenin travelled incognito to the party headquarters. 那天晚上，列宁微服出行，去了党总部。
-
-## `Starting from scratch` in another country is not an easy action
-
-## bureaucracy /bjʊəˈrɒkrəsɪ/      |CET6 TEM4
-1. N-COUNT A bureaucracy is an administrative system operated by a large number of officials. 官僚体制
-•  State bureaucracies can tend to stifle enterprise and initiative.
- 国家官僚体制会压抑人的进取心和积极性。
-2. N-UNCOUNT Bureaucracy refers to all the rules and procedures followed by government departments and similar organizations, especially when you think that these are complicated and cause long delays. 官僚作风
-•  People usually complain about too much bureaucracy.
- 人们通常会抱怨过多的官僚作风。
+## ambient /ˈæmbɪənt/ V.S. surrounding
+1. ADJ The `ambient temperature` is the temperature of the air above the ground in a particular place. 环境的(温度/光线)
+2. ADJ `Ambient sound or light` is the sound or light which is all around you. (声音或光线)环绕的
+**ambient temperature/light/sound** etc: technical the temperature etc of the surrounding area 环境温度/光线等
+e.g. ...ambient sounds of children in the background.   ...背景处环绕着孩子们的声音
+2. `ambient music/sounds 背景音乐/音效`: a type of modern music or sound that is slow, peaceful, and does not have a formal structure
+V.S. **surrounding**: near or around a particular place 附近的；四周的
+e.g. Troops sealed off the surrounding area . 军队封锁了周围地区。
+e.g. We decided to explore the surrounding countryside . 我们决定去附近的乡间走走看看
 
 ## (对自己能力)自信的; 雄有成竹的 assured /əˈʃʊəd/, self-assured V.S. self-esteem    
 1. ADJ confident about your own abilities; SYN `SELF-ASSURED` Someone who is assured is very confident and relaxed. (对自己能力)自信的; 雄有成竹的
@@ -129,6 +91,59 @@ e.g. His victory means that he `is now assured of a place` in the final. 他的�
 5. PHRASE If you say that `someone can rest assured that` something is the case, you mean that it is definitely the case, so they do not need to worry about it. 尽管放心
 •  Their parents `can rest assured that` their children's safety will be of paramount importance.   他们的家长们可以尽管放心，
 V.S. **self-esteem**: N-UNCOUNT Your self-esteem is how you feel about yourself. For example, if you have low self-esteem, you do not like yourself, you do not think that you are a valuable person, and therefore you do not behave confidently. 自尊
+
+## 社交界名人，社会名流, 交际名流 socialite /ˈsəʊʃəˌlaɪt/
+N-COUNT A socialite is a person who attends many fashionable upper-class social events or parties and who is well known because of this；a socialite is someone who is well known for going to many fashionable parties, and who is often `sleek and rich 时髦阔气的`
+e.g. a HK socialite 一位HK的社会名流            //**sleek   1. `sleek design; sleek lines`: a vehicle, aeroplane, or other object that is sleek has a smooth attractive shape 〔汽车，飞机等〕线条流畅的，造型优美的    2. `sleek and black hair or sleek fur` is straight, shiny, and healthy-looking〔头发、皮毛〕油亮光滑的，顺华有光泽的   3. `a sleek and rich person`: someone who is sleek looks rich and is well dressed 〔人〕时髦阔气的**
+e.g. When model and `socialite` Judy was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat 心跳漏了一拍(指（激动，惊吓）等强烈的情感)`. The 32-year-old model didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/ 没有经过某人的许可/同意`.
+V.S.
+## dignitary /ˈdɪɡnɪtərɪ/ ['dɪɡnɪtɛri] (政府或教会的) 显要人物; 达官显贵    
+N-COUNT Dignitaries are people who are considered to be important because they have a high rank in government, society, or in a church.
+
+## 心跳漏了一拍(指（激动，惊吓）等强烈的情感): skip a beat
+e.g. When model and `socialite` Judy was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat 心跳漏了一拍(指（激动，惊吓）等强烈的情感)`. The 32-year-old model didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/=approval 没有经过某人的许可/同意`.
+e.g. My heart `skipped a beat` when he proposed to me.
+
+## velocity /vɪˈlɒsɪtɪ/     
+N-VAR Velocity is the speed at which something moves in a particular direction. (沿某一方向运动的) 速度
+•  ...the velocities at which the stars orbit. …恒星绕轨道运行的速度
+
+## inundate /ˈɪnʌnˌdeɪt/  ; inundation [,ɪnʌn'deɪʃn]
+1. V-T be inundated (with/by sth)：to receive so much of something that you cannot easily deal with it all　〔收到太多某物而〕应接不暇；收到了铺天盖地的(信件或请求等)而应接不暇 If you say that you are inundated with things such as letters, demands, or requests, you are emphasizing that you receive so many of them that you cannot deal with them all. 被 (大量信件或请求等) 淹没
+e.g. Her office `was inundated with requests` for tickets.  她的办公室接到了铺天盖地的索票请求。
+e.g. "The shift is almost entirely due to the US-China trade conflict," Steve Madden CEO Ed Rosenfeld told CNN's Alison Kosik. "We have to prepare as though tariffs will be the new normal, but we are hopeful that cooler heads will prevail." Consumer tech brands are also looking to Southeast Asia. Hugh Lo, vice president of the consumer division at Taiwan's New Kinpo Group, which makes electronics for clients such as Toshiba (TOSBF) and Samsung (SSNLF), says he has `been inundated with inquiries` from companies keen to transfer manufacturing out of China
+e.g. After the broadcast, we `were inundated with requests` for more information. 节目播出之后，太多人来询问详情，令我们应接不暇。
+2. V-T If an area of land is inundated, it becomes covered with water. 淹没
+e.g. Their neighbourhood is being inundated by the rising waters of the Colorado River. 他们的临近区域正被科罗拉多河不断上涨的河水所淹没
+e.g. The tidal wave inundated vast areas of cropland. 海啸淹没了大片农田。DERIVATIVE 派生词
+
+## canary /kəˈnɛərɪ/
+N-COUNT Canaries are small, yellow birds which sing beautifully and are often kept as pets. 金丝雀
+
+## fauna /ˈfɔːnə/  V.S. flora
+Animals, especially the animals in a particular area, can be referred to as fauna. (尤指某区域的) 动物群
+•  ...`the flora and fauna 植物群和动物群` of the African jungle.
+**flora centerpiece**　摆在桌子中间的花卉
+
+## 旁系亲属 collateral relatives V.S. 直系亲属: immediate relatives
+
+## incognito /ˌɪnkɒɡˈniːtəʊ/ ADJ, adv. n. 匿名者；微服出行者
+1. adj: Someone who is incognito is using a false name or wearing a disguise, in order not to be recognized or identified. 隐姓埋名的; 使用化名的; (使用假名字或乔装打扮)隐瞒真实身份的;   
+2. adv: if a famous person does something incognito, they do it without letting people know who they are 〔名人行事〕隐瞒身份地，微服地  
+**adv: 微服出行, (使用假名字或乔装打扮)出行: travel incognito**
+e.g. Users must already be members of the airlines’ loyalty program, and Lufthansa said it had added privacy controls for those who preferred to `travel incognito`.
+e.g. That night, Lenin `travelled incognito` to the party headquarters. 那天晚上，列宁微服出行，去了党总部。
+e.g. Hotel inspectors have to travel incognito. 酒店检查员巡查时必须隐瞒真实身份。
+
+## `Starting from scratch` in another country is not an easy action
+
+## bureaucracy /bjʊəˈrɒkrəsɪ/   
+1. N-COUNT A bureaucracy is an administrative system operated by a large number of officials. 官僚体制
+•  State bureaucracies can tend to stifle enterprise and initiative.
+ 国家官僚体制会压抑人的进取心和积极性。
+2. N-UNCOUNT Bureaucracy refers to all the rules and procedures followed by government departments and similar organizations, especially when you think that these are complicated and cause long delays. 官僚作风
+•  People usually complain about too much bureaucracy.
+ 人们通常会抱怨过多的官僚作风。
 
 ## prescriptive /prɪˈskrɪptɪv/; prescriptively adv
 1. A prescriptive approach to something involves telling people what they should do, rather than simply giving suggestions or describing what is done. 指令性的; 规定性的
@@ -158,18 +173,6 @@ V.S. **biopsy /ˈbaɪɒpsɪ/**: N-VAR A biopsy is the removal and examination of
 V.S. **in retrospect /ˈrɛtrəʊˌspɛkt/; retrospective; retrospectively**
 PHRASE When you consider something `in retrospect`, you think about it afterward, and often have a different opinion about it from the one that you had at the time. 回想
 •  `In retrospect`, I wish that I had thought about alternative courses of action. 回想起来，我真希望自己当初考虑过其他的行动方案。
-
-## 社交界名人，社会名流, 交际名流 socialite /ˈsəʊʃəˌlaɪt/
-N-COUNT A socialite is a person who attends many fashionable upper-class social events or parties and who is well known because of this；a socialite is someone who is well known for going to many fashionable parties, and who is often `sleek and rich 时髦阔气的`
-e.g. a HK socialite 一位HK的社会名流            //**sleek   1. `sleek design; sleek lines`: a vehicle, aeroplane, or other object that is sleek has a smooth attractive shape 〔汽车，飞机等〕线条流畅的，造型优美的    2. `sleek and black hair or sleek fur` is straight, shiny, and healthy-looking〔头发、皮毛〕油亮光滑的，顺华有光泽的   3. `a sleek and rich person`: someone who is sleek looks rich and is well dressed 〔人〕时髦阔气的**
-e.g. When model and `socialite` Judy was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat 心跳漏了一拍(指（激动，惊吓）等强烈的情感)`. The 32-year-old model didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/ 没有经过某人的许可/同意`.
-V.S.
-## dignitary /ˈdɪɡnɪtərɪ/ ['dɪɡnɪtɛri] (政府或教会的) 显要人物; 达官显贵    
-N-COUNT Dignitaries are people who are considered to be important because they have a high rank in government, society, or in a church.
-
-## 心跳漏了一拍(指（激动，惊吓）等强烈的情感): skip a beat
-e.g. When model and `socialite` Judy was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat 心跳漏了一拍(指（激动，惊吓）等强烈的情感)`. The 32-year-old model didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/=approval 没有经过某人的许可/同意`.
-e.g. My heart `skipped a beat` when he proposed to me.
 
 ## entitlement /ɪnˈtaɪt əlmənt/  Verb: `you're entitled to st　有权利／有资格享受/享有xxx`
 N-VAR An entitlement to something is the right to have it or do it. 权利

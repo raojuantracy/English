@@ -58,7 +58,7 @@ e.g. "There are thousands and thousands of people who work for the Chinese gover
 e.g. President Donald Trump is sharply escalating the American trade war and get their `trade spat` with China fiercer. Two parts are trapped in a `trade standoff 贸易僵持状态/拉锯战`.
 
 ## 报复／报仇
-### [`retaliate against sb; retaliation; retaliatory[ri'tæliətəri`]
+### [`retaliate=revenge; retaliate/revenge against sb; retaliation; retaliatory[ri'tæliətəri`]
 * Verb) retaliate: if you retaliate against sb when someone harms or annoys you, you do something which harms or annoys them in return, just hitting back to that person.
 e.g. The company would `retaliate against` employees who joined a union.
 e.g. The army began to `retaliate against` the civilian population. 军队开始报复平民
