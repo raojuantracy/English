@@ -4,11 +4,27 @@
 https://edition.cnn.com/2018/12/05/tech/huawei-cfo-arrested-canada/index.html
 https://edition.cnn.com/2018/12/06/business/huawei-us-china-trade-war/index.html
 https://edition.cnn.com/2018/12/08/tech/huawei-cfo-tech-cold-war/index.html
-
+https://edition.cnn.com/2018/12/11/business/huawei-apple-china-tech-us/index.html
 
 ## apprehend sb. = arrest sb;   apprehend=understand
 e.g. The chief financial officer of Chinese tech giant Huawei has been `arrested/apprehended` in Canada. She faces `extradition` to the United States.
 Meng Wanzhou, also known as Sabrina Meng and Cathy Meng, was `apprehended` in Vancouver on December 1. Meng "is sought for `extradition` by the United States, and a bail hearing has been set for Friday,"
+
+## 忙的脱不开身: `be tired up with sth`   
+* `be tired of sth = be weary of = be sick of = get fed up with sth`
+* `be tired up with sth` 忙的脱不开身  e.g. I am tied up with the '1 every 6 months' IBMCloud orders so I can't do this
+
+##  振幅 amplitude [ˈæmplɪtjuːd, ˈæmplətjuːd]
+technical the distance between the middle and the top or bottom of a wave such as a sound wave
+V.S. **8.0 magnitude earthquake** e.g.
+Slow-rupturing tsunami earthquakes are difficult to observe and can be misrepresented by current systems … they create a tsunami much larger than expected for the `magnitude of the earthquake.地震震级`
+
+## lead time  
+1. N-COUNT Lead time is the time between the original design or idea for a particular product and its actual production. 从最初设计到投产的时间
+e.g. They aim to cut production lead times to under 18 months.   他们的目标是把产品从设计到投产的时间缩短到18个月以内。
+2. N-COUNT Lead time is the period of time that it takes for goods to be delivered after someone has ordered them. 从订货到交货的时间
+e.g. Lead times on new equipment orders can run as long as three years. 新设备从订货到交货的时间可能长达3年。
+e.g. We can release the non-production ones earlier if you like (they are done). Sensor plan takes longer as DB2 SMP Small has a 3 day **lead time**.
 
 ## Verb/Noun: outrage sb.   
 1. V-T If you `are outraged by something`, it makes you extremely angry and shocked. 使震怒
@@ -195,18 +211,26 @@ e.g.  `The point man` for Denver's new airport says there's no way it'll go unde
 e.g. `It's through that lens that` some in the Chinese government view the arrest of Huawei's chief financial officer, Meng Wanzhou, at the request of US authorities. "The US is trying to do whatever it can to contain Huawei's expansion in the world simply because the company is `the point man 领头人物; 领军人物` for China's competitive technology companies," said an editorial Thursday in `state-run newspaper` China Daily. China's `tech aspirations` have `garnered concern` in the United States for years — especially because Beijing's goals are seen as relying on the **misappropriation [,mɪsə,prəʊprɪ'eɪʃn]  [,mɪsə,proprɪ'eʃən] 侵吞；滥用** of American technology. President Donald Trump has tried to tackle these issues directly. His administration says that the hundreds of billions of dollars in `tariffs it's slapped/imposed on` Chinese goods are part of an effort to stop China from stealing US tech.
 
 
-## (把sb.向后推) 抵制sb.: push back against sb. V.S.  boycott a country/org/activity
+## (把sb.向后推) 抵制sb.: push back against sb. V.S.  boycott a country/org/activity/product
 e.g. The `arrest/apprehension` of a top Huawei executive `raises the stakes 风险（stake的复数）` in the intensifying/fierce battle between the United States and China for `tech supremacy /sʊˈprɛməsɪ/ /dominance`. Huawei is one of the world's biggest makers of smartphones and networking equipment and it's running `at the forefront of telecom industry 处于xxx行业的前沿/领先地位` with lots of `cutting edge technologies`. The United States, meanwhile, has made clear it intends to `push back against 抵制` China's growing tech power in order to maintain American `supremacy /sʊˈprɛməsɪ/ /dominance on technology`.
 V.S.
 **boycott a country/org/activity** /ˈbɔɪkɒt/  
-1. V-T If a country, group, or person `boycotts a country, organization, or activity`, they refuse to be involved with it in any way because they disapprove of it. 联合抵制
-•  The main opposition parties are boycotting the elections.  主要的反对党派正在联合抵制选举。
+1. V-T If a country, group, or person `boycotts a country, organization, or activity`, they refuse to be involved with it in any way because they disapprove of it. 联合抵制xx
+e.g. The main opposition parties are `boycotting the elections 联合抵制选举`
+e.g. The `apprehension and detention` of a top Huawei executive is prompting some Chinese companies and business groups to call for workers to `boycott products` from US companies like Apple, prompting fears of a wider **backlash against** U.S.
 2. N-COUNT Boycott is also a noun. 联合抵制
-•  Opposition leaders had called for a boycott of the vote.   反对派领导者号召联合抵制投票。
+e.g. Opposition leaders had called for a boycott of the vote.   反对派领导者号召联合抵制投票。
 
+## 〔尤指对政治或社会事件的〕强烈反应，反对抵制: a backlash against sth
+backlash /ˈbækˌlæʃ/: N-SING `A backlash against a tendency or recent development in society or politics` is a sudden, strong reaction against it; a backlash is a strong negative reaction or repercussion by a number of people against recent events, especially against political or social developments. Normally `in the aftermath` of a backlash, people would be going to **push back against sb. 抵制某人 or boycott something 抵制xxx**.
+e.g. The `apprehension and detention` of a top Huawei executive is prompting some Chinese companies and business groups to call for workers to `boycott products` from US companies like Apple, prompting fears of a wider **backlash against other U.S. products**.
+e.g. ..the male `backlash against feminism`.  …男性对女权主义的强烈反应。
 
 ## lift the ban  取消
 e.g. Huawei's rival ZTE also faced accusations of illegal dealings with Iran. In April, the United States blocked ZTE from buying US parts. The Trump administration said that ZTE had lied to US officials about punishing employees who violated US sanctions against North Korea and Iran. But the Trump administration lifted the export ban on ZTE in July after striking a deal with the company.
+
+## spark national outrage
+The crisis began after news emerged that Meng Wanzhou, Huawei's chief financial officer and the daughter of the company's founder, was detained in Vancouver on December 1. She could `face extradition` to the United States, provoking fury in Chinese state media and **spark national outrage** against U.S.
 
 ## supremacy /sʊˈprɛməsɪ/     
 1. N-UNCOUNT If one group of people has supremacy over another group, they have more political or military power than the other group. 支配地位
