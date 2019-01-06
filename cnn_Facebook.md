@@ -8,6 +8,9 @@ PHRASAL VERB If you follow up something that has been said, suggested, or discov
 e.g. State police are `following up several leads`.  州警察局正在追查几条线索
 e.g. Can I know a tentative plan, like who is the dev focal assigned to `follow up this Health Dashboard task` so that I can guide him/her to contact the Tooling team
 
+
+## noob = newbie [nuːb] 新手
+
 ## 金丝雀 canary /kəˈnɛərɪ/:
 Canaries are small, yellow birds which sing beautifully and are often kept as pets.
 
@@ -131,6 +134,29 @@ e.g.  `I'm not homophobic` in any way and certainly don't condemn gay relationsh
 • The original version of the text has been `pruned/abridged` quite a bit. 原稿被大幅``删节``
 V.S. **abridge sth**: V to reduce the length of (a written work) by condensing or rewriting (删节)书面作品
 3. n. [C ] a prune: a dried plum , often cooked before it is eaten  梅干，（洋）李脯
+
+## partake of food/drink;  partake in an activity=participate in xxx [pɑː'teɪk]
+formal 【正式】 pt: partook   pp: partaken
+1. V-I If you `partake of food or drink`, you eat or drink some of it. 吃; 喝
+• They were happy to `partake of our feast 享用丰盛大餐`, but not to share our company.
+ 他们喜欢享用我们准备的丰盛大餐，但是不喜欢和我们呆在一起
+• Grandmother likes to `partake of a small glass of sherry` before lunch. 祖母喜欢在午饭前喝一小杯雪利酒。
+2. If you `partake in an activity or event`, you take part in it or `participate in` it. 参加，参与
+•  You will probably be asked about whether you `partake in very vigorous sports`. 你可能会被问到是否参加非常剧烈的体育运动。
+•  Everyone in the class is expected to `participate/partake actively in these discussions`. 全班同学都应该积极参与这些讨论。
+•  a woman’s fundamental right to `partake in club affairs` 妇女参与俱乐部事务的基本权利
+3. PHRVB 短语动词 `partake of sth`: to have a certain amount of a particular quality  有点…，带有几分〔某种性质〕
+
+## notorious /nəʊˈtɔːrɪəs/=disreputable, notoriously=disreputably   
+1. ADJ To be notorious means to be well known for something bad. 声名狼藉的
+•  ...an area notorious for drugs, crime and violence.  …一个因毒品、犯罪和暴力而声名狼藉的地区。
+2. ADV 声名狼藉地
+•  The train company is overstaffed and notoriously inefficient.  这家铁路公司人员超编，且出了名地没有效率。
+•  He worked mainly in New York City where living space is notoriously at a premium.  他主要在纽约市工作，那里的生存空间出了名地昂贵。
+e.g. South Korean music labels are `notoriously` strict about controlling the behavior of their artists, even limiting who they can date. Stars who defy these restrictions can face censure or dismissal.
+V.S. **disreputable /dɪsˈrɛpjʊtəbəl/; disreputable behavior 不名誉的行为; a disreputable/notorious neighbourhood 名声不好的街区**
+ADJ If you say that someone or something is disreputable, you are critical of them because they are not respectable or cannot be trusted. 名誉不好的
+•  ...the noisiest and most disreputable/notorious bars.  ...最吵闹、名声最差的酒吧。
 
 ## /ˈrɛkənˌsaɪl/ reconcile,  reconciliation /ˌrɛkənˌsɪlɪˈeɪʃən/
 1. [T] if you **reconcile two ideas, two situations, or two facts**, you find a way in which they can both be true or acceptable 使(两方)和谐一致；调和；协调  [**reconcile A with B**]
@@ -325,3 +351,30 @@ e.g. But the language used in the Trump administration's announcement of the dea
 ## 心跳漏了一拍(指（激动，惊吓）等强烈的情感): skip a beat
  e.g. When model and `socialite` Judy was asked to pay $3,000 in `blackmail` money to stop her stolen nude selfies being published online, she said her heart `skipped a beat 心跳漏了一拍(指（激动，惊吓）等强烈的情感)`. The 32-year-old model didn't pay up and some time after that 2013 exchange, her explicit photos were posted online `without her consent /kənˈsɛnt/=approval 没有经过某人的许可/同意`.
  e.g. My heart `skipped a beat` when he proposed to me.
+
+## grope for sth /ɡrəʊp/; grope around; grope sb.=sexual harassment V.S. grape (grapefruit 柚子)
+ 1. V-I If you `grope for something` that you cannot see usually because of darkness or because you're blind, you try to find it by moving your hands around in order to feel or touch it; to try to find something that you cannot see by feeling with your hands 〔在黑暗中〕摸索着/找xxx
+ e.g. With his left hand, he `groped for the knob/groped for the bolt`, turned it, and pulled the door open. ``〔在黑暗中〕摸索到``门把手 //**bolt: A bolt on a door or window is a metal bar that you can slide across in order to fasten the door or window. (门或窗的)闩**
+ e.g. Ginny `groped for her glasses` on the bedside table. ``〔在黑暗中〕摸索着找``眼镜
+ 2.  V-T If you `grope around` or `grope your way to a place`, you move there, holding your hands in front of you and feeling the way because you cannot see anything usually because of darkness or because you're blind. 〔在黑暗中〕摸索而行; [I,T] to go somewhere by feeling the way with your hands because you cannot see 〔因看不见而用手〕摸索着走  
+ **grope around; grope your way to a place; grope your way along/across etc**
+ e.g. I didn't turn on the light, but `groped my way across` the room.   我没有开灯，而是摸索着穿过房间。
+ e.g. We `groped around` in the darkness. 我们在黑暗中摸索。
+ e.g. I was `groping my way` blindly through the trees. ``摸索着``往前走。
+ e.g. Ally `groped steadily towards` the door. ``摸索着`` 稳步朝门口走去。
+ 3. `grope for proper words; grope for proper solution`: to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this 努力寻找恰当的言辞(去表达); 努力寻找正确的解决办法
+ e.g. She hesitated, seeming to `grope for proper words`. 她犹豫了一下，像是在 `寻找恰当的词语``
+ e.g. Regarding this `killer task with unresolved formidable challenges 很难的有艰巨挑战的任务`, the manager is trying to `grope for a proper solution 努力寻找正确的解决办法`.
+ 4. [T] `grope sb 〔尤指当对方不愿意的时候〕(畏缩地)爱抚 (sort of sexual harassment /ˈhəræsmənt, ˈhærəs-/)`: informal, to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this.
+ e.g. Bruce is accused of `groping a female passenger` on Southwest Airlines told an FBI agent after his `arrest/apprehension` that the "Donald Trump says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事可以侥幸成功,逍遥法外`, according to `a criminal complaint that is lodged 正式提出抱怨` by the female.    //**做了坏事而未受惩罚；做了坏事而侥幸成功,逍遥法外: get away with it; 正式提出抱怨: lodge a complaint against sb.; 正式提出指控: lodge an accusation against; 正式提出抗议: lodge a protest against; [law] 逮捕证: issue arrest warrants**
+
+## bolt
+ 1. lock 锁
+ a metal bar that you slide across a door or window to fasten it 〔门、窗的〕金属插销，闩 = **latch**
+ 2. screw 螺钉: a screw with a flat head and no point, for fastening things together
+ 3. **a bolt from/out of the blue: news that is sudden and unexpected 突如其来的消息；晴天霹雳**
+ e.g. Was this money a bolt from the blue or did you know you were going to get it? 这是一笔意料之财呢，还是你本来就知道会有的？
+ 4. **a bolt of lightning**: lightning that appears as a white line in the sky 闪电，霹雳 → thunderbolt
+ e.g. There’s not much left of his house after it was struck by `a bolt of lightning` . 他的房子遭雷击之后差不多全毁了。
+ 5. **make a bolt for it**: to suddenly try to escape from somewhere 急忙逃跑，拔腿便跑
+ e.g. They attacked the driver and he straightaway made a bolt for it. 他们袭击司机，司机立刻没命地逃跑。

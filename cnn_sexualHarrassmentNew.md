@@ -18,8 +18,20 @@ e.g. Ally `groped steadily towards` the door. ``摸索着`` 稳步朝门口走�
 3. `grope for proper words; grope for proper solution`: to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this 努力寻找恰当的言辞(去表达); 努力寻找正确的解决办法
 e.g. She hesitated, seeming to `grope for proper words`. 她犹豫了一下，像是在 `寻找恰当的词语``
 e.g. Regarding this `killer task with unresolved formidable challenges 很难的有艰巨挑战的任务`, the manager is trying to `grope for a proper solution 努力寻找正确的解决办法`.
-4. [T] `grope sb 〔尤指当对方不愿意的时候〕(畏缩地)爱抚 (sort of sexual harassment)`: informal, to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this.
+4. [T] `grope sb 〔尤指当对方不愿意的时候〕(畏缩地)爱抚 (sort of sexual harassment /ˈhəræsmənt, ˈhærəs-/)`: informal, to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this.
 e.g. Bruce is accused of `groping a female passenger` on Southwest Airlines told an FBI agent after his `arrest/apprehension` that the "Donald Trump says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事可以侥幸成功,逍遥法外`, according to `a criminal complaint that is lodged 正式提出抱怨` by the female.    //**做了坏事而未受惩罚；做了坏事而侥幸成功,逍遥法外: get away with it; 正式提出抱怨: lodge a complaint against sb.; 正式提出指控: lodge an accusation against; 正式提出抗议: lodge a protest against; [law] 逮捕证: issue arrest warrants**
+
+## bolt
+1. lock 锁
+a metal bar that you slide across a door or window to fasten it 〔门、窗的〕金属插销，闩 = **latch**
+2. screw 螺钉: a screw with a flat head and no point, for fastening things together
+3. **a bolt from/out of the blue: news that is sudden and unexpected 突如其来的消息；晴天霹雳**
+e.g. Was this money a bolt from the blue or did you know you were going to get it? 这是一笔意料之财呢，还是你本来就知道会有的？
+4. **a bolt of lightning**: lightning that appears as a white line in the sky 闪电，霹雳 → thunderbolt
+e.g. There’s not much left of his house after it was struck by `a bolt of lightning` . 他的房子遭雷击之后差不多全毁了。
+5. **make a bolt for it**: to suddenly try to escape from somewhere 急忙逃跑，拔腿便跑
+e.g. They attacked the driver and he straightaway made a bolt for it. 他们袭击司机，司机立刻没命地逃跑。
+
 
 ## a tentative plan
 1. tentative: not definite/affirmative or certain, and may be changed later; ADJ `Tentative agreements, plans, or arrangements` are not definite or certain, but have been made as a first step.  初步的不确定的(plan, solution, schedule)；暂定的 **初步的结论: tentative conclusion; tentative plan; tentative solution; tentative schedule; be tentatively scheduled 初步定在<什么时候>**
@@ -29,22 +41,12 @@ e.g. Bruce is accused of `groping a female passenger` on Southwest Airlines told
 • The government is taking `tentative steps/actions 初步的举动/措施` towards tackling the country’s economic problems.
 2. ADJ If `someone is tentative`, they are cautious and not very confident because they are uncertain or afraid. (没有信心有点害怕)犹豫的
 •  My first attempts at complaining against Travis' bad performance to my boss `were kind of tentative`. 我头几次的投诉尝试都有点儿``犹豫``。
-4.
-ADV 犹豫地
-•  Perhaps, he suggested tentatively, they should send for Dr. Esteves.
- 他犹犹豫豫地建议道，他们也许应该派人去请埃斯特维斯医生
-done without confidence
-踌躇不决的，犹豫的
-SYN HESITANT
-
-•
-a tentative smile 犹疑的微笑
-DERIVATIVE 派生词
-
-tentatively adv
-•
+4. ADV 犹豫地
+•  Perhaps, he suggested tentatively, they should send for Dr. Esteves.  他犹犹豫豫地建议道，他们也许应该派人去请埃斯特维斯医生
+done without confidence 踌躇不决的，犹豫的 SYN HESITANT
+• a tentative smile 犹疑的微笑
 Albi knocked tentatively and entered. 阿尔比犹豫地敲敲门，走了进去。
-tentativeness n [U]
+5. tentativeness n [U]
 
 ## adversity /ədˈvɜːsɪtɪ/ 逆境，不幸，厄运  
 N-VAR Adversity is a very difficult or unfavourable situation; a situation in which you have a lot of problems that seem to be caused by bad luck or mishap
@@ -56,52 +58,8 @@ V.S.
 * `in adversity /ədˈvɜːsɪtɪ/` 在逆境中
 * `mishap /ˈmɪshæp/`：N-VAR A mishap is an unfortunate but not very serious event that happens to someone. 小灾难;厄运 `a series of mishaps 一连串的倒霉事`
 
-
-## bolt
-MEANINGS 义项
-
-1.
-lock 锁
-a metal bar that you slide across a door or window to fasten it
-〔门、窗的〕金属插销，闩
-→ see picture at 见 lock 2
-2.
-screw 螺钉
-a screw with a flat head and no point, for fastening things together
-螺栓
-→ see picture at at 见 screw 1
-3.
-a bolt from/out of the blue
-news that is sudden and unexpected
-突如其来的消息；晴天霹雳
-•
-Was this money a bolt from the blue or did you know you were going to get it? 这是一笔意料之财呢，还是你本来就知道会有的？
-4.
-bolt of lightning
-lightning that appears as a white line in the sky
-闪电，霹雳
-→ thunderbolt
-•
-There’s not much left of his house after it was struck by a bolt of lightning . 他的房子遭雷击之后差不多全毁了。
-5.
-make a bolt for it
-to suddenly try to escape from somewhere
-急忙逃跑，拔腿便跑
-•
-They attacked the driver and he straightaway made a bolt for it. 他们袭击司机，司机立刻没命地逃跑。
-6.
-weapon 武器
-a short heavy arrow that is fired from a crossbow
-〔短而粗的〕弩箭，矢
-7.
-cloth 布
-a large long roll of cloth
-一卷，一匹
-
 ## sidecar /ˈsaɪdˌkɑː/
-N-COUNT A sidecar is a kind of box with wheels which you can attach to the side of a motorcycle so that you can carry a passenger in it; a small vehicle attached to the side of a motorcycle , in which a passenger can ride
-〔附于摩托车旁的〕边车
-o	 (附于摩托车旁用于载人的)
+N-COUNT A sidecar is a kind of box with wheels which you can attach to the side of a motorcycle so that you can carry a passenger in it; a small vehicle attached to the side of a motorcycle , in which a passenger can ride 〔附于摩托车旁的〕边车	 (附于摩托车旁用于载人的)
 
 ## load shedding
 N the act or practice of temporarily reducing the supply of electricity to an area to avoid overloading the generators 间歇供电; 用来减缓总供电负荷
@@ -110,7 +68,9 @@ N the act or practice of temporarily reducing the supply of electricity to an ar
 e.g. A Florida man, Bruce, accused of `groping a passenger` on Southwest Airlines told an FBI agent after his arrest/apprehension that the "President of the United States says it's OK to `grope women` by their private parts," and he thought he can `get away with it 做了坏事而未受惩罚；侥幸成功,逍遥法外`, according to a criminal `complaint that is lodged 正式提出抱怨` by the female. Bruce was in federal custody after being charged federally on Sunday with abusive sexual contact on a female passenger during a flight from Houston to Albuquerque.
 
 ## withhold sth : just hold it and don' wannt give it to you
-e.g. Boeing allegedly withheld information about the potential hazards of new flight-control features on the model of plane involved in the deadly Lion Air crash in Indonesia last month
+e.g. Boeing allegedly `withheld information = conceal information 隐瞒隐藏信息 ` about the potential hazards of new flight-control features on the model of plane involved in the deadly Lion Air crash in Indonesia last month
+* **withhold sth**
+* **uphold sth = support it 力挺xxx; uphold your idea; uphold your suggestion; uphold the law**
 
 ## it's beyong comprehension that xxx
 beyond comprehension 无法理解理解费解大或不解
@@ -121,8 +81,18 @@ wholly y beyond his comprehension 完全超出你的理解
 e.g. "What seems to have happened here is that a new version or a modified anti-stall capacity was added which pushes the nose down automatically. If it's true, `it is beyond comprehension that` Boeing did not tell the airline and pilots about this.
 
 ##
-e.g. The issue is how much information to give the pilots about the systems on board so they can respond in an emergency," Quest said, adding that pilots are often overloaded with readouts and signals from multiple devices and monitors that can risk distracting them at the worst possible moment
+K-Pop band member quits as label denies sexual misconduct accusations
 
+Seoul, South Korea (CNN)A K-Pop band has broken ties with one of its members after accusations of `sexual misconduct` were made against him online.
+In a statement Wednesday, FNC Entertainment said Kwon Kwang-jin, known as Kwangjin, "has decided to voluntarily leave N.Flying."
+The move came after accusations were posted online against Kwangjin, accusing him of inappropriate behavior with fans, leading some to mobilize around a Twitter hashtag that translates as "leave the band Kwangjin." CNN has been unable to independently verify the claims. CNN has tried to reach Kwangjin for comment but has so far been unsuccessful.
+"After meeting face to face with the individuals who were involved in the currently spreading online rumors related to Kwangjin, we've confirmed that elements of the rumors including Kwangjin's dating scandal with fans, sexual harassment claims, and more are not true," the FNC statement said.
+However, it added that Kwangjin had held "personal meetings with fans outside of official promotional activities."
+
+"Seeking personal relationships with fans no matter what the reason is, is improper behavior for a member of a band," the label said. "Until we are able to discover the full truth regarding the ongoing rumors, Kwangjin will halt all broadcast and promotional activities and `partake of reflection`. It added that it would be taking "strict legal action should some online posts prove to be false and of `malicious nature`."
+South Korean music labels are `notoriously` strict about controlling the behavior of their artists, even limiting who they can date. Stars who defy these restrictions can face `censure or dismissal`.
+While prominent South Korean politicians and entertainment stars have been accused of `sexual misconduct`, the #MeToo `reckoning` in the country has been more muted than in some nations, especially when it comes to the outwardly squeaky clean K-Pop scene.
+In recent months however, women have been increasingly active in organizing against pervasive issues of `sexual harassment /ˈhəræsmənt, ˈhærəs-/`, with tens of thousands protesting regularly against spy cams under the slogan "My Life is Not Your Porn."
 
 ## (literal)球在某人的球场/地盘上; (figurative:) 某人掌握着主动权
 [**The ball is in someone's court**]
@@ -184,7 +154,7 @@ e.g. Two men have been charged this week with **sexually abusing** women seated 
 •	原告: the accuser, plaintiff, indictor
 •	被告: the person in a court of law who has been accused of doing something illegal: defendant; the accused; indictee
 
-e.g. FBI investigations into midair **sexual assaults/harassment** increased by 66% from fiscal year 2014 to 2017. The bureau said it had opened 63 counts of accusations/charges into **sexual assault/harassment** on aircraft in 2017. If such behavior occurs, **trust your gut 直觉**, **reprimand 训斥，谴责** the person immediately and consider asking to be moved to another seat. Report it to the flight attendant (FA) immediately, and ask that they record the attacker's identity and report it. "It doesn't matter when you report an **in-flight** sexual assault -- we take it seriously, and we will pursue it.
+e.g. FBI investigations into midair **sexual assaults/harassment /ˈhəræsmənt, ˈhærəs-/** increased by 66% from fiscal year 2014 to 2017. The bureau said it had opened 63 counts of accusations/charges into **sexual assault/harassment** on aircraft in 2017. If such behavior occurs, **trust your gut 直觉**, **reprimand 训斥，谴责** the person immediately and consider asking to be moved to another seat. Report it to the flight attendant (FA) immediately, and ask that they record the attacker's identity and report it. "It doesn't matter when you report an **in-flight** sexual assault -- we take it seriously, and we will pursue it.
 
 ## in response 作为回答 作为反应 作为回应
 e.g In response, the manager xxx
@@ -218,7 +188,7 @@ V.S. **推拿术 manipulation**: a permanent cure will only be effected by acupu
 • He **was in traction** (= receiving this kind of treatment ) for weeks after the accident. 事故后他接受了几个星期的牵引治疗
 • Isabelle's legs **were in traction** for about two and a half weeks.  伊莎贝尔的双腿作了大约两周半的牵引。
 
-## convict sb of a crime in a court of law V.S. acquit sb of a crime (in a court of law)
+## `convict sb of a crime in a court of law` V.S. `acquit sb of a crime (in a court of law)`
 acquit, pp: acquitted   pt: acquitted
 * **acquit sb. of a crime** in a court of law: pronounce not guilty of criminal charges, they are formally declared not to have committed the crime. 宣判…无罪，罪不成立，当庭释放 e.g.  Mr. Castorina was acquitted of attempted murder 卡斯托瑞纳先生被宣判谋杀未遂罪不成立。
 * **acquit yourself well/honourably**: to do something well, especially something difficult that you do for the first time in front of other people〔尤指首次在别人面前做困难的事时〕表现好/得体
@@ -229,7 +199,7 @@ E.G. He was charged with  **multiple counts of** sexual harassment/assault 性�
 * **Sexual harassment** is bullying欺负/欺凌 or coercion of a sexual nature, or the unwelcome or inappropriate promise of rewards in exchange for sexual favors.
 * **Sexual violence**: is any sexual act or attempt to obtain a sexual act by violence or coercion, acts to traffic a person or acts directed against a person's sexuality, regardless of the relationship to the victim.
 
-## harass sb; harassment
+## harass sb; harassment /ˈhəræsmənt, ˈhærəs-/
 1. to make someone’s life unpleasant, for example by frequently saying offensive things to them or threatening them；If someone harasses you, they trouble or annoy you, for example by attacking you repeatedly or by causing you as many problems as they can. 骚扰
 [**sexually harass sb; sexual harassment; sexual attack/assault;  racially harass sb 种族骚扰**]
 e.g. A number of black youths have complained of being **racially harassed** by the while police. 一些黑人青年投诉称受到 "种族骚扰""。
@@ -237,8 +207,8 @@ e.g. One woman **lodged an accusation against that male 正式的提出诉讼** 
 * **Sexual harassment** is bullying欺负/欺凌 or coercion of a sexual nature, or the unwelcome or inappropriate promise of rewards in exchange for sexual favors.
 * **Sexual violence**: is any sexual act or attempt to obtain a sexual act by violence or coercion, acts to traffic a person or acts directed against a person's sexuality, regardless of the relationship to the victim.
 2. to keep attacking an enemy again and again 反复攻击，屡次侵扰〔敌人〕
-
-e.g. FBI investigations into midair **sexual assaults/harassment** increased by 66% from fiscal year 2014 to 2017. The bureau said it had opened 63 counts of accusations/charges into **sexual assault/harassment** on aircraft in 2017. If such behavior occurs, **trust your gut 直觉**, **reprimand 训斥，谴责** the person immediately and consider asking to be moved to another seat. Report it to the flight attendant (FA) immediately, and ask that they record the attacker's identity and report it. "It doesn't matter when you report an **in-flight** sexual assault -- we take it seriously, and we will pursue it.
+e.g. FBI investigations into midair **sexual assaults/harassment /ˈhəræsmənt, ˈhærəs-/** increased by 66% from fiscal year 2014 to 2017. The bureau said it had opened 63 counts of accusations/charges into **sexual assault/harassment** on aircraft in 2017. If such behavior occurs, **trust your gut 直觉**, **reprimand 训斥，谴责** the person immediately and consider asking to be moved to another seat. Report it to the flight attendant (FA) immediately, and ask that they record the attacker's identity and report it. "It doesn't matter when you report an **in-flight** sexual assault -- we take it seriously, and we will pursue it.
+3. V.S. **hassle /ˈhæsəl/**: 1. N-VAR A hassle is a situation that is difficult and involves problems, effort, or arguments with people. 麻烦; 2. V-T If someone **hassles you**, they cause problems for you, often by repeatedly telling you or asking you to do something, in an annoying way. 烦扰
 
 ## [botany,植] 复果/聚花果 multiple fruit
 N a fruit, such as a pineapple, formed from the ovaries of individual flowers in an inflorescence

@@ -10,6 +10,53 @@ https://edition.cnn.com/2018/12/11/business/huawei-apple-china-tech-us/index.htm
 e.g. The chief financial officer of Chinese tech giant Huawei has been `arrested/apprehended` in Canada. She faces `extradition` to the United States.
 Meng Wanzhou, also known as Sabrina Meng and Cathy Meng, was `apprehended` in Vancouver on December 1. Meng "is sought for `extradition` by the United States, and a bail hearing has been set for Friday,"
 
+## be released on bail保释
+e.g. The recent arrest of its chief financial officer, Meng Wanzhou, has raised additional questions about Huawei. Meng has `been released on bail` in Canada, but she now faces a lengthy legal battle over whether she should `be extradited` to the United States, where prosecutors accuse her of helping Huawei get around sanctions on Iran.
+
+## rule out sth:
+1. **rule out an idea/a plan**
+e.g. Orange (ORAN), the largest telecoms operator in France, on Friday `ruled out` using Huawei equipment in its core 5G network in the country. "We don't foresee calling on Huawei for 5G," Orange CEO Stephane Richard said Friday. "We are working with our traditional partners — they are Ericsson and Nokia."
+2. **rule out the possibility of xxx; upend the possibility of sth**
+
+## to pretend something, especially in order to achieve what you want in a difficult or dangerous situation
+虚张声势，吓唬；欺骗
+•
+You wouldn’t really tell her. You’re bluffing! 你不会真的告诉她吧，你在吓唬我！
+•
+‘I was with Don,’ she said, deciding to bluff it out (= continue to pretend something ) . 她决定装到底，就说:“我是和唐在一起。”
+bluff your way out of/through/past etc sb/sth (=go somewhere or succeed in doing something by deceiving someone)骗过某人出来/穿过/经过等；蒙混过关
+•
+I hope we’ll be able to bluff our way past the guard. 我希望我们可以骗过保安。
+bluff sb into (doing) sth (=make someone do something by deceiving them)骗某人做某事
+bluff 2  n.
+英
+MEANINGS 义项
+
+1.
+[C,U] an attempt to deceive someone by making them think you will do something, when you do not intend to do it
+虚张声势，吓唬
+→ double bluff
+•
+The threat was only a bluff. 这种威胁不过是吓唬人而已。
+•
+Whatever you say, you must do it. This isn’t a game of bluff . 不管你说什么，你一定得去做，这可不是在唬人。
+2.
+call sb’s bluff
+to tell someone to do what they have threatened because you do not believe that they will really do it
+要求某人做其威胁要做的事〔因为不相信对方真的会那么做〕
+3.
+[C] a very steep cliff or slope
+峭壁，悬崖，陡岸
+
+
+## vet sth = check and monitor sth; vetted vetted
+
+
+
+## procurement
+e.g. "We are pursuing a multi-vendor strategy for the network elements used (manufacturers primarily Ericsson, Nokia, Cisco, Huawei)," it said in a statement. "Nevertheless we currently reevaluate our procurement strategy."
+
+
 ## 忙的脱不开身: `be tired up with sth`   
 * `be tired of sth = be weary of = be sick of = get fed up with sth`
 * `be tired up with sth` 忙的脱不开身  e.g. I am tied up with the '1 every 6 months' IBMCloud orders so I can't do this
