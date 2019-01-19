@@ -1,4 +1,6 @@
 # Not printed:  Brexit
+# Not study latest: https://edition.cnn.com/2019/01/16/uk/theresa-may-no-confidence-vote-brexit-intl-gbr/index.html
+# Not study latest:https://edition.cnn.com/2019/01/17/uk/may-brexit-battle-opposition-standoff-gbr-intl/index.html
 # Done https://edition.cnn.com/2018/11/18/uk/brexit-deal-may-raab-corbyn-gbr-intl/index.html
 # Not study yet:  https://edition.cnn.com/2018/11/17/uk/brexit-banks-bannon-gbr-intl/index.html
 # Not study yet: https://edition.cnn.com/2018/11/20/health/brexit-mental-health-antidepressants-study-intl/index.html

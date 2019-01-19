@@ -2,32 +2,49 @@
 # https://edition.cnn.com/2018/12/20/uk/gatwick-airport-drones-gbr-intl/index.html
 * https://edition.cnn.com/2018/12/28/business/luckin-coffee-china-starbucks/index.html
 
-# reprieve
-e.g. London's Gatwick Airport has been closed since 9 p.m. Wednesday -- bar a brief **reprieve** of 45 minutes early Thursday -- after drones were spotted near the airfield. Passengers due to fly on Thursday evening or Friday were being told not to go to the airport without first checking the status of the flight with the appropriate airline. Police were still on the hunt for the drone operators who have **brought the airport to a standstill 把机场给搞瘫痪了**, causing travel `chaos/turmoil/ferment/unrest` for hundreds of thousands of passengers just days before Christmas.
+# sb. be reprieved
+## Noun) a reprieve;  [give/grant sb a reprieve: 给了<某人>死刑撤销令/死刑暂缓令]
+* **get a reprieve from xx**: a delay before something bad happens or continues to happen; -COUNT A reprieve is a delay before a very unpleasant or difficult situation which may or may not take place. 暂缓; 暂缓令
+e.g. Shoppers will `get a temporary reprieve 暂缓令 from` the new sales tax.
+e.g. It looked as though the college would have to shut, but this week it was given `a reprieve`.  看上去这所学院将不得不关闭，但本周却收到了暂缓令
+* **give/grant sb a reprieve**: an official order stopping the killing of a prisoner as a punishment 死刑撤销令；死刑暂缓令
+e.g. The US Supreme Court voted against `granting Smith a reprieve (= against giving him one )`. 给<史密斯>死刑暂缓令
+e.g. A man awaiting death by lethal injection has been saved by `a last-minute reprieve`.  因为最后一刻的缓刑而获救
+V.S.
+* **convict sb. of a crime V.S. acquit sb. of a crime /əˈkwɪt/**
+V-T 宣判…无罪, 当庭释放 If someone `is acquitted of a crime in a court of law`, they are formally declared not to have committed the crime and are vindicated innocent.  e.g. He was acquitted of `attempted murder 谋杀未遂` in the court of law.
 
-# vindicate sb./ˈvɪndɪˌkeɪt/
-1. vindicate sb. = provide **compelling evidences** to prove that someone who was blamed for something is in fact not guilty, is innocent 证明…无辜[无罪]
-e.g. The charges are false, and we are sure we will be vindicated in court. 指控不实，我们确信法庭``会证明我们是无辜的``。
-2. V-T If a person or their decisions, actions, or ideas are vindicated, they are proved to be correct, after people have said that they were wrong. 证明是正确的 = SYN JUSTIFY
-•  The director said he had been vindicated by the experts' report.  主任说专家们的报告证明他是正确的。
-to prove that someone or something is right or true
-e.g. The decision to advertise has been vindicated by the fact that sales have grown. 销售增长的事实证明做广告宣传的决定是正确的。
-3. DERIVATIVE 派生词  vindication
+## Verb) sb. be reprieved v. [T usually passive 一般用被动态]
+1.  V-T If someone who has been sentenced in a court `is reprieved`, their punishment is officially delayed or cancelled. (被判) 缓刑; 撤销 (刑罚)
+•  Fourteen people, waiting to be hanged for the murder of a former prime minister, `have been reprieved. 获得缓刑`
+2. to change a decision to close a factory, school etc or get rid of something 取消"关闭〔工厂、学校等〕"；暂时推迟"关闭〔工厂、学校等〕"
+e.g. **London's Gatwick Airport** has been closed since Wednesday -- bar a brief **reprieve** of 45 minutes early Thursday -- after drones were spotted near the airfield. Police were still on the hunt for the drone operators who have **brought the airport to a standstill 把机场给搞瘫痪了**, causing travel `chaos/turmoil/ferment/unrest` for hundreds of thousands of passengers just days before Christmas.    //**把trafffic给搞瘫痪了: bring the city traffic to a standstill**
 
-# benefit/holiday/pension etc entitlement; entitlement to xxx
+# 证明…无辜[无罪] vindicate sb./ˈvɪndɪˌkeɪt/
+1. vindicate sb. = provide **compelling evidences 强有力的可以说服人的证据 and smoking gun 确凿的证据** to prove that someone who was blamed or convicted (宣告…有罪) for something is in fact not guilty and is innocent.
+e.g. The charges are false, and we are sure that `we will be vindicated in court`. 我们确信法庭``会证明我们是无辜的``。
+* **（在法庭上）宣判sb.有罪 convict sb. of a crime (in the court of law) V.S. acquit sb. of a crime /əˈkwɪt/**: （在法庭上）宣判sb.无罪, 当庭释放 If someone `is acquitted of a crime in a court of law`, they are formally declared not to have committed the crime and `are vindicated innocent`.  e.g. He was acquitted of `attempted murder 谋杀未遂` in the court of law.
+2. V-T 证明<某人的决定/行为/想法>是正确的 If `a person's decisions, actions, or ideas are vindicated or justified`, they are proved to be correct, after people have said that they were wrong.
+e.g. The director said `his idea had been vindicated` by the experts' report.  主任说专家们的报告证明他是正确的。
+e.g. `The decision to advertise on this brand-new product has been vindicated` by the fact that sales have grown.  事实证明做广告宣传的决定是正确的。
+3. DERIVATIVE 派生词  vindication 英 [,vɪndɪ'keɪʃən]  美 [,vɪndə'keʃən]
+
+## 确凿的证据; 确证证据 **a smoking gun: a piece of compelling evidence**
+N-COUNT A smoking gun is a piece of **compelling evidence 强有力可以说服人的证据** that proves that something is true or that someone is responsible for a crime.
+•  We haven't found a smoking gun to sue him. 在其它方面还没有找到能证明他参与此非法交易的确凿证据。
+
+# 可享受的福利 benefit entitlement; 可享受的带薪年假 the paid holiday entitlement;  可享受的退休金 pension entitlement; entitlement to xxx
 the official right to have or do something, or the amount that you have a right to receive 〔拥有或获得某物的〕权利；应得的数额
-[+ to]
-• Do you need advice on your entitlement to state benefits? 关于你可享受的国家津贴，你是否需要一些建议？
-• The paid holiday entitlement is 25 days. 可享有的带薪假期为25天
+• Do you need advice on your **entitlement to the state benefits 可享受的国家津贴**
+• **The paid holiday entitlement** for an IBM regular employee is 18 days. Well, because i'm working on-call, I have additional 10 days (**or so/give or take**) of **entitlement to the paid holiday**  可享有的带薪假期为25天
 
-# 现成的[地]: off-the-shelf e.g. off-the-shelf database software 现成的数据库软件
+# 现成的[地]: off-the-shelf [现成的数据库软件: off-the-shelf database software]
 off-the-shelf: already made and available in shops rather than being designed especially for a customer.
 
-
-# 把交通给搞瘫痪了: bring the traffic to a standstill  
+# 把交通给搞瘫痪了: bring the traffic to a standstill; bring the airport to a standstill
 e.g. London's Gatwick Airport has been closed since 9 p.m. Wednesday -- bar a brief **reprieve** of 45 minutes early Thursday -- after drones were spotted near the airfield. Passengers due to fly on Thursday evening or Friday were being told not to go to the airport without first checking the status of the flight with the appropriate airline. Police were still on the hunt for the drone operators who have **brought the airport to a standstill 把机场给搞瘫痪了**, causing travel `chaos/turmoil/ferment/unrest` for hundreds of thousands of passengers just days before Christmas.
 
-# sightseeing /ˈsaɪtˌsiːɪŋ/   [sightseeing bus 观光车]
+# sightseeing /ˈsaɪtˌsiːɪŋ/  [sightseeing bus 观光车; 观光，游览 go some sightseeing or do some sightseeing]
 N-UNCOUNT If you **go sightseeing or do some sightseeing**, you travel around visiting the interesting places that tourists usually visit； when you visit famous or interesting places, especially as tourists 〔尤指游客的〕观光，游览
 •  ...a day's sight-seeing in Venice.  …在威尼斯的一日游。
 
@@ -45,6 +62,14 @@ N-UNCOUNT If you **go sightseeing or do some sightseeing**, you travel around vi
 e.g. They were very grateful and **thanked me profusely**.  他们非常感激，不停地谢我
 e.g. "I would like to repeat how sorry we are for the inconvenience this criminal behaviour has caused passengers and we share their real anger and frustration that it has happened," the airport CEO `apologized to passengers profusely`.
 5. DERIVATIVE 派生词: profusely adv; profuseness n [U]
+
+
+# interpolation /ɪnˌtɜːpəˈleɪʃən/
+N-COUNT An interpolation is an addition to a piece of writing. 补充部分
+•  The interpolation appears to have been inserted very soon after the original text was finished.
+ 看起来，补充部分是在原文完成不久后就被插入了。
+e.g. Before queries are sent to your data source the query is interpolated, meaning the variable is replaced with its current value. During interpolation the variable value might be escaped in order to conform to the syntax of the query language and where it is used. For example, a variable used in a regex expression in an InfluxDB or Prometheus query will be regex escaped. Read the data source specific documentation article for details on value escaping during interpolation
+
 
 # tamper with a file:篡改文件; tamper with the evidence:篡改证据
 1. to touch something or make changes to it without permission, especially in order to deliberately damage it or distort it.  胡乱摆弄；擅自改动〔尤指为了故意损坏〕V-I If someone **tampers with something**, they interfere with it or try to change it when they have no right to do so. 干涉; 篡改
@@ -178,9 +203,7 @@ e.g. Here comes clear strategies to `expedite the decision-making process 加快
 e.g. The iPhone has been Apple's chief `moneymaker/cash cow` for years, accounting for nearly 60% of Apple's total sales in the three months ending in September.
 
 
-
 # overtake sb.; overtake a nation/country;  pt: overtook   pp: overtaken
-MEANINGS 义项
 1. [I,T] to go past a moving vehicle or person because you are going faster than them and want to get in front of them 追上；超过〔汽车或人〕
 • He pulled out to overtake the van. 他把车驶出所在车道想超过那辆小货车。
 • Never try to overtake on a bend. 绝不要在转弯处超车。
@@ -200,6 +223,21 @@ A terrible sense of panic overtook him. 他突然产生了一种可怕的惊慌�
 be overtaken by sth
 •
 She was overtaken by emotion and started to cry. 她突然情绪激动，哭了起来
+
+# prime time      
+N-UNCOUNT Prime time television or radio programmes are broadcast when the greatest number of people are watching television or listening to the radio, usually in the evenings. 黄金时段
+•  ...a prime-time television show.
+ …一个黄金时段的电视节目。
+ the time in the evening when the largest number of people are watching television
+〔电视的〕黄金时间，收视高峰时间
+•
+a prime time entertainment programme 黄金时间播放的娱乐节目
+•
+prime time television 黄金时段的电视
+•
+prime time audiences 高峰时段的电视观众
+•
+a speech that was broadcast live during prime time 黄金收视时间直播的演讲
 
 # 擦，拭 wipe sth off sth
 REMOVE DIRT 去除污垢 [T always + adv/prep] to remove liquid, dirt, or marks by wiping

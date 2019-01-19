@@ -19,7 +19,7 @@ e.g. .. President Donald Trump **decried/denounced/point fingers at  his politic
 • See, those hippos ['hɪpəʊ] are `wallowing in the mud` 在泥浆中打滚的河马
 3. if a ship or boat wallows, it moves with difficulty through a rough sea 〔船只在大浪中〕颠簸前进
 
-# sb's demeanor [di'mi:nə] 〔反映某人性格特点的〕 风度举止，外表，风度; 大家风范 demeanor
+# sb's demeanor [di'mi:nə] 〔反映某人性格特点的〕风度举止，外表，风度; 大家风范 demeanor
 demeanour /dɪˈmiːnə/: N-UNCOUNT Your demeanour is the way you behave, which gives people an impression of your character and feelings. 行为; 态度; the way someone behaves, dresses, speaks etc that shows what their character is like 〔反映某人性格特点的〕 风度举止，外表，风度; 大家风范
 e.g. ...her calm and cheerful demeanour.  …她那冷静乐观的态度。
 e.g. his quiet, reserved, introvertive [,ɪntrəʊ'vɜːtɪv] demeanour 他少言寡语、含蓄的举止
