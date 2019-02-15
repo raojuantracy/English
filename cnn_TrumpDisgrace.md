@@ -3,6 +3,216 @@ N-COUNT If you accuse someone of being `a hypocrite /ˈhɪpəkrɪt/`, you mean t
 e.g. The magazine wrongly suggested he was a liar and **a hypocrite**.  该杂志错误地暗示他是个骗子和伪君子。
 e.g. .. President Donald Trump **decried/denounced/point fingers at  his political opponents** as preparing for "presidential harassment ['hærəsm(ə)nt; hə'ræsm(ə)nt]" once they gain control of the House in January. Describing the opposing party as **hypocrites /ˈhɪpəkrɪt/伪君子，伪善的人〔含贬义)** for what he claimed was onetime support for a border wall, Trump **transitioned sharply into a screed /skriːd/ 冗长的文章，长篇大论〔含贬义** on Comey, who he fired early in his term. "Everybody hated Comey, they thought he did a horrible job. The Democrats hated him. They were calling for his resignation. They were calling for his firing," Trump said. Some Democrats faulted Comey for his handling of the investigation into Hillary Clinton's emails. Later, Trump's firing of Comey was viewed by many Democrats as a way to short-circuit the FBI's investigation into Russian election **meddling**. "Once I fired him, everybody said, 'Oh, why did you fire him, why did you fire him?'" Trump said, waving his hands in **irritation**.
 
+# (crime/disease) is rampant V.S. school rampage
+## ['ræmpənt] rampant=widespread; rampantly; 比较级 more rampant; 最高级 most rampant
+1. if something bad, such as crime or disease, is rampant, there is a lot of it and it is very difficult to control because it's widespread. 〔犯罪、疾病等〕猖獗的，泛滥的，失控的
+e.g. `Pickpocketing 扒窃 and purse-snatching 抢钱包` is rampant in the downtown area. 闹市区扒窃活动猖獗。
+e.g. rampant inflation 失控的通货膨胀
+2. a plant that is rampant grows and spreads quickly, in a way that is difficult to control 〔植物〕过于繁茂的
+3. DERIVATIVE 派生词: rampantly adv
+V.S.  **校园暴乱：schoool rampage**
+## rampage
+1. Verb) **rampage through a place**: to rush about in groups, acting in a wild or violent way 横冲直撞
+e.g. Drunken football fans **rampaged through the streets**. 喝醉酒的足球迷在街上横冲直撞。
+2. Noun) **on the rampage**: rushing about in a wild and violent way, often causing damage 横冲直撞
+[**在<地方>横冲直撞: go on the rampage through a place**]
+e.g. There are gangs of youths **on the rampage** 一伙伙横冲直撞的年轻人
+e.g. Rioters **went on the rampage through the town**. 暴徒在镇上横冲直撞。
+3. **schoool rampage: 校园暴乱**
+
+# bargain V.S. haggle
+## bargain
+1. **Noun) 便宜货，减价品** a bargain is something you buy cheaply or for less than its usual price
+• "Can I see some **budget options　便宜的选择**?" "Well, There are no **bargains 没有什么便宜货** in the clothes shops at the moment."
+• That second-hand table was **a real bargain** . 那张二手的桌子非常便宜。
+• Good watches don't come **at bargain prices**. 好表不会便宜。
+2. a bargain: is an agreement, made between two people or groups to do something in return for something else 协议；交易
+e.g. **I’ve kept my side of the bargain** and I expect you to keep yours. 我履行了我的承诺，希望你也履行你的承诺。
+[**就xxx问题达成了协议: make a bargain overs sth; strike a bargain over sth**]
+e.g. Management and unions **have struck a bargain over** wage increases. 资方和工会 **就<加薪>问题达成了协议**。
+3. [**into the bargain: 而且还xxx**]: in addition to everything else 此外，外加，而且
+e.g. I am now tired, cold, and hungry, with a headache **into the bargain 而且还xxx**。
+4. Verb) **就<xxx>进行商谈;讨价还价; 讲价钱: bargain for sth/over sth = haggle over sth**: to discuss the conditions of a sale, agreement etc, for example to try and get a lower price
+e.g. bargain for better pay = haggle for better pay 要求提高薪水的工人
+e.g. They **bargained over/haggled over** the level of wages. 他们 就<工资水平>进行商谈。
+e.g. Privately, Trump has cast GOP's dealmaking efforts as inadequate and wondered why he, an experienced dealmaker, wasn't consulted at more regular intervals as the two sides **haggled over an agreement**.
+5. 和sb.进行商谈; 讨价还价 **bargain with sb= haggle with sb.**
+e.g. bargain/haggle with traders 和商贩讨价还价
+6. bargain for sth: to expect that something will happen and make it part of your plans 考虑到xxx，估计到预料到xxx
+e.g. They hadn’t **bargained for such a dramatic change** in the weather. 他们没有料到天气会有如此大的变化。
+e.g. The thief got more than he bargained for , as Mr Cox tripped him up with his walking stick. 小偷始料未及，考克斯先生竟用拐杖把他绊倒在地上。
+7. bargain on doing sth
+I hadn’t bargained on being stuck in traffic on the way home.我没有料到回家路上会遇到堵车。
+8. DERIVATIVE 派生词  谈判对手 bargainer n [C]
+e.g. He’s the hardest bargainer in the business. 他是这一行业里最强硬的谈判对手
+
+## haggle /ˈhæɡəl/ = bargain
+1. V-RECIP If you haggle, you argue about something before reaching an agreement, especially about the cost of something that you are buying. 争论 (尤指讨价还价)  
+* **haggle over the price**
+* **就<xxx>进行商谈;讨价还价; 讲价钱: haggle over sth = bargain overs sth**
+* **haggle with sb.=bargain with sb. 和sb.进行商谈; 讨价还价**
+e.g. Ella showed her the best places to go **for a good buy**, and taught her how to **haggle with used furniture dealers. 与二手家具商讨价还价**
+e.g. Of course I'll still **haggle over the price 讨价还价**.
+e.g. Yet the end of one battle only seemed to be the beginning of another. Instead of **haggling over government funding**, the fight will turn to a debate over presidential power and possible executive overreach.
+2. N-UNCOUNT **haggling 讨价还价**
+•  After months of **haggling**, they recovered only three-quarters of what they had lent. 经过数月的讨价还价，他们仅收回了借出的3/4
+
+# consternate /'kɔnstə,neit/
+v. fill with anxiety, dread, dismay, or confusion
+After the terrorist attack, people look consternated;
+## Noun) 惊惶失措; 惊愕震惊/恐慌；consternation:/ˌkɒnstəˈneɪʃən/ N-UNCOUNT Consternation is a feeling of anxiety, worry, phobia, or fear. 恐慌  
+* **[ 引起了恐慌: cause consternation; 引起了相当大的恐慌: cause considerable consternation ]**
+* **[ 惊恐/惊惶失措地xxx: do sth in consternation ]**
+e.g. His decision **caused consternation** in the art photography community. 他的决定在艺术摄影界`引起了恐慌`。
+e.g. The government’s plans have **caused considerable consternation** among many Americans. `引起了相当大的恐慌`。
+e.g. McConnell's abrupt announcement Thursday that Trump would sign the spending package -- ahead of any official word from the White House on the President's position -- came after a day of **considerable consternation** among Republican lawmakers and administration officials about whether Trump would sign the bill.
+e.g.  **[惊恐/惊惶失措地xxx: do sth in consternation]** e.g. He looked at her **in consternation**. 他 惊恐/惊惶失措地 看着她
+
+# 仔细斟酌/深思熟虑〔问题、计划等〕 mull sth; mull sth over in your mind
+1. V-T If you **mull something**, you think about it, **deliberate it, ponder over it, ruminate on it** for a long time before deciding what to do. 仔细斟酌/深思熟虑〔问题、计划等〕
+* **mull sth(a plan/problem/proposal)**
+* **mull sth over in your mind**
+e.g. Last month, a federal grand jury began **mulling evidence** in the case. 仔细斟酌证据。
+e.g. Typically as you **mull these things over**, inspiration strikes once, so make sure you don't waste it! 通常当你对整个过程深思熟虑时，灵感会迸发出来，因此一定不要把这些灵感浪费了。
+e.g. As you **mull these questions over in your mind**, Brown-Volkman reminds professionals, "There are no right or wrong answers. 当你对这些问题深思熟虑的时候，
+2. V-T to heat (wine, ale, etc) with sugar and spices to make a hot drink 加糖和香料并烫热(葡萄酒、麦芽酒等)
+3. a mull is a promontory 岬; 海角
+e.g. He’s **mulling over the proposals** before making any changes. 实施变革之前他在反复考虑这些建议。
+e.g. The company is **mulling over a share offer**.
+
+# vet sth. pp: vetted   pt: vetted  = check sth    V.S.   vent sb's mood　发泄　
+
+# back away from sth:  躲开；（由于恐惧或厌恶等）后退; 退出放弃
+e.g. So back away from the potato chips, put the soda down, and read the label on that can of soup you were planning on having for lunch. 你最好离炸薯条远点
+e.g. In the hours leading up to the vote, the President phoned GOP allies on Capitol Hill to ask their advice and vent at some of the bill's shortcomings, leading many to believe he was **backing away from 退出放弃** his earlier support of the legislation, according to people familiar with the calls. Trump told multiple allies he was considering not signing the bill. He **huddled with** his **acting chief of staff　代理**, along with Homeland Security Secretary and legislative affairs director in the **Oval Office** on Thursday afternoon, as they intensely lobbied him to not **退出放弃back away from the bill**.     // **huddle with a group of people to discuss sth: [I] to sit or stand with a small group of people in order to discuss something privately; V-RECIP If people huddle in a group, they gather together to discuss something quietly or secretly. 〔一小群人凑在一起〕悄悄地或秘密地商讨**
+
+# potential snags　潜在的一些〔意料之外的〕小问题，小障碍; 潜在的一些小意料
+1. snag is a problem or disadvantage, especially one that is not very serious, which you had not expected 〔意料之外的〕小问题，小障碍 **[ 出了个小小的意外: hit/run into a snag ]**
+e.g. It’s an interesting job. The only snag is that it’s not very well paid. 这是一份有趣的工作，唯一的缺憾是工资不高。
+e.g. The grand opening **hit a snag** when no one could find the key. 盛大的开幕典礼上出了个小小的意外: 谁也找不到那把钥匙了。
+e.g. White House aides spent all morning trying to digest the details of the 1,100-page bill and flag **potential snags** to the President and to **Capitol Hill**. In briefings about the bill, the President expressed concern that something might be found buried in the measure after he signed it, leading to embarrassment.
+2. a part of a dead tree that sticks out, especially one that is under water and can be dangerous
+〔死树伸出水面的〕残桩；〔尤指水下死树的〕暗桩
+3. a sharp part of something that sticks out and holds or cuts things that touch it
+尖突部分
+
+# huddle
+1. [I,T] if a group of people **huddle together**, they stay very close to each other, especially because they are cold or frightened; 〔尤因寒冷或恐惧而〕（使）挤作一团，（使）聚成一堆；抱团取暖
+e.g. We lay huddled together for warmth. 我们紧紧挤在一起取暖／抱团取暖。
+e.g. Tired and lost, we **huddled together**.  又累又迷了路，我们挤在一起／抱团取暖
+e.g. People huddled around the radio, waiting for news. 人们聚集在收音机旁，等候消息。
+2. [I always + adv/prep] to lie or sit with your arms and legs close to your body because you are cold or frightened; V-I If you **huddle somewhere**, you sit, stand, or lie there holding your arms and legs close to your body, usually because you are cold or frightened. (由于寒冷或害怕而) 蜷缩,缩成一团
+• Mr. Pell huddled in a corner with his notebook on his knees.  佩尔先生缩在(缩成一团)一个角落里
+• She huddled under the blankets. 她盖着毯子缩成一团。
+• The snow blew against his huddled body. 雪花飘落在他蜷缩的身体上。
+3. [I] to sit or stand with a small group of people in order to discuss something privately; V-RECIP If people huddle in a group, they gather together to discuss something quietly or secretly. 〔一小群人凑在一起〕悄悄地或秘密地商讨
+•  Off to one side, Sticht, Macomber, Jordan, and Kreps **huddled to discuss something**.　 史蒂希特、麦康伯、乔丹和克雷普斯走到一边，私下商量起事情。
+e.g. In the hours leading up to the vote, the President phoned GOP allies on Capitol Hill to ask their advice and vent at some of the bill's shortcomings, leading many to believe he was **backing away from 退出放弃** his earlier support of the legislation, according to people familiar with the calls. Trump told multiple allies he was considering not signing the bill. He **huddled with** his **acting chief of staff　代理**, along with Homeland Security Secretary and legislative affairs director in the **Oval Office** on Thursday afternoon, as they intensely lobbied him to not **退出放弃back away from the bill**.  
+e.g.  The president has been huddling with his most senior aides. 总统一直在和他的顶级高级助理们 **秘密地聚到一起进行商谈**
+e.g. The executive board huddled to discuss the issue. 管理层 `聚在一起(悄悄地或秘密地)讨论` 那个问题。
+4. [I] if American football players huddle, they gather around one player who tells them the plan for the next part of the game 〔美式橄榄球队员〕靠拢〔听取指示〕
+5. Noun)
+* **a huddle of sth**: a group of people or things that are close together, but not arranged in any particular order, pattern, or system 紧紧聚在一起的一群人；杂乱的一堆东西
+a huddle of straw huts 一片杂乱的茅草屋; Huddles of men stood around talking. 男人们三五成群地站在那里说话。
+e.g. **Huddles of gossip girls** are talking something in the corner.
+* a huddle is a group of players in American football who gather around one player who tells them the plan for the next part of the game 〔美式橄榄球中〕聚拢听取战术指导的一群队员
+* [ **get/go into a huddle** ]: to form a small group away from other people in order to discuss something 私下商量，秘密商谈
+
+# wrangle /ˈræŋɡəl/  (wrangling wrangled wrangles) wrangle with sb. over sth.
+1. V-RECIP If you say that someone is **wrangling with someone over a question or issue**, you mean that they have been arguing angrily for a long time about it. (长时间的) 争吵/争辩
+e.g. The two sides have spent most of their time **wrangling over procedural problems**.  花了大部分的时间争论程序上的一些问题。
+e.g. They are still **wrangling over** ownership of the house. 他们仍在就房子的所有权问题争吵不休。
+2. a long and complicated argument 〔持久而复杂的〕争辩
+[+ over] a bitter wrangle over copyright 对版权问题的争论不休
+[+ with] He was involved in a long legal wrangle with his employers. 他和雇主陷入了一场长期的法律纠纷。
+e.g. Amid the **wrangling**, many of the President's senior advisers stressed he should sign the package to avoid another partial government shutdown, which they said would damage him politically. They said signing a national emergency declaration or some other type of executive action would **blunt whatever blowback** he received from conservatives.
+
+# overshoot the runway V.S. overreach yourself
+## overshoot, pp: overshot   pt: overshot
+1. to accidentally go a little further than you intended 〔意外地〕超过，驶过〔预定地点〕
+• The plane **overshot the runway** and plunged into a ditch. 飞机冲出跑道
+2. to spend more money than you had intended 超出〔预计费用〕**[ overshoot the budget ]**
+• The school has **overshot its cash limit**. 这所学校的开支超出了预计的现金额度
+## overreach; overreach yourself: to try to do more than you have the power, ability, or money to do 试图做一些超出自己能力之外的／力所不及之事
+e.g. The company overreached itself financially. 该公司的做法超出其经济实力。
+e.g. But many administration officials expect any unilateral action to secure the funding to be met with legal challenges, and McConnell had said previously he would oppose such a move, citing presidential **overreach**.
+
+# gripe /ɡraɪp/ V.S. grope   
+## gripe
+1. V-I If you say that someone is griping, you mean they are annoying you because they keep on complaining about something. 不停地抱怨
+e.g. Why are football players griping when the average salary is half a million dollars?  为什么足球运动员平均薪水50万美元还总是发牢骚呢？
+e.g. Joe came in griping about how cold it was. 乔走进来，抱怨天气太冷。
+2. N-UNCOUNT 抱怨 •  Still, the griping went on.   怨声仍旧不止。
+3. N-COUNT A gripe is a complaint about something. 抱怨
+e.g. **My only gripe is** that one main course and one dessert were unavailable.   我惟一的不满是还差一道主食和一份甜点
+e.g. **My main gripe** was the price of refreshments. 我主要的不满是茶点太贵
+4. 胃绞痛 the gripes: old-fashioned sudden bad stomach pains
+
+##  [ɡrəʊp] grope for sth
+1. [I] **grope for sth** to try to find something that you cannot see by feeling with your hands 〔在黑暗中〕摸索
+e.g. Ginny **groped for her glasses** on the bedside table. 金尼在床头柜上摸着找眼镜。
+e.g. We **groped around** in the darkness. 我们在黑暗中摸索。
+2. [I,T] to go somewhere by feeling the way with your hands because you cannot see 〔因看不见而用手〕摸索着走
+grope your way along/across etc
+e.g. I was groping my way blindly through the trees. 我像瞎子似的在树丛中摸索着往前走。
+e.g. Ally groped steadily towards the door. 艾丽摸索着稳步朝门口走去。
+3. **grope for (right words, solution)**:  to try hard to find the right words to say or the right solution to a problem but without any real idea of how to do this 努力寻找〔恰当的言辞或正确的解决办法〕
+e.g. She hesitated, seeming to **grope for words**. 寻找恰当的词语。
+4. [T] informal to move your hands over someone’s body to get sexual pleasure, especially when they do not want you to do this 爱抚〔尤指当对方不愿意的时候
+
+# ['saɪdlaɪn] sidelines
+1. [C] an activity that you do as well as your main job or business, in order to earn more money 副业，兼职 **as a sideline**
+• Zoë does a bit of freelance photography **as a sideline**. 佐薇兼职做点自由摄影。
+2. on the sidelines: not taking part in an activity even though you want to or should do 袖手旁观,置身事外 **[ stand/stay/remain etc on the sidelines ]**
+e.g. Privately, Trump has cast GOP's dealmaking efforts as inadequate and wondered why he, an experienced dealmaker, wasn't consulted at more regular intervals as the two sides **haggled/bargain over an agreement**. The White House acted largely **on the sidelines 袖手旁观,置身事外** while congressional negotiators struck a deal.
+e.g. You can’t **stay on the sidelines** for ever; it’s time you got involved. 你不能一直袖手旁观。
+3. sidelines [plural,复数] the area just outside the lines that form the edge of a sports field 〔球场等的〕界外区域，场外
+e.g. Wenger stood on the sidelines shouting instructions. 温格站在场外大声发出指示。
+4. **[on the sidelines of a summit; on the sidelines of a meeting: 于会议期间；非正式会议期间]**
+e.g. He spoke `on the sidelines of a meeting` of envoys from the Group of Eight major industrialized nations today
+e.g. Wen told Hong Kong's Phoenix TV on Thursday evening `on the sidelines of a meeting` with Middle Eastern government ministers in Tianjin.
+e.g. Prime Minister Singh met with his Pakistani counterpart, Yousuf Raza Gilani, last month `on the sidelines of a regional summit 峰会间隙` in Bhutan.
+e.g. Officials on both sides said Obama and Medvedev also discussed Iran's nuclear program and Afghanistan during their 90-minute talks `on the sidelines of a regional summit`. 两位总统 会晤期间 还探讨了伊朗核问题及阿富汗问题。
+
+# Bottom line, I don't want to see my team **spinning their wheels** due to lack of information.
+
+# in conjunction with sth: 顺便xx; 连同带者 xxx;
+e.g. President Donald Trump plans to sign a compromise border security measure **in conjunction with** declaring a national emergency to secure funding for a border wall, ending for now a bitter standoff with Congress over his signature campaign promise but likely sparking a new constitutional dispute.
+
+# some issue is surfaced 问题浮出水面
+e.g. Potential **issues are surfaced 使浮出水面** early and can be resolved earlier.
+
+# 忍了吧；忍耐一下; 别抱怨；算了吧 suck it up
+e.g. If you’ve had a fight, and they do happen, either **make up or suck it up. 要么去弥补要么忍耐一下**
+
+# tenets /ˈtɛnɪt/  The tenets of a theory or belief are the main principles on which it is based. (理论、信仰的) 基本原则
+•  Non-violence and patience are the central **tenets of their faith 信仰的基本原则.**
+
+# [fɔː'ɡəʊ]  pt: forwent   pp: forgone   pres part: forgoing
+forgo sth: go without something pleasant or enjoyable [T] to not do or have something pleasant or enjoyable 摒绝，放弃〔美好的东西〕
+e.g. I had to forgo lunch. 我只得放弃午餐。
+
+# upend sth /ʌpˈɛnd/ **upend the possibility of sth:    V.S. rule out the possibility of xxx **
+V-T If you upend something, you turn it upside down. 颠倒
+•  He **upended the beer**, and swallowed.   他把啤酒倒出来，大口喝了。
+e.g. Japan began celebrating Valentine's Day in 1958, after Japanese confectionery firm Mary Chocolate ran a campaign suggesting that women give men chocolates. That **upended the West's version** of February 14, when men typically buy their loved ones flowers and chocolates and take them out for dinner.
+
+# patriarchy ['peɪtrɪɑːkɪ]  ['petrɪɑrki]    
+1. N-UNCOUNT Patriarchy is a system in which men have all or most of the power and importance in a society or group. (男性)家长制度; 族长制度; 父权制度
+•  The main cause of women's and children's oppression is patriarchy ['peɪtrɪɑːkɪ]  ['petrɪɑrki] .  妇女及儿童受欺压的主要根源在于父权制度。
+2. N-COUNT A patriarchy is a patriarchal society. 父权社会
+e.g. On February 14, the nation's female workers are expected to give "giri choco," or obligation chocolates, to their male colleagues. Women are also expected to buy heartfelt chocolates, "honmei choco," for their crushes or loved one. "Valentine's Day (in Japan) got turned upside down to become a symbol of the Japanese **patriarchy ['peɪtrɪɑːkɪ]  ['petrɪɑrki]** ," said Jeff Kingston, a Japan expert at Temple University in Tokyo.
+
+#  reflexes
+1. reflexes [plural]  **have good/quick/slow reflexes**
+the natural ability to react quickly and well to sudden situations 反应能力
+• A tennis player needs to have very quick reflexes. 网球运动员需要反应迅速。
+a sudden uncontrolled movement that your muscles make as a natural reaction to a physical effect 〔生理上的〕反射动作，反射作用
+• Doctor Mulholland tested Jennifer’s reflexes (= especially by hitting her knee with a special rubber hammer ) . 马尔霍兰医生检查了珍妮弗的反射反应。
+2. reflex action
+e.g. something that you do without thinking, as a reaction to a situation 下意识的动作；本能反应
+
+
 # a screed /skriːd/ 冗长的文章，长篇大论〔含贬义)
 * literal: 冗长的文章，长篇大论〔含贬义): N a screed is a long or prolonged speech or piece of boring writing 冗长的演讲(或文章) – used to show disapproval
 * figurative: a screed indicates a problem is going for a pretty long time and cann't be resolved

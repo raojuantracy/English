@@ -8,6 +8,41 @@
 
 ## GBR: 英国（Great Britain）
 
+# mediocre /ˌmiːdɪˈəʊkə/
+mediocre: not very good 一般的，平凡的，平庸的 ADJ If you describe something as mediocre, you mean that it is of average quality but you think it should be better. 平庸的
+[**a mediocre student 能力一般的学生； two mediocre comedies：能力一般的演员**]
+e.g. His school record was mediocre.  他的学业成绩一般。
+e.g. I thought the book was pretty mediocre. 我认为这本书非常一般。
+
+# holistic education; a holistic approach:整体方法 [həʊ'lɪstɪk]
+1. considering a person or thing as a whole, rather than as separate parts 整体（论）的，全面的
+[**a holistic approach to design 设计的整体方法**]
+2. **holistic medicine/treatment/healing etc**:  medical treatment based on the belief that the whole person must be treated, not just the part of their body that has a disease 整体医学/治疗/疗法等
+e.g. DevOps adoption has produced several principles that have evolved over time and are still evolving. Most solution providers have developed their own variants. All these principles take **a holistic approach** to DevOps, and organizations of all sizes can adopt them.
+
+# swanky /ˈswæŋkɪ/ (swankier; swankiest)
+ADJ If you describe something as swanky, you mean that it is fashionable and expensive. 时尚的; 奢华的 [**a swanky condo /ˈkɒndəʊ/ 豪华的公寓大厦; a swanky hotel**]
+•  ...one of the swanky hotels that line the Pacific shore at Acapulco. ...位于太平洋沿岸的阿卡普尔科的豪华酒店之一
+
+# 引人深思的事 "food for thought"
+* as my second thought 再三想一下
+
+# cumulative /ˈkjuːmjʊlətɪv/
+ADJ If a series of events have a cumulative effect, each event makes the effect greater. 累积的; increasing gradually as more of something is added or happens 积累的，渐增的
+**cumulative effect (of sth): 日积月累引起的**
+e.g. Depression is often caused by the **cumulative effects of** stress and overwork. 抑郁症通常是由压力和过度劳累日积月累引起的
+e.g. Learning is a cumulative process. 学习是个逐渐积累的过程。
+e.g. It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
+
+
+# pamphlet /ˈpæmflɪt/    
+N-COUNT A pamphlet is a very thin book with a paper cover that gives information about something. 小册子
+•  ...a pamphlet about smoking.  …一本关于吸烟的小册子
+
+# 英 ['ɒvjʊleɪt,'ɒvjəleɪt] ovulate, ovulation; ovulating
+when a woman or female animal ovulates, she produces eggs inside her body 排卵
+DERIVATIVE 派生词 ovulation n /͵ɑvjuˋleʃən ; ‚ɒvjʊ'leɪʃən,‚ɒvjə'leɪʃən / [U]
+
 ## spark international outrage/spark national outrage
 e.g. May was speaking at the end of a hecticly 忙碌的 `tumultuous` week in which she presented her draft agreement on how the UK would leave the EU, a deal that `sparked` multiple resignations from her government. (Replacing me) is not going to make the (Brexit) negotiations any easier and it won't change the parliamentary `arithmetic`," she added. //**hectic: very busy***
 
@@ -22,6 +57,13 @@ very loud because people are happy and excited 嘈杂的，吵闹的，喧哗的
 • He received a tumultuous welcome. 他受到了热烈欢迎。
 **tumultuous applause V.S. rapturous applause 热烈的掌声; rapturous welcome 热烈的欢迎**
 e.g. May was speaking at the end of a hecticly 忙碌的 `tumultuous` week in which she presented her draft agreement on how the UK would leave the EU, a deal that `sparked` multiple resignations from her government. (Replacing me) is not going to make the (Brexit) negotiations any easier and it won't change the parliamentary `arithmetic`," she added.   //**hectic: very busy***
+
+## grapevine /ˈɡreɪpˌvaɪn/  注意发音
+1. N-SING If you hear or learn something on or through the grapevine, you hear it or learn it in casual conversation with other people. (消息、传闻等的) 私下传播途径
+•  I had heard through the grapevine that he was quite critical of what we were doing.  我已经私下听说他对我们的工作十分挑剔。
+[**hear sth on the grapevine**] to hear about something because the information has been passed from one person to another in conversation 从传闻听到某事
+I heard about his resignation on the grapevine. 他辞职的事我是从小道消息听来的。
+2. a climbing plant on which grapes grow 葡萄藤
 
 ## metal scrap
 英 [skræp]
