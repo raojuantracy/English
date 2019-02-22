@@ -1,7 +1,8 @@
-# hypocrite /ˈhɪpəkrɪt/伪君子，伪善的人〔含贬义〕 plural: hypocrites
-N-COUNT If you accuse someone of being `a hypocrite /ˈhɪpəkrɪt/`, you mean that they pretend to be morally good, to have qualities, beliefs, or feelings that they do not really have. someone who pretends to have certain beliefs or opinions that they do not really have – used to show disapproval 伪君子，伪善的人〔含贬义〕
-e.g. The magazine wrongly suggested he was a liar and **a hypocrite**.  该杂志错误地暗示他是个骗子和伪君子。
-e.g. .. President Donald Trump **decried/denounced/point fingers at  his political opponents** as preparing for "presidential harassment ['hærəsm(ə)nt; hə'ræsm(ə)nt]" once they gain control of the House in January. Describing the opposing party as **hypocrites /ˈhɪpəkrɪt/伪君子，伪善的人〔含贬义)** for what he claimed was onetime support for a border wall, Trump **transitioned sharply into a screed /skriːd/ 冗长的文章，长篇大论〔含贬义** on Comey, who he fired early in his term. "Everybody hated Comey, they thought he did a horrible job. The Democrats hated him. They were calling for his resignation. They were calling for his firing," Trump said. Some Democrats faulted Comey for his handling of the investigation into Hillary Clinton's emails. Later, Trump's firing of Comey was viewed by many Democrats as a way to short-circuit the FBI's investigation into Russian election **meddling**. "Once I fired him, everybody said, 'Oh, why did you fire him, why did you fire him?'" Trump said, waving his hands in **irritation**.
+# hypocrite /ˈhɪpəkrɪt/ 注意发音: 伪君子，伪善的人〔含贬义〕 plural: hypocrites
+V.S. **scum: 1. an unpleasant dirty substance that forms on the surface of water〔液体表面的〕浮沫，浮渣; scum: a nasty unpleasant people 社会渣滓，人渣**
+N-COUNT If you accuse someone of being `a hypocrite /ˈhɪpəkrɪt/`, you mean that they pretend to be morally good, to have decent正直的正派的 qualities, beliefs, or feelings that they do not really have. A hypocrite is someone who pretends to have certain decent正直的正派的 beliefs or opinions that they do not really have – used to show disapproval 伪君子，伪善的人〔含贬义〕
+e.g. You're such a liar and **a hypocrite**. 是个骗子和伪君子。
+e.g. .. President Donald Trump **decried/denounced/point fingers at his political opponents** as preparing for "presidential harassment ['hærəsm(ə)nt; hə'ræsm(ə)nt]" once they **have a grip/control on 〔对某人或某事物的〕控制** the House in January. Describing the opposing party as **hypocrites /ˈhɪpəkrɪt/ 注意发音 (君子，伪善的人)** for what he claimed was onetime support for a border wall, Trump transitioned sharply into **a screed /skriːd/ 冗长的文章，长篇大论〔含贬义)** on Comey, who he **sacked/fired解雇，开除** early in his term. "Everybody hated Comey, they thought he did a horrible job. They were calling for his resignation. They were calling for **giving his the sack解雇，开除**," Trump said. Some Democrats faulted Comey for his handling of the investigation into Hillary Clinton's emails. Later, Trump's firing of Comey was viewed by many Democrats as a way to short-circuit the FBI's investigation into Russian election **meddling**. "Once I **sack him**, everybody said, 'Oh, why did you fire him, why did you fire him?'" Trump said, waving his hands in **irritation**.      //**meddle in sth; a meddler**: to deliberately try to influence,intervene, or change a situation that does not concern you, or that you do not understand 管闲事; 干预，干涉；
 
 # (crime/disease) is rampant V.S. school rampage
 ## ['ræmpənt] rampant=widespread; rampantly; 比较级 more rampant; 最高级 most rampant
@@ -68,6 +69,13 @@ e.g. The government’s plans have **caused considerable consternation** among m
 e.g. McConnell's abrupt announcement Thursday that Trump would sign the spending package -- ahead of any official word from the White House on the President's position -- came after a day of **considerable consternation** among Republican lawmakers and administration officials about whether Trump would sign the bill.
 e.g.  **[惊恐/惊惶失措地xxx: do sth in consternation]** e.g. He looked at her **in consternation**. 他 惊恐/惊惶失措地 看着她
 
+# whet sb's appetite
+1. **whet sb’s appetite (for sth)**: PHRASE If someone or something whets your appetite for a particular thing, they increase your desire to have it or know about it, especially by giving you an idea of what it is like. 刺激(某人的)欲望; 引起某人(对某事物)的兴趣欲望
+•  A really good catalogue can also **whet customers' appetites** for merchandise.  一份非常好的商品目录也可以激起顾客的购买;
+e.g. The view from the Quai bridge had **whetted my appetite** for a trip on the lake. 从愧桥望过去的景色勾起了我到湖上一游的念头。
+e.g. Bangkok is an incredible city!  I’m sure many of you vacationed there before and came back with both body and mind relaxed and re-energized.  Today, I am excited to share a few more details that will definitely **whet your appetite**, and there’s also some photos that might refresh your memories or take you to this paradise virtually.
+2. literary to make the edge of a blade sharp 将〔刀刃〕磨快
+
 # 仔细斟酌/深思熟虑〔问题、计划等〕 mull sth; mull sth over in your mind
 1. V-T If you **mull something**, you think about it, **deliberate it, ponder over it, ruminate on it** for a long time before deciding what to do. 仔细斟酌/深思熟虑〔问题、计划等〕
 * **mull sth(a plan/problem/proposal)**
@@ -96,7 +104,7 @@ e.g. White House aides spent all morning trying to digest the details of the 1,1
 3. a sharp part of something that sticks out and holds or cuts things that touch it
 尖突部分
 
-# huddle
+# huddle together  〔尤因寒冷或恐惧而〕（使）挤作一团，（使）聚成一堆；抱团取暖
 1. [I,T] if a group of people **huddle together**, they stay very close to each other, especially because they are cold or frightened; 〔尤因寒冷或恐惧而〕（使）挤作一团，（使）聚成一堆；抱团取暖
 e.g. We lay huddled together for warmth. 我们紧紧挤在一起取暖／抱团取暖。
 e.g. Tired and lost, we **huddled together**.  又累又迷了路，我们挤在一起／抱团取暖
@@ -118,7 +126,7 @@ e.g. **Huddles of gossip girls** are talking something in the corner.
 * a huddle is a group of players in American football who gather around one player who tells them the plan for the next part of the game 〔美式橄榄球中〕聚拢听取战术指导的一群队员
 * [ **get/go into a huddle** ]: to form a small group away from other people in order to discuss something 私下商量，秘密商谈
 
-# wrangle /ˈræŋɡəl/  (wrangling wrangled wrangles) wrangle with sb. over sth.
+# wrangle /ˈræŋɡəl/  (wrangling wrangled wrangles) wrangle with sb. over sth: (长时间的) 争吵/争辩
 1. V-RECIP If you say that someone is **wrangling with someone over a question or issue**, you mean that they have been arguing angrily for a long time about it. (长时间的) 争吵/争辩
 e.g. The two sides have spent most of their time **wrangling over procedural problems**.  花了大部分的时间争论程序上的一些问题。
 e.g. They are still **wrangling over** ownership of the house. 他们仍在就房子的所有权问题争吵不休。
