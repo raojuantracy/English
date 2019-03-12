@@ -8,49 +8,10 @@
 
 ## GBR: 英国（Great Britain）
 
-# mediocre /ˌmiːdɪˈəʊkə/
-mediocre: not very good 一般的，平凡的，平庸的 ADJ If you describe something as mediocre, you mean that it is of average quality but you think it should be better. 平庸的
-[**a mediocre student 能力一般的学生； two mediocre comedies：能力一般的演员**]
-e.g. His school record was mediocre.  他的学业成绩一般。
-e.g. I thought the book was pretty mediocre. 我认为这本书非常一般。
-
-# holistic education; a holistic approach:整体方法 [həʊ'lɪstɪk]
-1. considering a person or thing as a whole, rather than as separate parts 整体（论）的，全面的
-[**a holistic approach to design 设计的整体方法**]
-2. **holistic medicine/treatment/healing etc**:  medical treatment based on the belief that the whole person must be treated, not just the part of their body that has a disease 整体医学/治疗/疗法等
-e.g. DevOps adoption has produced several principles that have evolved over time and are still evolving. Most solution providers have developed their own variants. All these principles take **a holistic approach** to DevOps, and organizations of all sizes can adopt them.
-
-# swanky /ˈswæŋkɪ/ (swankier; swankiest)
-ADJ If you describe something as swanky, you mean that it is fashionable and expensive. 时尚的; 奢华的 [**a swanky condo /ˈkɒndəʊ/ 豪华的公寓大厦; a swanky hotel**]
-•  ...one of the swanky hotels that line the Pacific shore at Acapulco. ...位于太平洋沿岸的阿卡普尔科的豪华酒店之一
-
-# 引人深思的事 "food for thought"
-* as my second thought 再三想一下
-
-# cumulative /ˈkjuːmjʊlətɪv/
-ADJ If a series of events have a cumulative effect, each event makes the effect greater. 累积的; increasing gradually as more of something is added or happens 积累的，渐增的
-**cumulative effect (of sth): 日积月累引起的**
-e.g. Depression is often caused by the **cumulative effects of** stress and overwork. 抑郁症通常是由压力和过度劳累日积月累引起的
-e.g. Learning is a cumulative process. 学习是个逐渐积累的过程。
-e.g. It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
-
-
-# pamphlet /ˈpæmflɪt/    
-N-COUNT A pamphlet is a very thin book with a paper cover that gives information about something. 小册子
-•  ...a pamphlet about smoking.  …一本关于吸烟的小册子
-
-# 英 ['ɒvjʊleɪt,'ɒvjəleɪt] ovulate, ovulation; ovulating
-when a woman or female animal ovulates, she produces eggs inside her body 排卵
-DERIVATIVE 派生词 ovulation n /͵ɑvjuˋleʃən ; ‚ɒvjʊ'leɪʃən,‚ɒvjə'leɪʃən / [U]
-
-## spark international outrage/spark national outrage
-e.g. May was speaking at the end of a hecticly 忙碌的 `tumultuous` week in which she presented her draft agreement on how the UK would leave the EU, a deal that `sparked` multiple resignations from her government. (Replacing me) is not going to make the (Brexit) negotiations any easier and it won't change the parliamentary `arithmetic`," she added. //**hectic: very busy***
-
-## tumultuous  /tjuːˈmʌltjʊəs/      
-1. ADJ A tumultuous event or period of time involves many exciting and confusing events or feelings. 激动的; 混乱的
-•  ...`the tumultuous /seismic changes` in Eastern Europe.   …东欧的剧变
-full of activity, confusion, or violence 混乱的，骚乱的，乱哄哄的
-• the tumultuous years of the Civil War 内战的动荡年代
+## (混乱的)剧变 tumultuous changes； 动荡混乱的年代：tumultuous years /tjuːˈmʌltjʊəs/      
+1. ADJ A tumultuous event or period of time involves many exciting and confusing events or feelings. 激动的; 混乱的； full of activity, confusion, or violence 混乱的，骚乱的，乱哄哄的
+•  ...`the tumultuous /seismic changes` in Eastern Europe.   …东欧的(混乱的)剧变
+• the **tumultuous years** of the Civil War 内战的动荡年代
 2. ADJ A tumultuous reaction to something is very noisy, because the people involved are very happy or excited. 欢腾的; 喧哗的
 •  A tumultuous welcome from a 2,000 strong crowd greeted the champion.  多达2千之众的人群热闹欢腾地迎接冠军
 very loud because people are happy and excited 嘈杂的，吵闹的，喧哗的
@@ -65,101 +26,52 @@ e.g. May was speaking at the end of a hecticly 忙碌的 `tumultuous` week in wh
 I heard about his resignation on the grapevine. 他辞职的事我是从小道消息听来的。
 2. a climbing plant on which grapes grow 葡萄藤
 
-## metal scrap
-英 [skræp]
-MEANINGS 义项
+# cause => 因果关系 causality /kɔːˈzælɪtɪ/
+N-UNCOUNT Causality is the relationship of cause and effect. 因果关系
+e.g. the chain of causality that produces an earthquake.  ...引起地震的因果关系链。
+e.g. there is no time, no space, no causality, no multiplicity. 它里面没有时间，没有空间，没有因果关系，没有多样性
+e.g. The tragedy follows the Lion Air flight that went down over the Java Sea in late October, killing all 189 people on board. There is no suggestion yet as to what caused the latest disaster, and no evidence that the two incidents are linked **in causality /kɔːˈzælɪtɪ/**.
 
-1.
-PAPER/CLOTH 纸/布
-[C] a small piece of paper, cloth etc
-小片，小块；碎屑
-THESAURUS PIECE
-→ see picture at 见 piece 1
-•
-a rug made out of old scraps of material 用旧零碎材料拼做的一块小地毯
-[+ of]
-•
-He wrote his address on a scrap of paper. 他把住址写在一张小纸片上。
-2.
-OLD OBJECTS 旧物
-[U] materials or objects that are no longer used for the purpose they were made for, but can be used again in another way
-废品，废弃材料
-•
-The equipment was sold for scrap . 这件设备被当成废品卖了。
-•
-(= metal from old cars, machines etc ) fetched high prices after the war. 战后，废金属卖到很高价钱。
-3.
-scraps
-FOOD 食物
-[plural,复数] pieces of food that are left after you have finished eating
-吃剩的东西，残羹剩饭
-•
-My mother fed the dog on scraps to save money. 我母亲为了省钱，用吃剩的东西喂狗。
-table/kitchen scraps 残羹剩饭/厨房泔脚
-4.
-INFORMATION 信息
-[C] a small amount of information, truth etc
-〔消息、事实等的〕一点点，点滴
-[+ of]
-•
-He obtained every scrap of information available. 他获得了所有可以得到的信息。
-•
-There isn’t a single scrap of evidence. 一点证据都没有。
-5.
-FIGHT 打架
-[C] informal a short fight or argument
-打架；争吵，吵架
-•
-He’s always getting into scraps with other dogs. 它老是和别的狗打起来。
-收起
-scrap 2  v.
-英
-pp: scrapped   pt: scrapped   pres part: scrapping
-MEANINGS 义项
+# 时尚奢华的 swanky /ˈswæŋkɪ/ (swankier; swankiest)
+ADJ If you describe something as swanky, you mean that it is fashionable, glorious, and expensive. 时尚奢华的 [**a swanky condo /ˈkɒndəʊ/ 时尚奢华的公寓大厦; a swanky hotel 时尚奢华的酒店**]
+•  ...one of the swanky hotels that line the Pacific shore at Acapulco. ...位于太平洋沿岸的阿卡普尔科的豪华酒店之一
 
-1.
-[T] to decide not to use a plan or system because it is not practical
-〔因不切实际而〕放弃，抛弃〔计划、体系〕
-•
-We believe that car tax should be scrapped. 我们认为汽车税应该取消。
-2.
-[T] to get rid of an old machine, vehicle etc, and use its parts in some other way
-把〔旧机器、旧汽车等〕当作废料处理，报废
-•
-Two aircraft carriers are being scrapped this year. 今年有两艘航空母舰要报废。
-3.
-[I] informal to have a short fight
-打架；吵架
+# mediocre /ˌmiːdɪˈəʊkə/
+mediocre: not very good 一般的，平凡的，平庸的 ADJ If you describe something as mediocre, you mean that it is of average quality but you think it should be better.
+[**a mediocre student 能力一般的学生； a mediocre comedy：能力一般的演员; I'm just a mediocre person 能力一般的人**]
+e.g. His school record was mediocre.  他的学业成绩一般。
+e.g. I thought the book was pretty mediocre. 我认为这本书非常一般。
 
-scrap /skræp/      |CET6 TEM4 (scrappingscrappedscraps)
-1.
-N-COUNT A scrap of something is a very small piece or amount of it. 小块; 碎片
-•  A crumpled scrap of paper was found in her handbag.
- 在她的手提包里找到了一张弄皱的小纸片。
-2.
-N-PLURAL Scraps are pieces of unwanted food which are thrown away or given to animals. 残羹剩饭
-•  ...the scraps from the Sunday dinner table.
- …周日餐桌上的残羹剩饭。
-3.
-V-T If you scrap something, you get rid of it or cancel it. 取消; 放弃
-•  President Hussein called on all countries in the Middle East to scrap nuclear or chemical weapons.
- 侯赛因总统呼吁中东各国放弃核武器或化学武器。
-4.
-ADJ Scrap metal or paper is no longer wanted for its original purpose, but may have some other use. 废弃的; 剩余的
-•  There's always tons of scrap paper in Dad's office.
- 爸爸的办公室里总有大量的废纸。
-5.
-N-UNCOUNT Scrap is metal from old or damaged machinery or cars. 废金属
-•  Thousands of tanks, artillery pieces and armoured vehicles will be cut up for scrap.
- 成千上万的坦克、大炮和装甲车将被切割成废金属。
-6.
-N-UNCOUNT You can refer to a fight or a quarrel as a scrap, especially if it is not very serious. 打架; 斗嘴
-•  He had suffered a mild concussion in a scrap for a loose ball.
- 在一次争球引起的打架中他被打成轻度脑震荡。
-7.
-V-I Scrap is also a verb. 打架; 斗嘴
-•  Our guys scrapped and competed and went right to the wire.
- 我们的小伙子们一边吵着，一边比赛，一直到比赛结束。
+# holistic education; a holistic approach:整体方法 [həʊ'lɪstɪk]
+1. considering a person or thing as a whole, rather than as separate parts 整体（论）的，全面的
+[**a holistic approach to design 设计的整体方法**]
+2. **整体医学/治疗/疗法等: holistic medicine/treatment/healing etc**:  medical treatment based on the belief that the whole person must be treated, not just the part of their body that has a disease.
+e.g. DevOps adoption has produced several principles that have evolved over time and are still evolving. Most solution providers have developed their own variants. All these principles take **a holistic approach** to DevOps, and organizations of all sizes can adopt them.
+
+# 引人深思的事 "food for thought"
+* as my second thought 再三想一下
+
+# cumulative /ˈkjuːmjʊlətɪv/; cumulate  Verb ['kjuːmjʊleɪt]  美 ['kjʊmjə,let] 堆积累积
+ADJ If a series of events **have a cumulative effect 有一个日积月累引起的效果**, each event makes the effect greater; increasing gradually as more of something is added or happens 积累的，渐增的
+* **有一个日积月累引起的效果: have a cumulative effect**
+* **是由<xxx>日积月累引起的: be caused by the cumulative effect (of sth):**
+e.g. Depression is often caused by the **cumulative effects of** stress, over sadness and unhappiness, and overwork. <抑郁症通常是由压力和过度劳累>日积月累引起的
+e.g. Learning is a cumulative process. 学习是个逐渐积累的过程。
+e.g. It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
+
+# pamphlet /ˈpæmflɪt/    
+N-COUNT A pamphlet is a very thin book with a paper cover that gives information about something. 小册子
+•  ...a pamphlet about smoking.  …一本关于吸烟的小册子
+
+# 英 ['ɒvjʊleɪt,'ɒvjəleɪt] ovulate, ovulation; ovulating
+when a woman or female animal ovulates, she produces eggs inside her body 排卵 DERIVATIVE 派生词 ovulation n /͵ɑvjuˋleʃən ; ‚ɒvjʊ'leɪʃən,‚ɒvjə'leɪʃən / [U]
+
+## spark international outrage/spark national outrage
+e.g. May was speaking at the end of a hecticly 忙碌的 `tumultuous` week in which she presented her draft agreement on how the UK would leave the EU, a deal that `sparked` multiple resignations from her government. (Replacing me) is not going to make the (Brexit) negotiations any easier and it won't change the parliamentary `arithmetic`," she added. //**hectic: very busy***
+
+
+## metal scrap 废金属
+
 
 ## sit sth out V.S.  sit on the fence 保持中立,持观望态度
 * `sit sth out`: PHRASAL VERB If you sit something out, you wait for it to finish, without taking any action. 坐等…结束 •  The only thing I can do is keep quiet and sit this one out.  我能做的只有保持沉默，坐等这件事结束
