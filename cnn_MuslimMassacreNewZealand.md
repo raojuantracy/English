@@ -12,6 +12,22 @@ e.g. "This heinous terror attack ['heɪnəs]['henəs] is not an anomaly or a sur
 e.g. The food in the cafeteria is pretty heinous. 这家食堂的食物很糟糕。
 3. DERIVATIVE 派生词 heinousness n [U]
 
+# fawn /fɔːn/    
+1. N-COUNT A fawn is a very young deer. 幼鹿
+•  The fawn ran to the top of the ridge.   那只小鹿跑上山脊。
+2. COLOR Fawn is a pale yellowish-brown colour. 浅黄褐色的
+•  Tania was standing there in her light fawn coat.  塔妮娅穿着她那件浅黄褐色的外套站在那里。
+3. V **fawn over sb.　连读 = flatter sb.; kiss sb's ass**: to seek attention and admiration (from) by cringing and flattering sb; kiss sb's ass 奉承,拍马屁
+V.S. **compliment sb.**: to say something nice to someone in order to praise them 赞美，称赞
+e.g. The groom was so nervous he forgot to compliment the bridesmaids. 新郎太紧张了，都忘了夸奖伴娘。
+e.g. Bob `complimented me on` my new hairstyle. 鲍勃夸我的新发型好
+
+# cactus /ˈkæktəs/  
+N-COUNT A cactus is a thick, fleshy plant that grows in many hot, dry parts of the world. Cacti have no leaves and many of them are covered in prickles. 仙人掌属植物
+
+# 为...做准备: brace for sth: get well prepared for sth
+e.g. Trump officials privately `bracing for` North Korea's next move
+
 # massacre ['mæsəkə]  V.S. carnage /ˈkɑːnɪdʒ/ V.S. holocaust /ˈhɒləˌkɔːst/
 ## ['mæsəkə] NanJing Massacre
 1. [C,U] when a lot of people are killed violently, especially people who cannot defend themselves
@@ -84,50 +100,37 @@ e.g. `Inflation is rampant` and industry in decline. 通货膨胀肆虐/失控�
 Someone who is vigilant gives careful attention to a particular problem or situation and concentrates on noticing any danger or trouble that there might be. 警惕的警觉的
 e.g. American group Muslim Advocates said: "**We are so devastated (feel shocked and upset 感到极度震惊的；悲痛欲绝的)**. Today is a tragedy not just for Muslims, but for all people of faith and goodwill." The group urged Muslims in the United States to **stay/keep vigilant 保持警惕/警觉** and strong as they attend mosques on Friday.
 
-# pedestrian  VS  sidewalk sidewalk /ˈsaɪdˌwɔːk/
-## [ 人行横道 pedestrian crossing = crosswalk ]: a specially marked place for people to walk across the road 人行横道
-## [ 人行道 sidewalk ]: N-COUNT A sidewalk is a path with a hard surface by the side of a road. 人行道
-
-# law 【法律】 remand /rɪˈmɑːnd/  [ 将…还押候审: be remanded in custody; 使sb.取保候审: be remanded on bail ]
-1. V-T If a person who is accused of a crime **is remanded in custody 将…还押候审**, they are kept in prison or they are sent back from `a court of law` until their trial begins.
-e.g. Carter `was remanded in custody` for seven days.  卡特 被还押候审 了7天。
-e.g. Smith `was remanded in custody (= kept in prison )` until Tuesday. 史密斯 被还押候审 直至星期二。
-2. If a person **is remanded on bail 使sb.取保候审**, they are allowed to leave the law court and go home, but they're told to return to the court at a later date, when their trial will take place.
+# law 【法律】 remand /rɪˈmɑːnd/  [ 将…还押候审: be remanded in custody;  使sb.取保候审: be remanded on bail  (保释外出：be released on bail)]  
+* **将…还押候审: be remanded in custody**
+* **使sb.取保候审: be remanded on bail**
+* **保释外出：be released on bail**
+1. V-T If a person who is accused of a crime **将…还押候审 is remanded in custody**, they are kept in prison or they are sent back to the prison from `a court of law 法庭` until their trial begins.
+e.g. She `was remanded in custody` for seven days.  卡特 被还押候审 了7天。
+e.g. He `was remanded in custody` until Tuesday. 史密斯 被还押候审 直至星期二。
+2. If a person **使sb.取保候审 is remanded on bail**, they are allowed to leave the `court of law 法庭` and go home by paying a considerable sum of money, but they're told to return to the court at a later date, when their trial will take place.
 e.g. HW CFO `was remanded on bail 取保候审`, but she has to stay at her home with limited freedom ...
-e.g. He’s `been remanded on bail` for a month (= allowed to leave the law court and go home to wait for trial ) . 他已经 取保候审 一个月了。
-2. N-UNCOUNT Remand is used to refer to the process of `remanding someone in custody or on bail`, or to the period of time until their trial begins. 取保候审; 取保候审期
-•  **The remand hearing** is often over in three minutes. ``取保候审听证会`` 通常在3分钟内结束
-3. to send a case to be dealt with in another court 将〔案件〕发回下级法院重审
-e.g. The court remanded the case for trial. 法院将案件发回下级法院重审。
-4. remand: the period of time that someone spends in prison before their trial 〔审前〕在押期
-V.S. **reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/: V-T If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority. 训斥; 谴责 e.g.  He was reprimanded by a teacher for talking in the corridor. 他因在走廊里说话而被一位老师训斥。
-
+e.g. He’s `been remanded on bail` for a month . 他已经 取保候审 一个月了。
+3. N-UNCOUNT 取保候审; 取保候审期 Remand is used to refer to the process of `remanding someone in custody or remanding sb. on bail`, or to the period of time until their trial begins.  **[取保候审听证会: the remand hearing ]**
+e.g. **The remand hearing** is often over in three minutes. ``取保候审听证会`` 通常在3分钟内结束
+4. **将〔案件〕发回`下级法院`重审: remand the case for trial**: to send a case to be dealt with to another `inferior court`  
+e.g. The court **remanded the case** to an inferior court for trial. 法院 `将案件发回下级法院重审`
+5. remand: the period of time that someone spends in prison before their trial 〔审前〕在押期  
+V.S. **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/: V-T If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.   **[reprimand sb=condemn/denounce/decry sb/slam sb/point fingers at sb]**  e.g. He was reprimanded by a teacher for talking nosiy in the corridor. 他因在走廊里说话而被一位老师训斥。
 
 # law 【法律】  reprieve /rɪˈpriːv/   
-1. V-T If someone who has been sentenced in a court is reprieved, their punishment is officially delayed or cancelled. (被判) 缓刑; 撤销 (刑罚); an official order stopping the killing of a prisoner as a punishment 死刑撤销令；死刑暂缓令 **[ give/grant sb a reprieve ]**
+1. a delay before something bad happens or continues to happen;  N-COUNT A reprieve is a delay before a very unpleasant or difficult situation which may or may not take place. 暂缓; 暂缓令; 〔令人不快之事的〕延缓；缓解
+• It looked as though the college would have to shut, but this week `it was given a reprieve`.   看上去这所学院将不得不关闭，但本周却``收到了暂缓令``
+• Shoppers will get a temporary reprieve from the new sales tax. 购物者将可暂时免交新的销售税。
+e.g. Huawei's smaller rival,ZTE, provides an example of how the US government could go further. The Chinese company `was crippled = seriously damaged 严重损坏[削弱]` for months after the US Commerce Department `imposed a blanket ban on it` and blocked it from buying vital parts from American companies. The ban threatened to put ZTE out of business and highlighted China's continued reliance on American technology, a vulnerability Beijing is eager to reduce. ZTE eventually `got a reprieve 缓期执行；暂时解救` after Xi personally asked Trump for help.
+e.g. American officials have repeatedly alleged that the Chinese government could use Huawei products for `espionage` — claims the company denies. Meng's case could be a `prelude` to further action against the firm and its senior officials," Eurasia Group analysts said. Huawei's smaller rival,ZTE, provides an example of how the US government could go further. The Chinese company `was crippled = seriously damaged 严重损坏[削弱]` for months after the US Commerce Department `imposed a blanket ban on it` and blocked it from buying vital parts from American companies. The ban threatened to put ZTE out of business and highlighted China's continued reliance on American technology, a vulnerability Beijing is eager to reduce. ZTE eventually `got a reprieve 缓期执行；暂时解救` after Xi personally asked Trump for help.   
+2. Verb) If **someone (who has been sentenced in a court) is reprieved**, their punishment is officially delayed or cancelled; to officially stop a prisoner from being killed as a punishment (被判) 缓刑;撤销…的死刑
+•  Fourteen people, waiting to be hanged for the murder of a former prime minister, **have been reprieved**. 获得缓刑。
+3. Noun) an official order stopping the killing of a prisoner as a punishment 死刑撤销令；死刑暂缓令 **give/grant sb a reprieve**
 e.g. The US Supreme Court voted against granting Smith a reprieve (= against giving him one ) . 美国最高法院投票反对给史密斯死刑暂缓令。
-e.g.  Fourteen people, waiting to be hanged for the murder of a former prime minister, have been reprieved.
- 因谋杀前总理而等受绞刑的十四个人获得缓刑。
-2. N-VAR Reprieve is also a noun 缓刑; (刑罚) 撤销
-•  A man awaiting death by lethal injection has been saved by a last-minute reprieve.  一名等待被注射处死的男子因为最后一刻的缓刑而获救。
-3. N-COUNT A reprieve is a delay before a very unpleasant or difficult situation which may or may not take place. 暂缓; 暂缓令
-•  It looked as though the college would have to shut, but this week it was given a reprieve.  看上去这所学院将不得不关闭，但本周却收到了暂缓令。
+e.g. A man awaiting death by lethal injection has been saved by a last-minute reprieve. 一名等待被注射处死的男子因为最后一刻的缓刑而获救
+4. to change a decision to close a factory, school etc or get rid of something 取消关闭〔工厂、学校等〕；暂缓终止
 
-# ignite question
-e.g. Friday's video has **reignited questions** about how social media platforms handle offensive content, with many questioning if companies are doing enough to try to catch this type of hate-filled content.
-
-# sporadic /spəˈrædɪk/  
-1. ADJ Sporadic occurrences of something happen at irregular intervals. 零星的
-•  ...a year of sporadic fighting in the north of the country.  …该国北部有零星战火的一年。
-2. ADV 零星地
-e.g. The distant thunder from the coast continued `sporadically`. 远处海岸仍然``零星地``传来雷声。
-e.g. Tarrant is an Australian citizen who had been living in the southern city of Dunedin, about 225 miles from Christchurch, Ardern said. He had traveled around the world and was in New Zealand `sporadically`, she added.
-
-
-# 降半旗 half mast
-e.g. Australian Prime Minister Scott Morrison says he has asked for flags to be flown at **half-mast** out of respect and condolennces for those killed in the attack.
-
-# hatred /ˈheɪtrɪd/ Noun 憎恨
+# Noun 憎恨  hatred /ˈheɪtrɪd/  V.S.  敌意: hostility/antagonism
 hatred is an extremely strong feeling of dislike for someone or something. 憎恨
 e.g. "New Zealand, like Australia, is home to people from all faiths, cultures and backgrounds. There is absolutely no place in either of our countries for the **hatred /ˈheɪtrɪd/ 憎恨**, **hostility/antagonism 敌意**, and intolerance that has bred this extremist, terrorist violence and we condemn it," he added.
 
@@ -145,6 +148,26 @@ e.g. Physics is an exhausting course, which, **I hasten to add**, was also great
 V-T If you expedite something, you cause it to be done more quickly. 加快
 e.g. We tried to help you **expedite/hasten your plans 加快你的计划**.
 e.g. strategies to **expedite/hasten the decision-making process** 加快xxx进程
+
+# pedestrian  VS  sidewalk sidewalk /ˈsaɪdˌwɔːk/
+* **[ 人行横道 pedestrian crossing = crosswalk ]**: a specially marked place for people to walk across the road 人行横道
+* **[ 人行道 sidewalk ]**: N-COUNT A sidewalk is a path with a hard surface by the side of a road. 人行道
+
+# come back to sb.
+e.g. Hi Jodie, thanks for `coming back to me` on this.  The non-production worker insights we have started.  
+
+# ignite question
+e.g. Friday's video has **reignited questions** about how social media platforms handle offensive content, with many questioning if companies are doing enough to try to catch this type of hate-filled content.
+
+# sporadic /spəˈrædɪk/, sporadically  
+1. ADJ Sporadic occurrences of something happen at irregular intervals. 零星的
+•  ...a year of sporadic fighting in the north of the country.  …该国北部有零星战火的一年。
+2. ADV 零星地
+e.g. The distant thunder from the coast continued `sporadically`. 远处海岸仍然``零星地``传来雷声。
+e.g. Tarrant is an Australian citizen who had been living in the southern city of Dunedin, about 225 miles from Christchurch. He had traveled around the world and was in New Zealand `sporadically`, she added.
+
+# 降半旗 half mast
+e.g. Australian Prime Minister Scott Morrison says he has asked for flags to be flown at **half-mast** out of respect and condolennces for those killed in the attack.
 
 # 验尸官 coroner /ˈkɒrənə/  
 N-COUNT A coroner is an official who is responsible for investigating and **dissecting /dɪ'sekt, daɪ-/ 剖析** the deaths of people who have died in a sudden, violent, or unusual way normally by conducting **autopsy/postmortem 验尸**.       //**if someone dissects something such as a theory, a situation, or a piece of writing, they consider and talk about each detail of it. 剖析**

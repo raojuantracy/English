@@ -1,4 +1,4 @@
-
+reprieve
 # Sexual harrassment
 * Not study: https://edition.cnn.com/2018/10/23/us/southwest-airlines-sexual-assault/index.html
 * Not study: https://edition.cnn.com/2018/11/15/us/dartmouth-title-ix-lawsuit/index.html

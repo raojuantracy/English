@@ -144,7 +144,7 @@ e.g. Mark Zuckerberg and his colleagues were `apparently` concerned enough about
 ## prelude
 e.g. American officials have repeatedly alleged that the Chinese government could use Huawei products for `espionage` — claims the company denies. Meng's case could be a `prelude` to further action against the firm and its senior officials," Eurasia Group analysts said. Huawei's smaller rival,ZTE, provides an example of how the US government could go further. The Chinese company `was crippled = seriously damaged 严重损坏[削弱]` for months after the US Commerce Department `imposed a blanket ban on it` and blocked it from buying vital parts from American companies. The ban threatened to put ZTE out of business and highlighted China's continued reliance on American technology, a vulnerability Beijing is eager to reduce. ZTE eventually `got a reprieve 缓期执行；暂时解救` after Xi personally asked Trump for help.   //**to damage something badly so that it no longer works or is no longer effective 严重损坏[削弱]**
 
-##
+## reprieve
 1. a delay before something bad happens or continues to happen;  N-COUNT A reprieve is a delay before a very unpleasant or difficult situation which may or may not take place. 暂缓; 暂缓令; 〔令人不快之事的〕延缓；缓解
 •  It looked as though the college would have to shut, but this week it was given a reprieve.   看上去这所学院将不得不关闭，但本周却收到了暂缓令
 • Shoppers will get a temporary reprieve from the new sales tax. 购物者将可暂时免交新的销售税。

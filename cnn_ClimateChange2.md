@@ -1,5 +1,15 @@
 # Global climate change: https://edition.cnn.com/world/live-news/global-climate-strike-students-protest-climate-inaction-intl/index.html
 
+# fawn /fɔːn/    
+1. N-COUNT A fawn is a very young deer. 幼鹿
+•  The fawn ran to the top of the ridge.   那只小鹿跑上山脊。
+2. COLOR Fawn is a pale yellowish-brown colour. 浅黄褐色的
+•  Tania was standing there in her light fawn coat.  塔妮娅穿着她那件浅黄褐色的外套站在那里。
+3. V **奉承,拍马屁 fawn over sb.　连读 = flatter sb.; kiss sb's ass**: to seek attention and admiration (from) by cringing and flattering sb; kiss sb's ass
+V.S. **compliment sb.**: to say something nice to someone in order to praise them 赞美，称赞
+e.g. The groom was so nervous he forgot to compliment the bridesmaids. 新郎太紧张了，都忘了夸奖伴娘。
+e.g. Bob `complimented me on` my new hairstyle. 鲍勃夸我的新发型好
+
 # have sth in radar
 e.g. Hi Maeve, I know automate rampup is something we **had in radar** for a long time since Gurmeet time, but we never planned to do that because of the other priorities.
 
