@@ -12,18 +12,37 @@ e.g. "This heinous terror attack ['heɪnəs]['henəs] is not an anomaly or a sur
 e.g. The food in the cafeteria is pretty heinous. 这家食堂的食物很糟糕。
 3. DERIVATIVE 派生词 heinousness n [U]
 
-# fawn /fɔːn/    
-1. N-COUNT A fawn is a very young deer. 幼鹿
-•  The fawn ran to the top of the ridge.   那只小鹿跑上山脊。
+# fawn /fɔːn/    V.S.  frown on/upon sth
+1. N-COUNT A fawn is a very young deer. 幼鹿  
+e.g. The little fawn/yong deer  ran to the top of the ridge.   那只小鹿跑上山脊。
+e.g. Nara 奈良, an ancient city in Japan, is greatly famous for its `fawn park`.
 2. COLOR Fawn is a pale yellowish-brown colour. 浅黄褐色的
 •  Tania was standing there in her light fawn coat.  塔妮娅穿着她那件浅黄褐色的外套站在那里。
-3. V **fawn over sb.　连读 = flatter sb.; kiss sb's ass**: to seek attention and admiration (from) by cringing and flattering sb; kiss sb's ass 奉承,拍马屁
-V.S. **compliment sb.**: to say something nice to someone in order to praise them 赞美，称赞
+3. V **奉承,拍马屁 fawn over sb.　需要连读 = flatter sb. = kiss sb's ass = cringe sb. [krɪndʒ]**: to seek attention and admiration (from) by **cringing and flattering sb, or kissing sb's ass**
+V.S.
+* `fawn over sb 需要连读` =  `flatter sb.` = `kiss sb's ass` = `cringe sb  [krɪndʒ]`
+* `compliment sb.`: to say something nice to someone in order to praise them 赞美，称赞
 e.g. The groom was so nervous he forgot to compliment the bridesmaids. 新郎太紧张了，都忘了夸奖伴娘。
 e.g. Bob `complimented me on` my new hairstyle. 鲍勃夸我的新发型好
+V.S.
+# (尤指对某人的行为〕不赞成反对: frown upon/on sb./sth [fraʊn]  V.S.  对sb皱眉头: frown at sb.   ==>注意要连读
+1. to make an angry, unhappy, or confused expression, moving your eyebrows together 皱眉
+e.g. She frowned as she read the letter. 她看着信皱起了眉头。
+e.g. Mattie `frowned at him` disapprovingly. 马蒂不满地对他皱眉头。
+2. **frown upon/on sb/sth**：to disapprove of someone or something, especially someone’s behaviour 〔尤指对某人的行为〕不赞成，反对
+e.g. Even though divorce is legal, it is still frowned upon. 离婚尽管合法，但依然不被认同
 
-# cactus /ˈkæktəs/  
-N-COUNT A cactus is a thick, fleshy plant that grows in many hot, dry parts of the world. Cacti have no leaves and many of them are covered in prickles. 仙人掌属植物
+
+# `cringe sb  [krɪndʒ]`: 过去式 cringed  过去分词 cringed  现在分词 cringing
+ 1. cringe: to move away from someone or something because you are afraid or have a phobia 畏缩，退缩
+ e.g. A `stray dog流浪狗` was cringing by the door. 一条流浪狗``畏缩``在门旁。
+ e.g. She `cringed away from husband` because she suffered from `domestic abuse (DA 家庭暴力)`. 她``退缩``着躲开他。
+ e.g. People often cringe when they hear the word "fat". 人们常常听到“脂肪”这个词后会``畏缩``
+ 2. If you `cringe at something`, you feel embarrassed or disgusted by something you have said or done because you think it makes you seem silly, and perhaps show this feeling in your expression or by making a slight movement. 感到很不好意思/局促不安
+ •  Molly had cringed when Ann started picking up the guitar. 莫利``感到很不好意思/局促不安``。
+ •  Chris had `cringed at` the thought of using her own family for publicity. 克里斯一想到要利用家人做宣传就``感到很不好意思/局促不安``
+ e.g. She `cringed at` the sound of her own voice. 她听到自己的声音``感到很不好意思/局促不安``
+ 3. `cringe sb 奉承；阿谀` = `fawn over 需要连读, flatter sb, kiss sb's ass`
 
 # 为...做准备: brace for sth: get well prepared for sth
 e.g. Trump officials privately `bracing for` North Korea's next move
@@ -116,6 +135,10 @@ e.g. **The remand hearing** is often over in three minutes. ``取保候审听证
 e.g. The court **remanded the case** to an inferior court for trial. 法院 `将案件发回下级法院重审`
 5. remand: the period of time that someone spends in prison before their trial 〔审前〕在押期  
 V.S. **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/: V-T If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.   **[reprimand sb=condemn/denounce/decry sb/slam sb/point fingers at sb]**  e.g. He was reprimanded by a teacher for talking nosiy in the corridor. 他因在走廊里说话而被一位老师训斥。
+V.S.
+* [Law] If `a court of law` **upholds/underpins/supports a legal decision** that has already been made, it decides that it was the correct decision. 〔法庭〕维持原判 (支持／力挺原来的决定)
+• The State Supreme Court `upheld the Superior Court judge's decision`. 国家最高法院维持了高级法院法官的判决
+• The conviction was upheld by the Court of Appeal. 上诉法庭维持原判。
 
 # law 【法律】  reprieve /rɪˈpriːv/   
 1. a delay before something bad happens or continues to happen;  N-COUNT A reprieve is a delay before a very unpleasant or difficult situation which may or may not take place. 暂缓; 暂缓令; 〔令人不快之事的〕延缓；缓解
@@ -186,3 +209,30 @@ e.g. Three other people who were initially detained were not involved in the att
 
 # apprehend sb. = arrest sb;  Nou) apprehension
 e.g. Police in northern England have made a series of `apprehension` on offenses relating to comments about the New Zealand attack. Greater Manchester Police have three people `in custody`, according to a police statement. A 33-year-old man and a 34-year-old woman were `apprehended/arrested` early Sunday morning local time on suspicion of racially aggravated public order offenses.
+
+# types of flowers
+* daffodil	水仙花 daffodil /ˈdæfədɪl/
+* chrysanthemum	菊花 /krɪˈsænθəməm/
+* 芦荟	aloe /ˈæləʊ/
+* 牡丹花, 芍药花	peony /ˈpiːənɪ/
+* 樱花 cherry / cherry blossom
+* 桃花 peach blossom
+* 梅花 plum blossom [plʌm]
+* [植]荷花, 睡莲 water lily
+* 马蹄莲, 水芋  /ˈkælə/ calla
+* 山茶花; 栀子花 camellia /kəˈmiːlɪə/
+* 仙人掌属植物 cactus /ˈkæktəs/; cactus juice
+* 茉莉	jasmine /ˈdʒæsmɪn/;  jasmine tea
+* 郁金香 tulip
+* 百合花	Lily flower
+* 兰花	orchid /ˈɔːkɪd/
+* 香草, 香子兰 vanilla /vəˈnɪlə/ vanilla ice cream
+* 康乃馨	carnation /kɑːˈneɪʃən/
+* 熏衣草: lavender  ['lævəndɚ] is a garden plant with sweet-smelling, bluish-purple flowers.
+
+# gun
+* `jump the gun 过早行动(匆忙的过早行动); 抢答(未听发令枪就回答问题)；抢跑(未听发令枪就起跑)`
+e.g. Don't `jump the gun 过早行动`. We need a further discussion.
+e.g. Referee of the relay race: Look, what did I say? He did `jump the gun 确实抢跑了`. It will have to start all over again now.
+* `a smoking gun  确凿的证据`: A smoking gun is a piece of evidence that proves that something is true or that someone is responsible for a crime. 确凿的证据
+e.g. The search for that `drug trafficking` has not produced a smoking gun 没有找到`确凿证据`.

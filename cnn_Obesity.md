@@ -1,77 +1,129 @@
 # Obesity: https://edition.cnn.com/2019/03/19/health/china-obesity-kids-intl/index.html
 
-# 究竟，到底(for emphasis): on earth
-e.g. what `on earth` are they at, building a demo around something that is end of marketing!
+# underpin sth = uphold sth (sb's idea/plan支持／力挺) = support sth
+[‚ʌndə'pɪn] pp: underpinned   pt: underpinned   pres part: underpinning
+1. underpin sth: to give strength or support to something and to help it succeed 巩固，支持
+e.g. the theories that `underpin (uphold and support)` his teaching method 支持他的教学方法的理论
+e.g. America’s wealth is `underpinned (upheld/supported)` by a global system which exploits the world’s poor. 美国的财富是靠一个剥削全世界穷人的全球体系来支撑的。
+e.g. Li said that `a lagging perception 落后的观念/落后的理念` of what's healthy had **underpinned (upheld and supported (向上拖举)　支持** the increase in `childhood obesity [o'bisəti]` in China. "People still think being fat is a good thing, such a **lagging perception 落后的观念/理念**. It's particularly true for older generation. They often grew up in poverty when food was `scarce`," said Li, who has studied the role of grandparents in childhood obesity in China. "Grandparents often live with the family and given that parents often both work, they play a big role in deciding what children eat."   
+e.g.  ...mystical themes that underpin (uphold and support) all religions.   ...支撑所有宗教的神话主题
+e.g. This will draw new players back to property and will `underpin (uphold and support)` our property markets. 支持/巩固我们的物业市场
+2. technical in arch) underpin: to put a solid piece of metal under a wall or house in order to make it stronger 加固〔墙体或房屋〕的地基
+3. N-VAR) underpinning  **[经济基础: the economic underpinning]**
+e.g.   ...`the economic underpinning` of ancient Mexican society.  ...古代墨西哥社会的``经济基础``。
+V.S.
+# [ uphold sth; uphold sb's idea/suggestion/plan/decision  (向上拖举)支持／力挺sb's的想法／建议／计划/决定 ] pp: upheld   pt: upheld  MEANINGS 义项
+1. If you `uphold something such as a law, a principle, or a decision`, you **underpin and support and maintain it**. 支持，维护〔法规、制度或原则; 支持／力挺sb's的想法／建议／计划/决定   //**underpin sth: to give strength or support to something and to help it succeed 巩固，支持**
+•  Our policy has been to `uphold the law 支持／力挺法律`。
+•  It is the responsibility of every government to `uphold certain basic principles 支持／力挺某些基本原则`.
+2. V-T [Law] If `a court of law` **upholds/underpins/supports a legal decision** that has already been made, it decides that it was the correct decision. 〔法庭〕维持原判 (支持／力挺原来的决定)
+• The State Supreme Court `upheld the Superior Court judge's decision`. 国家最高法院维持了高级法院法官的判决
+• The conviction was upheld by the Court of Appeal. 上诉法庭维持原判。
+3. DERIVATIVE 派生词 **upholder** n [C] N-COUNT An upholder of a particular tradition or system is someone who believes strongly in it and will support it when it is threatened. n. 支撑物；支持者; (某个传统、某个系统的)守护者,支持者
+•  ...upholders of the traditional family unit.   ...传统家庭单位的支持者。
 
-# obese /əʊˈbiːs/, Obesity [ə(ʊ)'biːsɪtɪ]  美 [o'bisəti]
-e.g. The research, published Tuesday, found that while China's rapid economic growth over the past two decades had been accompanied by a reduction in **childhood growth stunting 发育障碍短小症** and thinness, the country has also seen a four-fold rise in the number of overweight and obese children.
-e.g. "Children used to use their `spare time` to play outside; **whereas 相比之下** now they are inside in front of computers,tablets, and the TV. There are many fast food chains in China now and many Chinese people are adopting new food like this" `Childhood obesity [o'bisəti]` is on the rise around the world, and the World Health Organization has called it "one of the most serious public health challenges of the 21st century."
+# beleaguer => adj [bɪˈliːɡəd] beleaguered
+1. experiencing a lot of problems or criticism 困难重重的；饱受批评的四面楚歌的
+e.g. the country’s **beleaguered steel industry** 该国``四面楚歌的``钢铁行业
+e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered British Prime Minister, Theresa May 被围困的;四面楚歌的;饱受批评的**.
+2. surrounded by an army 被围困/被围攻的
+e.g. Supplies are being brought into the beleaguered city. 补给品正在运往那个被围困的城市。
 
-# 营养失调，营养不良 ==> 注意读音的重音 malnutrition /ˌmælnjuːˈtrɪʃən/  注意读音的重音
-N-UNCOUNT If someone is suffering from `malnutrition /ˌmælnjuːˈtrɪʃən/ ==> 注意读音的重音`, they are physically weak and extremely thin because they have not eaten enough food; when someone becomes ill or weak because they have not eaten enough good food
-• Infections are more likely in those suffering from malnutrition. 发生在那些营养不良的人身上。
-• refugees suffering from malnutrition 营养不良的难民
-e.g. `China's economy has boomed 繁荣兴旺/boosted` in recent years and is now the world's second-largest. The authors said their study was the first to evaluate the effect of economic growth on `malnutrition /ˌmælnjuːˈtrɪʃən/ ==> 注意读音的重音` in all its forms, and previous studies have focused solely on under nutrition. Increasing incomes have allowed `households 家庭` to spend more on food, and `urbanization` has made it much easier for families to access better health care and education.
+# tortuous /ˈtɔːtjʊəs/   (verb:  (精神上) 折磨 torture sb.)
+1. ADJ **a tortuous road** is full of bends and twists. 弯弯曲曲的  **[一条弯弯曲曲的山路: a tortuous moutain road]**
+•  The only road access is `a tortuous mountain route`.   惟一的通路是``一条弯弯曲曲的山路``。
+2. ADJ **A tortuous process; a tortuous piece of writing** is very long and complicated. 漫长曲折的/冗长复杂的(过程，程序，文章)
+e.g. ...these long and `tortuous negotiations` aimed at ending the conflict.  …这些``漫长曲折的/冗长复杂的谈判``旨在结束冲突。
+e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered British Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
 
-# 落后的观念/落后的理念 a lagging perception
-e.g. Li said that `a lagging perception` of what's healthy had **underpinned/upheld/supported 支持；从下面支撑** the increase in `childhood obesity [o'bisəti]` in China. "People still think being fat is a good thing. It's particularly true for older generation. They often grew up in poverty when food was `scarce 稀有`," said Li, who has studied the role of grandparents in childhood obesity in China. "Grandparents often live with the family and given that parents often both work, they play a big role in deciding what children eat."    //**underpin sht: to give strength or support to something and to help it succeed; underpin sth = uphold sth = support sth 巩固，支持**
-* `lag behind`: lag far behind
-* `jetlag: 时差综合症（跨时区高速飞行后生理节奏的破坏）` e.g. suffer from jetlag
+# stray /streɪ/    a stray dog; a stray cat
+1. V-I If someone `strays into a place`, they wander away from where they are supposed to be. 走失，迷路
+e.g. Tourists often get lost and `stray into dangerous areas`.  旅游者们经常迷路走进一些危险区域。
+e.g. Three of the soldiers `strayed into enemy territory`. 三名士兵 走失，误入敌军阵地
+2. ADJ `A stray dog or cat` has wandered away from its owner's home. 走失的 (狗或猫);流浪狗
+e.g. A `stray dog 流浪狗` was cringing by the door. 一条流浪狗``畏缩``在门旁。    // **[ 1. 畏缩，退缩(而避开xxx): cringe away from sb/sth [krɪndʒ]; to move away from someone or something because you are afraid of them or have a phobia of them 2. cringe sb=flatter sb/kiss sb's ass/fawn over sb 奉承；阿谀**
+e.g. `A stray cat` came up to him.  
+3. N-COUNT Stray is also a noun. 走失的宠物  e.g. The dog was a stray which had been adopted.  这只狗是被收养的``流浪狗``。
+4. **stray into a subject V.S. stray from a subject**: to begin to deal with or think about a different subject from the main one, without intending to 离题,跑题
+e.g. We’re `straying into ethnic issues here`. 我们现在已偏离主题，开始去讨论起种族问题了。
+e.g. This meeting is beginning to `stray/digress [daɪ'ɡrɛs] from the original point` . 会议开始 ``偏离主题了``
+V.S.
+* digress /daɪˈɡrɛs/; **return from digression [daɪ'ɡrɛs]**:  V-I If you digress, you move away from the subject you are supposed to talk or writeabout and talk or write about something different for a while. 离题, 跑题
+e.g. I've digressed a little to explain the situation so far, so let us `return from digression`  我刚才稍微``离题``说明了迄今的情况。
+e.g. She `digressed from her prepared speech` to pay tribute to the president. 她偏离了预先准备的讲稿
+4. V-I If `your mind strays or your eyes stray`, you do not concentrate on or look at one particular subject, but start thinking about or looking at other things. 思想不集中, 走神, 分心； 〔眼睛〕走神，看往别处
+* `思想不集中, 走神, 分心: find my mind straying`  
+* `眼睛走神，看往别处 My eyes stray to other place`
+* `让 sb. 走神,分心: distract sb.`: to take someone’s attention away from something by making them look at or listen to something else 分散〔注意力〕，使分心   e.g. Try not to `distract the other students`. 尽量不要``让<其他学生>走神,分心``
+e.g. Her eyes strayed to the clock. 她的目光移到了钟
+e.g. It's too hot and `stuffy  闷热的不通气的` in this meeting room,  I `find my mind straying`.  发现自己的思想无法集中。
+5. ADJ You use stray to describe something that exists separated from other similar things. 离群的
+•  An 8-year-old boy was killed by **a stray bullet 一颗流弹**.
 
-# fawn /fɔːn/    
-1. N-COUNT A fawn is a very young deer. 幼鹿
-•  The fawn ran to the top of the ridge.   那只小鹿跑上山脊。
+
+# fawn /fɔːn/    V.S.  frown on/upon sth
+1. N-COUNT A fawn is a very young deer. 幼鹿  
+e.g. The little fawn/yong deer  ran to the top of the ridge.   那只小鹿跑上山脊。
+e.g. Nara 奈良, an ancient city in Japan, is greatly famous for its `fawn park`.
 2. COLOR Fawn is a pale yellowish-brown colour. 浅黄褐色的
 •  Tania was standing there in her light fawn coat.  塔妮娅穿着她那件浅黄褐色的外套站在那里。
-3. V **fawn over sb.　连读 = flatter sb.; kiss sb's ass**: to seek attention and admiration (from) by cringing and flattering sb; kiss sb's ass 奉承,拍马屁
-V.S. **compliment sb.**: to say something nice to someone in order to praise them 赞美，称赞
+3. V **奉承,拍马屁 fawn over sb.　需要连读 = flatter sb. = kiss sb's ass = cringe sb. [krɪndʒ]**: to seek attention and admiration (from) by **cringing and flattering sb, or kissing sb's ass**
+V.S.
+* `fawn over sb 需要连读` =  `flatter sb.` = `kiss sb's ass` = `cringe sb  [krɪndʒ]`
+* `compliment sb.`: to say something nice to someone in order to praise them 赞美，称赞
 e.g. The groom was so nervous he forgot to compliment the bridesmaids. 新郎太紧张了，都忘了夸奖伴娘。
 e.g. Bob `complimented me on` my new hairstyle. 鲍勃夸我的新发型好
+V.S.
+# (尤指对某人的行为〕不赞成反对: frown upon/on sb./sth  [fraʊn]  V.S.  对sb皱眉头: frown at sb.   ==>注意要连读
+1. to make an angry, unhappy, or confused expression, moving your eyebrows together 皱眉
+e.g. She frowned as she read the letter. 她看着信皱起了眉头。
+e.g. Mattie `frowned at him` disapprovingly. 马蒂不满地对他皱眉头。
+2. **frown upon/on sb/sth**：to disapprove of or not satified with someone or something, especially someone’s behaviour 〔尤指对某人的行为〕不赞成，反对
+e.g. Even though divorce is legal, it is still frowned upon. 离婚尽管合法，但依然不被认同
 
-# cactus /ˈkæktəs/; cactus juice
-N-COUNT A cactus is a thick, fleshy plant that grows in many hot, dry parts of the world. Cacti have no leaves and many of them are covered in prickles. 仙人掌属植物
+# `cringe sb  [krɪndʒ]`: 过去式 cringed  过去分词 cringed  现在分词 cringing
+1. cringe or cringe away from sb/sth: to move away from someone or something because you are afraid of them or have a phobia of them **[ 畏缩，退缩(而避开xxx): cringe away from sb/sth ]**
+e.g. A `stray dog 流浪狗` was cringing by the door. 一条流浪狗``畏缩``在门旁。
+e.g. She `cringed away from his husband` because she suffered from `domestic abuse (DA 家庭暴力)`. 她``退缩``着躲开他。
+e.g. People often cringe when they hear the word "fat". 人们常常听到“脂肪”这个词后会``畏缩``
+2. If you `cringe at something`, you feel embarrassed or disgusted by something you have said or done because you think it makes you seem silly, and perhaps show this feeling in your expression or by making a slight movement. 感到很不好意思/局促不安
+•  Molly had cringed when Ann started picking up the guitar. 莫利``感到很不好意思/局促不安``。
+•  Chris had `cringed at` the thought of using her own family for publicity. 克里斯一想到要利用家人做宣传就``感到很不好意思/局促不安``
+e.g. She `cringed at` the sound of her own voice. 她听到自己的声音``感到很不好意思/局促不安``
+3. `cringe sb 奉承；阿谀` = `fawn over 需要连读, flatter sb, kiss sb's ass`
 
+
+# 家庭暴力 domestic abuse (DA)
+e.g. She `cringed away from his husband [krɪndʒ]` because she suffered from `domestic abuse (DA 家庭暴力)`. 她``退缩``着躲开他   // **[ 1. 畏缩，退缩(而避开xxx): cringe away from sb/sth [krɪndʒ]; to move away from someone or something because you are afraid of them or have a phobia of them 2. cringe sb=flatter sb/kiss sb's ass/fawn over sb**
+
+# 营养摄入 nutrient intake ['njuːtrɪənt]  
+e.g. It found that the prevalence of `growth stunting 发育障碍短小症` in Chinese children and adolescent due to long-term insufficient **nutrient intake ['njuːtrɪənt] 营养摄入** and infections decreased from 8.1% to 2.4% in that time period, and thinness declined from 7.5% to 4.1%. **On average 要连读**, the number of Chinese children classed as overweight or obesity increased from 5.3% in 1995 to 20.5% in 2014.        // **['mælnʊ'trɪʃən] 营养失调，营养不良 => 注意重音**
 
 # China's economy has boomed 繁荣兴旺/boosted
 
 # stunting  n. 萎缩；发育障碍短小症 v. 阻碍…的正常发育（stunt的ing形式）
 * Verb) stunt /stʌnt/      
-1. N-COUNT A stunt is something interesting that is done in order to attract attention and get publicity [pʌb'lɪsɪtɪ] for the person or company responsible for it. 引人注目的噱头  **[宣传噱头: promotional stunt]**
-•  In a bold `promotional stunt` for the movie, he smashed his car into a passing truck.   在那部影片大胆的``宣传噱头``中，他把自己的汽车撞向一辆过路的卡车。
-2. N-COUNT A stunt is a dangerous and exciting piece of action in a movie. (电影中的) 特技动作 **stuntman n. 特技人，特技替身演员**
-•  Sean Connery insisted on living dangerously for his new film by `performing his own stunts. 表演特技动作`
-3. V-T If something stunts the growth or development of a person or thing, it prevents it from growing or developing as much as it should. 阻碍  
-==>  **stunting N. growth stunting 萎缩；发育障碍短小症 v. 阻碍…的正常发育（stunt的ing形式**
-e.g. The heart condition had stunted his growth a bit.  心脏病已经有点儿阻碍他的发育。
-e.g. It found that the prevalence of `stunting` in Chinese children and adolescent due to long-term insufficient **nutrient intake ['njuːtrɪənt]** and infections decreased from 8.1% to 2.4% in that time period, and thinness declined from 7.5% to 4.1%. **On average 连读**, the number of Chinese children classed as overweight or obese increased from 5.3% in 1995 to 20.5% in 2014.
-e.g. The research, published Tuesday, found that while China's rapid economic growth over the past two decades had been accompanied by a reduction in childhood `growth stunting 发育障碍短小症` and thinness, the country has also seen a four-fold rise in the number of overweight and obese children.
+1. N-COUNT 引人注目的噱头  **[宣传噱头: promotional stunt]**  A stunt is something interesting that is done in order to attract attention and get publicity [pʌb'lɪsɪtɪ] for the person or company responsible for it.  **[宣传噱头: promotional stunt]**  
+e.g. In a bold `promotional stunt 宣传噱头` for the movie, he smashed his car into a passing truck.   在那部影片大胆的``宣传噱头``中，他把自己的汽车撞向一辆过路的卡车。
+2. N-COUNT A stunt is a dangerous and exciting piece of action in a movie. (电影中的) 特技动作 **stuntman n. 特技人，特技替身演员;  表演特技动作: perform stunts**
+e.g. Sean insisted on living dangerously for his new film by `performing his own stunts. 表演特技动作`
+3. V-T 阻碍人的生长发育； 阻碍xxx的发展 If something **stunts the growth or development of a person or thing**, it prevents it from growing or developing as much as it should.
+==>  **阻碍sb's的生长发育: stunt sb's growth;  阻碍xxx的发展 stunt the development of a person or thing; N. growth stunting 萎缩；发育障碍短小症; 儿童发育障碍短小症: childhood growth stunting**
+e.g. The heart condition had `stunted his growth` a bit.  心脏病已经有点儿``阻碍他的发育``。
+e.g. It found that the prevalence of `stunting` in Chinese children and adolescent due to long-term insufficient **nutrient intake ['njuːtrɪənt] 营养摄入** and infections decreased from 8.1% to 2.4% in that time period, and thinness declined from 7.5% to 4.1%. **On average 要连读**, the number of Chinese children classed as overweight or obesity increased from 5.3% in 1995 to 20.5% in 2014.
+e.g. The research found that while China's rapid economic growth over the past two decades had been accompanied by a reduction in `childhood growth stunting 儿童发育障碍短小症` and thinness, the country has also seen a `four-fold rise/quadruple rise` in the number of overweight and obese children.
 4. ADJ 受阻碍的 •  Damage may result in stunted growth and sometimes death of the plant.  损害会导致植物生长受阻，有时还会导致死亡。
-5. V to perform a stunt or stunts 表演杂技
+5. V to perform a stunt or stunts 表演杂技 **表演特技动作: perform stunts**
 
-# underpin sth = uphold sth (sb's idea/plan支持／力挺) = support sth
-[‚ʌndə'pɪn] pp: underpinned   pt: underpinned   pres part: underpinning
-1. underpin sth: to give strength or support to something and to help it succeed 巩固，支持
-e.g. the theories that underpin his teaching method 支持他的教学方法的理论
-e.g. America’s wealth is underpinned by a global system which exploits the world’s poor. 美国的财富是靠一个剥削全世界穷人的全球体系来支撑的。
-e.g. Li said that `a lagging perception 落后的观念/落后的理念` of what's healthy had **underpinned/upheld/supported 支持；从下面支撑** the increase in `childhood obesity [o'bisəti]` in China. "People still think being fat is a good thing. It's particularly true for older generation. They often grew up in poverty when food was `scarce`," said Li, who has studied the role of grandparents in childhood obesity in China. "Grandparents often live with the family and given that parents often both work, they play a big role in deciding what children eat."   
-e.g.  ...mystical themes that underpin all religions.   ...支撑所有宗教的神话主题
-2. technical to put a solid piece of metal under a wall or house in order to make it stronger 加固〔墙体或房屋〕的地基
-3. N-VAR) underpinning  **[经济基础: the economic underpinning]**
-e.g.   ...`the economic underpinning` of ancient Mexican society.  ...古代墨西哥社会的``经济基础``。
-V.S.
-# [ uphold sth; uphold sb's idea/suggestion/plan/decision  (向上拖举)　支持／力挺sb's的想法／建议／计划/决定 ] [ʌp'həʊld] pp: upheld   pt: upheld  MEANINGS 义项
-1. If you `uphold something such as a law, a principle, or a decision`, you **underpin and support and maintain it**. 支持，维护〔法规、制度或原则; 支持／力挺sb's的想法／建议／计划/决定
-•  Our policy has been to `uphold the law 支持／力挺法律`。
-•  It is the responsibility of every government to `uphold certain basic principles 支持／力挺某些基本原则`.
-2. V-T [Law]及物动词 If `a court of law` **upholds/underpins/supports a legal decision** that has already been made, it decides that it was the correct decision. 〔法庭〕维持原判 (支持／力挺原来的决定)
-• The State Supreme Court `upheld the Superior Court judge's decision`. 国家最高法院维持了高级法院法官的判决
-• The conviction was upheld by the Court of Appeal. 上诉法庭维持原判。
-3. DERIVATIVE 派生词 upholder n [C] N-COUNT An upholder of a particular tradition or system is someone who believes strongly in it and will support it when it is threatened. n. 支撑物；支持者; (传统、系统)守护者
-•  ...upholders of the traditional family unit.   ...传统家庭单位的支持者。
-
+# 英 ['fleɪki] flake, flaky
+1. tending to break into small thin pieces 易碎裂成屑的；易剥落的
+• flaky pastry 酥饼; corn flakes
+• flaky skin 脱屑的皮肤
+2. informal a flaky person is slightly strange or often forgets things 古怪的；丢三落四的
+• Carrie’s pretty flaky but she’s fun to be with. 卡丽人很怪，可是和她在一起很有趣
 
 # 十恶不赦的; 令人发指的（行为，罪行) heinous behavior, heinous crime ['heɪnəs]  美 ['henəs]
-1. If you describe something such as a behavior or crime as heinous, you mean that it is extremely evil, immoral, or horrible. 十恶不赦的; 令人发指的（行为，罪行) **[十恶不赦的令人发指的罪行, 滔天罪行: a heinous crime; 十恶不赦的; 令人发指的行为: a heinous act/behavior]**
+1. If you describe something such as a behavior or crime as heinous, you mean that it is extremely evil, immoral, or horrible. 十恶不赦的; 令人发指的（行为，罪行) **[十恶不赦的/令人发指的罪行, 滔天罪行: a heinous crime; 十恶不赦的; 令人发指的行为: a heinous act/behavior]**
 e.g. "This heinous terror attack ['heɪnəs]['henəs] is not an anomaly or a surprise ... the American Muslim community has faced deadly attacks and intimidation in recent years, but **rarely have we witnessed 倒装句** such brutal **carnage/massacre/holocaust** as today's tragedy in New Zealand," its statement added.
 2. spoken,informal extremely bad 非常糟的 e.g. The food in the cafeteria is pretty heinous. 这家食堂的食物很糟糕。
 3. DERIVATIVE 派生词 heinousness n [U]
@@ -87,29 +139,23 @@ e.g. I think a lot of people still underestimate him.　 我认为许多人仍�
 e.g. Current levels of obesity among Chinese adults are among the lowest in the world. **The importance of this finding cannot be underestimated 重要性被低估**, considering evidence that excess weight gained in childhood is carried into adulthood and increases the risk of type 2 diabetes, cardiovascular disease, and some cancers," she wrote in a commentary published alongside the research.
 "In the absence of strong nutritional governance, China is likely to see a substantial increase in the prevalence of adult obesity as the current cohort of children and adolescents ages."
 
+# vault
+1. a room with thick walls and a strong door where money, jewels etc are kept to prevent them from being stolen or damaged 〔贵重财物的〕保管库，保险库；金库
+2. a room where people from the same family are buried, often under the floor of a church 〔常指教堂地下某一家族的〕墓穴，墓室
+3. a jump over something 跳跃，腾跃
+4. a roof or ceiling that consists of several arches that are joined together, especially in a church〔尤指教堂的〕拱顶，穹顶
+
 # 没有经过某人的同意 without sb's consent
-**[ 没有经过某人的知晓或同意：without sb's knowledge or consent ]**
+**[ 没有经过某人的知晓或同意：without sb's knowledge or consent [kən'sɛnt]]**
 e.g. K-pop star Jung Joon-young was arrested/apprehended Thursday over allegations that he shared sexually explicit videos of women filmed `without their knowledge or consent 没有经过某人的知晓或同意`, South Korean police said. **The arrest warrant was issued 发出了逮捕证** hours after he appeared at a court hearing during which he apologized to the victims for his actions.
 
 # 发出了逮捕证：The arrest warrant is issued by the police chief.
 e.g. K-pop star Jung Joon-young was arrested/apprehended Thursday over allegations that he shared sexually explicit videos of women filmed `without their knowledge or consent 没有经过某人的知晓或同意`. **The arrest warrant was issued 发出了逮捕证** hours after he appeared at a court hearing during which he apologized to the victims for his actions. Following the hearing, he was escorted in handcuffs to a central Seoul police station, where he remains in custody. The point is that he wasn't allowed to **be remanded [rɪ'mænd] on bail 取保候审**. Jung is accused of being part of an online group chat that shared sexually explicit videos of women `without their knowledge or consent 没有经过某人的知晓或同意`.
 
-# bow 鞠躬；弯腰 Noun) 蝴蝶结
+# bow
+1. 鞠躬；弯腰
+2. Noun) 蝴蝶结
 a knot of cloth or string, with a curved part on either side and two loose ends, worn in the hair as decoration or for tying shoelace.
-
-# tortuous /ˈtɔːtjʊəs/
-1. ADJ A tortuous road is full of bends and twists. 弯弯曲曲的
-•  The only road access is a tortuous mountain route.   惟一的通路是一条弯弯曲曲的山路。
-2. ADJ **A tortuous process or piece of writing** is very long and complicated. 冗长复杂的(过程，程序，文章)
-•  ...these long and tortuous negotiations aimed at ending the conflict.  …这些漫长曲折的谈判旨在结束冲突。
-e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered British Prime Minister, Theresa May 被围困的;饱受批评的四面楚歌的**.
-
-# [bɪˈliːɡəd] beleaguered
-1. experiencing a lot of problems or criticism 困难重重的；饱受批评的四面楚歌的
-e.g. the country’s beleaguered steel industry 该国``四面楚歌的``钢铁行业
-e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered British Prime Minister, Theresa May 被围困的;饱受批评的四面楚歌的**.
-2. surrounded by an army 被围困/被围攻的
-e.g. Supplies are being brought into the beleaguered city. 补给品正在运往那个被围困的城市。
 
 # law 【法律】 remand /rɪˈmɑːnd/  [ 将…还押候审: be remanded in custody;  使sb.取保候审: be remanded on bail  (保释外出：be released on bail)]   V.S. **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/
 * **将…还押候审: be remanded in custody**
@@ -147,3 +193,45 @@ e.g. A man awaiting death by lethal injection has been saved by a last-minute re
 
 # 鉴于 xxx: in light of sth
 e.g. Big Bang star Seungri is also being investigated on suspicion of violating the country's `prostitution laws`. If found guilty, the men accused could `be sentenced to five years in prison` or face a fine of up to 30 million won ($26,424). Jung was dropped (`sacked/fired`) by his Entertainment management company  `in light of the allegations 鉴于 xxx`.
+
+# obese /əʊˈbiːs/, Obesity [ə(ʊ)'biːsɪtɪ]  美 [o'bisəti]
+e.g. `China's economy has boomed 繁荣兴旺/boosted` in recent years and is now the world's second-largest. The research found that while China's rapid economic growth over the past two decades had been accompanied by a reduction in **childhood growth stunting 小孩发育障碍短小症** and thinness, the country has also seen `a four-fold/quadruple rise 四倍的` in the number of overweight and `obese /əʊˈbiːs/ children`.
+e.g. "Children used to use their `spare time` to play outside; **whereas 相比之下** now they are inside in front of computers, tablets, and the TV. There are many fast food chains in China now and many Chinese people are adopting new food like this" `Childhood obesity [o'bisəti]` is on the rise around the world."
+
+# 营养失调，营养不良 ==> 注意读音的重音 malnutrition /ˌmælnjuːˈtrɪʃən/  注意读音的重音
+N-UNCOUNT If someone is suffering from `malnutrition /ˌmælnjuːˈtrɪʃən/ ==> 注意读音的重音`, they are physically weak and extremely thin because they have not eaten enough food; when someone becomes ill or weak because they have not eaten enough good food.
+e.g. Infections are more likely in those suffering from malnutrition /ˌmælnjuːˈtrɪʃən/. 发生在那些营养不良的人身上。
+e.g. refugees suffering from malnutrition /ˌmælnjuːˈtrɪʃən/ 营养不良的难民
+e.g. `China's economy has boomed 繁荣兴旺/boosted` in recent years and is now the world's second-largest. The authors said their study was the first to evaluate the effect of economic growth on `malnutrition /ˌmælnjuːˈtrɪʃən/ ==> 注意读音的重音` in all its forms, and previous studies have focused solely on under nutrition. Increasing incomes have allowed `households 家庭` to spend more on food, and `urbanization` has made it much easier for families to access better health care and education.
+
+# 四倍的 four-fold=quadruple [kwɑ'drupl]  V.S.  五倍的  five-fold= quintuple /kwɪnˈtjuːpəl/
+e.g. `China's economy has boomed 繁荣兴旺/boosted` in recent years and is now the world's second-largest. The research found that while China's rapid economic growth over the past two decades had been accompanied by a drastic reduction in **childhood growth stunting 小孩发育障碍短小症** and thinness, the country has also seen `a four-fold/quadruple [kwɑ'drupl] rise 四倍的` in the number of overweight and `obese/əʊˈbiːs/ children`.  
+
+# 究竟，到底(for emphasis): on earth
+e.g. what `on earth` are they at, building a demo around something that is end of marketing!
+
+# 落后的观念/落后的理念 a lagging perception
+e.g. Li said that `a lagging perception` of what's healthy had **underpinned/upheld/supported 支持；从下面支撑** the increase in `childhood obesity [o'bisəti]` in China. "People still think being fat is a good thing. It's particularly true for older generation. They often grew up in poverty when food was `scarce 稀有`. Grandparents often live with the family and given that parents often both work, they play a big role in deciding what children eat.    //**underpin sth: to give strength or support to something and to help it succeed; underpin sth = uphold sth = support sth 巩固，支持**
+* `lag behind`: lag far behind 落后
+* `jetlag: 时差综合症（跨时区高速飞行后生理节奏的破坏）` e.g. suffer from jetlag
+* `a lagging perception: 落后的观念/落后的理念 `
+
+# types of flowers
+* daffodil	水仙花 daffodil /ˈdæfədɪl/
+* chrysanthemum	菊花 /krɪˈsænθəməm/
+* 芦荟	aloe /ˈæləʊ/
+* 牡丹花, 芍药花	peony /ˈpiːənɪ/
+* 樱花 cherry / cherry blossom
+* 桃花 peach blossom
+* 梅花 plum blossom [plʌm]
+* [植]荷花, 睡莲 water lily
+* 马蹄莲, 水芋  /ˈkælə/ calla
+* 山茶花; 栀子花 camellia /kəˈmiːlɪə/
+* 仙人掌属植物 cactus /ˈkæktəs/; cactus juice
+* 茉莉	jasmine /ˈdʒæsmɪn/;  jasmine tea
+* 郁金香 tulip
+* 百合花	Lily flower
+* 兰花	orchid /ˈɔːkɪd/
+* 香草, 香子兰 vanilla /vəˈnɪlə/ vanilla ice cream
+* 康乃馨	carnation /kɑːˈneɪʃən/
+* 熏衣草: lavender  ['lævəndɚ] is a garden plant with sweet-smelling, bluish-purple flowers.
