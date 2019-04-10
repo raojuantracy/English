@@ -1,18 +1,33 @@
 # Obesity: https://edition.cnn.com/2019/03/19/health/china-obesity-kids-intl/index.html
 
-# beleaguer => adj [bɪˈliːɡəd] beleaguered
+# LAW: chaperone /ˈʃæpərəʊn/ V.S. custodian /kʌsˈtəʊdɪən/ 管理员; 〔贵重物品的〕监护人，看守人
+1. N-COUNT A chaperone is someone who accompanies another person somewhere in order to make sure that they do not come to any harm. 〔在社交活动时监护孩子的家长或教师〕监护人，监督人
+2. A chaperone is an older woman in the past who went out with a young unmarried woman on social occasions and was responsible for her behaviour; someone, usually a parent or teacher, who is responsible for young people on social occasions ;  〔旧时在社交场合陪伴未婚女子并负责监督其行为的〕年长女伴，（女）监护人
+2. V-T If **you are chaperoned by sb., esp. your parent or teacher**, they act as your chaperone by accompanying and taking care of you 当（某人）的监护人，陪伴
+e.g  We `were chaperoned by` our aunt.   我们由姨妈陪护。
+e.g. Three parents went on the school ski trip `as chaperones.` 三名家长``作为(陪伴)监护人``参加了学校的滑雪旅行。
+
+# beleaguer a city 围困/围攻(一个城市)　=> adj [bɪˈliːɡəd] beleaguered
 1. experiencing a lot of problems or criticism 困难重重的；饱受批评的四面楚歌的
-e.g. the country’s **beleaguered steel industry** 该国``四面楚歌的``钢铁行业
-e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered British Prime Minister, Theresa May 被围困的;四面楚歌的;饱受批评的**.
+e.g. the country’s **beleaguered steel industry 四面楚歌的钢铁行业**
+e.g. The European Union has agreed a delay to the **tortuous /ˈtɔːtjʊəs/ Brexit process 漫长曲折的/冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
 2. surrounded by an army 被围困/被围攻的
 e.g. Supplies are being brought into the beleaguered city. 补给品正在运往那个被围困的城市。
+3. verb) **[ 围困/围攻了他们的要塞点；大本营: beleaguer their stronghold；　围困/围攻(一个城市)：beleaguer a city]**
+V.S.
+# belligerent /bɪˈlɪdʒərənt/, NOUN belligerence      
+1. ADJ `A belligerent person or a belligerent nation` is hostile, aggressive, provocative 挑衅的 with antagonism 好斗的好战的（人，民族)
+•  ...the belligerent statements from both sides which have led to fears of war. …双方火药味十足的声明已造成了对战争爆发的担忧。
+2. N-UNCOUNT 好斗性 ;好战性
+•  He could be accused of passion, but never belligerence. 他也许可以被指责为性情冲动，但决不是生性好斗。
 
 # tortuous /ˈtɔːtjʊəs/   (verb:  (精神上) 折磨 torture sb.)
-1. ADJ **a tortuous road** is full of bends and twists. 弯弯曲曲的  **[一条弯弯曲曲的山路: a tortuous moutain road]**
-•  The only road access is `a tortuous mountain route`.   惟一的通路是``一条弯弯曲曲的山路``。
+1. ADJ **a tortuous road** is full of bends and twists. `a tortuous path, stream, road` etc has a lot of bends in it and is therefore difficult to travel along 弯弯曲曲的，曲折的 〔路、溪流等〕 **[一条弯弯曲曲的山路: a tortuous moutain road]**
+e.g. The only road access is `a tortuous, rugged ['rʌɡɪd] mountain route`.   惟一的通路是``一条弯弯曲曲的,崎岖的山路``
+e.g. a tortuous path over the mountains to Kandahar 翻山越岭通往坎大哈的一条蜿蜒小径
 2. ADJ **A tortuous process; a tortuous piece of writing** is very long and complicated. 漫长曲折的/冗长复杂的(过程，程序，文章)
 e.g. ...these long and `tortuous negotiations` aimed at ending the conflict.  …这些``漫长曲折的/冗长复杂的谈判``旨在结束冲突。
-e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered British Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
+e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
 
 # stray /streɪ/    a stray dog; a stray cat
 1. V-I If someone `strays into a place`, they wander away from where they are supposed to be. 走失，迷路
@@ -177,6 +192,8 @@ e.g. The court **remanded the case** to an inferior court for trial. 法院 `将
 V.S. **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/
 ## **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/: V-T If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.   **[reprimand sb=condemn/denounce/decry sb/slam sb/point fingers at sb]**  e.g. He was reprimanded by a teacher for talking nosiy in the corridor. 他因在走廊里说话而被一位老师训斥。
 
+# law 【法律】 If **a court of law upholds/underpins a legal decision** that has already been made, it decides that the original was the correct decision. 〔法庭〕维持原判 (支持／力挺原来的决定)
+
 # law 【法律】  reprieve /rɪˈpriːv/   
 1. a delay before something bad happens or continues to happen;  N-COUNT A reprieve is a delay before a very unpleasant or difficult situation which may or may not take place. 暂缓; 暂缓令; 〔令人不快之事的〕延缓；缓解
 • It looked as though the college would have to shut, but this week `it was given a reprieve`.   看上去这所学院将不得不关闭，但本周却``收到了暂缓令``
@@ -189,6 +206,19 @@ e.g. American officials have repeatedly alleged that the Chinese government coul
 e.g. The US Supreme Court voted against granting Smith a reprieve (= against giving him one ) . 美国最高法院投票反对给史密斯死刑暂缓令。
 e.g. A man awaiting death by lethal injection has been saved by a last-minute reprieve. 一名等待被注射处死的男子因为最后一刻的缓刑而获救
 4. to change a decision to close a factory, school etc or get rid of something 取消关闭〔工厂、学校等〕；暂缓终止
+
+# law 【法律】 被告服罪/认罪: (the defendant/accused/indictee) plead guilty; 被告对<xxx罪行>服罪/认罪: plead guilty to <a crime>
+e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
+e.g. Bruce Isackson and Davina Isackson will `plead guilty to conspiracy 被告对<xxx罪行>服罪/认罪` to commit mail fraud. Bruce Isackson will also `plead guilty to money laundering conspiracy 被告对<xxx罪行>服罪/认罪`. Finally, Michael Center, the former men's tennis coach at the University of Texas, agreed to `plead guilty to one count of conspiracy` to commit mail fraud.
+
+# law 【法律】 incarcerate /ɪnˈkɑːsəˌreɪt/      (incarceratingincarceratedincarcerates)
+1. V-T If people `are incarcerated`, they are kept in a prison or other place. 监禁收押
+•  They `were incarcerated` for the duration of the war. 他们在战争期间被监禁。
+2. N-UNCOUNT 监禁
+•  ...her mother's incarceration in a psychiatric hospital.  …她母亲在精神病院里的监禁
+e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
+
+
 
 # 把xxx先搁置一边; 把xxx放在次要地位; 缓议:  put sth on the back burner
 

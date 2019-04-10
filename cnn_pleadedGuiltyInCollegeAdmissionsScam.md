@@ -1,11 +1,26 @@
 # CNN: Actress pleaded guilty in college admissions scam
 link: https://edition.cnn.com/2019/04/08/us/felicity-huffman-guilty-admissions/index.html
+https://edition.cnn.com/2019/04/09/us/college-admissions-scam-superseding-charges/index.html
 
 # business fraud/scam/shenanigan
 e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
-e.g. Rick Singer, who ran a college prep business, `masterminded 〔尤指犯罪活动的〕出谋划策` what prosecutors called the largest college admissions cheating `scheme/conspiracy` ever prosecuted in the United States. Singer helped wealthy parents cheat on standardized tests for their children, and he bribed college coaches to falsely designate the children as recruited athletes, smoothing their path to admission. The scheme helped the students get into highly selective universities like Yale, Stanford, University of Southern California and UCLA.
 
-# waive sb's right /weɪv/   放弃 (权利); 弃权   
+
+#  mastermind someone who plans and organizes a complicated operation, especially a criminal operation 〔尤指犯罪活动的〕出谋划策者，主谋, 幕后操纵者
+e.g. He is suspected of being the mastermind behind the bombings. 他被怀疑是那些爆炸案的幕后策划者
+e.g. Rick Singer, who ran a college prep business, `masterminded 〔尤指犯罪活动的〕出谋划策` what prosecutors called the largest college admissions cheating `scheme/conspiracy` ever prosecuted in the United States. Singer helped wealthy parents cheat on standardized tests for their children, and he bribed college coaches to falsely designate the children as recruited athletes, smoothing their path to admission. The scheme helped the students get into highly selective universities like Yale, Stanford, University of Southern California and UCLA.
+e.g. to think of, plan, and organize a large, important, and difficult operation 策划，组织〔重大而艰难的行动〕
+• The project was masterminded by Morris, then aged 29. 这个项目由时年29岁的莫里斯策划。
+• Ridley, as commerce secretary, masterminded the privatisation. 时任商务部长的里德利策划推行了私有化。
+
+
+# LAW: chaperone /ˈʃæpərəʊn/ V.S. custodian /kʌsˈtəʊdɪən/ 管理员; 〔贵重物品的〕监护人，看守人
+1. N-COUNT A chaperone is someone who accompanies another person somewhere in order to make sure that they do not come to any harm. 陪护人; an older woman in the past who went out with a young unmarried woman on social occasions and was responsible for her behaviour; someone, usually a parent or teacher, who is responsible for young people on social occasions 监护人，监督人〔在社交活动时监护孩子的家长或教师〕;  〔旧时在社交场合陪伴未婚女子并负责监督其行为的〕年长女伴，（女）监护人
+2. V-T If **you are chaperoned by sb., like your parent or teacher**, they act as your chaperone by accompanying and taking care of you 当（某人）的监护人，陪伴
+e.g  We `were chaperoned by` our aunt.   我们由姨妈陪护。
+e.g. Three parents went on the school ski trip `as chaperones.` 三名家长``作为(陪伴)监护人``参加了学校的滑雪旅行。
+
+# waive sb's right = give up sb's right from sb's own willingness /weɪv/  自愿放弃 (权利); 弃权   
 1. V-T If you waive your right to something, such as legal representation, you choose not to have it or do it. 放弃 (权利); 弃权
 e.g. He pleaded guilty to the murders of three boys and `waived his right` to appeal.  他对杀害了3个男孩的罪行表示认罪伏法，并放弃上诉的权利。
 e.g. In court last week, Huffman acknowledged her rights, charges and the maximum possible penalties. She waived a pretrial hearing, signed conditions of her release and then was free to leave. Her husband, the actor William H. Macy, is not charged in the case.
@@ -25,39 +40,72 @@ be implicated in sth
 e.g Viruses are known to be implicated in the development of some cancers. 已知病毒是诱发一些癌症的原
 3. Noun:  Implication in a murder finally brought him to the gallows.  与一桩谋杀案的牵连最终把他送上了绞刑架
 
-# LAW: 被告服罪/认罪: (the defendant/accused/indictee) plead guilty; 被告对<xxx罪行>服罪/认罪: plead guilty to <a crime>
-e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
-e.g. Bruce Isackson and Davina Isackson will `plead guilty to conspiracy 被告对<xxx罪行>服罪/认罪` to commit mail fraud. Bruce Isackson will also `plead guilty to money laundering conspiracy 被告对<xxx罪行>服罪/认罪`. Finally, Michael Center, the former men's tennis coach at the University of Texas, agreed to `plead guilty to one count of conspiracy` to commit mail fraud.
+# verb) spraw; adj) sprawling
+1. V-I If you sprawl somewhere, you sit or lie down with your legs and arms spread out in a careless way. 伸开四肢坐着; 摊开四肢躺着
+e.g. She `sprawled on the bed` as he had left her. 摊开四肢躺在床上
+2. PHRASAL VERB Sprawl out means the same as . 伸开四肢坐着; 摊开四肢躺着
+•  He would take two aspirin and `sprawl out on his bed`. 摊开四肢躺在床上。
+3. V-I If you say that `a place or a city sprawls`, you mean that it covers a large area of land. 延伸
+•  The State Recreation Area sprawls over 900 acres on the southern tip of Key Biscayne.  州立休闲区占地九百多英亩，地处基·比斯坎南端。
+4. N-UNCOUNT You can use sprawl to refer to an area where a city has grown outward in an uncontrolled, untidy or unattractive way (城市/地区) 无计划扩张扩展; 杂乱延伸的 **[Xi'an is a vast,  sprawling city 一座无计划扩展的巨大城市]**
+e.g. The whole urban sprawl of Ankara contains over 2.6 million people. 整个安卡拉城区总共容纳了260万以上的人口。
+e.g. Thirty-three wealthy parents were among 50 people arrested last month in a `sprawling` investigation that officials dubbed "Operation Varsity Blues." Prosecutors said the parents used their wealth to cheat on standardized tests for their children and bribe college administrators and coaches who had say over who was admitted.
 
-# incarcerate /ɪnˈkɑːsəˌreɪt/      (incarceratingincarceratedincarcerates)
-1. V-T If people `are incarcerated`, they are kept in a prison or other place. 监禁收押
-•  They `were incarcerated` for the duration of the war. 他们在战争期间被监禁。
-2. N-UNCOUNT 监禁
-•  ...her mother's incarceration in a psychiatric hospital.  …她母亲在精神病院里的监禁
-e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
+# be terrified of sth = be afraid of sth = have a phobia of sth
+e.g.  He was terrified of heights = acrophobia /ˌækrəˈfəʊbɪə/ 他过去恐高
+
+# beleaguer a city 围困/围攻(一个城市)　=> adj [bɪˈliːɡəd] beleaguered
+1. experiencing a lot of problems or criticism 困难重重的；饱受批评的四面楚歌的
+e.g. the country’s **beleaguered steel industry 四面楚歌的钢铁行业**
+e.g. The European Union has agreed a delay to the **tortuous /ˈtɔːtjʊəs/ Brexit process 漫长曲折的/冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
+2. surrounded by an army 被围困/被围攻的
+e.g. Supplies are being brought into the beleaguered city. 补给品正在运往那个被围困的城市。
+3. verb) **[ 围困/围攻了他们的要塞点；大本营: beleaguer their stronghold；　围困/围攻(一个城市)：beleaguer a city]**
+V.S.
+# belligerent /bɪˈlɪdʒərənt/, NOUN belligerence      
+1. ADJ `A belligerent person or a belligerent nation` is hostile, aggressive, provocative 挑衅的 with antagonism 好斗的好战的（人，民族)
+•  ...the belligerent statements from both sides which have led to fears of war. …双方火药味十足的声明已造成了对战争爆发的担忧。
+2. N-UNCOUNT 好斗性 ;好战性
+•  He could be accused of passion, but never belligerence. 他也许可以被指责为性情冲动，但决不是生性好斗。
+
+# tortuous /ˈtɔːtjʊəs/   (verb:  (精神上) 折磨 torture sb.)
+1. ADJ **a tortuous road** is full of bends and twists. 弯弯曲曲的; `a tortuous path, stream, road` etc has a lot of bends in it and is therefore difficult to travel along 〔路、溪流等〕弯弯曲曲的，曲折的  **[一条弯弯曲曲的山路: a tortuous moutain road]**
+e.g. The only road access is `a tortuous mountain route`.   惟一的通路是``一条弯弯曲曲的山路``
+e.g. a tortuous path over the mountains to Kandahar 翻山越岭通往坎大哈的一条蜿蜒小径
+2. ADJ **A tortuous process; a tortuous piece of writing** is very long and complicated. 漫长曲折的/冗长复杂的(过程，程序，文章)
+e.g. ...these long and `tortuous negotiations` aimed at ending the conflict.  …这些``漫长曲折的/冗长复杂的谈判``旨在结束冲突。
+e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered British Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
 
 
-# law 【法律】 remand /rɪˈmɑːnd/  [ 将…还押候审: be remanded in custody;  使sb.取保候审: be remanded on bail  (保释外出：be released on bail)]  
+# money laundering
+N-UNCOUNT Money laundering is a `felony crime` of processing stolen money or processing the money that is `embezzled (挪用公款)` through a legitimate business or sending it abroad to a foreign bank, to hide the fact that the money was illegally obtained. 洗钱
+e.g. Bruce will `plead guilty to conspiracy 被告对<xxx罪行>服罪/认罪` to commit `mail fraud/scam/shenanigan 利用邮件的欺诈行为`. Bruce will also `plead guilty to money laundering conspiracy`.  //**被告对<xxx罪行>服罪/认罪: the defendant/accused plead guilty to <a crime>**   
+
+#  >>>>>>>>>>  LAW  <<<<<<<<<<<<<<<<
+# law 【法律】 remand /rɪˈmɑːnd/  [ 将…还押候审: be remanded in custody;  使sb.取保候审: be remanded on bail  (保释外出：be released on bail)]   V.S. **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/
 * **将…还押候审: be remanded in custody**
 * **使sb.取保候审: be remanded on bail**
 * **保释外出：be released on bail**
 1. V-T If a person who is accused of a crime **将…还押候审 is remanded in custody**, they are kept in prison or they are sent back to the prison from `a court of law 法庭` until their trial begins.
 e.g. She `was remanded in custody` for seven days.  卡特 被还押候审 了7天。
 e.g. He `was remanded in custody` until Tuesday. 史密斯 被还押候审 直至星期二。
-e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
-2. If a person **使sb.取保候审 is remanded on bail**, they are allowed to leave the `court of law 法庭` and go home by paying a considerable sum of money, but they're told to return to the court at a later date, when their trial will take place.
+2. If a person **使sb.取保候审 is remanded on bail**, they are allowed to leave the `court of law 法庭` and go home by paying a considerable sum of money, that is bail 保释金, but they're told to return to the court at a later date, when their trial will take place.
 e.g. HW CFO `was remanded on bail 取保候审`, but she has to stay at her home with limited freedom ...
-e.g. He’s `been remanded on bail` for a month . 他已经 取保候审 一个月了。
+e.g. K-pop star Jung Joon-young was arrested/apprehended Thursday over allegations that he shared sexually explicit videos of women filmed `without their knowledge or consent 没有经过某人的知晓或同意`. **The arrest warrant was issued 发出了逮捕证** hours after he appeared at a court hearing during which he apologized to the victims for his actions. Following the hearing, he was escorted in handcuffs to a central Seoul police station, where he remains in custody. The point is that he wasn't allowed to **be remanded [rɪ'mænd] on bail 取保候审**.  
 3. N-UNCOUNT 取保候审; 取保候审期 Remand is used to refer to the process of `remanding someone in custody or remanding sb. on bail`, or to the period of time until their trial begins.  **[取保候审听证会: the remand hearing ]**
 e.g. **The remand hearing** is often over in three minutes. ``取保候审听证会`` 通常在3分钟内结束
 4. **将〔案件〕发回`下级法院`重审: remand the case for trial**: to send a case to be dealt with to another `inferior court`  
 e.g. The court **remanded the case** to an inferior court for trial. 法院 `将案件发回下级法院重审`
 5. remand: the period of time that someone spends in prison before their trial 〔审前〕在押期  
-V.S. **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/: V-T If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.   **[reprimand sb 训斥 =condemn/denounce/decry sb/slam sb/point fingers at sb]**  e.g. He was reprimanded by a teacher for talking nosiy in the corridor. 他因在走廊里说话而被一位老师训斥。
-V.S.
-* [Law] If `a court of law` **upholds/underpins/supports a legal decision** that has already been made, it decides that it was the correct decision. 〔法庭〕维持原判 (支持／力挺原来的决定)
-• The State Supreme Court `upheld the Superior Court judge's decision`. 国家最高法院维持了高级法院法官的判决
-• The conviction was upheld by the Court of Appeal. 上诉法庭维持原判。
+V.S. **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/
+## **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/: V-T If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.   **[reprimand sb=condemn/denounce/decry sb/slam sb/point fingers at sb]**  e.g. He was reprimanded by a teacher for talking nosiy in the corridor. 他因在走廊里说话而被一位老师训斥。
+
+# law 【法律】a court of law upholds/underpins a legal decision
+If **a court of law upholds/underpins a legal decision** that has already been made, it decides that the original was the correct decision. 〔法庭〕维持原判 (支持／力挺原来的决定)   //**underpin sth = uphold and support sth (e.g. a law, sb's plan, sb's decision)**
+
+# law 【法律】 superseding indictment  替代起诉书
+e.g. The parents, who were charged last month with conspiracy to commit fraud, were charged on Tuesday in `a superseding indictment` with conspiring to launder bribes and other payments through a charity run by Rick Singer, the mastermind of the scam, as well as by transferring money into the United States to promote the fraud, prosecutors said.
+e.g. Also on Tuesday, `attorneys` representing some of the parents charged in the `superseding indictment` filed a letter with the US District Court chief judge in Boston, stating prosecutors were engaging in "judge shopping."  The letter said that their clients shouldn't be included in the same `indictment/accusation/charge` as David Sidoo, another parent charged last month with conspiracy to commit mail and wire fraud. The attorneys charge that the move to include them in one `indictment/accusation/charge` along with Sidoo is a `maneuver` by the US Attorney's office to evade the random assignment of judges. Citing that none of their clients have connections to or have done business with Sidoo, the attorneys say that the prosecutors' plan to join their clients into the Sidoo `indictment/accusation/charge` "is a clear form of judge shopping."
 
 # law 【法律】  reprieve /rɪˈpriːv/   
 1. a delay before something bad happens or continues to happen;  N-COUNT A reprieve is a delay before a very unpleasant or difficult situation which may or may not take place. 暂缓; 暂缓令; 〔令人不快之事的〕延缓；缓解
@@ -71,6 +119,31 @@ e.g. American officials have repeatedly alleged that the Chinese government coul
 e.g. The US Supreme Court voted against granting Smith a reprieve (= against giving him one ) . 美国最高法院投票反对给史密斯死刑暂缓令。
 e.g. A man awaiting death by lethal injection has been saved by a last-minute reprieve. 一名等待被注射处死的男子因为最后一刻的缓刑而获救
 4. to change a decision to close a factory, school etc or get rid of something 取消关闭〔工厂、学校等〕；暂缓终止
+
+# law 【法律】 被告服罪/认罪: (the defendant/accused/indictee) plead guilty; 被告对<xxx罪行>服罪/认罪: The defendant/accused pleads guilty to <a crime>
+e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
+e.g. Bruce Isackson and Davina Isackson will `plead guilty to conspiracy 被告对<xxx罪行>服罪/认罪` to commit mail fraud. Bruce Isackson will also `plead guilty to money laundering conspiracy 被告对<xxx罪行>服罪/认罪`. Finally, Michael Center, the former men's tennis coach at the University of Texas, agreed to `plead guilty to one count of conspiracy` to commit mail fraud.   //**被告对<xxx罪行>服罪/认罪: the defendant/accused plead guilty to <a crime>**
+
+# law 【法律】 incarcerate /ɪnˈkɑːsəˌreɪt/   
+1. V-T If people `are incarcerated`, they are kept in a prison or other place. 监禁收押
+•  They `were incarcerated` for the duration of the war. 他们在战争期间被监禁。
+2. N-UNCOUNT 监禁
+•  ...her mother's incarceration in a `psychiatric [,saɪkɪ'ætrɪk] hospital`.  …她母亲在精神病院里的监禁
+e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery, `embezzlement 挪用公款`, and other forms of `business fraud/scam/shenanigan 欺诈，诈骗` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit `mail fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
+
+# law 【法律】 perjury /ˈpɜːdʒərɪ/ 作了伪: commit perjury
+N-UNCOUNT If someone who is giving evidence in a court of law commits perjury, they lie. 伪证
+e.g This witness has `committed perjury` and no reliance can be placed on her evidence.  该证人作了伪证
+
+# law 【法律】 convict sb. of a crime  V.S.  acquit sb of crime /əˈkwɪt/   
+V-T If `someone is acquitted of a crime` in a court of law, they are formally declared not to have committed the crime. 宣判…无罪, 当庭释放
+•  Mr. Castorina was acquitted of attempted murder.  卡斯托瑞纳先生被宣判谋杀未遂罪不成立
+
+# plea
+e.g. She has `a plea hearing` set for May 24 in federal court in Boston, prosecutors said on Twitte
+
+
+# >>>>>>>>>>>>>> LAW above <<<<<<<<<<<<<<<<<<<<<<<,
 
 # stray /streɪ/    a stray dog; a stray cat
 1. V-I If someone `strays into a place`, they wander away from where they are supposed to be. 走失，迷路
@@ -95,6 +168,12 @@ e.g. Her eyes strayed to the clock. 她的目光移到了钟
 e.g. It's too hot and `stuffy  闷热的不通气的` in this meeting room,  I `find my mind straying`.  发现自己的思想无法集中。
 5. ADJ You use stray to describe something that exists separated from other similar things. 离群的
 •  An 8-year-old boy was killed by **a stray bullet 一颗流弹**.
+
+# follow in the wake of sth = as a result of
+e.g. The `money laundering` charge is another blow for Loughlin, the "Full House" actress who was dropped by the `high-end luxury brand`, Hallmark Channel and other brands `following in the wake of` last month's charges.
+
+# rowing machine
+N-COUNT A rowing machine is an exercise machine with moving parts which you move as if you were rowing a rowboat. 划桨式练力机
 
 # drench /drɛntʃ/   
 * V-T To drench something or someone means to make them completely wet. 使湿透
