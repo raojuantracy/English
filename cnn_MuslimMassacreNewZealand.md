@@ -182,6 +182,8 @@ e.g. Hi Jodie, thanks for `coming back to me` on this.  The non-production worke
 # ignite question
 e.g. Friday's video has **reignited questions** about how social media platforms handle offensive content, with many questioning if companies are doing enough to try to catch this type of hate-filled content.
 
+# goose bump： 鸡皮疙瘩
+
 # sporadic /spəˈrædɪk/, sporadically  
 1. ADJ Sporadic occurrences of something happen at irregular intervals. 零星的
 •  ...a year of sporadic fighting in the north of the country.  …该国北部有零星战火的一年。
@@ -210,24 +212,24 @@ e.g. Three other people who were initially detained were not involved in the att
 # apprehend sb. = arrest sb;  Nou) apprehension
 e.g. Police in northern England have made a series of `apprehension` on offenses relating to comments about the New Zealand attack. Greater Manchester Police have three people `in custody`, according to a police statement. A 33-year-old man and a 34-year-old woman were `apprehended/arrested` early Sunday morning local time on suspicion of racially aggravated public order offenses.
 
-# types of flowers
-* daffodil	水仙花 daffodil /ˈdæfədɪl/
-* chrysanthemum	菊花 /krɪˈsænθəməm/
-* 芦荟	aloe /ˈæləʊ/
-* 牡丹花, 芍药花	peony /ˈpiːənɪ/
-* 樱花 cherry / cherry blossom
-* 桃花 peach blossom
-* 梅花 plum blossom [plʌm]
-* [植]荷花, 睡莲 water lily
+# types of flowers  (fauna  ['fɔnə]  动物群  V.S. flora  植物群)
 * 马蹄莲, 水芋  /ˈkælə/ calla
 * 山茶花; 栀子花 camellia /kəˈmiːlɪə/
 * 仙人掌属植物 cactus /ˈkæktəs/; cactus juice
+* 水仙花 daffodil /ˈdæfədɪl/
+* 菊花 chrysanthemum /krɪˈsænθəməm/
+* 康乃馨	carnation /kɑːˈneɪʃən/
+* 芦荟	aloe /ˈæləʊ/
+* 牡丹花, 芍药花	peony /ˈpiːənɪ/
+* 樱花 cherry / cherry blossom  ['blɑsəm]
+* 桃花 peach blossom  ['blɑsəm]
+* 梅花 plum blossom [plʌm]  ['blɑsəm]
+* [植]荷花, 睡莲 water lily
 * 茉莉	jasmine /ˈdʒæsmɪn/;  jasmine tea
 * 郁金香 tulip
 * 百合花	Lily flower
 * 兰花	orchid /ˈɔːkɪd/
 * 香草, 香子兰 vanilla /vəˈnɪlə/ vanilla ice cream
-* 康乃馨	carnation /kɑːˈneɪʃən/
 * 熏衣草: lavender  ['lævəndɚ] is a garden plant with sweet-smelling, bluish-purple flowers.
 
 # gun
