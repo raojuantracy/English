@@ -6,6 +6,20 @@ https://edition.cnn.com/2019/04/09/us/college-admissions-scam-superseding-charge
 e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
 
 
+# stealth fighter 隐形战斗机
+e.g. He was flying what is considered the best `stealth jet` technology in the skies. With the world's most advanced avionics, engines and weaponry, the Pentagon `touts` the F-35 as the "the most affordable, lethal, supportable and survivable aircraft ever to be used."
+
+# reincarnation /ˌriːɪnkɑːˈneɪʃən/      
+1.
+N-UNCOUNT 不可数名词 If you believe in reincarnation, you believe that you will be reincarnated after you die. 转世再生
+•  Many African tribes believe in reincarnation.
+ 很多非洲部落相信转世再生。
+2.
+N-COUNT A reincarnation is a person or animal whose body is believed to contain the spirit of a dead person. (灵魂转世的) 化身
+•  Another little girl, believed to be the reincarnation of her grandmother, was obsessed with sewing.
+ 另外一个据说是她祖母转世化身的小女孩痴迷于缝纫。
+ Dalai Lama's reincarnation must comply with China's laws, Communist Party says
+
 #  mastermind someone who plans and organizes a complicated operation, especially a criminal operation 〔尤指犯罪活动的〕出谋划策者，主谋, 幕后操纵者
 e.g. He is suspected of being the mastermind behind the bombings. 他被怀疑是那些爆炸案的幕后策划者
 e.g. Rick Singer, who ran a college prep business, `masterminded 〔尤指犯罪活动的〕出谋划策` what prosecutors called the largest college admissions cheating `scheme/conspiracy` ever prosecuted in the United States. Singer helped wealthy parents cheat on standardized tests for their children, and he bribed college coaches to falsely designate the children as recruited athletes, smoothing their path to admission. The scheme helped the students get into highly selective universities like Yale, Stanford, University of Southern California and UCLA.
@@ -13,12 +27,6 @@ e.g. to think of, plan, and organize a large, important, and difficult operation
 • The project was masterminded by Morris, then aged 29. 这个项目由时年29岁的莫里斯策划。
 • Ridley, as commerce secretary, masterminded the privatisation. 时任商务部长的里德利策划推行了私有化。
 
-
-# LAW: chaperone /ˈʃæpərəʊn/ V.S. custodian /kʌsˈtəʊdɪən/ 管理员; 〔贵重物品的〕监护人，看守人
-1. N-COUNT A chaperone is someone who accompanies another person somewhere in order to make sure that they do not come to any harm. 陪护人; an older woman in the past who went out with a young unmarried woman on social occasions and was responsible for her behaviour; someone, usually a parent or teacher, who is responsible for young people on social occasions 监护人，监督人〔在社交活动时监护孩子的家长或教师〕;  〔旧时在社交场合陪伴未婚女子并负责监督其行为的〕年长女伴，（女）监护人
-2. V-T If **you are chaperoned by sb., like your parent or teacher**, they act as your chaperone by accompanying and taking care of you 当（某人）的监护人，陪伴
-e.g  We `were chaperoned by` our aunt.   我们由姨妈陪护。
-e.g. Three parents went on the school ski trip `as chaperones.` 三名家长``作为(陪伴)监护人``参加了学校的滑雪旅行。
 
 # waive sb's right = give up sb's right from sb's own willingness /weɪv/  自愿放弃 (权利); 弃权   
 1. V-T If you waive your right to something, such as legal representation, you choose not to have it or do it. 放弃 (权利); 弃权
@@ -81,7 +89,26 @@ e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗�
 N-UNCOUNT Money laundering is a `felony crime` of processing stolen money or processing the money that is `embezzled (挪用公款)` through a legitimate business or sending it abroad to a foreign bank, to hide the fact that the money was illegally obtained. 洗钱
 e.g. Bruce will `plead guilty to conspiracy 被告对<xxx罪行>服罪/认罪` to commit `mail fraud/scam/shenanigan 利用邮件的欺诈行为`. Bruce will also `plead guilty to money laundering conspiracy`.  //**被告对<xxx罪行>服罪/认罪: the defendant/accused plead guilty to <a crime>**   
 
+# wager /ˈweɪdʒə/      (wageringwageredwagers)
+1.
+V-T/V-I If you wager on the result of a horse race, baseball game, or other event, you give someone a sum of money which they give you back with extra money if the result is what you predicted, or which they keep if it is not. 下赌注
+•  Just because people wagered on the Yankees did not mean that they liked them.
+ 虽然人们在北方佬身上下赌注，但并不意味着他们喜欢北方佬。
+•  They wagered a lot of money on the race.
+ 他们在这次赛跑上押了很多钱。
+2.
+N-COUNT Wager is also a noun. 赌注; 打赌
+•  There have been various wagers on certain candidates since the senator announced his retirement.
+ 自从那位参议员宣布引退之后，对某些候选人的打赌猜测纷纷出现。
+
+
 #  >>>>>>>>>>  LAW  <<<<<<<<<<<<<<<<
+# LAW: chaperone /ˈʃæpərəʊn/ V.S. custodian /kʌsˈtəʊdɪən/ 管理员; 〔贵重物品的〕监护人，看守人
+1. N-COUNT A chaperone is someone who accompanies another person somewhere in order to make sure that they do not come to any harm. 〔在社交活动时监护孩子的家长或教师〕监护人，监督人
+2. V-T If **you are chaperoned by sb., esp. your parent or teacher**, they act as your chaperone by accompanying and taking care of you 当（某人）的监护人，陪伴
+e.g  We `were chaperoned by` our aunt.   我们由姨妈陪护。
+e.g. Three parents went on the school ski trip `as chaperones.` 三名家长``作为(陪伴)监护人``参加了学校的滑雪旅行。
+
 # law 【法律】 remand /rɪˈmɑːnd/  [ 将…还押候审: be remanded in custody;  使sb.取保候审: be remanded on bail  (保释外出：be released on bail)]   V.S. **训斥; 谴责: reprimand sb.**: reprimand /ˈrɛprɪˌmɑːnd/
 * **将…还押候审: be remanded in custody**
 * **使sb.取保候审: be remanded on bail**
@@ -159,7 +186,7 @@ e.g. This meeting is beginning to `stray/digress [daɪ'ɡrɛs] from the original
 V.S.
 * digress /daɪˈɡrɛs/; **return from digression [daɪ'ɡrɛs]**:  V-I If you digress, you move away from the subject you are supposed to talk or writeabout and talk or write about something different for a while. 离题, 跑题
 e.g. I've digressed a little to explain the situation so far, so let us `return from digression`  我刚才稍微``离题``说明了迄今的情况。
-e.g. She `digressed from her prepared speech` to pay tribute to the president. 她偏离了预先准备的讲稿
+wae.g. She `digressed from her prepared speech` to pay tribute to the president. 她偏离了预先准备的讲稿
 4. V-I If `your mind strays or your eyes stray`, you do not concentrate on or look at one particular subject, but start thinking about or looking at other things. 思想不集中, 走神, 分心； 〔眼睛〕走神，看往别处
 * `思想不集中, 走神, 分心: find my mind straying`  
 * `眼睛走神，看往别处 My eyes stray to other place`
@@ -270,15 +297,14 @@ e.g. Cho took over as chairman and CEO of Korean Air from his father in 1999. Th
 e.g. Weeks before his death, Cho `was booted from` his position as chairman of the board at Korean Air. He was on trial over charges of `embezzlement 挪用公款 (embezzle money)` and breach of trust. He denied the charges against him
 
 
-
-# scour a place = comb through a place
-
-# tortuous /ˈtɔːtjʊəs/   (verb:  (精神上) 折磨 torture sb.)
-1. ADJ **a tortuous road** is full of bends and twists. 弯弯曲曲的  **[一条弯弯曲曲的山路: a tortuous mountain road]**
-•  The only road access is `a tortuous mountain route`.   惟一的通路是``一条弯弯曲曲的山路``。
-2. ADJ **A tortuous process; a tortuous piece of writing** is very long and complicated. 漫长曲折的/冗长复杂的(过程，程序，文章)
+# tortuous /ˈtɔːtjʊəs/  (verb:  (精神上) 折磨 torture sb.)
+1. ADJ **a tortuous road** is full of bends and twists. `a tortuous path, stream, road` etc has a lot of bends in it and is therefore difficult to travel along 弯弯曲曲的，曲折的 〔路、溪流等〕 **[一条弯弯曲曲的路: a tortuous, rugged road; a tortuous path; 一条弯弯曲曲的溪流:a tortuous stream]**
+e.g. The only access to that village is `a tortuous, rugged ['rʌɡɪd] road`.   惟一的通路是``一条弯弯曲曲的, 崎岖的山路``
+e.g. `a tortuous, rugged ['rʌɡɪd] path` over the mountains to Kandahar ``一条弯弯曲曲的, 崎岖的山路``
+2. ADJ **A tortuous process; a tortuous piece of writing** is very long and complicated. **[漫长曲折的/冗长复杂的过程，程序: a tortuous process; 冗长复杂的文章: a tortuous piece of writing; 漫长曲折的的谈判过程: a tortuous negotiation]**
 e.g. ...these long and `tortuous negotiations` aimed at ending the conflict.  …这些``漫长曲折的/冗长复杂的谈判``旨在结束冲突。
-e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered British Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
+e.g. The European Union has agreed a delay to the **tortuous /ˈtɔːtjʊəs/ Brexit process 漫长曲折的/冗长复杂的过程** and throws one last lifeline to **the beleaguered Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
+
 
 # beleaguer => adj [bɪˈliːɡəd] beleaguered
 1. experiencing a lot of problems or criticism 困难重重的；饱受批评的四面楚歌的

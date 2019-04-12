@@ -1,34 +1,5 @@
 # Obesity: https://edition.cnn.com/2019/03/19/health/china-obesity-kids-intl/index.html
 
-# LAW: chaperone /ˈʃæpərəʊn/ V.S. custodian /kʌsˈtəʊdɪən/ 管理员; 〔贵重物品的〕监护人，看守人
-1. N-COUNT A chaperone is someone who accompanies another person somewhere in order to make sure that they do not come to any harm. 〔在社交活动时监护孩子的家长或教师〕监护人，监督人
-2. A chaperone is an older woman in the past who went out with a young unmarried woman on social occasions and was responsible for her behaviour; someone, usually a parent or teacher, who is responsible for young people on social occasions ;  〔旧时在社交场合陪伴未婚女子并负责监督其行为的〕年长女伴，（女）监护人
-2. V-T If **you are chaperoned by sb., esp. your parent or teacher**, they act as your chaperone by accompanying and taking care of you 当（某人）的监护人，陪伴
-e.g  We `were chaperoned by` our aunt.   我们由姨妈陪护。
-e.g. Three parents went on the school ski trip `as chaperones.` 三名家长``作为(陪伴)监护人``参加了学校的滑雪旅行。
-
-# beleaguer a city 围困/围攻(一个城市)　=> adj [bɪˈliːɡəd] beleaguered
-1. experiencing a lot of problems or criticism 困难重重的；饱受批评的四面楚歌的
-e.g. the country’s **beleaguered steel industry 四面楚歌的钢铁行业**
-e.g. The European Union has agreed a delay to the **tortuous /ˈtɔːtjʊəs/ Brexit process 漫长曲折的/冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
-2. surrounded by an army 被围困/被围攻的
-e.g. Supplies are being brought into the beleaguered city. 补给品正在运往那个被围困的城市。
-3. verb) **[ 围困/围攻了他们的要塞点；大本营: beleaguer their stronghold；　围困/围攻(一个城市)：beleaguer a city]**
-V.S.
-# belligerent /bɪˈlɪdʒərənt/, NOUN belligerence      
-1. ADJ `A belligerent person or a belligerent nation` is hostile, aggressive, provocative 挑衅的 with antagonism 好斗的好战的（人，民族)
-•  ...the belligerent statements from both sides which have led to fears of war. …双方火药味十足的声明已造成了对战争爆发的担忧。
-2. N-UNCOUNT 好斗性 ;好战性
-•  He could be accused of passion, but never belligerence. 他也许可以被指责为性情冲动，但决不是生性好斗。
-
-# tortuous /ˈtɔːtjʊəs/   (verb:  (精神上) 折磨 torture sb.)
-1. ADJ **a tortuous road** is full of bends and twists. `a tortuous path, stream, road` etc has a lot of bends in it and is therefore difficult to travel along 弯弯曲曲的，曲折的 〔路、溪流等〕 **[一条弯弯曲曲的山路: a tortuous moutain road]**
-e.g. The only road access is `a tortuous, rugged ['rʌɡɪd] mountain route`.   惟一的通路是``一条弯弯曲曲的,崎岖的山路``
-e.g. a tortuous path over the mountains to Kandahar 翻山越岭通往坎大哈的一条蜿蜒小径
-2. ADJ **A tortuous process; a tortuous piece of writing** is very long and complicated. 漫长曲折的/冗长复杂的(过程，程序，文章)
-e.g. ...these long and `tortuous negotiations` aimed at ending the conflict.  …这些``漫长曲折的/冗长复杂的谈判``旨在结束冲突。
-e.g. The European Union has agreed a delay to the **tortuous Brexit process 冗长复杂的过程** that avoids the UK crashing out without a deal and throws one last lifeline to **the beleaguered Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
-
 # stray /streɪ/    a stray dog; a stray cat
 1. V-I If someone `strays into a place`, they wander away from where they are supposed to be. 走失，迷路
 e.g. Tourists often get lost and `stray into dangerous areas`.  旅游者们经常迷路走进一些危险区域。
@@ -43,7 +14,7 @@ e.g. This meeting is beginning to `stray/digress [daɪ'ɡrɛs] from the original
 V.S.
 * digress /daɪˈɡrɛs/; **return from digression [daɪ'ɡrɛs]**:  V-I If you digress, you move away from the subject you are supposed to talk or writeabout and talk or write about something different for a while. 离题, 跑题
 e.g. I've digressed a little to explain the situation so far, so let us `return from digression`  我刚才稍微``离题``说明了迄今的情况。
-e.g. She `digressed from her prepared speech` to pay tribute to the president. 她偏离了预先准备的讲稿
+wae.g. She `digressed from her prepared speech` to pay tribute to the president. 她偏离了预先准备的讲稿
 4. V-I If `your mind strays or your eyes stray`, you do not concentrate on or look at one particular subject, but start thinking about or looking at other things. 思想不集中, 走神, 分心； 〔眼睛〕走神，看往别处
 * `思想不集中, 走神, 分心: find my mind straying`  
 * `眼睛走神，看往别处 My eyes stray to other place`
@@ -100,6 +71,7 @@ V.S.
 • The conviction was upheld by the Court of Appeal. 上诉法庭维持原判。
 3. DERIVATIVE 派生词 **upholder** An upholder of a particular tradition or system is someone who believes strongly in it and will support it when it is threatened. n. 支撑物；支持者; (某个传统、某个系统的)守护者,支持者
 •  ...upholders of the traditional family unit.   ...传统家庭单位的支持者。
+
 
 # fawn /fɔːn/    V.S.  frown on/upon sth [fraʊn]  ==>注意两个的读音差别
 1. N-COUNT A fawn is a very young deer. 幼鹿  
@@ -218,8 +190,6 @@ e.g. Bruce Isackson and Davina Isackson will `plead guilty to conspiracy 被告�
 •  ...her mother's incarceration in a psychiatric hospital.  …她母亲在精神病院里的监禁
 e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
 
-
-
 # 把xxx先搁置一边; 把xxx放在次要地位; 缓议:  put sth on the back burner
 
 # 鉴于 xxx: in light of sth
@@ -266,3 +236,23 @@ e.g. Li said that `a lagging perception 落后的观念/落后的理念` of what
 * 兰花	orchid /ˈɔːkɪd/
 * 香草, 香子兰 vanilla /vəˈnɪlə/ vanilla ice cream
 * 熏衣草: lavender  ['lævəndɚ] is a garden plant with sweet-smelling, bluish-purple flowers.
+
+# LAW: chaperone /ˈʃæpərəʊn/ V.S. custodian /kʌsˈtəʊdɪən/ 管理员; 〔贵重物品的〕监护人，看守人
+1. N-COUNT A chaperone is someone who accompanies another person somewhere in order to make sure that they do not come to any harm. 〔在社交活动时监护孩子的家长或教师〕监护人，监督人
+2. V-T If **you are chaperoned by sb., esp. your parent or teacher**, they act as your chaperone by accompanying and taking care of you 当（某人）的监护人，陪伴
+e.g  We `were chaperoned by` our aunt.   我们由姨妈陪护。
+e.g. Three parents went on the school ski trip `as chaperones.` 三名家长``作为(陪伴)监护人``参加了学校的滑雪旅行。
+
+# beleaguer a city (围困/围攻)(一个城市)　=> adj [bɪˈliːɡəd] beleaguered （被围困/围攻的）困难重重的；饱受批评的四面楚歌的
+1. experiencing a lot of problems or criticism （被围困/围攻的）困难重重的；饱受批评的四面楚歌的
+e.g. the country’s **beleaguered steel industry 四面楚歌的钢铁行业**
+e.g. The European Union has agreed a delay to the **tortuous /ˈtɔːtjʊəs/ Brexit process 漫长曲折的/冗长复杂的过程** and throws one last lifeline to **the beleaguered Prime Minister, Theresa May 被围困的; 四面楚歌的; 饱受批评的**.
+2. surrounded by an army 被围困/被围攻的
+e.g. Supplies and provisioning are being brought into `the beleaguered city`. ``补给品``正在运往那个``被围困的城市``。
+3. verb) **[ 围困/围攻了他们的要塞点；大本营: beleaguer their stronghold；　围困/围攻(一个城市)：beleaguer a city]**
+V.S.  **好斗的好战的（人，民族): a belligerent person; a belligerent nation**
+# belligerent /bɪˈlɪdʒərənt/, NOUN belligerence      
+1. ADJ `A belligerent person or a belligerent nation` is hostile, aggressive, `provocative 挑衅的 with antagonism` 好斗的好战的（人，民族)  **[Russia is a belligerent nation.]**
+•  ...the belligerent statements from both sides which have led to fears of war. …双方火药味十足的声明已造成了对战争爆发的担忧。
+2. N-UNCOUNT 好斗性 ;好战性  `belligerence`
+•  He could be accused of passion, but never `belligerence`. 但决不是生性好斗。
