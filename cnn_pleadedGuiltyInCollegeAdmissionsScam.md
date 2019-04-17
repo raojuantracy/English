@@ -5,7 +5,6 @@ https://edition.cnn.com/2019/04/09/us/college-admissions-scam-superseding-charge
 # business fraud/scam/shenanigan
 e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
 
-
 # stealth fighter 隐形战斗机
 e.g. He was flying what is considered the best `stealth jet` technology in the skies. With the world's most advanced avionics, engines and weaponry, the Pentagon `touts` the F-35 as the "the most affordable, lethal, supportable and survivable aircraft ever to be used."
 
@@ -213,7 +212,7 @@ e.g. e.g. Cho's widow, Lee Myung-hee, is currently facing criminal charges for p
  1. N-COUNT A fawn is a very young deer. 幼鹿  
  e.g. The little fawn/yong deer  ran to the top of the ridge.   那只小鹿跑上山脊。
  e.g. Nara 奈良, an ancient city in Japan, is greatly famous for its `fawn park`.
- 2. COLOR Fawn is a pale yellowish-brown colour. 浅黄褐色的
+ 2. COLOR Fawn is a pale yellowish-brown colour. 浅黄褐色的 **caramel: a light yellow-brown colou 焦糖色 浅褐色，淡棕色**
  •  Tania was standing there in her light fawn coat.  塔妮娅穿着她那件浅黄褐色的外套站在那里。
  3. V **奉承,拍马屁 fawn over sb.　需要连读 = flatter sb. = kiss sb's ass = cringe sb. [krɪndʒ]**: to seek attention and admiration (from) by **cringing and flattering sb, or kissing sb's ass**
  V.S.
@@ -229,16 +228,16 @@ e.g. e.g. Cho's widow, Lee Myung-hee, is currently facing criminal charges for p
  2. **frown upon/on sb/sth**：to disapprove of or not satified with someone or something, especially someone’s behaviour 〔尤指对某人的行为〕不赞成，反对
  e.g. Even though divorce is legal, it is still frowned upon. 离婚尽管合法，但依然不被认同
 
-# `cringe sb  [krɪndʒ]`: 过去式 cringed  过去分词 cringed  现在分词 cringing
- 1. cringe or cringe away from sb/sth: to move away from someone or something because you are afraid of them or have a phobia of them **[ 畏缩，退缩(而避开xxx): cringe away from sb/sth ]**
- e.g. A `stray dog 流浪狗` was cringing by the door. 一条流浪狗``畏缩``在门旁。
- e.g. She `cringed away from his husband` because she suffered from `domestic abuse (DA 家庭暴力)`. 她``退缩``着躲开他。
- e.g. People often cringe when they hear the word "fat". 人们常常听到“脂肪”这个词后会``畏缩``
- 2. If you `cringe at something`, you feel embarrassed or disgusted by something you have said or done because you think it makes you seem silly, and perhaps show this feeling in your expression or by making a slight movement. 感到很不好意思/局促不安
- •  Molly had cringed when Ann started picking up the guitar. 莫利``感到很不好意思/局促不安``。
- •  Chris had `cringed at` the thought of using her own family for publicity. 克里斯一想到要利用家人做宣传就``感到很不好意思/局促不安``
- e.g. She `cringed at` the sound of her own voice. 她听到自己的声音``感到很不好意思/局促不安``
- 3. `cringe sb 奉承；阿谀` = `fawn over 需要连读, flatter sb, kiss sb's ass`
+# `cringe [krɪndʒ]`: 过去式 cringed  过去分词 cringed  现在分词 cringing
+ 1. **cringe or cringe away from sb/sth**: to move away from someone or something because you are afraid of them or have a phobia /'fəʊbiə,ˋfobɪə/ of them **[ 畏缩，退缩(而避开，躲开sb/sth): cringe away from sb/sth ]**
+ e.g. She `cringed away from his husband` because she suffered from `domestic abuse (DA 家庭暴力)` for few months.  她``退缩着避开，躲开<她的老公>``
+ e.g. A `stray dog 流浪狗` is `cringing by the door`.  一条流浪狗``畏缩``在门旁。
+e.g. We `cringed away from` the left `facade /fəˈsɑːd/ of that building`, which is leaning to collapse because it's almost `engulfed by the devastating fireball 被火球吞噬`. We see that `thick plumes of smoke is billowing from 喷吐着滚滚黑色浓烟` the spire of the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/`and over the towers.    //**The facade /fəˈsɑːd/ of a building, especially a large one, is its front wall or the wall that faces the street. (建筑物的) 正面**
+ 2. If you `cringe at something (对自己说过的话或做过的事情)感到很不好意思/局促不安`, you feel embarrassed or disgusted by something you have said or done because you think it makes you seem silly or stupid, and perhaps show this feeling in your expression or by making a slight movement, like `shrug your shoulder 耸肩`.
+ e.g. Chris had `cringed at` the thought of using her own family for publicity. 克里斯一想到要利用家人做宣传就``感到很不好意思/局促不安``
+ e.g. She `cringed at` the sound of her own voice. 她听到自己的声音``(对自己说过的话或做过的事情)感到很不好意思/局促不安``
+ 3. `cringe sb 奉承；阿谀` = `fawn over /fɔːn/ 需要连读, flatter sb, kiss sb's ass`
+
 
 # assimilate /əˈsɪmɪˌleɪt/
 1. V-T If you assimilate new ideas, customs, or techniques, you learn them or adopt them. 吸纳 = intake

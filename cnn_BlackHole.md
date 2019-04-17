@@ -1,5 +1,5 @@
 # https://edition.cnn.com/2019/04/10/world/black-hole-photo-scn/index.html
-
+# https://urldefense.proofpoint.com/v2/url?u=https-3A__edition-2Dm.cnn.com_2019_04_12_us_andrew-2Dchael-2Dkatie-2Dbouman-2Dblack-2Dhole-2Dimage-2Dtrnd_index.html-3Fr-3Dhttps-253A-252F-252Fedition.cnn.com-252Fsearch-252F-253Fq-253Dblack-252Bhole&d=DwIGaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=BTkrjdHuRQQSis3XB3wvdGNCvJLl4_H1IIrqv8L3kDM&m=wB8PMdDTXgoaFTWJjmlzSSxe2yaraIRuWSJ2LXxdzeg&s=uk853tjyov6-ihUJ8gSTgbAAFGOmUWJl79Ud3YJUNOg&e=
 
 
 
@@ -37,3 +37,13 @@ e.g. Her eyes strayed to the clock. 她的目光移到了钟
 e.g. It's too hot and `stuffy  闷热的不通气的` in this meeting room,  I `find my mind straying`.  发现自己的思想无法集中。
 5. ADJ You use stray to describe something that exists separated from other similar things. 离群的
 •  An 8-year-old boy was killed by **a stray bullet 一颗流弹**.
+
+# `cringe [krɪndʒ]`: 过去式 cringed  过去分词 cringed  现在分词 cringing
+1. **cringe or cringe away from sb/sth**: to move away from someone or something because you are afraid of them or have a phobia /'fəʊbiə,ˋfobɪə/ of them **[ 畏缩，退缩(而避开，躲开sb/sth): cringe away from sb/sth ]**
+e.g. She `cringed away from his husband` because she suffered from `domestic abuse (DA 家庭暴力)` for few months.  她``退缩着避开，躲开<她的老公>``
+e.g. A `stray dog 流浪狗` is `cringing by the door`.  一条流浪狗``畏缩``在门旁。
+e.g. People often cringe when they hear the word "fat". 人们常常听到“脂肪”这个词后会``畏缩``
+2. If you `cringe at something (对自己说过的话或做过的事情)感到很不好意思/局促不安`, you feel embarrassed or disgusted by something you have said or done because you think it makes you seem silly or stupid, and perhaps show this feeling in your expression or by making a slight movement, like `shrug your shoulder 耸肩`.
+e.g. Chris had `cringed at` the thought of using her own family for publicity. 克里斯一想到要利用家人做宣传就``感到很不好意思/局促不安``
+e.g. She `cringed at` the sound of her own voice. 她听到自己的声音``(对自己说过的话或做过的事情)感到很不好意思/局促不安``
+3. `cringe sb 奉承；阿谀` = `fawn over /fɔːn/ 需要连读, flatter sb, kiss sb's ass`

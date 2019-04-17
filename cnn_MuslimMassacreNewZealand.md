@@ -1,79 +1,17 @@
-# Muslim Massacre/carnage/holocaust in New Zealand https://edition.cnn.com/2019/03/17/asia/new-zealand-mosque-shooting-victims-identification-intl/index.html
+# Muslim Massacre ['mæsəkɚ] /slaughter  ['slɔtɚ]/carnage/holocaust ['hɑləkɔst] in New Zealand https://edition.cnn.com/2019/03/17/asia/new-zealand-mosque-shooting-victims-identification-intl/index.html
 
-# 感到极度震惊的；悲痛欲绝的：sb. feel/be devastated by sth /ˈdɛvəsteɪtɪd/      
-ADJ If you are devastated by something, you are very shocked and upset by it. 感到极度震惊的；悲痛欲绝的
-e.g. Teresa was devastated, her dreams shattered. 特雷莎非常震惊，她的梦想破灭了。
-e.g. American group Muslim Advocates said: "**We are so devastated**. Today is a tragedy not just for Muslims, but for all people of faith and goodwill." The group urged Muslims in the United States to **stay/keep vigilant 保持警惕/警觉** and strong as they attend mosques on Friday。
 
-# 十恶不赦的; 令人发指的（行为，罪行) heinous behavior, heinous crime ['heɪnəs]  美 ['henəs]
-1. If you describe something such as a behavior or crime as heinous, you mean that it is extremely evil, immoral, or horrible. 十恶不赦的; 令人发指的（行为，罪行) **[十恶不赦的令人发指的罪行, 滔天罪行: a heinous crime; 十恶不赦的; 令人发指的行为: a heinous act/behavior]**
-e.g. "This heinous terror attack ['heɪnəs]['henəs] is not an anomaly or a surprise ... the American Muslim community has faced deadly attacks and intimidation in recent years, but **rarely have we witnessed 倒装句** such brutal **carnage/massacre/holocaust** as today's tragedy in New Zealand," its statement added.
+# 十恶不赦的; 令人发指的（行为，罪行) heinous behavior, heinous crime ['heɪnəs]
+1. If you describe something such as a behavior or crime as heinous, you mean that it is extremely evil, immoral, or horrible. **[十恶不赦的令人发指的罪行, 滔天罪行: a heinous crime;  十恶不赦的; 令人发指的行为: a heinous act/behavior]**
+e.g. "This heinous terror attack ['heɪnəs]['henəs] is not an anomaly or a surprise ... the American Muslim community has faced deadly attacks and intimidation 恐吓威胁in recent years, but **rarely have we witnessed 倒装句** such brutal **carnage/massacre/holocaust** as today's tragedy in New Zealand," its statement added.
+e.g. We `were so devastated by NanJing Massacre 对<南京大屠杀>感到极度震惊/悲痛欲绝`, which is such a `heinous crime 十恶不赦的令人发指的罪行, 滔天罪行`.
+e.g. We `were so devastated by` the 9.11 terror attack, which is such `a heinous crime ['heɪnəs] 十恶不赦的令人发指的罪行, 滔天罪行` in the world. ``对<9.11恐怖袭击>感到极度震惊/悲痛欲绝``
+e.g. American group Muslim spokesman said: `We are so devastated by this terror attack`, aka, Muslim `massacre/slaughter/carnage/holocaust` in New Zealand, which is such a `heinous crime ['heɪnəs] 十恶不赦的罪行, 滔天罪行` in the world. The group urged Muslims in the United States to `stay/keep vigilant 保持警惕/警觉` as they attend mosques on Friday.    //**对<xxx e.g. 恐怖袭击> 感到极度震惊/悲痛欲绝: be devastated by sth**
+e.g. Teresa `was devastated`, her `dreams shattered`. 特雷莎非常震惊，她的``梦想破灭``了       //**梦想破灭: dream shattered**
 2. spoken,informal extremely bad 非常糟的
 e.g. The food in the cafeteria is pretty heinous. 这家食堂的食物很糟糕。
 3. DERIVATIVE 派生词 heinousness n [U]
 
-# fawn /fɔːn/    V.S.  frown on/upon sth
-1. N-COUNT A fawn is a very young deer. 幼鹿  
-e.g. The little fawn/yong deer  ran to the top of the ridge.   那只小鹿跑上山脊。
-e.g. Nara 奈良, an ancient city in Japan, is greatly famous for its `fawn park`.
-2. COLOR Fawn is a pale yellowish-brown colour. 浅黄褐色的
-•  Tania was standing there in her light fawn coat.  塔妮娅穿着她那件浅黄褐色的外套站在那里。
-3. V **奉承,拍马屁 fawn over sb.　需要连读 = flatter sb. = kiss sb's ass = cringe sb. [krɪndʒ]**: to seek attention and admiration (from) by **cringing and flattering sb, or kissing sb's ass**
-V.S.
-* `fawn over sb 需要连读` =  `flatter sb.` = `kiss sb's ass` = `cringe sb  [krɪndʒ]`
-* `compliment sb.`: to say something nice to someone in order to praise them 赞美，称赞
-e.g. The groom was so nervous he forgot to compliment the bridesmaids. 新郎太紧张了，都忘了夸奖伴娘。
-e.g. Bob `complimented me on` my new hairstyle. 鲍勃夸我的新发型好
-V.S.
-# (尤指对某人的行为〕不赞成反对: frown upon/on sb./sth [fraʊn]  V.S.  对sb皱眉头: frown at sb.   ==>注意要连读
-1. to make an angry, unhappy, or confused expression, moving your eyebrows together 皱眉
-e.g. She frowned as she read the letter. 她看着信皱起了眉头。
-e.g. Mattie `frowned at him` disapprovingly. 马蒂不满地对他皱眉头。
-2. **frown upon/on sb/sth**：to disapprove of someone or something, especially someone’s behaviour 〔尤指对某人的行为〕不赞成，反对
-e.g. Even though divorce is legal, it is still frowned upon. 离婚尽管合法，但依然不被认同
-
-
-# `cringe sb  [krɪndʒ]`: 过去式 cringed  过去分词 cringed  现在分词 cringing
- 1. cringe: to move away from someone or something because you are afraid or have a phobia 畏缩，退缩
- e.g. A `stray dog流浪狗` was cringing by the door. 一条流浪狗``畏缩``在门旁。
- e.g. She `cringed away from husband` because she suffered from `domestic abuse (DA 家庭暴力)`. 她``退缩``着躲开他。
- e.g. People often cringe when they hear the word "fat". 人们常常听到“脂肪”这个词后会``畏缩``
- 2. If you `cringe at something`, you feel embarrassed or disgusted by something you have said or done because you think it makes you seem silly, and perhaps show this feeling in your expression or by making a slight movement. 感到很不好意思/局促不安
- •  Molly had cringed when Ann started picking up the guitar. 莫利``感到很不好意思/局促不安``。
- •  Chris had `cringed at` the thought of using her own family for publicity. 克里斯一想到要利用家人做宣传就``感到很不好意思/局促不安``
- e.g. She `cringed at` the sound of her own voice. 她听到自己的声音``感到很不好意思/局促不安``
- 3. `cringe sb 奉承；阿谀` = `fawn over 需要连读, flatter sb, kiss sb's ass`
-
-# 为...做准备: brace for sth: get well prepared for sth
-e.g. Trump officials privately `bracing for` North Korea's next move
-
-# massacre ['mæsəkə]  V.S. carnage /ˈkɑːnɪdʒ/ V.S. holocaust /ˈhɒləˌkɔːst/
-## ['mæsəkə] NanJing Massacre
-1. [C,U] when a lot of people are killed violently, especially people who cannot defend themselves
-大屠杀  
-e.g. the only survivor of the massacre 这场大屠杀的唯一幸存者
-e.g. New Zealand authorities are racing to identify the 50 people killed in a `massacre` at two mosques so their families can bury them in accordance with Muslim tradition. The government must increase the pace of reforms to avoid further `bloodshed流血事件`. In addition to the people killed in the attack on Friday, 50 others were wounded in the shootings, authorities said. Of the injured, 34 people remain in Christchurch Hospital, including 12 in `intensive care unit (ICU)`.
-2. [C] informal a very bad defeat in a game or competition 〔在比赛或竞争中的〕惨败
-e.g. United lost in a 9-0 massacre. 联队以0比9惨败。
-## carnage /ˈkɑːnɪdʒ/    
-N-UNCOUNT Carnage is the violent killing of large numbers of people, especially in a war. 大屠杀
-•  ...his strategy for stopping the carnage in Kosovo.  …他阻止科索沃大屠杀的策略。
-## holocaust /ˈhɒləˌkɔːst/    
-1. N-VAR A holocaust is an event in which there is a lot of destruction and many people are killed, especially one caused by war. (尤指战争引起的) 大灾难
-•  A nuclear holocaust seemed a very real possibility in the '50s. 在50年代，核灾难似乎是件很有可能发生的事。
-2. **The Holocaust: (第二次世界大战中纳粹对犹太人的) 大屠杀**
-N-SING The Holocaust is used to refer to the killing by the Nazis of millions of Jews [dʒu:] during the Second World War (第二次世界大战中纳粹对犹太人的) 大屠杀
-•  ...an Israeli-based fund for survivors of **the Holocaust** and their families.  …设在以色列的为纳粹大屠杀的幸存者及其家属建立的基金。
-
-
-# antagonistic [ænˌtæɡəˈnɪstɪk◂]
-1. unfriendly; wanting to argue or disagree 对抗的，敌对的  SYN HOSTILE
-an antagonistic attitude 对抗态度
-2. opposed to an idea or group 反对的 [+ to/towards]
-• antagonistic to new ideas 反对新观点
-3. DERIVATIVE 派生词 antagonistically adv /-kḷɪ ; -kli /
-4. DERIVATIVE 派生词 antagonism [æn'tæɡənɪzəm] = hostility. The antagonism between people is **hatred /ˈheɪtrɪd/ 憎恨**, hostility or dislike between them. Antagonisms are instances of this. 敌意
-e.g. "This is the most deadly Islamophobic (phobia, phobic 伊斯兰恐惧症（心理学术语）) terrorist attack we have experienced in recent times," said the Secretary General of the Muslim Council of Britain. "As the rest of us prepare to undertake our own Friday prayers today, we do so with the anxiety as to whether our mosques and communities are safe in the face of unabated Islamophobia and **hostility/antagonism敌意** against Muslims."
 
 # step up efforts to do sth
 e.g. Protesters urged governments to **step up efforts to** ensure that mosques are protected by polices.
@@ -88,7 +26,6 @@ e.g. I’m going to take my umbrella **just in case/as a precaution**. 我要带
 e.g. "As a result of the review, the flights of Boeing 737 Max 8 aircraft have been suspended until a further decision is announced **as a precaution/just in case 以防万一** in order to ensure flight safety," Turkish transportation and infrastructure ministry said in the statement.
 e.g. "This is a location of interest in relation to the serious firearms incident in Christchurch today," the police tweeted. "Evacuations of properties in the immediate area have taken place **as a precaution/just in case**." **Cordons警戒线 are in place around the area**.    //A cordon is a line or ring of police, soldiers, or vehicles preventing people from entering or leaving an area. 警戒线; **cordon off the criminal scene**
 
-
 # heartbreaking; heartfelt
 ## 令人心碎的／令人极度伤心的（事情，消息） heartbreaking /ˈhɑːtˌbreɪkɪŋ/ [ heartbreaking news ]
 ADJ Something that is heartbreaking makes you feel extremely sad and upset. 令人心碎的／令人极度伤心的（事情，消息）
@@ -96,7 +33,7 @@ e.g. "It was heartbreaking to hear the news of his death from my parents " Zhu s
 e.g. **Heartbreaking news** from New Zealand this morning where innocent people have been murdered because of their faith.
 ## heartfelt /ˈhɑːtˌfɛlt/  [衷心的慰问: heartfelt sympathy;  衷心的感谢: heartfelt gratitude]
 ADJ Heartfelt is used to describe a deep or sincere feeling or wish. 衷心的
-•  My **heartfelt sympathy** goes out to all the relatives. 我对所有的亲属表示衷心的慰问。
+•  My **heartfelt sympathy** goes out to all the relatives. 我对所有的亲属表示衷心的慰问
 
 # school rampage; Verb) 在<地方>横冲直撞 rampage through a place
 1. V-I When people or animals **rampage through a place**, they rush around there in a wild or violent way, causing damage or destruction. 在<地方>横冲直撞
@@ -109,15 +46,14 @@ e.g. gangs of youths `on the rampage` 一伙伙横冲直撞的年轻人
 3. school rampage 狂暴横行
 V.S. **rampant**
 # ['ræmpənt]
-1. if something bad, such as crime or disease, is rampant, there is a lot of it and it is very difficult to control; you mean that it is very common and is increasing in an uncontrolled way 〔犯罪、疾病等〕猖獗的，泛滥的，失控的 [**rampant inflation 失控的/肆虐的通货膨胀**]
+1. if something bad, such as crime or disease, is rampant, there is a lot of it and it is very difficult to control; you mean that it is very common and is increasing in an uncontrolled way 〔犯罪、疾病等〕猖獗的，泛滥的，失控的 [**rampant inflation 失控的/肆虐的通货膨胀; the disease is rampant;  the crime is rampant**]
 e.g. `Pickpocketing and purse-snatching are rampant` in the downtown area. 闹市区扒窃活动 猖獗。
 e.g. `Inflation is rampant` and industry in decline. 通货膨胀肆虐/失控，工业生产下降。
-2. a plant that is rampant grows and spreads quickly, in a way that is difficult to control
-〔植物〕过于繁茂的
+2. a plant that is rampant grows and spreads quickly, in a way that is difficult to control 〔植物〕过于繁茂的
 
 # 保持警惕/警觉 stay vigilant; keep vigilant; remain vigilant 英 ['vɪdʒɪl(ə)nt]  美 ['vɪdʒələnt]
 Someone who is vigilant gives careful attention to a particular problem or situation and concentrates on noticing any danger or trouble that there might be. 警惕的警觉的
-e.g. American group Muslim Advocates said: "**We are so devastated (feel shocked and upset 感到极度震惊的；悲痛欲绝的)**. Today is a tragedy not just for Muslims, but for all people of faith and goodwill." The group urged Muslims in the United States to **stay/keep vigilant 保持警惕/警觉** and strong as they attend mosques on Friday.
+e.g. American group Muslim spokesman said: **We are so devastated by this terror attack, aka, Muslim massacre/slaughter/carnage/holocaust 对xxx感到极度震惊/悲痛欲绝]** in New Zealand, which is such a `heinous crime ['heɪnəs] 十恶不赦的罪行, 滔天罪行` in the world. The group urged Muslims in the United States to **stay/keep vigilant 保持警惕/警觉** and strong as they attend mosques on Friday.
 
 # law 【法律】 remand /rɪˈmɑːnd/  [ 将…还押候审: be remanded in custody;  使sb.取保候审: be remanded on bail  (保释外出：be released on bail)]  
 * **将…还押候审: be remanded in custody**
@@ -172,7 +108,7 @@ V-T If you expedite something, you cause it to be done more quickly. 加快
 e.g. We tried to help you **expedite/hasten your plans 加快你的计划**.
 e.g. strategies to **expedite/hasten the decision-making process** 加快xxx进程
 
-# pedestrian  VS  sidewalk sidewalk /ˈsaɪdˌwɔːk/
+# pedestrian  VS  sidewalk sidewalk /ˈsaɪdˌwɔːk
 * **[ 人行横道 pedestrian crossing = crosswalk ]**: a specially marked place for people to walk across the road 人行横道
 * **[ 人行道 sidewalk ]**: N-COUNT A sidewalk is a path with a hard surface by the side of a road. 人行道
 
@@ -232,9 +168,82 @@ e.g. Police in northern England have made a series of `apprehension` on offenses
 * 香草, 香子兰 vanilla /vəˈnɪlə/ vanilla ice cream
 * 熏衣草: lavender  ['lævəndɚ] is a garden plant with sweet-smelling, bluish-purple flowers.
 
+# 梦想破灭     
+e.g. Teresa `was devastated`, her `dreams shattered`. 特雷莎非常震惊，她的``梦想破灭``了。  // If `you are devastated by something`, you are very shocked, astonished, and upset by it. 感到极度震惊的；悲痛欲绝的
+
 # gun
 * `jump the gun 过早行动(匆忙的过早行动); 抢答(未听发令枪就回答问题)；抢跑(未听发令枪就起跑)`
 e.g. Don't `jump the gun 过早行动`. We need a further discussion.
 e.g. Referee of the relay race: Look, what did I say? He did `jump the gun 确实抢跑了`. It will have to start all over again now.
 * `a smoking gun  确凿的证据`: A smoking gun is a piece of evidence that proves that something is true or that someone is responsible for a crime. 确凿的证据
 e.g. The search for that `drug trafficking` has not produced a smoking gun 没有找到`确凿证据`.
+
+# 感到极度震惊的；悲痛欲绝的：sb. feel/be devastated by sth /ˈdɛvəsteɪtɪd/      
+ADJ If `you are devastated by something sad or horrible, like a tragedy`, you are very shocked, astonished, and upset by it. **[对xxx感到极度震惊/悲痛欲绝: feel devastated by sth]**
+e.g. We `were so devastated by` the 9.11 terror attack, which is such `a heinous crime ['heɪnəs] 十恶不赦的令人发指的罪行, 滔天罪行` in the world. 我们对<9.11恐怖袭击>感到极度震惊/悲痛欲绝
+e.g. We `were so devastated by NanJing Massacre 对<南京大屠杀>感到极度震惊/悲痛欲绝`, which is such a `heinous crime 十恶不赦的令人发指的罪行, 滔天罪行`.
+e.g. American group Muslim spokesman said: **We are so devastated by this terror attack, aka, Muslim massacre/slaughter/carnage/holocaust** in New Zealand, which is such a `heinous crime ['heɪnəs] 十恶不赦的罪行, 滔天罪行` in the world. The group urged Muslims in the United States to **stay/keep vigilant 保持警惕/警觉** and strong as they attend mosques on Friday.
+e.g. Teresa `was devastated`, her `dreams shattered`. 特雷莎非常震惊，她的``梦想破灭``了       //**梦想破灭: dream shattered**
+e.g. We **are so devastated by this tragedy**: A massive blaze at `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/ 巴黎圣母院` in Paris devastated large parts of the 850-year-old church on Monday evening. The Cathedral `is totally engulfed by the fireball`.
+
+# fawn /fɔːn/   V.S.  frown on/upon sth [fraʊn]
+1. N-COUNT A fawn is a very young deer. 幼鹿  
+e.g. The little fawn/yong deer ran to the top of the ridge.   那只小鹿跑上山脊。
+e.g. Nara 奈良, an ancient city in Japan, is greatly famous for its `fawn park`.
+2. COLOR Fawn is a pale yellowish-brown colour. 浅黄褐色的 V.S. **caramel: a light yellow-brown colou 焦糖色 浅褐色，淡棕色**
+e.g. Tania was standing there in her light fawn coat.  塔妮娅穿着她那件浅黄褐色的外套站在那里。
+3. V **奉承,拍马屁 fawn over sb. 需要连读 = flatter sb. = kiss sb's ass = cringe sb. [krɪndʒ]**: to seek attention and admiration (from) by `cringing and flattering sb, or kissing sb's ass`
+V.S.
+* `fawn over sb 连读` =  `flatter sb.` = `kiss sb's ass` = `cringe sb  [krɪndʒ]`
+* `compliment sb. on sth`: to say something nice to someone in order to praise them 赞美，称赞 e.g. The groom was so nervous he forgot to `compliment the bridesmaids 忘了夸奖伴娘`  e.g. Bob `complimented me on` my new hairstyle. 鲍勃夸我的新发型好
+V.S.
+# (尤指对某人的行为〕不赞成,反对:  [fraʊn] frown upon/on sb./sth V.S.  对sb皱眉头: frown at sb.   ==>注意要连读   
+**[不满地对sb.皱眉头: frown at sb. disapprovingly]**  
+1. to make an angry, unhappy, or confused expression, moving your eyebrows together 皱眉
+e.g. She frowned as she read the letter. 她看着信皱起了眉头。
+e.g. Mattie `frowned at him disapprovingly`. 马蒂不满地对他皱眉头。
+2. **frown upon/on sb/sth disapprovingly==>注意要连读**：to disapprove of someone or something, especially someone’s behaviour 〔尤指对某人的行为〕不赞成，反对
+e.g. Even though divorce is legal, it is still frowned upon. 离婚尽管合法，但依然不被认同
+
+# `cringe [krɪndʒ]`: 过去式 cringed  过去分词 cringed  现在分词 cringing
+1. **cringe or cringe away from sb/sth**: to move away from someone or something because you are afraid of them or have a phobia /'fəʊbiə,ˋfobɪə/ of them **[ 畏缩，退缩(而避开，躲开sb/sth): cringe away from sb/sth ]**
+e.g. She `cringed away from his husband` because she suffered from `domestic abuse (DA 家庭暴力)` for few months.  她``退缩着避开，躲开<她的老公>``
+e.g. A `stray dog 流浪狗` is `cringing by the door`.  一条流浪狗``畏缩``在门旁。
+e.g. We `cringed away from` the left `facade /fəˈsɑːd/ of that building`, which is leaning to collapse because it's almost `engulfed by the devastating fireball 被火球吞噬`. We see that `thick plumes of smoke is billowing from 喷吐着滚滚黑色浓烟` the spire of the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/`and over the towers.    //**The facade /fəˈsɑːd/ of a building, especially a large one, is its front wall or the wall that faces the street. (建筑物的) 正面**
+2. If you `cringe at something (对自己说过的话或做过的事情)感到很不好意思/局促不安`, you feel embarrassed or disgusted by something you have said or done because you think it makes you seem silly or stupid, and perhaps show this feeling in your expression or by making a slight movement, like `shrug your shoulder 耸肩`.
+e.g. Chris had `cringed at` the thought of using her own family for publicity. 克里斯一想到要利用家人做宣传就``感到很不好意思/局促不安``
+e.g. She `cringed at` the sound of her own voice. 她听到自己的声音``(对自己说过的话或做过的事情)感到很不好意思/局促不安``
+3. `cringe sb 奉承；阿谀` = `fawn over /fɔːn/ 需要连读, flatter sb, kiss sb's ass`
+
+# 为...做准备: brace for sth: get well prepared for sth
+e.g. Trump officials are privately `bracing for` North Korea's next move.
+e.g. He urged them to `brace for` competition by working out what they were good at, what they should not do and what their values were.
+e.g. The local government has been working on upgrading Xinjiang's tourism facilities and services to `brace for` the growth of local tourism.
+e.g. And it just started smelling a lot like gasoline and a couple of minutes after that the pilot said 'you guys gotta `brace for a hard impact`'.
+
+# massacre ['mæsəkə]  V.S. carnage /ˈkɑːnɪdʒ/ V.S. holocaust /ˈhɒləˌkɔːst/
+## ['mæsəkə] NanJing Massacre 南京大屠杀
+1. [C,U] when a lot of people are killed violently, especially people who cannot defend themselves 大屠杀  
+e.g. We `were so devastated by NanJing Massacre 对<南京大屠杀>感到极度震惊/悲痛欲绝`, which is such a `heinous crime 十恶不赦的令人发指的罪行, 滔天罪行`.
+e.g. We `were so devastated by the 9.11 terror attack`, which is such `a heinous crime ['heɪnəs] 十恶不赦的令人发指的罪行, 滔天罪行` in the world. ``对<9.11恐怖袭击>感到极度震惊/悲痛欲绝``
+e.g. American group Muslim spokesman said: `We are so devastated by this terror attack`, aka, Muslim `massacre/slaughter/carnage/holocaust` in New Zealand, which is such a `heinous crime ['heɪnəs] 十恶不赦的罪行, 滔天罪行` in the world. The group urged Muslims in the United States to `stay/keep vigilant 保持警惕/警觉` as they attend mosques on Friday.    //**对<xxx e.g. 恐怖袭击> 感到极度震惊/悲痛欲绝: be devastated by sth**
+e.g. New Zealand authorities are racing to identify the 50 people killed in a `massacre/holocaust/carnage/slaughter` at two mosques so their families can bury them in accordance with Muslim tradition. The government must increase the pace of reforms to avoid further `bloodshed流血事件`. In addition to the people killed in the attack on Friday, 34 people remain in Christchurch Hospital, including 12 in `intensive care unit (ICU)`.
+2. [C] informal a very bad defeat in a game or competition ``〔在比赛或竞争中的〕惨败``
+e.g. United lost in a `9-0 massacre. 联队以0比9惨败`。
+## carnage /ˈkɑːnɪdʒ/    
+N-UNCOUNT Carnage is the violent killing of large numbers of people, especially in a war. 大屠杀
+•  ...his strategy for stopping the carnage in Kosovo.  …他阻止科索沃大屠杀的策略。
+## holocaust /ˈhɒləˌkɔːst/    
+1. N-VAR A holocaust is an event in which there is a lot of destruction and many people are killed, especially one caused by war. (尤指战争引起的) 大灾难
+•  A nuclear holocaust seemed a very real possibility in the '50s. 在50年代，核灾难似乎是件很有可能发生的事。
+2. **the Holocaust /ˈhɒləˌkɔːst/: (第二次世界大战中纳粹对犹太人的) 大屠杀; 纳粹大屠杀**
+N-SING `The Holocaust` is used to refer to the killing by the Nazis of millions of Jews [dʒu:] during the Second World War (第二次世界大战中纳粹对犹太人的) 大屠杀
+
+# antagonistic [ænˌtæɡəˈnɪstɪk◂]
+1. unfriendly; wanting to argue or disagree 对抗的，敌对的  SYN HOSTILE
+an antagonistic attitude 对抗态度
+2. opposed to an idea or group 反对的 [+ to/towards]
+• antagonistic to new ideas 反对新观点
+3. DERIVATIVE 派生词 antagonistically adv /-kḷɪ ; -kli /
+4. DERIVATIVE 派生词 antagonism [æn'tæɡənɪzəm] = hostility. The antagonism between people is **hatred /ˈheɪtrɪd/ 憎恨**, hostility or dislike between them. Antagonisms are instances of this. 敌意
+e.g. "This is the most deadly Islamophobic (phobia, phobic 伊斯兰恐惧症（心理学术语）) terrorist attack we have experienced in recent times," said the Secretary General of the Muslim Council of Britain. "As the rest of us prepare to undertake our own Friday prayers today, we do so with the anxiety as to whether our mosques and communities are safe in the face of unabated Islamophobia and **hostility/antagonism敌意** against Muslims."
