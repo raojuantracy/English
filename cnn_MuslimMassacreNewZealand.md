@@ -12,6 +12,7 @@ e.g. Teresa `was devastated`, her `dreams shattered`. 特雷莎非常震惊，�
 e.g. The food in the cafeteria is pretty heinous. 这家食堂的食物很糟糕。
 3. DERIVATIVE 派生词 heinousness n [U]
 
+# 网络喷子: internet trolls
 
 # step up efforts to do sth
 e.g. Protesters urged governments to **step up efforts to** ensure that mosques are protected by polices.
