@@ -6,19 +6,19 @@ https://edition.cnn.com/2019/04/17/europe/bells-ring-france-notre-dame-intl/
 e.g. In a time of heightened political, religious and `sectarian [sɛk'tɛrɪən] 宗派的` divisions, a fire in the `Notre Dame Catholic cathedral` in France brought the world together in shared sorrow/ˈsɒrəʊ//sadness, writes CNN `columnist`, The massive, `majestic cathedral 庄严的；宏伟的` looked like it had been there forever, and would remain intact until the end of time. If only for a moment, `Notre Dame /ˈnəʊtrə ˈdɑːm/` ablaze reminded us that we all share this world; that human history means everyone's past. If only for a moment, the notion of a `World Heritage`, which UNESCO formally `bestows` on places that we, as humanity, ought to care for and cherish so that we can pass them to future generations, seemed exactly right. We all hurt over the loss of Notre Dame.
 e.g. We `are so devastated by this tragedy 对xxx感到极度震惊的；悲痛欲绝的`: A massive blaze at `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/` in Paris devastated/ruined large parts of the 850-year-old church on Monday evening.
 
-# sacred /ˈseɪkrɪd/  sacredness n神圣
-1. ADJ Something that is sacred is believed to be holy and to have a special connection with God. 神圣的
-**[圣物: sacred relics (遗物;遗迹); sacred artifacts]**
-e.g. a sacred vow 神圣的誓言
+# sacred /ˈseɪkrɪd/=holy;  sacredness n神圣
+1. ADJ Something that is sacred is believed to be holy(圣洁的，神圣的；至善的) and to have a special connection with God. 神圣的
+**[ 神圣的遗物(圣物): sacred relics;     sacred artifacts;   神圣的杰作: a sacred masterpiece]**
+e.g. 遗物a sacred vow 神圣的誓言
 e.g. the `miraculous /mɪˈrækjʊləs/ powers` of `sacred relics` 圣物的神奇力量
-e.g. Certain animals were considered `sacred`, like The owl is sacred for many Californian Indian people; and similarly, panda is sacred for most Chinese. 猫头鹰对于很多加利福利亚的印第安人来说是神圣的。
+e.g. Paris Mayor said that major art pieces and `sacred items` from `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/` were saved from the fire. Thanks to the police and the municipal agents. The Crown of Thorns, the Tunic/robe of Saint Louis and several other major `sacred masterpieces 神圣的杰作` are now in a safe place. The Notre Dame Cathedral `is home to` numerous `sacred artifacts`, works of art and religious `sacred relics 遗物; 遗迹`, each telling a story. After the devastating fire `tore through` the cathedral on Monday, `toppling its iconic spire`, many feared the `sacred artifacts` -- collected over the centuries -- might be lost.   //**`The spire /spaɪə/ of a building` such as a church is the tall pointed structure on the top. (教堂等建筑物的) 尖顶**
+e.g. Certain animals were considered `sacred`, like the `owl [aʊl]` is sacred for many Californian Indian people; and similarly, panda is sacred for most Chinese. 猫头鹰对于很多加利福利亚的印第安人来说是神圣的。
 e.g. The land `is sacred to these tribesmen`. 这块土地对这些部落成员而言是神圣的
-e.g. Paris Mayor said in a tweet that major art pieces and `sacred items` from `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/` were saved from the fire. Thanks to the police and the municipal agents. The Crown of Thorns, the Tunic of Saint Louis and several other major `sacred masterpieces` are now in a safe place. The Notre Dame Cathedral `is home to` numerous `sacred artifacts`, works of art and religious `sacred relics  遗物; 遗迹`, each telling a story. After the devastating fire `tore through` the cathedral on Monday, `toppling its spire`, many feared the `sacred artifacts` -- collected over the centuries -- might be lost. It was unclear how many had been saved.
-2. ADJ Something connected with religion or used in religious ceremonies is described as sacred. 宗教的
-e.g. ...sacred art.  …宗教艺术。
-3. ADJ You can describe something as sacred when it is regarded as too important to be changed or interfered with. (太重要而)不容更改的; 不容干涉的
-e.g. `My memories are sacred.  我的记忆不能泯灭`
-4. `is nothing sacred?`:  spoken used to express shock when something you think is valuable or important is being changed or harmed 〔对有价值的或重要的事物被改变或受损害时表示惊讶〕怎么能这样呢？
+2. ADJ Something connected with religion or used in religious ceremonies is described as sacred. 宗教的  `e.g. ...sacred art 宗教艺术`
+3. ADJ **You can describe something as sacred, it means this thing is regarded as too important to be changed or interfered with. (太重要而)不容更改的; 不容干涉的**  
+e.g. My memories are sacred.  我的记忆不能泯灭
+e.g. This is a highly confidential and classified document. In other words, it's very sacred.  //**classified information, documents etc are ones which the government has ordered to be kept secret〔资料、文件等〕保密的，机密的**
+4. **is nothing sacred?**: spoken used to express shock and astonished when something (that you think is too important or valuable to be changed or interfered with) is being changed or harmed 〔听到“非常有价值的或重要的事物被改变或受损害”时表示惊讶〕怎么能这样呢？
 5. DERIVATIVE 派生词 `sacredness n神圣`  e.g. the sacredness of human life 人的生命的神圣
 
 # billow /ˈbɪləʊ/  
@@ -32,11 +32,27 @@ e.g. `My memories are sacred.  我的记忆不能泯灭`
 e.g. `Thick black plumes of smoke is billowing from 喷吐着滚滚黑色(像羽毛一般的)浓烟` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  (教堂等建筑物的) 尖顶` and over the towers, and a second showing the fire department responders working at the scene. Almost 5hrs later, the spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and finally the flames are extinguished 火焰被灭了`.
 
 # spire /spaɪə/; the spire of a building; the spire of a church
-1. N-COUNT The spire of a building such as a church is the tall pointed structure on the top. (教堂等建筑物的) 尖顶
+1. N-COUNT `The spire of a building` such as a church is the tall pointed structure on the top. (教堂等建筑物的) 尖顶
 •  ...a church spire poking above the trees.  …伸出树梢的教堂尖顶。
 e.g. `Thick black plumes of smoke is billowing from 喷吐着滚滚黑色(像羽毛一般的)浓烟` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  (教堂等建筑物的) 尖顶` and over the towers, and a second showing the fire department responders working at the scene. Almost 5hrs later, the spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and finally the flames are extinguished 火焰被灭了`.
 2. N any of the coils or turns in a spiral structure (螺旋形结构的)盘管或拐角
 3. V to assume the shape of a spire; point up 猜想(塔尖的形状); 指向上
+
+# (重新回到马背上)重新振作起来; 重新开始 get back on the horse
+e.g. He got encouraged and pick up his `guts（俚语）勇气；决心` again; finally he `got back on the horse` and is pursuing a new life.
+e.g. After that big failure, he finally `got back on the horse`, which is not easy.
+
+# renounce sth /rɪˈnaʊns/ 官方宣布放弃〔职位、头衔、权利等)  V.S.   谴责,训斥: denounce sb
+1. **renounce sth = give up sth publicly and officially**: if you `renounce an official position, title, right` etc, you publicly and officially say that you will not keep it any more; If you `renounce a belief or a way of behaving`, you decide and declare publicly that you no longer have that belief or will no longer behave in that way. 官方宣布放弃〔职位、头衔、权利等); 官方宣布放弃 (信仰、行为方式)
+e.g. After a period of imprisonment, she `renounced terrorism`.  她``(官方)宣布放弃恐怖主义``。
+e.g. Edward `renounced his claim to the French throne`. 爱德华``(官方)宣布放弃对法国王位的继承权``。   //**登基/继承皇位: ascend the throne   V.S.  退位，让位: abdicate /ˈæbdɪˌkeɪt/ or "abdicate the throne"**
+e.g. She `renounced her citizenship of U.S. (官方)宣布放弃美国国籍`
+e.g. These groups must `renounce violence` if there is to be progress towards peace. 必须``放弃/摒弃使用暴力``。
+e.g. Young people `renounced capitalism` in favour of peace and love. 摒弃资本主义。
+3. **(官方)宣布与…断绝关系 renounce the relationship with sb.**
+4. Noun) [rɪ‚nʌnsi'eɪʃ ə n] **renunciation of sth 对(信仰、生活方式等的〕摈弃，放弃   注意拼写**: when someone makes a formal decision to no longer believe in something, live in a particular way etc 〔 RELTD RENOUNCE
+e.g. their `renunciation of` terrorist tactics 他们对恐怖策略的摒弃
+V.S. **谴责,训斥: denounce sb=decry/reprimand/slam/point fingers at sb**
 
 # flame V.S. blaze V.S. ablaze
 ## flames; in flames; burst in to flames
