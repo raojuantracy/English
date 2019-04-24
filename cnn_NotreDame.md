@@ -117,12 +117,18 @@ His eyes `were ablaze with fury/anger`. 他的眼里燃烧着怒火 = `A blaze o
 e.g. A spokesman for Paris police tells CNN the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/ fire is now contained 火势被控制了`. The fire burned for several hours, causing the collapse/toppling down of the cathedral's iconic [aɪ'kɑnɪk] `spire (教堂等建筑物的) 尖顶` and the destruction of its roof structure, which `dated back to` the 13th century. `Consumed by flames`, the `spire (教堂等建筑物的) 尖顶` leaned to one side and fell onto the burning roof as horrified `onlookers` watched.
 e.g. `Thick plumes of smoke is billowing from  喷吐着滚滚黑色浓烟` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/`and over the towers, and a second showing the fire department responders working at the scene. French President praised/commended firefighters for saving the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/ iconic facade　/fəˈsɑːd/(建筑物的) 正面` and towers. "Thanks to their `bravery`, the worst has been avoided."
 
+# copycat; copycat actions 跟风行动; (模仿)跟风行动
+1. ADJ `A copycat action, esp. a copycat crime` is committed by someone who is copying someone else. 模仿性的跟风行动
+e.g. Global headlines about the attacks will have likely delighted the `perpetrators ['pɜːrpətreɪtər]/culprits/criminals` to cause a bigger `sensation　轰动`. They want to make a big press presence, a big statement, a bigger `sensation 轰动`. The Sri Lanka prime minister expressed concern that the attacks could inspire `copycat actions　跟风行动; (模仿)跟风行动`.
+e.g. ...a series of `copycat attacks` by hooligan gangs.  ...一系列流氓帮派发起的模仿性袭击
+2. `a copycat` is someone who copies other people’s clothes, behaviour, work etc – used by children to show disapproval; If you call someone a copycat, you are accusing them of copying your behaviour, dress, or ideas. 抄袭者; 抄袭/模仿他人行为[衣着等]的人〔儿童用语，含贬义〕
+e.g. The Beatles have `copycats` all over the world.  甲壳虫乐队在全世界都有抄袭者
 
-# renovate /ˈrɛnəˌveɪt/    
+# renovate a building/ˈrɛnəˌveɪt/; renovation
 1. V-T If someone renovates an old building, they repair and improve it and get it back into good condition. 修复; 整修
 •  The couple spent thousands renovating the house.  这对夫妻花了几千元来整修房子。
 2. N-VAR 修复; 整修
-•  ...a property which will need extensive renovation.  …一处需要大范围整修的房产。
+•  ...a property which will need extensive `renovation`.  …一处需要大范围整修的房产。
 to repair a building or old furniture so that it is in good condition again 修复，整修，翻新〔建筑物或家具〕
 The hotel has been renovated and redecorated. 酒店已经翻新，并重新装饰
 

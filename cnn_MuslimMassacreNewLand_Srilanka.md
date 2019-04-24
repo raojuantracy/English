@@ -1,6 +1,7 @@
 # Muslim Massacre ['mæsəkɚ] /slaughter  ['slɔtɚ]/carnage/holocaust ['hɑləkɔst]
 * Muslim massacre in New Zealand https://edition.cnn.com/2019/03/17/asia/new-zealand-mosque-shooting-victims-identification-intl/index.html
 * Muslim massacre in Sri Lanka: https://edition.cnn.com/2019/04/22/asia/sri-lanka-bombings-warnings-unheeded-intl/index.html
+* https://edition.cnn.com/2019/04/23/asia/sri-lanka-investigation-ntj-intl/index.html
 
 
 # 十恶不赦的; 令人发指的（行为，罪行) heinous behavior, heinous crime ['heɪnəs]
@@ -14,7 +15,7 @@ e.g. Teresa `was devastated`, her `dreams shattered`. 特雷莎非常震惊，�
 e.g. The food in the cafeteria is pretty heinous. 这家食堂的食物很糟糕。
 3. DERIVATIVE 派生词 heinousness n [U]
 
-# 网络喷子: internet trolls
+# 网络喷子: Internet trolls
 
 # liability /ˌlaɪəˈbɪlɪtɪ/
 1. `liability`: [LAW] legal responsibility for something, especially for paying money that is owed, or for damage or injury〔尤指法律上对还款、赔偿等的〕责任，义务  **liability to do sth**
@@ -45,6 +46,14 @@ e.g. `Thick black plumes of smoke is billowing from 喷吐着滚滚黑色(像羽
 # step up efforts to do sth
 e.g. Protesters urged governments to **step up efforts to** ensure that mosques are protected by polices.
 
+# glean information (from sb.); glean knowledge (from sb.)/ɡliːn/  
+V-T If you `glean something such as information or knowledge`, you learn or collect it slowly and patiently, and perhaps indirectly; 费力地慢慢地收集〔信息〕; 费力地慢慢地学习知识 **glean sth from sb/sth**
+e.g. Additional information was gleaned from other sources. 另外的信息都是从其他地方搜集来的.
+e.g. At present we're `gleaning information` from all sources. 慢慢收集信息。
+e.g. Early warnings from India's intelligence services to Sri Lankan officials ahead of the Easter Sunday bombings were based on `information that is gleaned` from an ISIS suspect.
+e.g. Sri Lankan officials have said: some confidential information `was gleaned` from material obtained during `interrogations 讯问审问` of an ISIS suspect arrested in India. The suspect gave investigators the name of a man who is associated with a local extremist group that `is implicated in 和xxx有牵连/牵扯; 牵涉其中的` the bombings, the source said
+
+
 # precaution /prɪˈkɔːʃən/;  [ 以防万一 as a precaution = just in case]
 1. precaution is something you do in order to prevent something dangerous or unpleasant from happening 预防措施
 • Fire precautions were neglected. 防火措施被忽视了。
@@ -54,6 +63,74 @@ e.g. The traffic barriers were put there **as a safety precaution 作为一个�
 e.g. I’m going to take my umbrella **just in case/as a precaution**. 我要带上雨伞 以防万一
 e.g. "As a result of the review, the flights of Boeing 737 Max 8 aircraft have been suspended until a further decision is announced **as a precaution/just in case 以防万一** in order to ensure flight safety," Turkish transportation and infrastructure ministry said in the statement.
 e.g. "This is a location of interest in relation to the serious firearms incident in Christchurch today," the police tweeted. "Evacuations of properties in the immediate area have taken place **as a precaution/just in case**." **Cordons警戒线 are in place around the area**.    //A cordon is a line or ring of police, soldiers, or vehicles preventing people from entering or leaving an area. 警戒线; **cordon off the criminal scene**
+
+# in retaliation for sth 做为对xxx的报复
+e.g. Islamic `extremists` carried out Sunday's coordinated attacks `in retaliation for` a March attack on two mosques in New Zealand. Addressing parliament today, Wijewardana said that initial investigations showed "the chain of bombings" was carried out by "a radical Islam group/extremists". No group has yet claimed responsibility. Last month's `mosque massacre/holocaust/carnage` in New Zealand, saw at least 50 people murdered in `a shooting rampage 暴乱,乱闹` by `a white supremacist /sʊˈprɛməsɪst/ 种族优越论者`. The `rampage 暴乱,乱闹` began at lunchtime on a Friday, when mosques were full of `worshippers礼拜者 and congregation 会众(通常去某教堂做礼拜的人群)`.
+
+# copycat; copycat actions 跟风行动; (模仿)跟风行动
+1. ADJ `A copycat action, esp. a copycat crime` is committed by someone who is copying someone else. 模仿性的跟风行动
+e.g. Global headlines about the attacks will have likely delighted the `perpetrators ['pɜːrpətreɪtər]/culprits/criminals` to cause a bigger `sensation　轰动`. They want to make a big press presence, a big statement, a bigger `sensation 轰动`. The Sri Lanka prime minister expressed concern that the attacks could inspire `copycat actions　跟风行动; (模仿)跟风行动`.
+e.g. ...a series of `copycat attacks` by hooligan gangs.  ...一系列流氓帮派发起的模仿性袭击
+2. `a copycat` is someone who copies other people’s clothes, behaviour, work etc – used by children to show disapproval; If you call someone a copycat, you are accusing them of copying your behaviour, dress, or ideas. 抄袭者; 抄袭/模仿他人行为[衣着等]的人〔儿童用语，含贬义〕
+e.g. The Beatles have `copycats` all over the world.  甲壳虫乐队在全世界都有抄袭者
+
+# atrocity /əˈtrɒsɪtɪ/; 犯下此暴行: commit an atrocity   
+N-VAR An atrocity is a very cruel, shocking action; an extremely cruel and violent action, especially during a war
+〔尤指战争中的〕暴行
+e.g. This killing `bloodshed` was cold-blooded, and those who `committed this atrocity` should be punished.  这场杀戮非常残酷，那些``犯下此暴行``的人应该受到惩罚
+e.g. The involvement of a foreign organization would explain how a previously marginal domestic extremist group blamed for the attacks, National Tawheed Jamath (NTJ), could have pulled off one of the worst `terrorist atrocities` since 9/11.
+
+# /hiːd/ 留心留意（别人的建议；警告) Verb) heed sth=pay attention to sth as a precaution; heed b's advice or warning; Noun) pay heed to sth = pay attention to sth
+1. V-T If you `heed someone's advice or warning`, you pay attention to it and do what they suggest `as a precaution (in case of sth)` 留心留意到（别人的建议；警告)
+e.g. But few at the conference `heeded his warning`.   但几乎没有人``留心留意到他的警告``
+e.g. If she had only `heeded my advices and warnings` , none of this would have happened. 要是她当初听从我的警告，这一切都不会发生
+e.g. As investigators scrambled to track down the bombers' associates, there was growing anger in Sri Lanka at the failure to `heed the warnings` of India's intelligence service. The first warning came more than two weeks before the terror attacks. Sri Lankan officials were told on April 4 of a potential plot/scheme that is `masterminded 策划` to launch suicide attacks against Christian churches and tourist spots, government spokesman told reporters on Monday. The warnings were repeated two days and two hours before the attacks, however, nobody `paid heed to their warning=took the heed of their warning 没有人理会/留心留意他们的警告`.
+3. Noun)  PHRASE If you `take heed of what someone says` or if you `pay heed to them`, you pay attention to them and consider carefully what they say. 注意/留心留意〔别人的建议或警告〕 **[pay heed to sth = pay attention to sth; pay heed to sb's advice=take heed of sb's advice; pay heed to sb's warning=take heed of sb's warning]**
+e.g. But `what if (what would you do if)` the government `takes/pays no heed`?  但要是政府不理会该怎么办呢？
+e.g. The government was `taking little heed of` these threats. 政府对这些威胁几乎不当回事。
+e.g. Tom `paid no heed to her warning`. 没有理会/留心留意她的警告。
+
+# 忠诚于sb; 向sb效忠.：pledge allegiance to sb.
+e.g. I `pledge allegiance to` the flag of the United States of America. 我向美国国旗宣誓
+e.g. A video released by ISIS showed eight men who are `purported (alleged and supposed)传说中的` to be the Sri Lankan attackers `pledging allegiance to 向sb效忠` the terror group. All of the men have their hands placed together and are masked, except one. That man, identified as Zahran , is the `mastermind of these attacks`.  //**mastermind is someone who plans and organizes a complicated operation, especially a criminal operation 〔尤指犯罪活动的〕出谋划策者，主谋**
+
+# Colombo [kə'lʌmbəu]: the capital of Sri Lanka  n. 科伦坡（斯里兰卡首都）
+e.g. Sri Lankan officials said they had arrested dozens of suspects in the past two days. But they admitted that some were still at large. At his news conference in `Colombo [kə'lʌmbəu]`, Prime Minister Wickremesinghe told reporters that there are "still people on the run with explosives."
+
+# 和xxx有牵连/牵扯; 牵涉其中的 be implicated in/with sth /ˈɪmplɪkeɪtɪd/      
+ADJ If someone or something is implicated in a crime or a bad situation, they are involved in it or responsible for it. 牵涉其中的; 负有责任的
+e.g. Sri Lankan officials have said: some confidential information `was gleaned` from material obtained during `interrogations 讯问审问` of an ISIS suspect arrested in India. The suspect gave investigators the name of a man who is associated with a local extremist group that `is implicated in 和xxx有牵连/牵扯; 牵涉其中的` the bombings, the source said. The man, Zahran, was identified of `the purported attackers 传闻中的袭击者` released Tuesday by ISIS, which claimed responsibility for the Easter Sunday killings.   //**If you `glean something such as information or knowledge`, you learn or collect it slowly and patiently, and perhaps indirectly; 费力地慢慢地收集〔信息〕; 费力地慢慢地学习知识**
+e.g. The emperor `was implicated in` the cover-up scandal and forced to `abdicate (the throne)`.  //**if a king or queen abdicates or abdicates the throne, he or she gives up being king or queen. 退位,放弃〔王位〕 V.S. ascend the throne: 登基为王**
+
+# a devotee of sth [,devə(ʊ)'tiː]  美 [,dɛvə'ti] n. 信徒；爱好者
+N-COUNT Someone who is a devotee of a subject or activity is very enthusiastic about it. 热衷者
+•  Mr. Carpenter is obviously a devotee of Britten's music.   卡彭特先生显然是布里顿音乐的热衷者
+e.g. He said the church was packed because it was Easter Sunday -- around 1,000 `devotees` were in attendance, he estimated. Fernando appealed to Sri Lankan Christians to "please be calm and quiet and pray, because our God is not a god of `revenge/retaliation`, he's a god of love, he's a god of peace... let's follow our master and spread the good news. "Continue to pray for one another, and don't do any harmful acts," he said.
+
+# purported /pɜːˈpɔːtɪd/= alleged; supposed 传闻的; 传说的; 声称的
+e.g. Sri Lankan officials have said: some confidential information `was gleaned` from material obtained during `interrogations 讯问审问` of an ISIS suspect arrested in India. The suspect gave investigators the name of a man who is associated with a local extremist group that `is implicated in 和xxx有牵连/牵扯; 牵涉其中的` the bombings. The man, Zahran, was identified of `the purported attackers 传闻中的袭击者` released Tuesday by ISIS, which claimed responsibility for the Easter Sunday killings.   //**If you `glean something such as information or knowledge (from sb.)`, you learn or collect it slowly and patiently, and perhaps indirectly; 费力地慢慢地收集〔信息〕; 费力地慢慢地学习知识**
+e.g. ..`a purported two million dollar deal 传闻当中的一个两亿的交易`
+e.g. A video released by ISIS showed eight men who are `purported 传说中的` to be the Sri Lankan attackers `pledging allegiance to 向sb效忠` the terror group. All of the men have their hands placed together and are masked, except one. That man, identified as Zahran , is the `mastermind of these attacks`.   //**mastermind is someone who plans and organizes a complicated operation, especially a criminal operation 〔尤指犯罪活动的〕出谋划策者，主谋**
+
+# 故意破坏〔财物，尤指公物〕 vandalize sth, esp public property /ˈvændəˌlaɪz/
+V-T If something such as a building or part of a building, especially public property, is vandalized by someone, it is damaged on purpose/deliberately 故意破坏〔财物，尤指公物〕
+e.g. The cemetery was vandalized during the night. 公墓在夜间遭到了破坏故意破坏xxx
+e.g. The walls had been horribly vandalized with spray paint.  这些墙壁已被人用喷漆破坏得一塌糊涂。
+# supremacist /sʊˈprɛməsɪst/
+N-COUNT A supremacist is someone who believes that one group of people, usually white people, should be more powerful and have more influence than another group. (尤指白人的)种族优越论者
+e.g.   ...`a white supremacist`   ...一个(尤指白人的)种族优越论者。
+e.g. Islamic `extremists` carried out Sunday's coordinated attacks `in retaliation for` a March attack on two mosques in New Zealand. Addressing parliament today, Wijewardana said that initial investigations showed "the chain of bombings" was carried out by "a radical Islam group/extremists". No group has yet claimed responsibility. Last month's `mosque massacre/holocaust/carnage` in New Zealand, saw at least 50 people murdered in `a shooting rampage 暴乱,乱闹` by `a white supremacist /sʊˈprɛməsɪst/ 种族优越论者`. The `rampage 暴乱,乱闹` began at lunchtime on a Friday, when mosques were full of `worshippers礼拜者 and congregation 会众(通常去某教堂做礼拜的人群)`.
+
+# 虚拟语气 subjunctive mood
+e.g. .. "but they need to identify all the `culprits/perpetrators ['pɜːrpətreɪtər]/criminals` and look at what their network is." He admitted that the attacks `could have been prevented` (**虚拟语气 subjunctive mood**), if intelligence had been properly shared.
+e.g. he said in a televised address. "If I `had known` they had received this intelligence, I `could have taken` actions accordingly.
+
+# 让<sb人>复职 reinstate sb. /ˌriːɪnˈsteɪt/   
+1. V-T If you reinstate someone, you give them back a job or position that had been taken away from them. 使复职
+e.g. The governor is said to have agreed to `reinstate five senior workers` who were dismissed.  据说州长已经同意让<被解雇的5位高级工人>复职
+e.g. Sri Lanka has been gripped by `political turmoil/ferment` since the President tried to remove the Prime Minister last year. The Supreme Court intervened and `Wickremesinghe was reinstated /ˌriːɪnˈsteɪt/`, but deep divisions had remained. Ministers have accused the President, who is also the country's Defense Minister, of failing to `pay heed to the intelligence's warning　留心留意（别人的警告／建议)` ahead of the attacks.       // **If you `take heed of sb's advice or warning` or if you `pay heed to sb's advice or warning`, you pay attention to them and consider carefully what they say. 注意/留心留意〔别人的建议或警告)****
+2. V-T To reinstate a law, facility, or practice means to start having it again. 恢复 (法律、机构或条例等)
+•  She says the public response was a factor in the decision to reinstate the grant.  她说公众的反应是决定恢复补助金的一个因素。
 
 # heartbreaking; heartfelt
 ## 令人心碎的／令人极度伤心的（事情，消息） heartbreaking /ˈhɑːtˌbreɪkɪŋ/ [ heartbreaking news ]
