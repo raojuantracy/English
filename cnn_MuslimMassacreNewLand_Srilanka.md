@@ -2,88 +2,12 @@
 * Muslim massacre in New Zealand https://edition.cnn.com/2019/03/17/asia/new-zealand-mosque-shooting-victims-identification-intl/index.html
 * Muslim massacre in Sri Lanka: https://edition.cnn.com/2019/04/22/asia/sri-lanka-bombings-warnings-unheeded-intl/index.html
 * https://edition.cnn.com/2019/04/23/asia/sri-lanka-investigation-ntj-intl/index.html
+https://edition.cnn.com/2019/04/24/asia/sri-lanka-suicide-bombers-spice-family-intl/index.html
 
-
-# 十恶不赦的; 令人发指的（行为，罪行) heinous behavior, heinous crime ['heɪnəs]
-1. If you describe something such as a behavior or crime as heinous, you mean that it is extremely evil, immoral, or horrible. **[十恶不赦的令人发指的罪行, 滔天罪行: a heinous crime;  十恶不赦的; 令人发指的行为: a heinous act/behavior]**
-e.g. "This heinous terror attack ['heɪnəs]['henəs] is not an anomaly or a surprise ... the American Muslim community has faced deadly attacks and intimidation 恐吓威胁in recent years, but **rarely have we witnessed 倒装句** such brutal **carnage/massacre/holocaust** as today's tragedy in New Zealand," its statement added.
-e.g. We `were so devastated by NanJing Massacre 对<南京大屠杀>感到极度震惊/悲痛欲绝`, which is such a `heinous crime 十恶不赦的令人发指的罪行, 滔天罪行`.
-e.g. We `were so devastated by` the 9.11 terror attack, which is such `a heinous crime ['heɪnəs] 十恶不赦的令人发指的罪行, 滔天罪行` in the world. ``对<9.11恐怖袭击>感到极度震惊/悲痛欲绝``
-e.g. American group Muslim spokesman said: `We are so devastated by this terror attack`, aka, Muslim `massacre/slaughter/carnage/holocaust` in New Zealand, which is such a `heinous crime ['heɪnəs] 十恶不赦的罪行, 滔天罪行` in the world. The group urged Muslims in the United States to `stay/keep vigilant 保持警惕/警觉` as they attend mosques on Friday.    //**对<xxx e.g. 恐怖袭击> 感到极度震惊/悲痛欲绝: be devastated by sth**
-e.g. Teresa `was devastated`, her `dreams shattered`. 特雷莎非常震惊，她的``梦想破灭``了       //**梦想破灭: dream shattered**
-2. spoken,informal extremely bad 非常糟的
-e.g. The food in the cafeteria is pretty heinous. 这家食堂的食物很糟糕。
-3. DERIVATIVE 派生词 heinousness n [U]
-
-# 网络喷子: Internet trolls
-
-# liability /ˌlaɪəˈbɪlɪtɪ/
-1. `liability`: [LAW] legal responsibility for something, especially for paying money that is owed, or for damage or injury〔尤指法律上对还款、赔偿等的〕责任，义务  **liability to do sth**
-[+ for] Tenants have legal liability for any damage they cause. 承租人造成任何损坏都要负法律责任。
-[+ to] your liability to capital gains tax 缴付资本利得税的义务
-e.g. The court ruled there was no liability to pay any refund. 法院判定无需退款。
-2. `liabilities [plural,复数]; (公司/组织的) 负债，债务: a company's or organization's liabilities`: a company's or organization's liabilities are the sums of money which it owes; technical the amount of debt that must be paid
-e.g. The company had assets of $138 million and liabilities of $120.5 million.  该公司有1.38亿美元资产和1.205亿美元的负债
-3. [singular,单数] `a liability`: If you say that someone or something is a liability, you mean that they cause a lot of problems or embarrassment. 累赘,惹麻烦的人[事物]
-e.g. As the president's prestige continues to fall, they're clearly beginning to consider him a liability. 随着总统的威信持续下降，他们显然开始认为他是一个累赘
-e.g. A kid like Tom would be a liability in any classroom. 像汤姆这样的孩子放到任何班上都是个累赘。
-V.S. **nuisance /ˈnjuːsəns/ N-COUNT If you say that someone or something is a nuisance, you mean that they annoy you or cause you a lot of problems. 令人讨厌的人或事物; 麻烦的人或事情  e.g. He could be a bit of a nuisance when he was drunk. 他喝醉时会是一个有点令人讨厌的人**
-[+ to]
-e.g. The outspoken minister has become a liability to the government. 这位直言不讳的部长成了政府的麻烦。
-4. liability to sth
-law the amount by which something is likely to be affected by a particular kind of problem, illness etc 易受某事物影响的程度
-
-# billow /ˈbɪləʊ/  
-1. V-I When something made of cloth billows, it swells out and moves slowly in the wind. 在风中鼓胀着飘动
-•  The curtains billowed in the breeze.  窗帘在微风中鼓胀着飘动。
-•  Her pink dress billowed out around her.  她粉红色的连衣裙随身飘了起来。
-2. V-I When smoke or cloud billows, it moves slowly upward or across the sky. (烟、云等) 升腾
-•  ...`thick plumes of smoke is billowing from` factory chimneys.  …从工厂烟囱里冒出来的滚滚浓烟。
-•  Steam billowed out from under the hood.  蒸汽从机罩下冒了出来。
-3. N-COUNT A billow of smoke or dust is a large mass of it rising slowly into the air. 缓缓升起的大团 (烟、灰尘)
-e.g. `Thick black plumes of smoke is billowing from 喷吐着滚滚黑色(像羽毛一般的)浓烟` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  (教堂等建筑物的) 尖顶` and over the towers, and a second showing the fire department responders working at the scene. Almost 5hrs later, the spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and finally the flames are extinguished 火焰被灭了`.
-
-# step up efforts to do sth
-e.g. Protesters urged governments to **step up efforts to** ensure that mosques are protected by polices.
-
-# glean information (from sb.); glean knowledge (from sb.)/ɡliːn/  
-V-T If you `glean something such as information or knowledge`, you learn or collect it slowly and patiently, and perhaps indirectly; 费力地慢慢地收集〔信息〕; 费力地慢慢地学习知识 **glean sth from sb/sth**
-e.g. Additional information was gleaned from other sources. 另外的信息都是从其他地方搜集来的.
-e.g. At present we're `gleaning information` from all sources. 慢慢收集信息。
-e.g. Early warnings from India's intelligence services to Sri Lankan officials ahead of the Easter Sunday bombings were based on `information that is gleaned` from an ISIS suspect.
-e.g. Sri Lankan officials have said: some confidential information `was gleaned` from material obtained during `interrogations 讯问审问` of an ISIS suspect arrested in India. The suspect gave investigators the name of a man who is associated with a local extremist group that `is implicated in 和xxx有牵连/牵扯; 牵涉其中的` the bombings, the source said
-
-
-# precaution /prɪˈkɔːʃən/;  [ 以防万一 as a precaution = just in case]
-1. precaution is something you do in order to prevent something dangerous or unpleasant from happening 预防措施
-• Fire precautions were neglected. 防火措施被忽视了。
-• Vets took precautions to prevent the spread of the disease. 兽医们为防止疾病蔓延采取了预防措施。
-e.g. The traffic barriers were put there **as a safety precaution 作为一个预防措施**。
-2. In everyday English, people usually say `just in case` rather than `as a precaution` . **在日常英语中,人们一般说 just in case,而不说 as a precaution**
-e.g. I’m going to take my umbrella **just in case/as a precaution**. 我要带上雨伞 以防万一
-e.g. "As a result of the review, the flights of Boeing 737 Max 8 aircraft have been suspended until a further decision is announced **as a precaution/just in case 以防万一** in order to ensure flight safety," Turkish transportation and infrastructure ministry said in the statement.
-e.g. "This is a location of interest in relation to the serious firearms incident in Christchurch today," the police tweeted. "Evacuations of properties in the immediate area have taken place **as a precaution/just in case**." **Cordons警戒线 are in place around the area**.    //A cordon is a line or ring of police, soldiers, or vehicles preventing people from entering or leaving an area. 警戒线; **cordon off the criminal scene**
-
-# in retaliation for sth 做为对xxx的报复
-e.g. Islamic `extremists` carried out Sunday's coordinated attacks `in retaliation for` a March attack on two mosques in New Zealand. Addressing parliament today, Wijewardana said that initial investigations showed "the chain of bombings" was carried out by "a radical Islam group/extremists". No group has yet claimed responsibility. Last month's `mosque massacre/holocaust/carnage` in New Zealand, saw at least 50 people murdered in `a shooting rampage 暴乱,乱闹` by `a white supremacist /sʊˈprɛməsɪst/ 种族优越论者`. The `rampage 暴乱,乱闹` began at lunchtime on a Friday, when mosques were full of `worshippers礼拜者 and congregation 会众(通常去某教堂做礼拜的人群)`.
-
-# copycat; copycat actions 跟风行动; (模仿)跟风行动
-1. ADJ `A copycat action, esp. a copycat crime` is committed by someone who is copying someone else. 模仿性的跟风行动
-e.g. Global headlines about the attacks will have likely delighted the `perpetrators ['pɜːrpətreɪtər]/culprits/criminals` to cause a bigger `sensation　轰动`. They want to make a big press presence, a big statement, a bigger `sensation 轰动`. The Sri Lanka prime minister expressed concern that the attacks could inspire `copycat actions　跟风行动; (模仿)跟风行动`.
-e.g. ...a series of `copycat attacks` by hooligan gangs.  ...一系列流氓帮派发起的模仿性袭击
-2. `a copycat` is someone who copies other people’s clothes, behaviour, work etc – used by children to show disapproval; If you call someone a copycat, you are accusing them of copying your behaviour, dress, or ideas. 抄袭者; 抄袭/模仿他人行为[衣着等]的人〔儿童用语，含贬义〕
-e.g. The Beatles have `copycats` all over the world.  甲壳虫乐队在全世界都有抄袭者
-
-# atrocity /əˈtrɒsɪtɪ/; 犯下此暴行: commit an atrocity   
-N-VAR An atrocity is a very cruel, shocking action; an extremely cruel and violent action, especially during a war
-〔尤指战争中的〕暴行
-e.g. This killing `bloodshed` was cold-blooded, and those who `committed this atrocity` should be punished.  这场杀戮非常残酷，那些``犯下此暴行``的人应该受到惩罚
-e.g. The involvement of a foreign organization would explain how a previously marginal domestic extremist group blamed for the attacks, National Tawheed Jamath (NTJ), could have pulled off one of the worst `terrorist atrocities` since 9/11.
-
-# /hiːd/ 留心留意（别人的建议；警告) Verb) heed sth=pay attention to sth as a precaution; heed b's advice or warning; Noun) pay heed to sth = pay attention to sth
+# /hiːd/ 留心留意（别人的建议；警告) Verb) heed sth=pay attention to sth as a precaution/just in case; heed b's advice or warning; Noun) pay heed to sth = pay attention to sth
 1. V-T If you `heed someone's advice or warning`, you pay attention to it and do what they suggest `as a precaution (in case of sth)` 留心留意到（别人的建议；警告)
 e.g. But few at the conference `heeded his warning`.   但几乎没有人``留心留意到他的警告``
-e.g. If she had only `heeded my advices and warnings` , none of this would have happened. 要是她当初听从我的警告，这一切都不会发生
+e.g. If she had only `heeded my advices and warnings`, none of this would have happened. 要是她当初听从我的警告，这一切都不会发生 ==> `subjunctive mood: 虚拟语气`
 e.g. As investigators scrambled to track down the bombers' associates, there was growing anger in Sri Lanka at the failure to `heed the warnings` of India's intelligence service. The first warning came more than two weeks before the terror attacks. Sri Lankan officials were told on April 4 of a potential plot/scheme that is `masterminded 策划` to launch suicide attacks against Christian churches and tourist spots, government spokesman told reporters on Monday. The warnings were repeated two days and two hours before the attacks, however, nobody `paid heed to their warning=took the heed of their warning 没有人理会/留心留意他们的警告`.
 3. Noun)  PHRASE If you `take heed of what someone says` or if you `pay heed to them`, you pay attention to them and consider carefully what they say. 注意/留心留意〔别人的建议或警告〕 **[pay heed to sth = pay attention to sth; pay heed to sb's advice=take heed of sb's advice; pay heed to sb's warning=take heed of sb's warning]**
 e.g. But `what if (what would you do if)` the government `takes/pays no heed`?  但要是政府不理会该怎么办呢？
@@ -95,7 +19,87 @@ e.g. I `pledge allegiance to` the flag of the United States of America. 我向�
 e.g. A video released by ISIS showed eight men who are `purported (alleged and supposed)传说中的` to be the Sri Lankan attackers `pledging allegiance to 向sb效忠` the terror group. All of the men have their hands placed together and are masked, except one. That man, identified as Zahran , is the `mastermind of these attacks`.  //**mastermind is someone who plans and organizes a complicated operation, especially a criminal operation 〔尤指犯罪活动的〕出谋划策者，主谋**
 
 # Colombo [kə'lʌmbəu]: the capital of Sri Lanka  n. 科伦坡（斯里兰卡首都）
-e.g. Sri Lankan officials said they had arrested dozens of suspects in the past two days. But they admitted that some were still at large. At his news conference in `Colombo [kə'lʌmbəu]`, Prime Minister Wickremesinghe told reporters that there are "still people on the run with explosives."
+e.g. Sri Lankan officials said they had `arrested/apprehended` dozens of suspects in the past two days. But they admitted that some were still `fugitive /ˈfjuːdʒɪtɪv/逃亡的`. At his news conference in `Colombo [kə'lʌmbəu]`, Prime Minister told reporters that there are "still people on the run with explosives."
+
+# purported /pɜːˈpɔːtɪd/= alleged; supposed 传闻的; 传说的; 声称的
+e.g. Sri Lankan officials have said: some confidential information `was gleaned` from material obtained during `interrogations 讯问审问` of an ISIS suspect arrested in India. The suspect gave investigators the name of a man who is associated with a local extremist group that `is implicated in 和xxx有牵连/牵扯; 牵涉其中的` the bombings. The man, Zahran, was identified of `the purported attackers 传闻中的袭击者` released Tuesday by ISIS, which claimed responsibility for the Easter Sunday killings.   //**If you `glean something such as information or knowledge (from sb.)`, you learn or collect it slowly and patiently, and perhaps indirectly; 费力地慢慢地收集〔信息〕; 费力地慢慢地学习知识**
+e.g. ..`a purported two million dollar deal 传闻当中的一个两亿的交易`
+e.g. A video released by ISIS showed eight men who are `purported 传说中的` to be the Sri Lankan attackers `pledging allegiance to 向sb效忠` the terror group. All of the men have their hands placed together and are masked, except one. That man, identified as Zahran , is the `mastermind of these attacks`.   //**mastermind is someone who plans and organizes a complicated operation, especially a criminal operation 〔尤指犯罪活动的〕出谋划策者，主谋**
+
+# 故意破坏〔财物，尤指公物〕vandalize sth, esp public property /ˈvændəˌlaɪz/
+V-T If something such as a building or part of a building, especially public property, is vandalized by someone, it is damaged on purpose/deliberately 故意破坏〔财物，尤指公物〕
+e.g. The cemetery was vandalized during the night. 公墓在夜间遭到了破坏故意破坏xxx
+e.g. The walls had been horribly vandalized with spray paint.  这些墙壁已被人用喷漆破坏得一塌糊涂。
+
+# liability /ˌlaɪəˈbɪlɪtɪ/; have legal liability for sth; have legal liability to do sth
+1. `liability`: [LAW] liability is your legal responsibility for something, especially for paying money that you owed, or payinng money for damage or injury you did and you need to compensate.〔尤指法律上对还款; 对xxx造成损坏需要赔偿等的〕责任，义务  **have legal liability to do sth**
+e.g. `Tenants have legal liability for any damage they cause`. 承租人造成任何损坏都`要负法律的赔偿责任`
+e.g. The court ruled there was no liability for him to pay any refund. 法院判定无需退款。
+2. `liabilities [plural, 复数 technical ]: (公司/组织的) 负债，债务: a company's or organization's liabilities`: a company's or organization's liabilities are the sums of money which it owes; `liabilities [plural,复数]` are the amount of debt that must be paid by a company or an org.  [**公司有xxx元的负债 e.g. The company has liabilities of xxx money**]
+e.g. The company had assets of $138 million and `liabilities` of $120.5 million.  该``公司有1.205亿美元的负债``
+3. `[singular,单数] a liability 一个累赘,惹麻烦的人[事物]`  **[认为sb.是一个累赘(惹麻烦的人[事物]): consider sb. a liability ]**: If you say that someone or something is a liability, you mean that they bring you a lot of trouble, problems or embarrassment, which annoys you a lot.  
+e.g. After my parents got divorced, I were living with my mum. I always `consider myself a liability` to my mum. And indeed, I brought lots of trouble,  problems, and embarrassment to her, which are sort of obstacles in her life.
+e.g. As the president's prestige/fame/reputation continues to fall, they're clearly beginning to `consider him a liability`. 认为他是一个累赘(惹麻烦的人[事物])
+e.g. A kid like Tom would `be considered a liability` in any classroom. 像汤姆这样的孩子放到任何班上都是个累赘。
+V.S. **such a nuisance /ˈnjuːsəns/ If you say that someone or something is a nuisance, you mean that they annoy you or cause you a lot of problems. 令人讨厌的人或事物; 麻烦的人或事情 e.g. He could be a bit of a nuisance when he was drunk. 他喝醉时会是一个有点令人讨厌的人**
+V.S. **nuance: /njuːˈɑːns/  A nuance is a slight, subtle small difference in sound, feeling, appearance, or meaning. (声音、感觉、外貌或意义等方面的) 细微差别  e.g. We can use our eyes and facial expressions to communicate virtually every subtle nuance of emotion there is.  我们可以用眼睛和面部表情来如实地传达情感上的每一丝细微差别**
+[+ to]
+4. liability to sth
+law the amount by which something is likely to be affected by a particular kind of problem, illness etc 易受某事物影响的程度
+
+# copycat; a copycat action 跟风行动; (模仿)跟风行动; a copycat crime: (模仿)跟风的犯罪活动
+1. ADJ `A copycat action, esp. a copycat crime` is committed by someone who is copying or mimicing someone else. 模仿性的跟风行动
+e.g. Global headlines about the attacks will have likely delighted the `perpetrators ['pɜːrpətreɪtər]/culprits/criminals` to cause a bigger `sensation 轰动`. They want to make a big press attraction, a big statement, a bigger `sensation 轰动`. The Sri Lanka prime minister expressed concerns that the attacks could inspire `copycat actions or copycat crimes 跟风行动; (模仿)跟风行动`.          //**If a person, event, or situation `causes a sensation`, they cause great interest or excitement. 引起轰动**
+e.g. ...a series of `copycat attacks` by hooligan gangs.  ...一系列流氓帮派发起的模仿性袭击
+2. [show disapproval 含贬义] `a copycat` is someone who copies or mimics other people’s clothes, behaviour, work etc – used by children; If you call someone `a copycat`, you are accusing them of copying your behaviour, dress, or ideas. 抄袭者; 抄袭/模仿他人行为[衣着等]的人〔儿童用语，含贬义〕
+e.g. The Beatles have `copycats` all over the world.  甲壳虫乐队在全世界都有抄袭者
+e.g. HuNan TV is such a `copycat 抄袭者` in terms of those reality shows 真人秀, which they obviously copied from Korea TV illegally. Technically, HuNan TV `infringed the copyright` of Korea TV.
+
+# billow /ˈbɪləʊ/  
+1. V-I When something made of cloth billows, it swells out and moves slowly in the wind. 在风中鼓胀着飘动
+•  The curtains billowed in the breeze.  窗帘在微风中鼓胀着飘动。
+•  Her pink dress billowed out around her.  她粉红色的连衣裙随身飘了起来。
+2. V-I When smoke or cloud billows, it moves slowly upward or across the sky. (烟、云等) 升腾
+•  ...`thick plumes of smoke is billowing from` factory chimneys.  …从工厂烟囱里冒出来的滚滚浓烟。
+•  Steam billowed out from under the hood.  蒸汽从机罩下冒了出来。
+3. N-COUNT A billow of smoke or dust is a large mass of it rising slowly into the air. 缓缓升起的大团 (烟、灰尘)
+e.g. `Thick black plumes of smoke is billowing from the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  滚滚黑色的像羽毛一般的浓烟正在（从教堂的尖顶）升腾/缓缓冒出`. The spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and almost 4 hrs later, the flames are extinguished 火焰被灭了`.      //**鸵鸟羽毛：ostrich plumes**
+
+# glean information (from sb.); glean knowledge (from sb.)/ɡliːn/  
+V-T If you `glean something such as information or knowledge`, you learn or collect it slowly and patiently, and perhaps indirectly; (费力地慢慢地)收集信息〕; (费力地慢慢地)学习知识 **glean sth from sb/sth**
+e.g. Additional information was gleaned from other sources. 另外的信息都是从其他地方搜集来的.
+e.g. At present, we are `gleaning information` from all sources. 慢慢收集信息。
+e.g. Early warnings from India's intelligence services to Sri Lankan officials ahead of the Easter Sunday bombings were based on `information that is gleaned from` an ISIS suspect.
+e.g. Sri Lankan officials have said: some confidential information `was gleaned` from material obtained during `interrogations 讯问审问` of an ISIS suspect arrested in India. The suspect gave investigators the name of a man who `is implicated in 和xxx有牵连/牵扯; 牵涉其中的` the bombings.
+
+# precaution /prɪˈkɔːʃən/;  [ 以防万一 as a precaution = just in case]
+1. precaution is something you do in order to prevent something dangerous or unpleasant from happening 预防措施
+• Fire precautions were neglected. 防火措施被忽视了。
+• Vets took precautions to prevent the spread of the disease. 兽医们为防止疾病蔓延采取了预防措施。
+e.g. The traffic barriers were put there **as a safety precaution 作为一个预防措施**。
+2. In everyday English, people usually say `just in case` rather than `as a precaution` . **在日常英语中,人们一般说 just in case,而不说 as a precaution**
+e.g. I’m going to take my umbrella **just in case/as a precaution**. 我要带上雨伞 以防万一
+e.g. "As a result of the review, the flights of Boeing 737 have been suspended until a further decision is announced **as a precaution/just in case 以防万一** in order to ensure flight safety".
+e.g. "This is a location of interest in relation to the serious firearms incident in Christchurch today," the police tweeted. "Evacuations of properties in the immediate area have taken place **as a precaution/just in case**." **Cordons警戒线 are in place around the area**.         //A cordon is a line or ring of police, soldiers, or vehicles preventing people from entering or leaving an area. 警戒线; **cordon off the criminal scene**
+
+# in retaliation/revenge for sth 做为对xxx的报复
+e.g. Islamic `extremists` carried out the coordinated terror attacks `in retaliation/revenge for` a March attack on two mosques in New Zealand. The initial investigations showed "the chain of bombings" was carried out by "a radical Islam group/extremists". No group has yet claimed responsibility. Last month's `mosque massacre/holocaust/carnage` in New Zealand, saw at least 50 people murdered in `a shooting rampage 暴乱,乱闹` by `a white supremacist /sʊˈprɛməsɪst/ (尤指白人的)种族优越论者`. The `shooting rampage 暴乱,乱闹` began at lunchtime, when mosques were full of `worshippers 礼拜者 and congregation 会众(通常去某教堂做礼拜的人群)`.       //**congregation: the people who are attending a religious service to do worship 祷告/做礼拜 or who regularly attend a religious service are referred to as the congregation.**
+
+# atrocity, atrocities /əˈtrɒsɪtɪ/ [ 犯下此暴行: commit an atrocity ]
+N-VAR An atrocity is a very cruel, brutal, shocking action; an extremely cruel and violent action, especially during a war〔尤指战争中的〕暴行
+e.g. This killing `bloodshed` was so cruel and cold-blooded, and those who `committed this atrocity` should be punished. 那些``犯下此暴行``的人应该受到惩罚
+e.g. The involvement of a foreign organization would explain how a previously extremist group blamed for the attacks could have **pulled off one of the worst terrorist atrocities  做成 (某件难事)** since 9/11.    //**If you [ pull off something very difficult ], you succeed in achieving it. 做成 (某件难事)**
+V.S. **[十恶不赦的令人发指的罪行, 滔天罪行: a heinous crime;  十恶不赦的; 令人发指的行为: a heinous act/behavior]**
+
+# pull off sth very difficult
+1. PHRASAL VERB) If you `pull off something very difficult`, you succeed in achieving it. 做成 (某件难事)
+e.g. The National League for Democracy `pulled off a landslide victory`.  国家民主联盟取得了压倒性优势的胜利。
+e.g. The involvement of a foreign organization would explain how a previously extremist group blamed for the attacks could have `pulled off one of the worst terrorist atrocities 做成 (某件难事)` since 9/11.
+2. PHRASAL VERB) If a vehicle or driver `pulls off the road` or `pull over` 注意连读的发音, the vehicle stops by the side of the road. (车)停靠路边
+* `pull off the road` 注意连读的发音
+* `pull over`: PHRASAL VERB， 注意连读的发音 When a vehicle or driver `pulls over`, or when a police officer pulls them over, the vehicle moves closer to the side of the road and stops there. 靠边停车
+e.g. He noticed a man behind him in a blue Ford gesticulating to `pull over`. 他注意到后面一辆蓝色福特车里的一个男人示意他靠边停车
+e.g.I `pulled off the road` at a scenic overlook. 我将车停在了路旁。
 
 # 和xxx有牵连/牵扯; 牵涉其中的 be implicated in/with sth /ˈɪmplɪkeɪtɪd/      
 ADJ If someone or something is implicated in a crime or a bad situation, they are involved in it or responsible for it. 牵涉其中的; 负有责任的
@@ -107,19 +111,10 @@ N-COUNT Someone who is a devotee of a subject or activity is very enthusiastic a
 •  Mr. Carpenter is obviously a devotee of Britten's music.   卡彭特先生显然是布里顿音乐的热衷者
 e.g. He said the church was packed because it was Easter Sunday -- around 1,000 `devotees` were in attendance, he estimated. Fernando appealed to Sri Lankan Christians to "please be calm and quiet and pray, because our God is not a god of `revenge/retaliation`, he's a god of love, he's a god of peace... let's follow our master and spread the good news. "Continue to pray for one another, and don't do any harmful acts," he said.
 
-# purported /pɜːˈpɔːtɪd/= alleged; supposed 传闻的; 传说的; 声称的
-e.g. Sri Lankan officials have said: some confidential information `was gleaned` from material obtained during `interrogations 讯问审问` of an ISIS suspect arrested in India. The suspect gave investigators the name of a man who is associated with a local extremist group that `is implicated in 和xxx有牵连/牵扯; 牵涉其中的` the bombings. The man, Zahran, was identified of `the purported attackers 传闻中的袭击者` released Tuesday by ISIS, which claimed responsibility for the Easter Sunday killings.   //**If you `glean something such as information or knowledge (from sb.)`, you learn or collect it slowly and patiently, and perhaps indirectly; 费力地慢慢地收集〔信息〕; 费力地慢慢地学习知识**
-e.g. ..`a purported two million dollar deal 传闻当中的一个两亿的交易`
-e.g. A video released by ISIS showed eight men who are `purported 传说中的` to be the Sri Lankan attackers `pledging allegiance to 向sb效忠` the terror group. All of the men have their hands placed together and are masked, except one. That man, identified as Zahran , is the `mastermind of these attacks`.   //**mastermind is someone who plans and organizes a complicated operation, especially a criminal operation 〔尤指犯罪活动的〕出谋划策者，主谋**
-
-# 故意破坏〔财物，尤指公物〕 vandalize sth, esp public property /ˈvændəˌlaɪz/
-V-T If something such as a building or part of a building, especially public property, is vandalized by someone, it is damaged on purpose/deliberately 故意破坏〔财物，尤指公物〕
-e.g. The cemetery was vandalized during the night. 公墓在夜间遭到了破坏故意破坏xxx
-e.g. The walls had been horribly vandalized with spray paint.  这些墙壁已被人用喷漆破坏得一塌糊涂。
-# supremacist /sʊˈprɛməsɪst/
+# supremacist /sʊˈprɛməsɪst/; a white supremacist
 N-COUNT A supremacist is someone who believes that one group of people, usually white people, should be more powerful and have more influence than another group. (尤指白人的)种族优越论者
 e.g.   ...`a white supremacist`   ...一个(尤指白人的)种族优越论者。
-e.g. Islamic `extremists` carried out Sunday's coordinated attacks `in retaliation for` a March attack on two mosques in New Zealand. Addressing parliament today, Wijewardana said that initial investigations showed "the chain of bombings" was carried out by "a radical Islam group/extremists". No group has yet claimed responsibility. Last month's `mosque massacre/holocaust/carnage` in New Zealand, saw at least 50 people murdered in `a shooting rampage 暴乱,乱闹` by `a white supremacist /sʊˈprɛməsɪst/ 种族优越论者`. The `rampage 暴乱,乱闹` began at lunchtime on a Friday, when mosques were full of `worshippers礼拜者 and congregation 会众(通常去某教堂做礼拜的人群)`.
+e.g. Islamic `extremists` carried out the coordinated terror attacks `in retaliation for` a March attack on two mosques in New Zealand. The initial investigations showed "the chain of bombings" was carried out by "a radical Islam group/extremists". No group has yet claimed responsibility. Last month's `mosque massacre/holocaust/carnage` in New Zealand, saw at least 50 people murdered in `a shooting rampage 暴乱,乱闹` by `a white supremacist /sʊˈprɛməsɪst/ 种族优越论者`. The `shooting rampage 暴乱,乱闹` began at lunchtime on a Friday, when mosques were full of `worshippers 礼拜者 and congregation 会众(通常去某教堂做礼拜的人群)`.  
 
 # 虚拟语气 subjunctive mood
 e.g. .. "but they need to identify all the `culprits/perpetrators ['pɜːrpətreɪtər]/criminals` and look at what their network is." He admitted that the attacks `could have been prevented` (**虚拟语气 subjunctive mood**), if intelligence had been properly shared.
@@ -130,7 +125,7 @@ e.g. he said in a televised address. "If I `had known` they had received this in
 e.g. The governor is said to have agreed to `reinstate five senior workers` who were dismissed.  据说州长已经同意让<被解雇的5位高级工人>复职
 e.g. Sri Lanka has been gripped by `political turmoil/ferment` since the President tried to remove the Prime Minister last year. The Supreme Court intervened and `Wickremesinghe was reinstated /ˌriːɪnˈsteɪt/`, but deep divisions had remained. Ministers have accused the President, who is also the country's Defense Minister, of failing to `pay heed to the intelligence's warning　留心留意（别人的警告／建议)` ahead of the attacks.       // **If you `take heed of sb's advice or warning` or if you `pay heed to sb's advice or warning`, you pay attention to them and consider carefully what they say. 注意/留心留意〔别人的建议或警告)****
 2. V-T To reinstate a law, facility, or practice means to start having it again. 恢复 (法律、机构或条例等)
-•  She says the public response was a factor in the decision to reinstate the grant.  她说公众的反应是决定恢复补助金的一个因素。
+•  She says the public response was a factor in the decision to reinstate the grant.  她说公众的反应是决定恢复补助金的一个因素
 
 # heartbreaking; heartfelt
 ## 令人心碎的／令人极度伤心的（事情，消息） heartbreaking /ˈhɑːtˌbreɪkɪŋ/ [ heartbreaking news ]
@@ -315,7 +310,7 @@ e.g. Even though divorce is legal, it is still frowned upon. 离婚尽管合法�
 1. **cringe or cringe away from sb/sth**: to move away from someone or something because you are afraid of them or have a phobia /'fəʊbiə,ˋfobɪə/ of them **[ 畏缩，退缩(而避开，躲开sb/sth): cringe away from sb/sth ]**
 e.g. She `cringed away from his husband` because she suffered from `domestic abuse (DA 家庭暴力)` for few months.  她``退缩着避开，躲开<她的老公>``
 e.g. A `stray dog 流浪狗` is `cringing by the door`.  一条流浪狗``畏缩``在门旁。
-e.g. We `cringed away from` the left `facade /fəˈsɑːd/ of that building`, which is leaning to collapse because it's almost `engulfed by the devastating fireball 被火球吞噬`. We see that `thick plumes of smoke is billowing from 喷吐着滚滚黑色浓烟` the spire of the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/`and over the towers.    //**The facade /fəˈsɑːd/ of a building, especially a large one, is its front wall or the wall that faces the street. (建筑物的) 正面**
+e.g. We `cringed away from` the left `facade /fəˈsɑːd/ of that building`, which is leaning to collapse because it's almost `engulfed by the devastating fireball 被火球吞噬`. We see that `thick black plumes of smoke is billowing from the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/ 像羽毛一样黑浓的烟（从教堂的尖顶）滚滚升腾`.        //**The facade /fəˈsɑːd/ of a building, especially a large one, is its front wall or the wall that faces the street. (建筑物的) 正面**  //**鸵鸟羽毛：ostrich plumes**
 2. If you `cringe at something (对自己说过的话或做过的事情)感到很不好意思/局促不安`, you feel embarrassed or disgusted by something you have said or done because you think it makes you seem silly or stupid, and perhaps show this feeling in your expression or by making a slight movement, like `shrug your shoulder 耸肩`.
 e.g. Chris had `cringed at` the thought of using her own family for publicity. 克里斯一想到要利用家人做宣传就``感到很不好意思/局促不安``
 e.g. She `cringed at` the sound of her own voice. 她听到自己的声音``(对自己说过的话或做过的事情)感到很不好意思/局促不安``
@@ -344,6 +339,8 @@ N-UNCOUNT Carnage is the violent killing of large numbers of people, especially 
 •  A nuclear holocaust seemed a very real possibility in the '50s. 在50年代，核灾难似乎是件很有可能发生的事。
 2. **the Holocaust /ˈhɒləˌkɔːst/: (第二次世界大战中纳粹对犹太人的) 大屠杀; 纳粹大屠杀**
 N-SING `The Holocaust` is used to refer to the killing by the Nazis of millions of Jews [dʒu:] during the Second World War (第二次世界大战中纳粹对犹太人的) 大屠杀
+## slaughter V.S. manslaughter
+V.S. **N) 过失杀人，误杀 manslaughter**: the crime of killing someone illegally but not deliberately e.g. She was cleared of murder but found guilty of manslaughter. 她洗脱了谋杀的罪名，但被判过失杀人。
 
 # antagonistic [ænˌtæɡəˈnɪstɪk◂]
 1. unfriendly; wanting to argue or disagree 对抗的，敌对的  SYN HOSTILE
@@ -353,3 +350,28 @@ an antagonistic attitude 对抗态度
 3. DERIVATIVE 派生词 antagonistically adv /-kḷɪ ; -kli /
 4. DERIVATIVE 派生词 antagonism [æn'tæɡənɪzəm] = hostility. The antagonism between people is **hatred /ˈheɪtrɪd/ 憎恨**, hostility or dislike between them. Antagonisms are instances of this. 敌意
 e.g. "This is the most deadly Islamophobic (phobia, phobic 伊斯兰恐惧症（心理学术语）) terrorist attack we have experienced in recent times," said the Secretary General of the Muslim Council of Britain. "As the rest of us prepare to undertake our own Friday prayers today, we do so with the anxiety as to whether our mosques and communities are safe in the face of unabated Islamophobia and **hostility/antagonism敌意** against Muslims."
+
+# 十恶不赦的; 令人发指的（行为，罪行) heinous behavior, heinous crime ['heɪnəs]
+1. If you describe something such as a behavior or crime as heinous, you mean that it is extremely evil, cruel, cold-blooding, immoral, or horrible. **[十恶不赦的令人发指的罪行, 滔天罪行: a heinous crime;  十恶不赦的; 令人发指的行为: a heinous act/behavior]**
+e.g. We `were so devastated by` the 9.11 terror attack, which is such `a heinous crime ['heɪnəs] 十恶不赦的令人发指的罪行, 滔天罪行` in the world. ``对<9.11恐怖袭击>感到极度震惊/悲痛欲绝``
+e.g. American group Muslim spokesman said: `We are so devastated by this terror attack`, Muslim `massacre/slaughter/carnage/holocaust` in New Zealand, which is such a `heinous crime ['heɪnəs] 十恶不赦的罪行, 滔天罪行` in the world. The group urged Muslims in the United States to `stay/keep vigilant 保持警惕/警觉` as they attend mosques on Friday.    //**对<xxx e.g. 恐怖袭击> 感到极度震惊/悲痛欲绝: be devastated by sth**
+e.g. This `heinous terror attack ['heɪnəs]` against Muslim is not an `anomaly /əˈnɒməlɪ/反常现象` or a surprise ... the American Muslim community has faced deadly attacks and intimidation 恐吓威胁 in recent years, but **rarely have we witnessed 倒装句** such brutal **carnage/massacre/slaughter/holocaust** as today's tragedy in New Zealand
+e.g. We `were so devastated by NanJing Massacre 对<南京大屠杀>感到极度震惊/悲痛欲绝`, which is such a `heinous crime 十恶不赦的令人发指的罪行, 滔天罪行` and cruel bloodshed 流血事件.
+e.g. Teresa `was devastated`, her `dreams shattered`. 特雷莎非常震惊，她的``梦想破灭``了       //**梦想破灭: dream shattered**
+2. spoken,informal extremely bad 非常糟的
+e.g. The food in the cafeteria is pretty heinous. 这家食堂的食物很糟糕。
+3. DERIVATIVE 派生词 heinousness n [U]
+
+# anomaly /əˈnɒməlɪ/
+N-COUNT If something is an anomaly, it is different from what is usual or expected. 反常的事物; 异常现象，反常现象
+e.g. In those days, a woman professor was still an anomaly. 女教授仍旧十分稀罕(是一个 异常现象)
+e.g. The space shuttle had stopped transmitting data, a very serious anomaly for the mission. 一个十分严重的反常现象。
+e.g. This `heinous terror attack ['heɪnəs]` against Muslim is not an `anomaly /əˈnɒməlɪ/反常现象` or a surprise ... the American Muslim community has faced deadly attacks and intimidation 恐吓威胁 in recent years, but **rarely have we witnessed 倒装句** such brutal **carnage/massacre/slaughter/holocaust** as today's tragedy in New Zealand
+
+# 网络喷子: Internet trolls
+
+# step up efforts to do sth
+e.g. Protesters urged governments to **step up efforts to** ensure that mosques are protected by polices.
+
+# wreck your head over it 把你的头撞碎
+e.g. I Tracy - I signed up for a course. And it involves work for 5 peers and I picked you (you're welcome.  Though seriously, I didn't anticipate this).  You will get a survey request.  Generally I'm not particularly sensitive, no need to `wreck your head over it`.

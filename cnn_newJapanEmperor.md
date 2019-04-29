@@ -87,3 +87,58 @@ e.g. He got encouraged and pick up his `guts（俚语）勇气；决心` again; 
 
 # 对<某个国家>进行国事访问: pay a state visit to <a country>
 e.g. Japan's new emperor has yet to `ascend the throne 登基/继承皇位`, but he already has his first foreign guest `lined up`: United States President Donald Trump. Current Emperor, 85, will `step down/abdicate` at the end of this month, becoming the first Japanese emperor to `abdicate /ˈæbdɪˌkeɪt/ the throne 退位，让位` in modern history. He will be replaced by his 59-year-old son, Crown Prince Naruhito. Trump and First Lady Melania will `pay a state visit to Japan` in late May.
+
+# pull off sth (very difficult)
+1. PHRASAL VERB) If you `pull off something very difficult`, you succeed in achieving it. 做成 (某件难事)
+e.g. The National League for Democracy `pulled off a landslide victory`.  国家民主联盟取得了压倒性优势的胜利。
+e.g. The involvement of a foreign organization would explain how a previously domestic extremist group blamed for the attacks could have `pulled off one of the worst terrorist atrocities  做成 (某件难事)` since 9/11.
+2. PHRASAL VERB) If a vehicle or driver `pulls off the road` or `pull over` 注意连读的发音, the vehicle stops by the side of the road. 停靠路边
+* `pull off the road` 注意连读的发音
+* `pull over`: PHRASAL VERB， 注意连读的发音 When a vehicle or driver `pulls over`, or when a police officer pulls them over, the vehicle moves closer to the side of the road and stops there. 靠边停车
+e.g. He noticed a man behind him in a blue Ford gesticulating to `pull over`. 他注意到后面一辆蓝色福特车里的一个男人示意他靠边停车
+e.g.I `pulled off the road` at a scenic overlook. 我将车停在了路旁。
+
+# liability /ˌlaɪəˈbɪlɪtɪ/; have legal liability for sth; have legal liability to do sth
+1. `liability`: [LAW] liability is your legal responsibility for something, especially for paying money that you owed, or payinng money for damage or injury you did and you need to compensate.〔尤指法律上对还款; 对xxx造成损坏需要赔偿等的〕责任，义务  **have legal liability to do sth**
+e.g. `Tenants have legal liability for any damage they cause`. 承租人造成任何损坏都`要负法律的赔偿责任`
+e.g. The court ruled there was no liability for him to pay any refund. 法院判定无需退款。
+2. `liabilities [plural, 复数 technical ]: (公司/组织的) 负债，债务: a company's or organization's liabilities`: a company's or organization's liabilities are the sums of money which it owes; `liabilities [plural,复数]` are the amount of debt that must be paid by a company or an org.  [**公司有xxx元的负债 e.g. The company has liabilities of xxx money**]
+e.g. The company had assets of $138 million and `liabilities` of $120.5 million.  该``公司有1.205亿美元的负债``
+3. `[singular,单数] a liability 一个累赘,惹麻烦的人[事物]`: If you say that someone or something is a liability, you mean that they bring you a lot of trouble, problems or embarrassment, which annoys you a lot.  **[认为sb.是一个累赘(惹麻烦的人[事物]): consider sb. a liability ]**
+e.g. As the president's prestige/fame/reputation continues to fall, they're clearly beginning to `consider him a liability`. 认为他是一个累赘(惹麻烦的人[事物])
+e.g. A kid like Tom would `be considered a liability` in any classroom. 像汤姆这样的孩子放到任何班上都是个累赘。
+e.g. After my parents' divorce, I always `consider myself a liability` to my mum. And indeed, I brought lots of trouble and problems to her, which are sort of obstacles in her life.
+V.S. **such a nuisance /ˈnjuːsəns/ If you say that someone or something is a nuisance, you mean that they annoy you or cause you a lot of problems. 令人讨厌的人或事物; 麻烦的人或事情 e.g. He could be a bit of a nuisance /ˈnjuːsəns/ when he was drunk. 他喝醉时会是一个有点令人讨厌的人**
+V.S. **nuance: /njuːˈɑːns/  A nuance is a slight, subtle small difference in sound, feeling, appearance, or meaning. (声音、感觉、外貌或意义等方面的) 细微差别  e.g. We can use our eyes and facial expressions to communicate virtually every subtle nuance of emotion there is.  我们可以用眼睛和面部表情来如实地传达情感上的每一丝细微差别**
+[+ to]
+[+ to]
+4. liability to sth
+law the amount by which something is likely to be affected by a particular kind of problem, illness etc 易受某事物影响的程度
+
+# copycat; a copycat action 跟风行动; (模仿)跟风行动; a copycat crime: (模仿)跟风的犯罪活动
+1. ADJ `A copycat action, esp. a copycat crime` is committed by someone who is copying or mimicing someone else. 模仿性的跟风行动
+e.g. Global headlines about the attacks will have likely delighted the `perpetrators ['pɜːrpətreɪtər]/culprits/criminals` to cause a bigger `sensation 轰动`. They want to make a big press attraction, a big statement, a bigger `sensation 轰动`. The Sri Lanka prime minister expressed concerns that the attacks could inspire `copycat actions or copycat crimes 跟风行动; (模仿)跟风行动`.          //**If a person, event, or situation `causes a sensation`, they cause great interest or excitement. 引起轰动**
+e.g. ...a series of `copycat attacks` by hooligan gangs.  ...一系列流氓帮派发起的模仿性袭击
+2. [show disapproval 含贬义] `a copycat` is someone who copies or mimics other people’s clothes, behaviour, work etc – used by children; If you call someone `a copycat`, you are accusing them of copying your behaviour, dress, or ideas. 抄袭者; 抄袭/模仿他人行为[衣着等]的人〔儿童用语，含贬义〕
+e.g. The Beatles have `copycats` all over the world.  甲壳虫乐队在全世界都有抄袭者
+e.g. HuNan TV is such a `copycat 抄袭者` in terms of those reality shows 真人秀, which they obviously copied from Korea TV illegally. Technically, HuNan TV `infringed the copyright` of Korea TV.
+
+# `cringe [krɪndʒ]`: 过去式 cringed  过去分词 cringed  现在分词 cringing
+1. **cringe or cringe away from sb/sth**: to move away from someone or something because you are afraid of them or have a phobia /'fəʊbiə,ˋfobɪə/ of them **[ 畏缩，退缩(而避开，躲开sb/sth): cringe away from sb/sth ]**
+e.g. She `cringed away from his husband` because she suffered from `domestic abuse (DA 家庭暴力)` for few months.  她``退缩着避开，躲开<她的老公>``
+e.g. A `stray dog 流浪狗` is `cringing by the door`.  一条流浪狗``畏缩``在门旁。
+e.g. We `cringed away from` the left `facade /fəˈsɑːd/ of that building`, which is leaning to collapse/topple down because it's almost `engulfed by the devastating fireball 被火球吞噬`. We see that `thick plumes of smoke is billowing from 喷吐着滚滚黑色浓烟` the spire of the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/`and over the towers.  //**The facade /fəˈsɑːd/ of a building, especially a large one, is its front wall or the wall that faces the street. (建筑物的) 正面**
+2. If you `cringe at something (对自己说过的话或做过的事情)感到很不好意思/局促不安`, you feel embarrassed or disgusted by something you have said or done because you think it makes you seem silly or stupid, and perhaps show this feeling in your expression or by making a slight movement, like `shrug your shoulder 耸肩`.
+e.g. Chris had `cringed at` the thought of using her own family for publicity. 克里斯一想到要利用家人做宣传就``感到很不好意思/局促不安``
+e.g. She `cringed at` the sound of her own voice. 她听到自己的声音``(对自己说过的话或做过的事情)感到很不好意思/局促不安``
+3. `cringe sb 奉承；阿谀` = `fawn over /fɔːn/ 需要连读, flatter sb, kiss sb's ass`
+
+# /hiːd/ 留心留意（别人的建议；警告) Verb) heed sth=pay attention to sth as a precaution; heed b's advice or warning; Noun) pay heed to sth = pay attention to sth
+1. V-T If you `heed someone's advice or warning`, you pay attention to it and do what they suggest `as a precaution (in case of sth)` 留心留意到（别人的建议；警告)
+e.g. But few at the conference `heeded his warning`.   但几乎没有人``留心留意到他的警告``
+e.g. If she had only `heeded my advices and warnings` , none of this would have happened. 要是她当初听从我的警告，这一切都不会发生
+e.g. As investigators scrambled to track down the bombers' associates, there was growing anger in Sri Lanka at the failure to `heed the warnings` of India's intelligence service. The first warning came more than two weeks before the terror attacks. Sri Lankan officials were told on April 4 of a potential plot/scheme that is `masterminded 策划` to launch suicide attacks against Christian churches and tourist spots, government spokesman told reporters on Monday. The warnings were repeated two days and two hours before the attacks, however, nobody `paid heed to their warning=took the heed of their warning 没有人理会/留心留意他们的警告`.
+3. Noun)  PHRASE If you `take heed of what someone says` or if you `pay heed to them`, you pay attention to them and consider carefully what they say. 注意/留心留意〔别人的建议或警告〕 **[pay heed to sth = pay attention to sth; pay heed to sb's advice=take heed of sb's advice; pay heed to sb's warning=take heed of sb's warning]**
+e.g. But `what if (what would you do if)` the government `takes/pays no heed`?  但要是政府不理会该怎么办呢？
+e.g. The government was `taking little heed of` these threats. 政府对这些威胁几乎不当回事。
+e.g. Tom `paid no heed to her warning`. 没有理会/留心留意她的警告。

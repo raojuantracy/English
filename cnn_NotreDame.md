@@ -29,14 +29,14 @@ e.g. This is a highly confidential and classified document. In other words, it's
 •  ...`thick plumes of smoke is billowing from` factory chimneys.  …从工厂烟囱里冒出来的滚滚浓烟。
 •  Steam billowed out from under the hood.  蒸汽从机罩下冒了出来。
 3. N-COUNT A billow of smoke or dust is a large mass of it rising slowly into the air. 缓缓升起的大团 (烟、灰尘)
-e.g. `Thick black plumes of smoke is billowing from 喷吐着滚滚黑色(像羽毛一般的)浓烟` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  (教堂等建筑物的) 尖顶` and over the towers, and a second showing the fire department responders working at the scene. Almost 5hrs later, the spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and finally the flames are extinguished 火焰被灭了`.
+e.g. `Thick black plumes of smoke is billowing from 滚滚黑色的像羽毛一般的浓烟正在升腾/缓缓冒出` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  (教堂等建筑物的) 尖顶` and over the towers. The spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and almost 4 hrs later, the flames are extinguished 火焰被灭了`.
 
-# spire /spaɪə/; the spire of a building; the spire of a church
-1. N-COUNT `The spire of a building` such as a church is the tall pointed structure on the top. (教堂等建筑物的) 尖顶
-•  ...a church spire poking above the trees.  …伸出树梢的教堂尖顶。
-e.g. `Thick black plumes of smoke is billowing from 喷吐着滚滚黑色(像羽毛一般的)浓烟` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  (教堂等建筑物的) 尖顶` and over the towers, and a second showing the fire department responders working at the scene. Almost 5hrs later, the spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and finally the flames are extinguished 火焰被灭了`.
-2. N any of the coils or turns in a spiral structure (螺旋形结构的)盘管或拐角
-3. V to assume the shape of a spire; point up 猜想(塔尖的形状); 指向上
+# plume /pluːm/  
+1. N-COUNT `A plume of smoke, dust, fire, or water` is a large quantity of it that rises into the air in a column. (像羽毛一样)飘升的烟状物〔如烟、尘等〕;  一缕 (烟雾、尘土等); 一股 (水柱); 一道 (火光)
+e.g. `Thick black plumes of smoke is billowing from the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  滚滚黑色的像羽毛一般的浓烟正在（从教堂的尖顶）升腾/缓缓冒出`. The spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and almost 4 hrs later, the flames are extinguished 火焰被灭了`.  
+2. N-COUNT A plume is a large, soft bird's feather. 大而柔的羽毛 **鸵鸟羽毛：ostrich plumes**
+•  ...the `fawn ostrich plumes  浅黄褐色的鸵鸟羽毛`       //**fawn /fɔːn/: 1) a fawn=a young dear 2) fawn over sb.= flatter/cringe sb, kiss sb's ass 3)fawn=a pale yellowish-brown colour. 浅黄褐色的**
+
 
 # (重新回到马背上)重新振作起来; 重新开始 get back on the horse
 e.g. He got encouraged and pick up his `guts（俚语）勇气；决心` again; finally he `got back on the horse` and is pursuing a new life.
@@ -113,9 +113,13 @@ Her yard was ablaze with summer flowers. 她的院子里夏花绚烂
 3. feeling or showing strong emotion, especially anger 情绪激动的；怒气冲冲的 **be ablaze with angry/fury**
 His eyes `were ablaze with fury/anger`. 他的眼里燃烧着怒火 = `A blaze of anger/fury` flashed across his face. 他顿时面露怒色。
 
-## The fire is contained 火势被控制了(用"contain"这个动词) and finally the flames are extinguished.
-e.g. A spokesman for Paris police tells CNN the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/ fire is now contained 火势被控制了`. The fire burned for several hours, causing the collapse/toppling down of the cathedral's iconic [aɪ'kɑnɪk] `spire (教堂等建筑物的) 尖顶` and the destruction of its roof structure, which `dated back to` the 13th century. `Consumed by flames`, the `spire (教堂等建筑物的) 尖顶` leaned to one side and fell onto the burning roof as horrified `onlookers` watched.
-e.g. `Thick plumes of smoke is billowing from  喷吐着滚滚黑色浓烟` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/`and over the towers, and a second showing the fire department responders working at the scene. French President praised/commended firefighters for saving the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/ iconic facade　/fəˈsɑːd/(建筑物的) 正面` and towers. "Thanks to their `bravery`, the worst has been avoided."
+
+# spire /spaɪə/; the spire of a building; the spire of a church
+1. N-COUNT `The spire of a building` such as a church is the tall pointed structure on the top. (教堂等建筑物的) 尖顶
+•  ...a church spire poking above the trees.  …伸出树梢的教堂尖顶。
+e.g. `Thick black plumes of smoke is billowing from 滚滚黑色的像羽毛一般的浓烟正在升腾/缓缓冒出` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  (教堂等建筑物的) 尖顶` and over the towers. The spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and almost 4 hrs later, the flames are extinguished 火焰被灭了`.
+2. N any of the coils or turns in a spiral structure (螺旋形结构的)盘管或拐角
+3. V to assume the shape of a spire; point up 猜想(塔尖的形状); 指向上
 
 # copycat; copycat actions 跟风行动; (模仿)跟风行动
 1. ADJ `A copycat action, esp. a copycat crime` is committed by someone who is copying someone else. 模仿性的跟风行动
@@ -137,6 +141,10 @@ ADJ If you describe something or someone as majestic, you think they are very be
 e.g. This lovely village is surrounded by `majestic Fuji mountain ['fu:'dʒi:]富士山` scenery.
 e.g. In a time of heightened political, religious and `sectarian [sɛk'tɛrɪən] 宗派的` divisions, a fire in the `Notre Dame Catholic cathedral` in France brought the world together in shared sorrow/ˈsɒrəʊ//sadness, writes CNN `columnist`, The massive, `majestic cathedral 庄严的；宏伟的` looked like it had been there forever, and would remain intact until the end of time. If only for a moment, `Notre Dame /ˈnəʊtrə ˈdɑːm/` ablaze reminded us that we all share this world; that human history means everyone's past. If only for a moment, the notion of a `World Heritage`, which UNESCO formally `bestows` on places that we, as humanity, ought to care for and cherish so that we can pass them to future generations, seemed exactly right. We all hurt over the loss of Notre Dame.
 e.g. She, a female hero, stand up `majestically` to face the enemy. 她``端庄地``站了起来。
+
+# The fire is contained 火势被控制了(用"contain"这个动词) and finally the flames are extinguished.
+e.g. A spokesman for Paris police tells CNN the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/ fire is now contained 火势被控制了`. The fire burned for several hours, causing the collapse/toppling down of the cathedral's iconic [aɪ'kɑnɪk] `spire (教堂等建筑物的) 尖顶` and the destruction of its roof structure, which `dated back to` the 13th century. `Consumed by flames`, the `spire (教堂等建筑物的) 尖顶` leaned to one side and fell onto the burning roof as horrified `onlookers` watched.
+e.g. `Thick black plumes of smoke is billowing from 滚滚黑色的像羽毛一般的浓烟正在升腾/缓缓冒出` near `the spire of the Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/  (教堂等建筑物的) 尖顶` and over the towers. The spokesman of the `Fire Brigade 旅〔陆军编制单位)` said: `The fire has been contained 火势被控制 and almost 4 hrs later, the flames are extinguished 火焰被灭了`.
 
 # be ushered out 引领出去
 e.g. Xavier, a 70-year-old `worshiper (尤指在教堂、庙宇等）祷告者,做礼拜的人`, said the `congregation (通常去某教堂做礼拜的)人群/会众成员` had just begun the prayer when the `siren ['saɪrən] blared/rang out 发出响而刺耳的声音`. He said `visitors were ushered out 引领出去`, but those `congregation` gathered for mass remained in place. //**[ the siren blared: 警报器发出响而刺耳的声音; the alarm blared ]**
@@ -171,6 +179,7 @@ e.g. Xavier, a 70-year-old `worshiper`, said the `congregation (通常去某教�
 N-COUNT-COLL The people who are attending a religious service to do worship 祷告/做礼拜 or who regularly attend a religious service are referred to as the congregation.
 e.g. Most members of the `congregation` begin arriving in the `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/` a few minutes before services. 多数会众成员在礼拜开始前几分钟陆续到达
 e.g. Xavier, a 70-year-old `worshiper (尤指在教堂、庙宇等）祷告者,做礼拜的人`, said the `congregation (通常去某教堂做礼拜的)人群/会众成员` had just begun the prayer when the `siren ['saɪrən] blared/rang out 发出响而刺耳的声音`. He said `visitors were ushered out 引领出去`, but those `congregation` gathered for mass remained in place.    //**[ the siren blared: 警报器发出响而刺耳的声音; the alarm blared ]**
+e.g. Islamic `extremists` carried out the coordinated terror attacks `in retaliation for` a March attack on two mosques in New Zealand. The initial investigations showed "the chain of bombings" was carried out by "a radical Islam group/extremists". No group has yet claimed responsibility. Last month's `mosque massacre/holocaust/carnage` in New Zealand, saw at least 50 people murdered in `a shooting rampage 暴乱,乱闹` by `a white supremacist /sʊˈprɛməsɪst/ 种族优越论者`. The `shooting rampage 暴乱,乱闹` began at lunchtime on a Friday, when mosques were full of `worshippers 礼拜者 and congregation 会众(通常去某教堂做礼拜的人群)`.  
 
 #
 e.g. The prosecutor's office said that in addition to interviews, forensics teams and the central laboratory for the police department had been able to access some areas of the site and begin inspections. Officials are continuing to pursue the theory that the cause of the fire was accidental but have not ruled out other scenarios at this stage, the prosecutor's office added.
@@ -233,6 +242,40 @@ ADJ Someone who is photogenic looks nice in photographs. 上相的; 上镜的
 # be home to sb/sth
 e.g. The `Notre Dame Cathedral /ˈnəʊtrə ˈdɑːm/` is home to numerous artifacts, works of art and religious relics, each telling a story. After the devastating fire `tore through` the cathedral on Monday, `toppling its spire`, many feared the `sacred artifacts` -- collected over the centuries -- might be lost. It was unclear how many had been saved. Click here to take a look at some of the most famous items that the Paris cathedral is home to, including several `sacred artifacts 神圣的`, including the Crown of Thorns, a fragment of the "true cross" on which Jesus was crucified, and one of the nails used by Romans to crucify Christ.
 
-
 # majesty
 e.g. The former US first lady, who is in Paris for her book tour, has tweeted about the "majesty" of the cathedral, which is one of the city's most `recognizable and visited attractions`. The majesty of Notre Dame—the history, artistry, and spirituality—took our breath away, lifting us to a higher understanding of who we are and who we can be. Being here in Paris tonight, my heart aches with the people of France. Yet I know that Notre Dame will soon awe us again.
+
+# liability /ˌlaɪəˈbɪlɪtɪ/; have legal liability for sth; have legal liability to do sth
+1. `liability`: [LAW] liability is your legal responsibility for something, especially for paying money that you owed, or payinng money for damage or injury you did and you need to compensate.〔尤指法律上对还款; 对xxx造成损坏需要赔偿等的〕责任，义务  **have legal liability to do sth**
+e.g. `Tenants have legal liability for any damage they cause`. 承租人造成任何损坏都`要负法律的赔偿责任`
+e.g. The court ruled there was no liability for him to pay any refund. 法院判定无需退款。
+2. `liabilities [plural, 复数 technical ]: (公司/组织的) 负债，债务: a company's or organization's liabilities`: a company's or organization's liabilities are the sums of money which it owes; `liabilities [plural,复数]` are the amount of debt that must be paid by a company or an org.  [**公司有xxx元的负债 e.g. The company has liabilities of xxx money**]
+e.g. The company had assets of $138 million and `liabilities` of $120.5 million.  该``公司有1.205亿美元的负债``
+3. `[singular,单数] a liability 一个累赘,惹麻烦的人[事物]`: If you say that someone or something is a liability, you mean that they bring you a lot of trouble, problems or embarrassment, which annoys you a lot.  **[认为sb.是一个累赘(惹麻烦的人[事物]): consider sb. a liability ]**
+e.g. As the president's prestige/fame/reputation continues to fall, they're clearly beginning to `consider him a liability`. 认为他是一个累赘(惹麻烦的人[事物])
+e.g. A kid like Tom would `be considered a liability` in any classroom. 像汤姆这样的孩子放到任何班上都是个累赘。
+e.g. After my parents' divorce, I always `consider myself a liability` to my mum. And indeed, I brought lots of trouble and problems to her, which are sort of obstacles in her life.
+V.S. **such a nuisance /ˈnjuːsəns/ If you say that someone or something is a nuisance, you mean that they annoy you or cause you a lot of problems. 令人讨厌的人或事物; 麻烦的人或事情 e.g. He could be a bit of a nuisance /ˈnjuːsəns/ when he was drunk. 他喝醉时会是一个有点令人讨厌的人**
+V.S. **nuance: /njuːˈɑːns/  A nuance is a slight, subtle small difference in sound, feeling, appearance, or meaning. (声音、感觉、外貌或意义等方面的) 细微差别  e.g. We can use our eyes and facial expressions to communicate virtually every subtle nuance of emotion there is.  我们可以用眼睛和面部表情来如实地传达情感上的每一丝细微差别**
+[+ to]
+[+ to]
+4. liability to sth
+law the amount by which something is likely to be affected by a particular kind of problem, illness etc 易受某事物影响的程度
+
+# copycat; a copycat action 跟风行动; (模仿)跟风行动; a copycat crime: (模仿)跟风的犯罪活动
+1. ADJ `A copycat action, esp. a copycat crime` is committed by someone who is copying or mimicing someone else. 模仿性的跟风行动
+e.g. Global headlines about the attacks will have likely delighted the `perpetrators ['pɜːrpətreɪtər]/culprits/criminals` to cause a bigger `sensation 轰动`. They want to make a big press attraction, a big statement, a bigger `sensation 轰动`. The Sri Lanka prime minister expressed concerns that the attacks could inspire `copycat actions or copycat crimes 跟风行动; (模仿)跟风行动`.          //**If a person, event, or situation `causes a sensation`, they cause great interest or excitement. 引起轰动**
+e.g. ...a series of `copycat attacks` by hooligan gangs.  ...一系列流氓帮派发起的模仿性袭击
+2. [show disapproval 含贬义] `a copycat` is someone who copies or mimics other people’s clothes, behaviour, work etc – used by children; If you call someone `a copycat`, you are accusing them of copying your behaviour, dress, or ideas. 抄袭者; 抄袭/模仿他人行为[衣着等]的人〔儿童用语，含贬义〕
+e.g. The Beatles have `copycats` all over the world.  甲壳虫乐队在全世界都有抄袭者
+e.g. HuNan TV is such a `copycat 抄袭者` in terms of those reality shows 真人秀, which they obviously copied from Korea TV illegally. Technically, HuNan TV `infringed the copyright` of Korea TV.
+
+# pull off sth (very difficult)
+1. PHRASAL VERB) If you `pull off something very difficult`, you succeed in achieving it. 做成 (某件难事)
+e.g. The National League for Democracy `pulled off a landslide victory`.  国家民主联盟取得了压倒性优势的胜利。
+e.g. The involvement of a foreign organization would explain how a previously domestic extremist group blamed for the attacks could have `pulled off one of the worst terrorist atrocities  做成 (某件难事)` since 9/11.
+2. PHRASAL VERB) If a vehicle or driver `pulls off the road` or `pull over` 注意连读的发音, the vehicle stops by the side of the road. 停靠路边
+* `pull off the road` 注意连读的发音
+* `pull over`: PHRASAL VERB， 注意连读的发音 When a vehicle or driver `pulls over`, or when a police officer pulls them over, the vehicle moves closer to the side of the road and stops there. 靠边停车
+e.g. He noticed a man behind him in a blue Ford gesticulating to `pull over`. 他注意到后面一辆蓝色福特车里的一个男人示意他靠边停车
+e.g.I `pulled off the road` at a scenic overlook. 我将车停在了路旁。
