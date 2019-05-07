@@ -42,6 +42,9 @@ N-UNCOUNT Regalia consists of all the traditional clothes and items that someone
 e.g.  ...officials in full regalia. ...全副盛装的官员们。
 e.g. Japan's new emperor, Naruhito, has formally `ascended the Throne`, replacing his father, Akihito, who had `abdicated/abdicate the throne` a day earlier. Tuesday's `abdication` was the first in more than 200 years, since Emperor Kokaku stepped down in 1817. The sun came out for a morning `ceremony/ritual 为纪念重要宗教或社会事件举行的〕仪式，典礼` at the Imperial Palace in Tokyo on Wednesday, as Naruhito became the 126th Emperor of Japan, the latest in an unbroken line that stretches/dates back 14 centuries. During the special `ritual/ceremony` in the palace, an almost exclusively male audience saw the new emperor takes possession of `royal regalia /rɪˈɡeɪlɪə/ 皇家礼服` that is decorated with jades and gems; and seals, including `a sacred sword 神圣的宝剑`, that provide ceremonial proof of his ascension of the throne 登基/继承皇位.    
 
+# embody, embodiment of sth xxx 的化身/象征；  embodiment of gods: 神的化身/象征
+e.g. The role of Japan's emperor has changed significantly since Naruhito's grandfather, Emperor Hirohito, `sat on the throne`. Once considered the living `embodiment of gods 神的化身/象征`, the emperor has become a largely symbolic figure. However, unlike other monarchs, the Japanese emperor `wields no political power`. Much like his father, who was seen as a reformist, Naruhito sees the role as an institution rather than `an embodiment of divinity/God`.
+
 # liability /ˌlaɪəˈbɪlɪtɪ/; have legal liability for sth; have legal liability to do sth
 1. `liability`: [LAW] liability is your legal responsibility for something, especially for paying money that you owed, or payinng money for damage or injury you did and you need to compensate.〔尤指法律上对还款; 对xxx造成损坏需要赔偿等的〕责任，义务  **have legal liability to do sth**
 e.g. `Tenants have legal liability for any damage they cause`. 承租人造成任何损坏都`要负法律的赔偿责任`
