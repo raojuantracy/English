@@ -14,6 +14,14 @@ e.g. Some prices are `preposterously` high. 有些价格高得离谱
 a concubine is a woman in the past who lived with and had sex with a man who already had a wife or wives, but who was socially less important than the wives, with much lower social status.
 e.g. In ancient China, one man has right to have one wife and multiple concubines.
 
+## abdicate /ˈæbdɪˌkeɪt/ or abdicate the throne;  abdicate=renounces sth=give up sth;  abdication n /͵æbdɪˋkeiʃən/
+1. V-I If a king or queen **abdicates or abdicates the throne**, he or she `gives up/renounces` being a king or queen. 退位; 让位         //**renounce sth: if you `renounce an official position, title, right` etc, you publicly say that you will not keep it any more 官方宣布放弃〔职位、头衔、权利等)**
+e.g. Japan's new emperor has not yet to `ascend the throne 登基/继承皇位`, but he already has his first foreign guest `lined up  排队`: United States President Donald Trump. Current Emperor will `abdicate or abdicate the throne /ˈæbdɪˌkeɪt/ 退位，让位` shortly.
+2. **abdicate (your) responsibility for sth 推卸 (职责)**: V-T If you say that someone has `abdicated their responsibility for something`, you `disapprove of them 不赞成，贬义` because they have refused to accept responsibility for it any longer.
+e.g. Many parents simply `abdicate all responsibility for` their children.  很多父母干脆``推卸掉《他们对孩子的所有》责任``。
+4. N-UNCOUNT 推卸责任，放弃责任 abdication **一个彻底推卸责任的情况：a complete abdication of responsibility**
+
+
 ## 情妇 mistress /ˈmɪstrɪs/    (V.S. stress, eustress(positive) V.S. distress(negative))
 N-COUNT A married man's mistress is a woman who is not his wife and with whom he is having an illegal sexual relationship. In other words, they did **sexual misconduct/kɑn//extramarital behavior出轨**      //**misconduct: bad, dishonest bahavior; professional misconduct/kɑn/:玩忽职守**
 e.g. Even though their disgusting relationship is **undisclosed 未公开的未披露的** yet, everyone in the company knows that she has been his **mistress 情妇/ˈmɪstrɪs/** for 3 year and they keeps their **sexual misconduct(/kɑn/)/extramarital behavior出轨**. `There's even a rumour going around` that the man wanna get a divorce with his wife.

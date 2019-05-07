@@ -29,6 +29,13 @@ e.g. **We crammed in as much sightseeing as possible during our stay in New York
 e.g. when the quake hit. "Everything started moving; **the noise was deafening**.
 2. ADJ 鸦雀无声，死一般的寂静 If you say there was **a deafening silence,** you are emphasizing that there was no reaction or response to something that was said or done; deafening silence:  a complete silence, when it is uncomfortable or you are expecting someone to say something
 
+## abdicate /ˈæbdɪˌkeɪt/ or abdicate the throne;  abdicate=renounces sth=give up sth;  abdication n /͵æbdɪˋkeiʃən/
+1. V-I If a king or queen **abdicates or abdicates the throne**, he or she `gives up/renounces` being a king or queen. 退位; 让位       //**renounce sth: if you `renounce an official position, title, right` etc, you publicly say that you will not keep it any more 官方宣布放弃〔职位、头衔、权利等)**
+e.g. Japan's new emperor has not yet to `ascend the throne 登基/继承皇位`, but he already has his first foreign guest `lined up  排队`: United States President Donald Trump. Current Emperor will `abdicate or abdicate the throne /ˈæbdɪˌkeɪt/ 退位，让位` shortly.
+2. **abdicate (your) responsibility for sth 推卸 (职责)**: V-T If you say that someone has `abdicated their responsibility for something`, you `disapprove of them 不赞成` because they have refused to accept responsibility for it any longer.
+e.g. Many parents simply `abdicate all responsibility for` their children.  很多父母干脆``推卸掉《他们对孩子的所有》责任``。
+4. N-UNCOUNT 推卸责任，放弃责任 abdication **一个彻底推卸责任的情况：a complete abdication of responsibility**
+
 ## 终身无优; 一劳永逸 set-and-forget; set-it-and-forget-it
 **There's nothing that can be set-and-forget**.
 e.g. Comodo Backup also translates as a set-and-forget application , you can set it once and it will work like a charm in the background.

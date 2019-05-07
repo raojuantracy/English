@@ -1,6 +1,7 @@
 # CNN: Actress pleaded guilty in college admissions scam
 link: https://edition.cnn.com/2019/04/08/us/felicity-huffman-guilty-admissions/index.html
 https://edition.cnn.com/2019/04/09/us/college-admissions-scam-superseding-charges/index.html
+https://edition.cnn.com/2019/05/02/us/china-stanford-college-admissions-scandal/index.html
 
 # business fraud/scam/shenanigan
 e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
@@ -22,6 +23,7 @@ N-COUNT A reincarnation is a person or animal whose body is believed to contain 
 #  mastermind someone who plans and organizes a complicated operation, especially a criminal operation 〔尤指犯罪活动的〕出谋划策者，主谋, 幕后操纵者
 e.g. He is suspected of being the mastermind behind the bombings. 他被怀疑是那些爆炸案的幕后策划者
 e.g. Rick Singer, who ran a college prep business, `masterminded 〔尤指犯罪活动的〕出谋划策` what prosecutors called the largest college admissions cheating `scheme/conspiracy` ever prosecuted in the United States. Singer helped wealthy parents cheat on standardized tests for their children, and he bribed college coaches to falsely designate the children as recruited athletes, smoothing their path to admission. The scheme helped the students get into highly selective universities like Yale, Stanford, University of Southern California and UCLA.
+e.g. Singer, the alleged `mastermind of the scheme`, worked with dozens of wealthy parents to unfairly admit their children to top universities.
 e.g. to think of, plan, and organize a large, important, and difficult operation 策划，组织〔重大而艰难的行动〕
 • The project was masterminded by Morris, then aged 29. 这个项目由时年29岁的莫里斯策划。
 • Ridley, as commerce secretary, masterminded the privatisation. 时任商务部长的里德利策划推行了私有化。
@@ -31,11 +33,26 @@ e.g. to think of, plan, and organize a large, important, and difficult operation
 1. V-T If you waive your right to something, such as legal representation, you choose not to have it or do it. 放弃 (权利); 弃权
 e.g. He pleaded guilty to the murders of three boys and `waived his right` to appeal.  他对杀害了3个男孩的罪行表示认罪伏法，并放弃上诉的权利。
 e.g. In court last week, Huffman acknowledged her rights, charges and the maximum possible penalties. She waived a pretrial hearing, signed conditions of her release and then was free to leave. Her husband, the actor William H. Macy, is not charged in the case.
-Prosecutors will be asking for jail time for all defendants, according to a law enforcement official with knowledge of the investigation. The defendants are facing anywhere between six to 21 months in prison if convicted or if they plead guilty, the official added, though the exact sentence would depend on a number of factors.
+Prosecutors will be asking for jail time for all defendants, according to a law enforcement official with knowledge of the investigation. The defendants are facing anywhere between six to 21 months in prison if convicted or if they `plead guilty 被告对<xxx罪行>服罪/认罪(to a crime)`, the official added, though the exact sentence would depend on a number of factors.
 2. V-T If someone waives a rule, they say that people do not have to obey it in a particular situation. 放弃 (规则)
 e.g. The art gallery waives admission charges on Sundays.  美术馆星期天免费开放。
 
-# implicate /ˈɪmplɪˌkeɪt/; implication
+# substantive /ˈsʌbstəntɪv/      
+ADJ Substantive negotiations or issues deal with the most important and central aspects of a subject. 实质性的; 真实的；独立存在的
+•  They plan to meet again in Rome very soon to begin substantive negotiations.
+ 他们计划很快在罗马再次会面以开始实质性的谈判。
+e.g. Loughlin and her husband, Mossimo Giannulli, had previously pleaded not guilty in federal court filings last month.
+The filings to the charges of conspiracy to commit fraud and conspiracy to commit money laundering represented Loughlin's first `substantive /ˈsʌbstəntɪv/ ` response in the case. Prosecutors say she and Giannulli paid $500,000 to a fake charity to get their two daughters accepted into the University of Southern California, falsely designating them as crew recruits.
+
+# flush right 右对齐 V.S. flush left 左对齐
+e.g.  Here we have the first field with a width of 12 characters (%12s); the words will be printed flush right右对齐. Then there is a field 15 characters wide (%-15s) that will be printed flush left 左对齐:
+
+# embroil /ɪmˈbrɔɪl/  V.S. be implicated in/with
+V-T If someone embroils you in a fight or an argument, they get you deeply involved in it. 使卷入(战斗或争论); to involve someone or something in a difficult situation 使卷入，使陷入〔困境〕 **embroil sb/sth in sth**
+•  Any hostilities could result in retaliation and further embroil U.N. troops in fighting.  任何敌对活动都可能会招致报复，进而使联合国部队卷入战斗中。
+I became embroiled in an argument with the taxi driver. 我与出租车司机起了争执
+e.g The "Full House" actress is the highest-profile figure caught up in a scandal that has `embroiled dozens` of wealthy parents, college coaches and standardized test administrators. Actress Felicity Huffman was among more than a dozen parents who pleaded guilty to a charge of conspiracy to commit fraud last month. In exchange for the guilty plea, prosecutors said they will recommend incarceration at the "low end" of the sentencing range and will not bring further charges against her.   //**plead guilty 被告对<xxx罪行>服罪/认罪(to a crime)**
+# implicate /ˈɪmplɪˌkeɪt/; implication  V.S. embroil
 1. to show or suggest that someone is involved in a crime or dishonest act;
 V-T To implicate someone means to show or claim that they were involved in something wrong or criminal.  表明[暗示]〔某人〕与〔犯罪或不诚实行为〕有牵连
 •  He was obliged to resign when one of his own aides `was implicated in` a financial scandal.  他因一名助手涉入一起金融丑闻案而被迫辞职。
@@ -46,6 +63,12 @@ e.g. Three police officers `are implicated in` the cover-up. 三名警察涉嫌�
 be implicated in sth
 e.g Viruses are known to be implicated in the development of some cancers. 已知病毒是诱发一些癌症的原
 3. Noun:  Implication in a murder finally brought him to the gallows.  与一桩谋杀案的牵连最终把他送上了绞刑架
+
+# purported /pɜːˈpɔːtɪd/= alleged; supposed 传闻的; 传说的; 声称的
+e.g. "It's important to clarify that Stanford did not receive $6.5 million from Singer, or from a student's family working with Singer," it said. "Stanford was not aware of this `purported` $6.5 million payment from the family to Singer until today's news reports."
+e.g. Sri Lankan officials have said: some confidential information `was gleaned` from material obtained during `interrogations 讯问审问` of an ISIS suspect arrested in India. The suspect gave investigators the name of a man who is associated with a local extremist group that `is implicated in 和xxx有牵连/牵扯; 牵涉其中的` the bombings. The man, Zahran, was identified of `the purported attackers 传闻中的袭击者` released Tuesday by ISIS, which claimed responsibility for the Easter Sunday killings.   //**If you `glean something such as information or knowledge (from sb.)`, you learn or collect it slowly and patiently, and perhaps indirectly; 费力地慢慢地收集〔信息〕; 费力地慢慢地学习知识**
+e.g. ..`a purported two million dollar deal 传闻当中的一个两亿的交易`
+
 
 # verb) spraw; adj) sprawling
 1. V-I If you sprawl somewhere, you sit or lie down with your legs and arms spread out in a careless way. 伸开四肢坐着; 摊开四肢躺着
@@ -147,7 +170,7 @@ e.g. A man awaiting death by lethal injection has been saved by a last-minute re
 4. to change a decision to close a factory, school etc or get rid of something 取消关闭〔工厂、学校等〕；暂缓终止
 
 # law 【法律】 被告服罪/认罪: (the defendant/accused/indictee) plead guilty; 被告对<xxx罪行>服罪/认罪: The defendant/accused pleads guilty to <a crime>
-e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
+e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪 (to a crime)` to using bribery and other forms of `fraud` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit mail `fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
 e.g. Bruce Isackson and Davina Isackson will `plead guilty to conspiracy 被告对<xxx罪行>服罪/认罪` to commit mail fraud. Bruce Isackson will also `plead guilty to money laundering conspiracy 被告对<xxx罪行>服罪/认罪`. Finally, Michael Center, the former men's tennis coach at the University of Texas, agreed to `plead guilty to one count of conspiracy` to commit mail fraud.   //**被告对<xxx罪行>服罪/认罪: the defendant/accused plead guilty to <a crime>**
 
 # law 【法律】 incarcerate /ɪnˈkɑːsəˌreɪt/   
@@ -155,7 +178,7 @@ e.g. Bruce Isackson and Davina Isackson will `plead guilty to conspiracy 被告�
 •  They `were incarcerated` for the duration of the war. 他们在战争期间被监禁。
 2. N-UNCOUNT 监禁
 •  ...her mother's incarceration in a `psychiatric [,saɪkɪ'ætrɪk] hospital`.  …她母亲在精神病院里的监禁
-e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪` to using bribery, `embezzlement 挪用公款`, and other forms of `business fraud/scam/shenanigan 欺诈，诈骗` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit `mail fraud` and have agreed to `plead guilty 被告服罪/认罪`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
+e.g. Thirteen wealthy parents, including actress Huffman will `plead guilty 被告服罪/认罪 (to a crime)` to using bribery, `embezzlement 挪用公款`, and other forms of `business fraud/scam/shenanigan 欺诈，诈骗` as part of the college admissions scandal. They `all charged with/accused of/indicted for` one count of conspiracy to commit `mail fraud` and have agreed to `plead guilty 被告服罪/认罪 (to a crime)`, prosecutors said Felicity `is now remanded on bail 使sb.取保候审`. She faces up to 20 years in prison. In exchange for Huffman's plea, federal prosecutors will recommend `incarceration /ɪnˈkɑːsəˌreɪt/ 监禁收押` at the "low end" of the sentencing range, a $20,000 fine. A federal judge will have the final say on the outcome for Huffman and the other `defendants/accused/indictees`.
 
 # law 【法律】 perjury /ˈpɜːdʒərɪ/ 作了伪: commit perjury
 N-UNCOUNT If someone who is giving evidence in a court of law commits perjury, they lie. 伪证

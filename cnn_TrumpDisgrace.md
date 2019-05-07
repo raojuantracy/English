@@ -4,6 +4,27 @@ N-COUNT If you accuse someone of being `a hypocrite /ˈhɪpəkrɪt/`, you mean t
 e.g. You're such a liar and **a hypocrite**. 是个骗子和伪君子。
 e.g. .. President Donald Trump **decried/denounced/point fingers at his political opponents** as preparing for "presidential harassment ['hærəsm(ə)nt; hə'ræsm(ə)nt]" once they **have a grip/control on 〔对某人或某事物的〕控制** the House in January. Describing the opposing party as **hypocrites /ˈhɪpəkrɪt/ 注意发音 (君子，伪善的人)** for what he claimed was onetime support for a border wall, Trump transitioned sharply into **a screed /skriːd/ 冗长的文章，长篇大论〔含贬义)** on Comey, who he **sacked/fired解雇，开除** early in his term. "Everybody hated Comey, they thought he did a horrible job. They were calling for his resignation. They were calling for **giving his the sack解雇，开除**," Trump said. Some Democrats faulted Comey for his handling of the investigation into Hillary Clinton's emails. Later, Trump's firing of Comey was viewed by many Democrats as a way to short-circuit the FBI's investigation into Russian election **meddling**. "Once I **sack him**, everybody said, 'Oh, why did you fire him, why did you fire him?'" Trump said, waving his hands in **irritation**.      //**meddle in sth; a meddler**: to deliberately try to influence,intervene, or change a situation that does not concern you, or that you do not understand 管闲事; 干预，干涉；
 
+
+# liability /ˌlaɪəˈbɪlɪtɪ/
+1. `liability`: [LAW] legal responsibility for something, especially for paying money that is owed, or for damage or injury〔尤指法律上对还款、赔偿等的〕责任，义务  **liability to do sth**
+[+ for] Tenants have legal liability for any damage they cause. 承租人造成任何损坏都要负法律责任。
+[+ to] your liability to capital gains tax 缴付资本利得税的义务
+e.g. The court ruled there was no liability to pay any refund. 法院判定无需退款。
+2. `liabilities [plural,复数]; (公司/组织的) 负债，债务: a company's or organization's liabilities`: a company's or organization's liabilities are the sums of money which it owes; technical the amount of debt that must be paid
+e.g. The company had assets of $138 million and liabilities of $120.5 million.  该公司有1.38亿美元资产和1.205亿美元的负债
+3. [singular,单数] `a liability 累赘,惹麻烦的人[事物]`: If you say that someone or something is a liability, you mean that they cause a lot of problems or embarrassment.
+e.g. As the president's prestige continues to fall, they're clearly beginning to consider him a liability. 随着总统的威信持续下降，他们显然开始认为他是一个累赘
+e.g. A kid like Tom would be a liability in any classroom. 像汤姆这样的孩子放到任何班上都是个累赘。
+V.S. **nuisance /ˈnjuːsəns/ N-COUNT If you say that someone or something is a nuisance, you mean that they annoy you or cause you a lot of problems. 令人讨厌的人或事物; 麻烦的人或事情  e.g. He could be a bit of a nuisance when he was drunk. 他喝醉时会是一个有点令人讨厌的人**
+[+ to]
+e.g. The outspoken minister has become a liability to the government. 这位直言不讳的部长成了政府的麻烦。
+4. liability to sth
+law the amount by which something is likely to be affected by a particular kind of problem, illness etc 易受某事物影响的程度
+
+# Is nothing sacred?
+spoken used to express shock and astonished when something (that you think is too important or valuable to be changed or interfered with) is being changed or harmed 〔听到“非常有价值的或重要的事物被改变或受损害”时表示惊讶〕怎么能这样呢？
+
+
 # (crime/disease) is rampant V.S. school rampage
 ## ['ræmpənt] rampant=widespread; rampantly; 比较级 more rampant; 最高级 most rampant
 1. if something bad, such as crime or disease, is rampant, there is a lot of it and it is very difficult to control because it's widespread. 〔犯罪、疾病等〕猖獗的，泛滥的，失控的

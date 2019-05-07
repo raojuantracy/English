@@ -19,6 +19,22 @@ very loud because people are happy and excited 嘈杂的，吵闹的，喧哗的
 **tumultuous applause V.S. rapturous applause 热烈的掌声; rapturous welcome 热烈的欢迎**
 e.g. May was speaking at the end of a hecticly 忙碌的 `tumultuous` week in which she presented her draft agreement on how the UK would leave the EU, a deal that `sparked` multiple resignations from her government. (Replacing me) is not going to make the (Brexit) negotiations any easier and it won't change the parliamentary `arithmetic`," she added.   //**hectic: very busy***
 
+# liability /ˌlaɪəˈbɪlɪtɪ/
+1. `liability`: [LAW] legal responsibility for something, especially for paying money that is owed, or for damage or injury〔尤指法律上对还款、赔偿等的〕责任，义务  **liability to do sth**
+[+ for] Tenants have legal liability for any damage they cause. 承租人造成任何损坏都要负法律责任。
+[+ to] your liability to capital gains tax 缴付资本利得税的义务
+e.g. The court ruled there was no liability to pay any refund. 法院判定无需退款。
+2. `liabilities [plural,复数]; (公司/组织的) 负债，债务: a company's or organization's liabilities`: a company's or organization's liabilities are the sums of money which it owes; technical the amount of debt that must be paid
+e.g. The company had assets of $138 million and liabilities of $120.5 million.  该公司有1.38亿美元资产和1.205亿美元的负债
+3. [singular,单数] `a liability 累赘,惹麻烦的人[事物]`: If you say that someone or something is a liability, you mean that they cause a lot of problems or embarrassment.
+e.g. As the president's prestige continues to fall, they're clearly beginning to consider him a liability. 随着总统的威信持续下降，他们显然开始认为他是一个累赘
+e.g. A kid like Tom would be a liability in any classroom. 像汤姆这样的孩子放到任何班上都是个累赘。
+V.S. **nuisance /ˈnjuːsəns/ N-COUNT If you say that someone or something is a nuisance, you mean that they annoy you or cause you a lot of problems. 令人讨厌的人或事物; 麻烦的人或事情  e.g. He could be a bit of a nuisance when he was drunk. 他喝醉时会是一个有点令人讨厌的人**
+[+ to]
+e.g. The outspoken minister has become a liability to the government. 这位直言不讳的部长成了政府的麻烦。
+4. liability to sth
+law the amount by which something is likely to be affected by a particular kind of problem, illness etc 易受某事物影响的程度
+
 ## grapevine /ˈɡreɪpˌvaɪn/  注意发音
 1. N-SING If you hear or learn something on or through the grapevine, you hear it or learn it in casual conversation with other people. (消息、传闻等的) 私下传播途径
 •  I had heard through the grapevine that he was quite critical of what we were doing.  我已经私下听说他对我们的工作十分挑剔。
