@@ -3,6 +3,45 @@
 * https://edition-m.cnn.com/2018/09/17/politics/us-china-tariff-trade-war/index.html?r=https%3A%2F%2Fedition.cnn.com%2F
 * https://edition.cnn.com/2018/09/22/politics/us-china-trade-talks-tariffs/index.html
 * https://edition.cnn.com/2018/10/07/business/china-tariffs-toys/index.html
+* https://edition.cnn.com/2019/05/15/economy/china-economy-us-china-trade/index.html
+* https://edition.cnn.com/2019/05/15/tech/trump-executive-order-telecom-security/index.html
+
+##  sluggish /ˈslʌɡɪʃ/ sluggish economy 疲软的经济/缓慢发展的经济: sluggishness
+ADJ You can describe something as sluggish if it moves, works, or reacts much slower than you would like or is normal. 缓慢的; 迟钝的
+e.g. The economy `remains sluggish`.   经济保持缓慢发展/疲软。
+e.g. Blood circulation is much `more sluggish` in the feet than in the hands.   血液循环在脚部要比在手部慢得多。
+e.g. China's vast economy showed new signs of weakness and `sluggishness (经济的疲软)` last month, raising the likelihood of increased government efforts to stimulate growth as `the trade war/spat 口角` with the United States escalates.  
+e.g. Alex woke late, feeling tired and sluggish. 亚历克斯醒得很晚，感到很倦怠。
+e.g. Economic recovery has so far been sluggish. 经济复苏的速度目前仍然缓慢。
+
+## offset xxx money  抵消（掉价格的偏差）
+offset /ˈɒfˌsɛt/
+V-T If one thing is offset by another, the effect of the first thing is reduced by the second, so that any advantage or disadvantage is cancelled out. 抵消  
+e.g.  The increase in pay costs was more than offset by higher productivity.   工资成本的增加远非更高的生产率所能抵消的。
+e.g. He said that members of various trade associations have already been discussing whether there would be federal help to `offset the costs` of taking out offending equipment. "Because when all this equipment went in there was no talk of these issues," he said. "Would there be help to replace it?"
+
+## 民族主义情绪: nationalist sentiment
+e.g. But China can't just ignore the sharp escalation in the offensive against Huawei. `Nationalist sentiment 民族主义情绪` in the country is already hardening, Triolo warned. 
+
+## sth是不容小视的 something is not to be sneezed at  (snore: 打呼噜； sneeze;  have a snooze=have a nap)
+PHRASE If you say that something is not to be sneezed at, you mean that it is worth your attention and shouldn’t be ignore.   Sth是不容小视的
+e.g. Although it’s just a small sum of money, `it’s not to be sneezed at.  (这笔钱) 是不容小视的`
+
+## barrage /ˈbærɑːʒ/
+1. N-COUNT A barrage is continuous firing on an area with large guns and tanks. 连续炮击
+•  The artillery barrage on the city was the heaviest since the ceasefire.  此次对城市的连续炮击是自停战以来最猛烈的。
+2. N-COUNT `A barrage of something such as criticism or complaints` is a large number of them directed at someone, often in an aggressive way. 连珠炮似的(批评,问题, 投诉, 抱怨等]  **a barrage of questions; a barrage of complaints; a barrage of criticism**
+•  He was faced with `a barrage of angry questions` from the floor.  他面临着听众一连串的愤怒质问。
+3. V-T If you are barraged by people or things, you have to deal with a great number of people or things you would rather avoid. 不断骚扰
+•  Doctors are complaining about being barraged by drug-company salesmen.  医生们抱怨总是受到医药公司销售人员的骚扰。
+4. N-COUNT A barrage is a structure that is built across a river to control the level of the water. 堰堤; 水坝
+•  ...a hydro-electric tidal barrage.  …一座水力发电潮汐拦河坝。
+
+##  ['niːkæp] kneecap N)   verb) kneecap someone  
+* Noun) Your kneecaps are the bones at the front of your knees. 膝盖骨
+* Verb) pp: kneecapped   pt: kneecapped   pres part: kneecapping  **[kneecap someone]**: to shoot someone’s kneecaps as an unofficial punish­ment
+枪击〔某人〕的膝盖骨〔作为一种非法的惩罚〕
+e.g. The Trump also added Huawei to the so-called Entity List of companies it says `undermine American interests 损害了某人的利益`. Doing so would `kneecap the tech giant`, which relies on US. "China will view this as an openly hostile act and a major `provocation挑衅`."  // **[kneecap someone]**: to shoot someone’s kneecaps as an unofficial punish­ment 枪击〔某人〕的膝盖骨〔作为一种非法的惩罚〕
 
 ##  ['kɜːfjuː] curfew
 1. curfew:  N-VAR A curfew is a law stating that people must stay inside their houses after a particular time at night, for example, during a war or in a state of emergency. In other words, if you breach the curfew law and go out, you will be punished;  宵禁  [**被实施宵禁: be placed under curfew; 解除了宵禁: life the curfew**]
@@ -14,6 +53,22 @@ e.g. ...`a spate of terrorism attacks` in London, the government has `imposed cu
 • Anyone found in the streets after curfew was shot. 宵禁期间，任何人出现在街上都被开枪打死。
 2. Curfew or a curfew is the time after which a child or student will be punished if they are found outside their home or dormitory; curfew is the time, decided by a parent, by which a child must be home or asleep in the evening〔父母规定的〕儿童晚上必须回家[睡觉]的时间; 熄灯令
 •  They raced back to the dormitory before the nine o'clock curfew.  他们在9点熄灯之前拼命跑回了宿舍
+
+## verb) lobby sb. to do sth
+to try to persuade the government or someone with political power that a law or situation should be changed 游说〔政府或有政治权力的人更改法律或改变局面〕，进行疏通
+e.g. The US government has long argued that Huawei equipment poses a national security threat, and could be used by Beijing for spying. It's `lobbying allies to` exclude Huawei from next-generation 5G wireless networks.
+
+## tit-for-tat 一报还一报，以牙还牙
+something bad that you do to someone because they have done something bad to you 一报还一报，以牙还牙
+e.g. Negotiations between Washington and Beijing were already on rocky ground following new rounds of `tit-for-tat` tariffs. Then, on Wednesday, the United States dramatically escalated its fight against Huawei, the world's largest telecoms equipment maker and one of China's national champions.
+
+## undermine sth = destroy sth;   损害了某人的利益: undermine sb's interests
+e.g. The Trump also added Huawei to the so-called Entity List of companies it says `undermine American interests 损害了某人的利益`. Doing so would `kneecap the tech giant`, which relies on US. "China will view this as an openly hostile act and a major `provocation挑衅`."    // **[kneecap someone]**: to shoot someone’s kneecaps as an unofficial punish­ment 枪击〔某人〕的膝盖骨〔作为一种非法的惩罚〕  
+
+## sprawl 摊开四肢躺着（在床上，沙发上）, 伸开四肢坐着: sprawl on a bed; sprawl on a sofa
+if you `sprawl somewhere, like sprawl on the bed or sprawl on the sofa`, you sit or lie down with your legs and arms spread out in a careless, casual way.  
+e.g. I `sprawled on the bed` with my shoes off to `have a snooze=have a nap.  打个盹儿`
+
 
 ## onus /ˈəʊnəs/  The onus is on sb. to do sth
 N-SING If you say that `the onus is on someone to do something`, you mean it is their duty or responsibility to do it. 责任; 义务
@@ -261,3 +316,23 @@ e.g. Take `a trade war` with China, mix in `frosty/unfriendly economic relations
 2. ADJ `Protectionist policies, measures, and laws` are meant to stop or reduce imports. 贸易保护主义的
 e.g. The administration may be moving away from `free trade` and toward more `protectionist policies贸易保护主义的政策`.
 e.g. Take `a trade war` with China, mix in `frosty/unfriendly economic relations 冷淡的关系` with Canada and Europe, add in Federal Reserve rate hikes and here's what you get: An `economic recession/meltdown　经济萧条` by 2020. So says the head of US `equity` Management. He told CNN Business that Presidents `protectionist policies 贸易保护主义的政策` may lead to a deep `slowdown/meltdown in the economy`, particularly because these `trade skirmishes/spat口角` coincide with rising interest rates. An `economic recession` in the near-term is not `inevitable `, but the risk of one by 2020 has increased substantially /[səb/ in the past few months. "Take trade wars off the table and that significantly reduces the risk of recession."
+
+##  catalyst  V.S.  analyst
+1. (literal meaning) technical a substance that makes a chemical reaction happen more quickly without being changed itself 催化剂，触媒
+2. `(figurative meaning) a catalyst is something or someone that causes an important change or event to happen 导致重大变化的事物[人]；促进因素`
+e.g. They hope his election will act as `a catalyst for reform`. 他们希望他的当选会成为``改革的催化剂``。
+
+## hamper sth; hamper sb. from doing= hurdle, impede sb. from doing
+* `hamper`: V-T If someone or something hampers you, they make it difficult for you to do what you are trying to do. 妨碍
+* `hurdle`: N-COUNT A hurdle is a problem, difficulty, or part of a process that may prevent you from achieving something. 障碍; 困难
+* `impede`: V-T If you impede someone or something, you make their movement, development, or progress difficult. 阻碍  **[a speech impediment  [ɪm'pɛdɪmənt] 言语障碍]**
+e.g. Huawei said banning it from the United States would ultimately hurt American businesses and consumers, and `hamper US` efforts to develop 5G technology.
+
+## decelerate /diːˈsɛləˌreɪt/=slow down; deceleration   V.S.  accelerate= speed up
+1.V-I When a vehicle or machine decelerates or when someone in a vehicle decelerates, the speed of the vehicle or machine is reduced. 减速
+•  ...the sensation of the train decelerating.  ... 火车减速的感觉。
+2. N-UNCOUNT
+•  The harder the brake pedal is pressed, the greater the car's deceleration.
+ 刹车板踩得越紧，汽车减速越快。
+3. V-I When the rate of something such as inflation or economic growth decelerates, it slows down. 减缓
+•  Inflation has decelerated remarkably over the past two years.  过去两年里通货膨胀已经显著地减缓了。

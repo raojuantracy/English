@@ -45,6 +45,21 @@ e.g. Japan's new emperor, Naruhito, has formally `ascended the Throne`, replacin
 # embody, embodiment of sth xxx 的化身/象征；  embodiment of gods: 神的化身/象征
 e.g. The role of Japan's emperor has changed significantly since Naruhito's grandfather, Emperor Hirohito, `sat on the throne`. Once considered the living `embodiment of gods 神的化身/象征`, the emperor has become a largely symbolic figure. However, unlike other monarchs, the Japanese emperor `wields no political power`. Much like his father, who was seen as a reformist, Naruhito sees the role as an institution rather than `an embodiment of divinity/God`.
 
+# in a daze
+
+I do not want anything, in a daze, like you, all day.
+我不想让任何事情，发呆，像你一样，整天。
+245087571.qzone.qq.com
+
+2.
+Yes, I have called you three times. What makes you in a daze?
+是啊，我已经叫了你三次了，是什么让你想得这么出神?。
+huihua.iciba.com
+
+3.
+When she did finally emerge from her room, she walked around as if she were in a daze.
+当她最终从她的房间里走出来时，她一路摇摇晃晃，神情似乎有点恍惚。
+
 # liability /ˌlaɪəˈbɪlɪtɪ/; have legal liability for sth; have legal liability to do sth
 1. `liability`: [LAW] liability is your legal responsibility for something, especially for paying money that you owed, or payinng money for damage or injury you did and you need to compensate.〔尤指法律上对还款; 对xxx造成损坏需要赔偿等的〕责任，义务  **have legal liability to do sth**
 e.g. `Tenants have legal liability for any damage they cause`. 承租人造成任何损坏都`要负法律的赔偿责任`
