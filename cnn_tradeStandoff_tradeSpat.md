@@ -5,6 +5,7 @@
 * https://edition.cnn.com/2018/10/07/business/china-tariffs-toys/index.html
 * https://edition.cnn.com/2019/05/15/economy/china-economy-us-china-trade/index.html
 * https://edition.cnn.com/2019/05/15/tech/trump-executive-order-telecom-security/index.html
+* Not ready yet: https://edition.cnn.com/2019/05/19/politics/china-trade-war-trump-rural/index.html
 
 ##  sluggish /ˈslʌɡɪʃ/ sluggish economy 疲软的经济/缓慢发展的经济: sluggishness
 ADJ You can describe something as sluggish if it moves, works, or reacts much slower than you would like or is normal. 缓慢的; 迟钝的
@@ -21,7 +22,7 @@ e.g.  The increase in pay costs was more than offset by higher productivity.   �
 e.g. He said that members of various trade associations have already been discussing whether there would be federal help to `offset the costs` of taking out offending equipment. "Because when all this equipment went in there was no talk of these issues," he said. "Would there be help to replace it?"
 
 ## 民族主义情绪: nationalist sentiment
-e.g. But China can't just ignore the sharp escalation in the offensive against Huawei. `Nationalist sentiment 民族主义情绪` in the country is already hardening, Triolo warned. 
+e.g. But China can't just ignore the sharp escalation in the offensive against Huawei. `Nationalist sentiment 民族主义情绪` in the country is already hardening, Triolo warned.
 
 ## sth是不容小视的 something is not to be sneezed at  (snore: 打呼噜； sneeze;  have a snooze=have a nap)
 PHRASE If you say that something is not to be sneezed at, you mean that it is worth your attention and shouldn’t be ignore.   Sth是不容小视的
