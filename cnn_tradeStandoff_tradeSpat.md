@@ -6,6 +6,7 @@
 * https://edition.cnn.com/2019/05/15/economy/china-economy-us-china-trade/index.html
 * https://edition.cnn.com/2019/05/15/tech/trump-executive-order-telecom-security/index.html
 * Not ready yet: https://edition.cnn.com/2019/05/19/politics/china-trade-war-trump-rural/index.html
+* https://edition.cnn.com/2019/05/21/tech/huawei-us-china-clash/index.html
 
 ##  sluggish /ˈslʌɡɪʃ/ sluggish economy 疲软的经济/缓慢发展的经济: sluggishness
 ADJ You can describe something as sluggish if it moves, works, or reacts much slower than you would like or is normal. 缓慢的; 迟钝的
@@ -14,6 +15,13 @@ e.g. Blood circulation is much `more sluggish` in the feet than in the hands.   
 e.g. China's vast economy showed new signs of weakness and `sluggishness (经济的疲软)` last month, raising the likelihood of increased government efforts to stimulate growth as `the trade war/spat 口角` with the United States escalates.  
 e.g. Alex woke late, feeling tired and sluggish. 亚历克斯醒得很晚，感到很倦怠。
 e.g. Economic recovery has so far been sluggish. 经济复苏的速度目前仍然缓慢。
+
+## rollout
+e.g. The company was aiming to become the world's biggest smartphone brand by next year, and lead the global `rollout` of next generation super-fast 5G wireless networks.
+
+## slap/impose  sanctions against a country
+e.g. President Donald Trump slapped it with a US export ban, barring American companies from selling components and software to Huawei without first obtaining a license.  
+
 
 ## offset xxx money  抵消（掉价格的偏差）
 offset /ˈɒfˌsɛt/
@@ -27,6 +35,8 @@ e.g. But China can't just ignore the sharp escalation in the offensive against H
 ## sth是不容小视的 something is not to be sneezed at  (snore: 打呼噜； sneeze;  have a snooze=have a nap)
 PHRASE If you say that something is not to be sneezed at, you mean that it is worth your attention and shouldn’t be ignore.   Sth是不容小视的
 e.g. Although it’s just a small sum of money, `it’s not to be sneezed at.  (这笔钱) 是不容小视的`
+
+## ETA: (estimated time of arrival) the time when a plane, ship etc is expected to arrive 〔飞机、舰船等的〕估计到达时间
 
 ## barrage /ˈbærɑːʒ/
 1. N-COUNT A barrage is continuous firing on an area with large guns and tanks. 连续炮击
